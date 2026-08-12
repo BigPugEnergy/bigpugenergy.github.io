@@ -1,298 +1,377 @@
 <!doctype html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <title>Recombinator Lab</title>
+<html lang="en">
+
+<head>
+
+  <meta charset="UTF-8">
+
   <meta
-    name="description"
-    content="A Path of Exile inspired recombinator simulator."
+    name="viewport"
+    content="width=device-width, initial-scale=1"
   >
 
-  <link rel="stylesheet" href="./style.css">
+  <title>
+    PoE Recombinator Simulator
+  </title>
+
 </head>
 
+
 <body>
-  <div class="background-glow"></div>
 
   <header class="site-header">
+
     <div>
-      <div class="eyebrow">CRAFTING LAB</div>
-      <h1>RECOMBINATOR <span>LAB</span></h1>
-      <p>Simulate thousands of recombinations and estimate your odds.</p>
+
+      <h1>
+        PoE Recombinator Simulator
+      </h1>
+
+      <p>
+        Simulate Path of Exile recombination outcomes.
+      </p>
+
     </div>
 
-    <div class="header-badge">
-      <span class="status-dot"></span>
-      CLIENT-SIDE
-    </div>
   </header>
+
 
   <main class="container">
 
-    <!-- Controls -->
-    <section class="control-bar panel">
-      <div class="control-group">
-        <label for="iterations">SIMULATIONS</label>
-        <select id="iterations">
-          <option value="1000">1,000</option>
-          <option value="10000" selected>10,000</option>
-          <option value="100000">100,000</option>
-          <option value="500000">500,000</option>
-          <option value="1000000">1,000,000</option>
-        </select>
+    <section class="intro">
+
+      <h2>
+        Input Items
+      </h2>
+
+      <p>
+        Select a base type first, then choose the
+        individual base. Item A and Item B must use
+        the same base type.
+      </p>
+
+      <div
+        id="base-type-status"
+        class="status"
+      >
+        Select a base type for Item A.
       </div>
 
-      <div class="control-group">
-        <label for="seed">SEED</label>
-        <input id="seed" type="number" placeholder="Random">
-      </div>
-
-      <div class="control-group target-control">
-        <label for="target">TARGET MODIFIERS</label>
-        <select id="target">
-          <option value="">No target</option>
-        </select>
-      </div>
-
-      <button id="run-button" class="primary-button">
-        <span>▶</span>
-        RUN SIMULATION
-      </button>
     </section>
 
-    <!-- Items -->
+
     <section class="items-grid">
 
-      <div class="item-card panel">
-        <div class="item-header">
-          <div>
-            <span class="item-label">ITEM A</span>
-            <h2 id="item-a-name">Vaal Regalia</h2>
+
+      <!-- ITEM A -->
+
+      <article class="item-card">
+
+        <div class="item-card-header">
+
+          <h2>
+            Item A
+          </h2>
+
+          <span class="item-label">
+            INPUT A
+          </span>
+
+        </div>
+
+
+        <div class="field">
+
+          <label
+            for="item-a-base-type"
+          >
+            Base Type
+          </label>
+
+          <select
+            id="item-a-base-type"
+          >
+
+            <option value="">
+              Select base type...
+            </option>
+
+          </select>
+
+        </div>
+
+
+        <div class="field">
+
+          <label
+            for="item-a-base"
+          >
+            Base
+          </label>
+
+          <select
+            id="item-a-base"
+            disabled
+          >
+
+            <option value="">
+              Select base...
+            </option>
+
+          </select>
+
+        </div>
+
+
+        <div class="field">
+
+          <label
+            for="item-a-item-level"
+          >
+            Item Level
+          </label>
+
+          <input
+            id="item-a-item-level"
+            type="number"
+            min="1"
+            max="100"
+            value="86"
+          >
+
+        </div>
+
+
+        <div class="field">
+
+          <label
+            for="item-a-influence"
+          >
+            Influence
+          </label>
+
+          <select
+            id="item-a-influence"
+          >
+
+            <option value="">
+              None
+            </option>
+
+          </select>
+
+        </div>
+
+
+        <div class="mods-placeholder">
+
+          <h3>
+            Prefixes
+          </h3>
+
+          <div class="empty-mods">
+            No prefixes selected.
           </div>
-          <button class="ghost-button" data-reset-item="a">RESET</button>
+
         </div>
 
-        <div class="base-row">
-          <label for="base-a">BASE</label>
-          <input id="base-a" value="Vaal Regalia">
-        </div>
 
-        <div class="mod-section">
-          <div class="section-heading">
-            <span>PREFIXES</span>
-            <span id="prefix-count-a" class="count">0 / 3</span>
+        <div class="mods-placeholder">
+
+          <h3>
+            Suffixes
+          </h3>
+
+          <div class="empty-mods">
+            No suffixes selected.
           </div>
 
-          <div id="prefixes-a" class="mod-list"></div>
-
-          <button class="add-mod-button" data-add-mod="a" data-type="prefix">
-            + ADD PREFIX
-          </button>
         </div>
 
-        <div class="mod-section">
-          <div class="section-heading">
-            <span>SUFFIXES</span>
-            <span id="suffix-count-a" class="count">0 / 3</span>
+      </article>
+
+
+      <!-- ITEM B -->
+
+      <article class="item-card">
+
+        <div class="item-card-header">
+
+          <h2>
+            Item B
+          </h2>
+
+          <span class="item-label">
+            INPUT B
+          </span>
+
+        </div>
+
+
+        <div class="field">
+
+          <label
+            for="item-b-base-type"
+          >
+            Base Type
+          </label>
+
+          <select
+            id="item-b-base-type"
+            disabled
+          >
+
+            <option value="">
+              Select Item A's base type first...
+            </option>
+
+          </select>
+
+          <small>
+            Item B must use the same base type as
+            Item A.
+          </small>
+
+        </div>
+
+
+        <div class="field">
+
+          <label
+            for="item-b-base"
+          >
+            Base
+          </label>
+
+          <select
+            id="item-b-base"
+            disabled
+          >
+
+            <option value="">
+              Select base...
+            </option>
+
+          </select>
+
+        </div>
+
+
+        <div class="field">
+
+          <label
+            for="item-b-item-level"
+          >
+            Item Level
+          </label>
+
+          <input
+            id="item-b-item-level"
+            type="number"
+            min="1"
+            max="100"
+            value="86"
+          >
+
+        </div>
+
+
+        <div class="field">
+
+          <label
+            for="item-b-influence"
+          >
+            Influence
+          </label>
+
+          <select
+            id="item-b-influence"
+          >
+
+            <option value="">
+              None
+            </option>
+
+          </select>
+
+        </div>
+
+
+        <div class="mods-placeholder">
+
+          <h3>
+            Prefixes
+          </h3>
+
+          <div class="empty-mods">
+            No prefixes selected.
           </div>
 
-          <div id="suffixes-a" class="mod-list"></div>
-
-          <button class="add-mod-button" data-add-mod="a" data-type="suffix">
-            + ADD SUFFIX
-          </button>
-        </div>
-      </div>
-
-      <div class="combine-symbol">
-        <div>+</div>
-        <span>RECOMBINE</span>
-      </div>
-
-      <div class="item-card panel">
-        <div class="item-header">
-          <div>
-            <span class="item-label">ITEM B</span>
-            <h2 id="item-b-name">Vaal Regalia</h2>
-          </div>
-          <button class="ghost-button" data-reset-item="b">RESET</button>
         </div>
 
-        <div class="base-row">
-          <label for="base-b">BASE</label>
-          <input id="base-b" value="Vaal Regalia">
-        </div>
 
-        <div class="mod-section">
-          <div class="section-heading">
-            <span>PREFIXES</span>
-            <span id="prefix-count-b" class="count">0 / 3</span>
+        <div class="mods-placeholder">
+
+          <h3>
+            Suffixes
+          </h3>
+
+          <div class="empty-mods">
+            No suffixes selected.
           </div>
 
-          <div id="prefixes-b" class="mod-list"></div>
-
-          <button class="add-mod-button" data-add-mod="b" data-type="prefix">
-            + ADD PREFIX
-          </button>
         </div>
 
-        <div class="mod-section">
-          <div class="section-heading">
-            <span>SUFFIXES</span>
-            <span id="suffix-count-b" class="count">0 / 3</span>
-          </div>
-
-          <div id="suffixes-b" class="mod-list"></div>
-
-          <button class="add-mod-button" data-add-mod="b" data-type="suffix">
-            + ADD SUFFIX
-          </button>
-        </div>
-      </div>
+      </article>
 
     </section>
 
-    <!-- Results -->
-    <section id="results-section" class="results-section">
 
-      <div class="results-header">
-        <div>
-          <div class="eyebrow">SIMULATION RESULTS</div>
-          <h2>Outcome Analysis</h2>
-        </div>
+    <section class="simulation-section">
 
-        <div id="result-seed" class="result-seed"></div>
-      </div>
+      <div class="simulation-controls">
 
-      <div class="stat-grid">
-        <div class="stat-card panel">
-          <span>SIMULATIONS</span>
-          <strong id="stat-simulations">—</strong>
-        </div>
-
-        <div class="stat-card panel">
-          <span>TARGET HITS</span>
-          <strong id="stat-hits">—</strong>
-        </div>
-
-        <div class="stat-card panel">
-          <span>TARGET CHANCE</span>
-          <strong id="stat-chance">—</strong>
-        </div>
-
-        <div class="stat-card panel">
-          <span>AVG. MODS</span>
-          <strong id="stat-average">—</strong>
-        </div>
-      </div>
-
-      <div class="analysis-grid">
-
-        <div class="panel chart-panel">
-          <div class="panel-title">
-            <span>MOD COUNT DISTRIBUTION</span>
-          </div>
-          <div id="mod-distribution" class="bar-chart">
-            <div class="empty-state">Run a simulation to see results.</div>
-          </div>
-        </div>
-
-        <div class="panel chart-panel">
-          <div class="panel-title">
-            <span>MOD SURVIVAL</span>
-          </div>
-          <div id="mod-survival" class="survival-list">
-            <div class="empty-state">Run a simulation to see results.</div>
-          </div>
-        </div>
+        <button
+          id="run-simulation"
+          class="primary-button"
+        >
+          Run Recombination
+        </button>
 
       </div>
 
-      <div class="panel results-table-panel">
-        <div class="panel-title">
-          <span>EXAMPLE OUTCOMES</span>
-          <span class="muted">Random sample from the run</span>
-        </div>
 
-        <div class="table-wrapper">
-          <table>
-            <thead>
-              <tr>
-                <th>#</th>
-                <th>PREFIXES</th>
-                <th>SUFFIXES</th>
-                <th>ALL MODIFIERS</th>
-                <th>TARGET</th>
-              </tr>
-            </thead>
-            <tbody id="example-results">
-              <tr>
-                <td colspan="5" class="empty-table">
-                  Run a simulation to generate examples.
-                </td>
-              </tr>
-            </tbody>
-          </table>
-        </div>
+      <div
+        id="simulation-output"
+        class="simulation-output"
+      >
+        Select both bases to run a simulation.
       </div>
 
     </section>
-
-    <!-- Settings / explanation -->
-    <section class="info-grid">
-
-      <div class="panel info-panel">
-        <div class="panel-title">HOW IT WORKS</div>
-
-        <p>
-          The simulator builds a pool of modifiers from both parent items,
-          randomly selects which modifiers survive, then enforces item
-          prefix/suffix limits and modifier-group exclusivity.
-        </p>
-
-        <p>
-          The simulation engine is deliberately separated from the interface
-          so the recombination model can be replaced with league-specific
-          mechanics later.
-        </p>
-      </div>
-
-      <div class="panel info-panel">
-        <div class="panel-title">SHAREABLE CONFIG</div>
-
-        <p>
-          Your entire setup can be copied as JSON and reproduced later.
-        </p>
-
-        <div class="button-row">
-          <button id="copy-config" class="secondary-button">
-            COPY CONFIG
-          </button>
-
-          <button id="load-example" class="secondary-button">
-            LOAD EXAMPLE
-          </button>
-        </div>
-
-        <textarea
-          id="config-output"
-          class="config-output"
-          readonly
-          placeholder="Configuration JSON will appear here..."
-        ></textarea>
-      </div>
-
-    </section>
-
-    <footer>
-      <span>RECOMBINATOR LAB</span>
-      <span>PoE-inspired simulation tool</span>
-    </footer>
 
   </main>
 
-  <script type="module" src="./app.js"></script>
+
+  <footer class="site-footer">
+
+    <p>
+      PoE Recombinator Simulator
+    </p>
+
+    <p>
+      Game data sourced from RePoE.
+    </p>
+
+  </footer>
+
+
+  <script
+    type="module"
+    src="/src/main.js"
+  ></script>
+
 </body>
+
 </html>
