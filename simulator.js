@@ -1,23 +1,42 @@
 /*
- * Recombinator Lab
+ * Recombinator Lab — rules engine
+ *
+ * Model target: Path of Exile 3.26-style Recombinator.
+ *
+ * Data model:
+ *   Item
+ *     base
+ *     itemLevel
+ *     influence[]
+ *     prefixes[]
+ *     suffixes[]
+ *
+ *   Modifier instance
+ *     modId
+ *     tier
+ *     fractured
+ *     influenced
+ *
+ * Modifier definition:
+ *     id
+ *     name
+ *     type
+ *     group
+ *     influence
+ *     tiers[]
  *
  * IMPORTANT:
- * This first implementation is a configurable PoE-inspired model.
- * It is NOT intended to claim exact reproduction of every historical
- * or current Path of Exile recombinator mechanic.
- *
- * The engine is intentionally isolated from the UI so that the
- * recombination rules can later be replaced with exact league/version
- * mechanics without rewriting the frontend.
+ * The modifier database is intentionally separate from the engine.
+ * Replace data/mods.js with a complete league/version dataset.
  */
 
 export const MAX_PREFIXES = 3;
 export const MAX_SUFFIXES = 3;
 
 
-/* -------------------------------------------------------------
- * Seeded random number generator
- * ------------------------------------------------------------- */
+/* ============================================================
+ * RNG
+ * ============================================================ */
 
 export class RNG {
   constructor(seed = Date.now()) {
@@ -26,7 +45,6 @@ export class RNG {
   }
 
   next() {
-    // Mulberry32
     let t = this.state += 0x6D2B79F5;
 
     t = Math.imul(t ^ (t >>> 15), t | 1);
@@ -36,7 +54,9 @@ export class RNG {
   }
 
   integer(min, max) {
-    return Math.floor(this.next() * (max - min + 1)) + min;
+    return Math.floor(
+      this.next() * (max - min + 1)
+    ) + min;
   }
 
   chance(probability) {
@@ -44,41 +64,12 @@ export class RNG {
   }
 
   pick(array) {
-    if (!array.length) {
-      return undefined;
-    }
-
-    return array[this.integer(0, array.length - 1)];
-  }
-
-  weightedPick(items, weightFn) {
-    if (!items.length) {
-      return undefined;
-    }
-
-    let total = 0;
-
-    for (const item of items) {
-      total += Math.max(0, weightFn(item));
-    }
-
-    if (total <= 0) {
-      return this.pick(items);
-    }
-
-    let roll = this.next() * total;
-
-    for (const item of items) {
-      roll -= Math.max(0, weightFn(item));
-
-      if (roll <= 0) {
-        return item;
-      }
-    }
-
-    return items[items.length - 1];
+    return array[
+      this.integer(0, array.length - 1)
+    ];
   }
 }
+
 
 function normalizeSeed(seed) {
   let n = Number(seed);
@@ -87,555 +78,878 @@ function normalizeSeed(seed) {
     n = Date.now();
   }
 
-  n = Math.floor(Math.abs(n)) >>> 0;
+  n = Math.abs(Math.floor(n)) >>> 0;
 
-  if (n === 0) {
-    n = 1;
-  }
-
-  return n;
+  return n || 1;
 }
 
 
-/* -------------------------------------------------------------
- * Modifiers
- * ------------------------------------------------------------- */
+/* ============================================================
+ * RECOMBINATOR MOD COUNT TABLE
+ *
+ * Current documented selection distribution:
+ *
+ * pool size  | 1     2     3     4     5     6
+ * ------------------------------------------------
+ * max        | 1     2     3     3     3     3
+ *
+ * Exact probabilities:
+ *
+ * 1:
+ *   0 = 1/3
+ *   1 = 2/3
+ *
+ * 2:
+ *   1 = 2/3
+ *   2 = 1/3
+ *
+ * 3:
+ *   1 = 3/10
+ *   2 = 1/2
+ *   3 = 1/5
+ *
+ * 4:
+ *   1 = 1/10
+ *   2 = 55/100
+ *   3 = 35/100
+ *
+ * 5:
+ *   2 = 1/2
+ *   3 = 1/2
+ *
+ * 6:
+ *   2 = 3/10
+ *   3 = 7/10
+ *
+ * Source: PoEDB's current Recombinator documentation.
+ * ============================================================ */
 
-export const MODS = [
-  {
-    id: "life",
-    name: "+# to maximum Life",
-    type: "prefix",
-    group: "life",
-    weight: 100
-  },
-  {
-    id: "energy_shield",
-    name: "+# to maximum Energy Shield",
-    type: "prefix",
-    group: "energy_shield",
-    weight: 100
-  },
-  {
-    id: "spell_damage",
-    name: "#% increased Spell Damage",
-    type: "prefix",
-    group: "spell_damage",
-    weight: 100
-  },
-  {
-    id: "gem_levels",
-    name: "+1 to Level of all Spell Skill Gems",
-    type: "prefix",
-    group: "gem_levels",
-    weight: 50
-  },
-  {
-    id: "mana",
-    name: "+# to maximum Mana",
-    type: "prefix",
-    group: "mana",
-    weight: 100
-  },
-  {
-    id: "armour",
-    name: "#% increased Armour",
-    type: "prefix",
-    group: "armour",
-    weight: 100
-  },
+const MOD_COUNT_TABLE = {
+  0: [
+    [0, 1]
+  ],
 
-  {
-    id: "fire_res",
-    name: "+#% to Fire Resistance",
-    type: "suffix",
-    group: "fire_res",
-    weight: 100
-  },
-  {
-    id: "cold_res",
-    name: "+#% to Cold Resistance",
-    type: "suffix",
-    group: "cold_res",
-    weight: 100
-  },
-  {
-    id: "lightning_res",
-    name: "+#% to Lightning Resistance",
-    type: "suffix",
-    group: "lightning_res",
-    weight: 100
-  },
-  {
-    id: "chaos_res",
-    name: "+#% to Chaos Resistance",
-    type: "suffix",
-    group: "chaos_res",
-    weight: 100
-  },
-  {
-    id: "dexterity",
-    name: "+# to Dexterity",
-    type: "suffix",
-    group: "dexterity",
-    weight: 100
-  },
-  {
-    id: "intelligence",
-    name: "+# to Intelligence",
-    type: "suffix",
-    group: "intelligence",
-    weight: 100
-  },
-  {
-    id: "cast_speed",
-    name: "#% increased Cast Speed",
-    type: "suffix",
-    group: "cast_speed",
-    weight: 100
-  },
-  {
-    id: "attributes",
-    name: "# to Strength and Dexterity",
-    type: "suffix",
-    group: "attributes",
-    weight: 75
-  }
-];
+  1: [
+    [0, 1 / 3],
+    [1, 2 / 3]
+  ],
 
+  2: [
+    [1, 2 / 3],
+    [2, 1 / 3]
+  ],
 
-export function getMod(id) {
-  return MODS.find(mod => mod.id === id);
-}
+  3: [
+    [1, 3 / 10],
+    [2, 1 / 2],
+    [3, 1 / 5]
+  ],
 
+  4: [
+    [1, 1 / 10],
+    [2, 55 / 100],
+    [3, 35 / 100]
+  ],
 
-/* -------------------------------------------------------------
- * Example items
- * ------------------------------------------------------------- */
+  5: [
+    [2, 1 / 2],
+    [3, 1 / 2]
+  ],
 
-export const DEFAULT_ITEMS = {
-  a: {
-    base: "Vaal Regalia",
-    prefixes: [
-      "life",
-      "energy_shield"
-    ],
-    suffixes: [
-      "fire_res",
-      "chaos_res"
-    ]
-  },
-
-  b: {
-    base: "Vaal Regalia",
-    prefixes: [
-      "gem_levels",
-      "spell_damage"
-    ],
-    suffixes: [
-      "cold_res",
-      "cast_speed"
-    ]
-  }
+  6: [
+    [2, 3 / 10],
+    [3, 7 / 10]
+  ]
 };
 
 
-/* -------------------------------------------------------------
- * Utility functions
- * ------------------------------------------------------------- */
+function weightedDiscretePick(table, rng) {
+  const roll = rng.next();
 
-function cloneItem(item) {
+  let accumulated = 0;
+
+  for (const [value, probability] of table) {
+    accumulated += probability;
+
+    if (roll < accumulated) {
+      return value;
+    }
+  }
+
+  return table[table.length - 1][0];
+}
+
+
+function chooseModifierCount(poolSize, rng) {
+  const capped = Math.min(poolSize, 6);
+
+  return weightedDiscretePick(
+    MOD_COUNT_TABLE[capped],
+    rng
+  );
+}
+
+
+/* ============================================================
+ * ITEM LEVEL
+ * ============================================================ */
+
+export function resultingItemLevel(itemA, itemB) {
+  return Math.round(
+    (itemA.itemLevel + itemB.itemLevel) / 2
+  );
+}
+
+
+/* ============================================================
+ * MODIFIER DATABASE API
+ * ============================================================ */
+
+export function getModifierDefinition(database, modId) {
+  return database.modifiers[modId] ?? null;
+}
+
+
+export function getModifierTier(
+  database,
+  modId,
+  tierNumber
+) {
+  const definition =
+    getModifierDefinition(database, modId);
+
+  if (!definition) {
+    return null;
+  }
+
+  return definition.tiers.find(
+    tier => tier.tier === tierNumber
+  ) ?? null;
+}
+
+
+export function getHighestAvailableTier(
+  database,
+  modId,
+  itemLevel
+) {
+  const definition =
+    getModifierDefinition(database, modId);
+
+  if (!definition) {
+    return null;
+  }
+
+  const available = definition.tiers
+    .filter(tier => tier.requiredItemLevel <= itemLevel)
+    .sort((a, b) => a.tier - b.tier);
+
+  return available[0] ?? null;
+}
+
+
+/* ============================================================
+ * MODIFIER INSTANCES
+ * ============================================================ */
+
+function normalizeModifier(
+  database,
+  instance,
+  itemLevel
+) {
+  const definition =
+    getModifierDefinition(database, instance.modId);
+
+  if (!definition) {
+    throw new Error(
+      `Unknown modifier: ${instance.modId}`
+    );
+  }
+
+  const tier =
+    getModifierTier(
+      database,
+      instance.modId,
+      instance.tier
+    );
+
+  if (!tier) {
+    throw new Error(
+      `Unknown tier ${instance.tier} for ${instance.modId}`
+    );
+  }
+
   return {
-    base: item.base,
-    prefixes: [...item.prefixes],
-    suffixes: [...item.suffixes]
+    ...instance,
+
+    name: definition.name,
+
+    type: definition.type,
+
+    group: definition.group,
+
+    influence:
+      instance.influenced ??
+      definition.influence ??
+      null,
+
+    /*
+     * This does not change the existing mod tier merely because
+     * the output item has a different ilvl. It is the availability
+     * of the modifier on the output item that is important.
+     */
+    availableAtOutputLevel:
+      tier.requiredItemLevel <= itemLevel
   };
 }
 
-function unique(array) {
-  return [...new Set(array)];
+
+/* ============================================================
+ * MOD GROUPS
+ * ============================================================ */
+
+function groupsConflict(a, b) {
+  if (!a.group || !b.group) {
+    return false;
+  }
+
+  return a.group === b.group;
 }
 
-function getAllMods(item) {
-  return [
-    ...item.prefixes.map(id => getMod(id)).filter(Boolean),
-    ...item.suffixes.map(id => getMod(id)).filter(Boolean)
-  ];
-}
 
-function shuffle(array, rng) {
-  const result = [...array];
+function removeConflictingModifiers(
+  database,
+  modifiers,
+  rng
+) {
+  const result = [];
+  const occupiedGroups = new Set();
 
-  for (let i = result.length - 1; i > 0; i--) {
-    const j = rng.integer(0, i);
+  /*
+   * Fractured modifiers are special: they are retained with
+   * their fractured base and should not be treated like ordinary
+   * randomly selected modifiers.
+   */
 
-    [result[i], result[j]] = [result[j], result[i]];
+  for (const candidate of modifiers) {
+    if (candidate.fractured) {
+      result.push(candidate);
+
+      if (candidate.group) {
+        occupiedGroups.add(candidate.group);
+      }
+
+      continue;
+    }
+
+    if (
+      candidate.group &&
+      occupiedGroups.has(candidate.group)
+    ) {
+      continue;
+    }
+
+    result.push(candidate);
+
+    if (candidate.group) {
+      occupiedGroups.add(candidate.group);
+    }
   }
 
   return result;
 }
 
 
-/* -------------------------------------------------------------
- * Core recombination model
- * ------------------------------------------------------------- */
+/* ============================================================
+ * FRACTURED MODIFIERS
+ * ============================================================ */
 
-/*
- * The model has four broad stages:
- *
- * 1. Create a modifier pool from both parents.
- * 2. Give each modifier a chance to survive.
- * 3. Resolve duplicate modifier groups.
- * 4. Enforce the 3-prefix / 3-suffix item limits.
- *
- * Parent-specific "heritage" is retained so that a modifier appearing
- * on both parents gets a stronger survival chance.
- */
+function getFracturedMods(item) {
+  return [
+    ...item.prefixes,
+    ...item.suffixes
+  ].filter(mod => mod.fractured);
+}
 
-export function recombine(itemA, itemB, rng) {
-  const modsA = getAllMods(itemA);
-  const modsB = getAllMods(itemB);
 
-  const byId = new Map();
+function fracturedModsForOutputBase(
+  outputItem
+) {
+  return getFracturedMods(outputItem)
+    .map(mod => ({
+      ...mod,
+      fractured: true
+    }));
+}
 
-  for (const mod of modsA) {
-    byId.set(mod.id, {
-      mod,
-      fromA: true,
-      fromB: false
-    });
-  }
 
-  for (const mod of modsB) {
-    if (byId.has(mod.id)) {
-      byId.get(mod.id).fromB = true;
-    } else {
-      byId.set(mod.id, {
-        mod,
-        fromA: false,
-        fromB: true
+/* ============================================================
+ * INFLUENCE
+ * ============================================================ */
+
+function getOutputInfluence(itemA, itemB, rng) {
+  /*
+   * The Recombinator chooses one input as the output base.
+   * Base-tied properties follow that chosen base.
+   *
+   * Therefore the caller should first select the output base,
+   * then use that item's influence.
+   */
+  return rng.chance(0.5)
+    ? [...itemA.influence]
+    : [...itemB.influence];
+}
+
+
+/* ============================================================
+ * BASE SELECTION
+ * ============================================================ */
+
+function selectOutputBase(itemA, itemB, rng) {
+  /*
+   * First implementation of base choice.
+   *
+   * The later weight-transfer model should replace this with
+   * the exact per-base success calculation for the complete
+   * modifier dataset.
+   */
+  return rng.chance(0.5)
+    ? itemA
+    : itemB;
+}
+
+
+/* ============================================================
+ * ELIGIBLE MODIFIER POOLS
+ * ============================================================ */
+
+function createPool(
+  database,
+  itemA,
+  itemB,
+  type,
+  outputItemLevel,
+  outputInfluence
+) {
+  const pool = [];
+
+  const items = [
+    { item: itemA, source: "A" },
+    { item: itemB, source: "B" }
+  ];
+
+  for (const { item, source } of items) {
+    const sourceMods =
+      type === "prefix"
+        ? item.prefixes
+        : item.suffixes;
+
+    for (const instance of sourceMods) {
+      /*
+       * Fractured mods are retained through the fractured base
+       * mechanism rather than entering the random selection pool.
+       */
+      if (instance.fractured) {
+        continue;
+      }
+
+      const normalized =
+        normalizeModifier(
+          database,
+          instance,
+          outputItemLevel
+        );
+
+      /*
+       * A modifier must be legal on the output base.
+       *
+       * This is where base tags / mod tags should ultimately be
+       * evaluated from the complete mod database.
+       */
+      if (!normalized.availableAtOutputLevel) {
+        continue;
+      }
+
+      /*
+       * Influence-specific modifiers require the appropriate
+       * influence to exist on the output base.
+       */
+      if (
+        normalized.influence &&
+        !outputInfluence.includes(
+          normalized.influence
+        )
+      ) {
+        continue;
+      }
+
+      pool.push({
+        ...normalized,
+        source
       });
     }
   }
 
-  let candidates = [...byId.values()];
-
   /*
-   * Approximate survival weighting:
-   *
-   * - present on both parents: strong
-   * - present on one parent: normal
-   *
-   * These numbers are deliberately centralized.
+   * The same explicit modifier can appear on both inputs.
+   * Keep it as one logical pool entry while remembering both
+   * sources.
    */
-  const selected = [];
+  const merged = new Map();
 
-  for (const candidate of candidates) {
-    const heritageBonus =
-      candidate.fromA && candidate.fromB
-        ? 0.22
-        : 0;
+  for (const candidate of pool) {
+    if (!merged.has(candidate.modId)) {
+      merged.set(candidate.modId, {
+        ...candidate,
+        sources: [candidate.source]
+      });
 
-    const baseChance = 0.58 + heritageBonus;
-
-    if (rng.chance(baseChance)) {
-      selected.push(candidate);
-    }
-  }
-
-  /*
-   * Avoid an empty item. Select one random candidate if everything
-   * was lost.
-   */
-  if (selected.length === 0 && candidates.length > 0) {
-    selected.push(
-      rng.weightedPick(
-        candidates,
-        candidate => candidate.mod.weight
-      )
-    );
-  }
-
-  /*
-   * Resolve modifier groups.
-   *
-   * In this starter model, two modifiers with the same group cannot
-   * coexist.
-   */
-  const groups = new Set();
-  const resolved = [];
-
-  for (const candidate of shuffle(selected, rng)) {
-    const group = candidate.mod.group;
-
-    if (groups.has(group)) {
       continue;
     }
 
-    groups.add(group);
-    resolved.push(candidate);
+    const existing = merged.get(candidate.modId);
+
+    if (!existing.sources.includes(candidate.source)) {
+      existing.sources.push(candidate.source);
+    }
   }
 
-  /*
-   * Split prefixes and suffixes.
-   */
-  let prefixes = resolved
-    .filter(x => x.mod.type === "prefix")
-    .map(x => x.mod.id);
-
-  let suffixes = resolved
-    .filter(x => x.mod.type === "suffix")
-    .map(x => x.mod.id);
-
-  /*
-   * Enforce maximum modifier counts.
-   *
-   * Higher-weight mods are slightly favored when truncation is
-   * necessary.
-   */
-  if (prefixes.length > MAX_PREFIXES) {
-    const prefixObjects = prefixes.map(id => getMod(id));
-
-    prefixes = selectLimitedWeighted(
-      prefixObjects,
-      MAX_PREFIXES,
-      rng
-    ).map(mod => mod.id);
-  }
-
-  if (suffixes.length > MAX_SUFFIXES) {
-    const suffixObjects = suffixes.map(id => getMod(id));
-
-    suffixes = selectLimitedWeighted(
-      suffixObjects,
-      MAX_SUFFIXES,
-      rng
-    ).map(mod => mod.id);
-  }
-
-  return {
-    base: rng.chance(0.5) ? itemA.base : itemB.base,
-    prefixes,
-    suffixes
-  };
+  return [...merged.values()];
 }
 
 
-function selectLimitedWeighted(items, count, rng) {
-  const available = [...items];
+/* ============================================================
+ * MODIFIER SELECTION
+ * ============================================================ */
+
+/*
+ * Select exactly N modifiers from the pool.
+ *
+ * This is deliberately uniform at this stage because the
+ * documented Recombinator mechanic first determines how many
+ * modifiers are selected from the prefix/suffix pool.
+ *
+ * The weight-aware transfer calculation belongs to the
+ * base-selection / transfer-success layer, not a naive
+ * "roll all input mods by their weight" implementation.
+ */
+
+function selectModifiers(
+  pool,
+  count,
+  rng
+) {
+  const candidates = [...pool];
   const selected = [];
 
-  while (available.length > 0 && selected.length < count) {
-    const chosen = rng.weightedPick(
-      available,
-      item => item.weight
+  while (
+    selected.length < count &&
+    candidates.length > 0
+  ) {
+    const index =
+      rng.integer(0, candidates.length - 1);
+
+    selected.push(
+      candidates[index]
     );
 
-    selected.push(chosen);
-
-    const index = available.indexOf(chosen);
-
-    if (index >= 0) {
-      available.splice(index, 1);
-    }
+    candidates.splice(index, 1);
   }
 
   return selected;
 }
 
 
-/* -------------------------------------------------------------
- * Target matching
- * ------------------------------------------------------------- */
+/* ============================================================
+ * EXCLUSIVE MODIFIERS
+ * ============================================================ */
 
-export function resultContainsTarget(result, targetIds) {
-  if (!targetIds || targetIds.length === 0) {
-    return false;
+function resolveExclusiveMods(
+  selected,
+  rng
+) {
+  const result = [];
+  const occupiedGroups = new Set();
+
+  /*
+   * We randomize the order before resolving conflicts.
+   *
+   * Later this should become the game's exact conflict resolution
+   * ordering for every special exclusive family.
+   */
+  const shuffled = [...selected];
+
+  for (
+    let i = shuffled.length - 1;
+    i > 0;
+    i--
+  ) {
+    const j = rng.integer(0, i);
+
+    [
+      shuffled[i],
+      shuffled[j]
+    ] = [
+      shuffled[j],
+      shuffled[i]
+    ];
   }
 
-  const resultIds = new Set([
-    ...result.prefixes,
-    ...result.suffixes
-  ]);
+  for (const mod of shuffled) {
+    if (
+      mod.group &&
+      occupiedGroups.has(mod.group)
+    ) {
+      continue;
+    }
 
-  return targetIds.every(id => resultIds.has(id));
+    result.push(mod);
+
+    if (mod.group) {
+      occupiedGroups.add(mod.group);
+    }
+  }
+
+  return result;
 }
 
 
-/* -------------------------------------------------------------
- * Full simulation
- * ------------------------------------------------------------- */
+/* ============================================================
+ * COMPLETE RECOMBINATION
+ * ============================================================ */
+
+export function recombine({
+  database,
+  itemA,
+  itemB,
+  rng
+}) {
+  /*
+   * 1. Select output base.
+   */
+  const outputBase =
+    selectOutputBase(
+      itemA,
+      itemB,
+      rng
+    );
+
+  /*
+   * 2. Output item level is average + round.
+   */
+  const outputItemLevel =
+    resultingItemLevel(
+      itemA,
+      itemB
+    );
+
+  /*
+   * 3. Base-tied influence follows output base.
+   */
+  const outputInfluence =
+    [...outputBase.influence];
+
+  /*
+   * 4. Build independent prefix/suffix pools.
+   */
+  const prefixPool =
+    createPool(
+      database,
+      itemA,
+      itemB,
+      "prefix",
+      outputItemLevel,
+      outputInfluence
+    );
+
+  const suffixPool =
+    createPool(
+      database,
+      itemA,
+      itemB,
+      "suffix",
+      outputItemLevel,
+      outputInfluence
+    );
+
+  /*
+   * 5. Determine how many prefixes/suffixes survive.
+   */
+  const prefixCount =
+    chooseModifierCount(
+      prefixPool.length,
+      rng
+    );
+
+  const suffixCount =
+    chooseModifierCount(
+      suffixPool.length,
+      rng
+    );
+
+  /*
+   * 6. Select modifiers.
+   */
+  let prefixes =
+    selectModifiers(
+      prefixPool,
+      prefixCount,
+      rng
+    );
+
+  let suffixes =
+    selectModifiers(
+      suffixPool,
+      suffixCount,
+      rng
+    );
+
+  /*
+   * 7. Resolve exclusive groups.
+   */
+  prefixes =
+    resolveExclusiveMods(
+      prefixes,
+      rng
+    );
+
+  suffixes =
+    resolveExclusiveMods(
+      suffixes,
+      rng
+    );
+
+  /*
+   * 8. Retain fractured modifiers from the selected fractured
+   * base. They are not part of the random mod pool.
+   */
+  const fractured =
+    fracturedModsForOutputBase(
+      outputBase
+    );
+
+  for (const mod of fractured) {
+    if (mod.type === "prefix") {
+      prefixes.push(mod);
+    } else {
+      suffixes.push(mod);
+    }
+  }
+
+  /*
+   * 9. Enforce maximum affixes.
+   *
+   * Fractured mods occupy real affix slots.
+   */
+  prefixes = prefixes.slice(
+    0,
+    MAX_PREFIXES
+  );
+
+  suffixes = suffixes.slice(
+    0,
+    MAX_SUFFIXES
+  );
+
+  /*
+   * 10. Return a complete result.
+   */
+  return {
+    base: outputBase.base,
+
+    itemLevel: outputItemLevel,
+
+    influence: outputInfluence,
+
+    prefixes,
+
+    suffixes,
+
+    fracturedPrefixes:
+      prefixes.filter(
+        mod => mod.fractured
+      ),
+
+    fracturedSuffixes:
+      suffixes.filter(
+        mod => mod.fractured
+      )
+  };
+}
+
+
+/* ============================================================
+ * TARGET MATCHING
+ * ============================================================ */
+
+export function containsTarget(
+  result,
+  targetIds
+) {
+  const resultIds = new Set([
+    ...result.prefixes.map(x => x.modId),
+    ...result.suffixes.map(x => x.modId)
+  ]);
+
+  return targetIds.every(
+    id => resultIds.has(id)
+  );
+}
+
+
+/* ============================================================
+ * FULL SIMULATION
+ * ============================================================ */
 
 export function runSimulation({
+  database,
   itemA,
   itemB,
   iterations = 10000,
   seed,
   targetIds = []
 }) {
-  const rng = new RNG(seed);
-
-  const modCountDistribution = new Map();
-  const modSurvival = new Map();
-
-  const examples = [];
+  const rng =
+    new RNG(seed);
 
   let targetHits = 0;
   let totalMods = 0;
 
-  const allParentMods = unique([
+  const modStats =
+    new Map();
+
+  const modDistribution =
+    new Map();
+
+  const examples = [];
+
+  const parentMods = [
     ...itemA.prefixes,
     ...itemA.suffixes,
     ...itemB.prefixes,
     ...itemB.suffixes
-  ]);
+  ];
 
-  for (const id of allParentMods) {
-    modSurvival.set(id, {
-      id,
-      attempts: iterations,
-      hits: 0
-    });
+  for (const instance of parentMods) {
+    if (!modStats.has(instance.modId)) {
+      modStats.set(instance.modId, {
+        id: instance.modId,
+        hits: 0,
+        attempts: iterations
+      });
+    }
   }
 
   for (let i = 0; i < iterations; i++) {
-    const result = recombine(itemA, itemB, rng);
+    const result =
+      recombine({
+        database,
+        itemA,
+        itemB,
+        rng
+      });
 
-    const prefixCount = result.prefixes.length;
-    const suffixCount = result.suffixes.length;
-    const modCount = prefixCount + suffixCount;
+    const allMods = [
+      ...result.prefixes,
+      ...result.suffixes
+    ];
 
-    totalMods += modCount;
+    totalMods += allMods.length;
 
-    modCountDistribution.set(
-      modCount,
-      (modCountDistribution.get(modCount) || 0) + 1
+    const count =
+      allMods.length;
+
+    modDistribution.set(
+      count,
+      (modDistribution.get(count) || 0) + 1
     );
 
-    for (const id of result.prefixes) {
-      const stat = modSurvival.get(id);
+    for (const mod of allMods) {
+      const stat =
+        modStats.get(mod.modId);
 
       if (stat) {
         stat.hits++;
       }
     }
 
-    for (const id of result.suffixes) {
-      const stat = modSurvival.get(id);
+    const hit =
+      containsTarget(
+        result,
+        targetIds
+      );
 
-      if (stat) {
-        stat.hits++;
-      }
-    }
-
-    if (resultContainsTarget(result, targetIds)) {
+    if (hit) {
       targetHits++;
     }
 
     /*
-     * Keep only a small number of examples.
+     * Reservoir sample.
      */
-    if (examples.length < 30) {
-      examples.push({
-        index: i + 1,
-        result,
-        targetHit: resultContainsTarget(result, targetIds)
-      });
+    const example = {
+      index: i + 1,
+      result,
+      targetHit: hit
+    };
+
+    if (examples.length < 50) {
+      examples.push(example);
     } else {
-      /*
-       * Reservoir sampling lets examples remain representative.
-       */
-      const replacement = rng.integer(0, i);
+      const replacement =
+        rng.integer(0, i);
 
       if (replacement < examples.length) {
-        examples[replacement] = {
-          index: i + 1,
-          result,
-          targetHit: resultContainsTarget(result, targetIds)
-        };
+        examples[replacement] =
+          example;
       }
     }
   }
 
-  const survival = [...modSurvival.values()]
-    .map(stat => ({
-      ...stat,
-      probability: stat.hits / stat.attempts
-    }))
-    .sort((a, b) => b.probability - a.probability);
-
   return {
     seed: rng.seed,
+
     iterations,
+
     targetHits,
+
     targetProbability:
-      targetIds.length > 0
+      targetIds.length
         ? targetHits / iterations
         : null,
-    averageMods: totalMods / iterations,
-    modCountDistribution:
-      [...modCountDistribution.entries()]
-        .sort((a, b) => a[0] - b[0]),
-    survival,
-    examples: examples.sort((a, b) => a.index - b.index)
-  };
-}
 
+    averageMods:
+      totalMods / iterations,
 
-/* -------------------------------------------------------------
- * Serialization
- * ------------------------------------------------------------- */
+    itemLevel:
+      resultingItemLevel(
+        itemA,
+        itemB
+      ),
 
-export function serializeConfig({
-  itemA,
-  itemB,
-  iterations,
-  seed,
-  targetIds
-}) {
-  return JSON.stringify({
-    version: 1,
-    itemA: cloneItem(itemA),
-    itemB: cloneItem(itemB),
-    iterations,
-    seed,
-    targetIds
-  }, null, 2);
-}
+    modDistribution:
+      [...modDistribution.entries()]
+        .sort(
+          (a, b) => a[0] - b[0]
+        ),
 
+    survival:
+      [...modStats.values()]
+        .map(stat => ({
+          ...stat,
 
-export function parseConfig(json) {
-  const parsed = JSON.parse(json);
+          probability:
+            stat.hits / stat.attempts
+        }))
+        .sort(
+          (a, b) =>
+            b.probability -
+            a.probability
+        ),
 
-  if (!parsed.itemA || !parsed.itemB) {
-    throw new Error("Invalid configuration.");
-  }
-
-  return {
-    itemA: {
-      base: String(parsed.itemA.base || "Unknown"),
-      prefixes: Array.isArray(parsed.itemA.prefixes)
-        ? parsed.itemA.prefixes
-        : [],
-      suffixes: Array.isArray(parsed.itemA.suffixes)
-        ? parsed.itemA.suffixes
-        : []
-    },
-
-    itemB: {
-      base: String(parsed.itemB.base || "Unknown"),
-      prefixes: Array.isArray(parsed.itemB.prefixes)
-        ? parsed.itemB.prefixes
-        : [],
-      suffixes: Array.isArray(parsed.itemB.suffixes)
-        ? parsed.itemB.suffixes
-        : []
-    },
-
-    iterations: Number(parsed.iterations) || 10000,
-    seed: parsed.seed,
-    targetIds: Array.isArray(parsed.targetIds)
-      ? parsed.targetIds
-      : []
+    examples:
+      examples.sort(
+        (a, b) =>
+          a.index - b.index
+      )
   };
 }
