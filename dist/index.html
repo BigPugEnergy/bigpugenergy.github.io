@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>PoE Recombination Simulator</title>
+  <script type="module" crossorigin src="/assets/index-UhWn1gyu.js"></script>
+  <link rel="stylesheet" crossorigin href="/assets/index-Cq_inKSM.css">
+</head>
+
+<body>
+
+  <header class="site-header">
+    <div>
+      <h1>PoE Recombination Simulator</h1>
+      <p>Simulate Path of Exile recombination outcomes.</p>
+    </div>
+  </header>
+
+  <main class="container">
+
+    <section class="intro">
+      <h2>Input Items</h2>
+      <p>Select a base type first, then choose the individual base.</p>
+    </section>
+
+    <div id="base-type-status" class="status">
+      Select a base type for Item A.
+    </div>
+
+    <div class="items-grid">
+
+      <!-- ITEM A -->
+      <div class="item-card" id="item-a-panel">
+
+        <div class="item-card-header">
+          <h2>Item A</h2>
+          <span class="item-label">SOURCE</span>
+        </div>
+
+        <div class="field">
+          <label for="item-a-base-type">Base Type</label>
+          <select id="item-a-base-type"></select>
+        </div>
+
+        <div class="field">
+          <label for="item-a-base">Base</label>
+          <select id="item-a-base"></select>
+        </div>
+
+        <div class="field">
+          <label for="item-a-item-level">Item Level</label>
+          <input id="item-a-item-level" type="number" min="1" max="100" />
+        </div>
+
+        <div class="field">
+          <label for="item-a-influence-1">Influence</label>
+          <select id="item-a-influence-1"></select>
+        </div>
+		
+		<div class="field">
+          <label for="item-a-influence-2">Influence</label>
+          <select id="item-a-influence-2"></select>
+        </div>
+
+        <button id="import-item-a-button" class="add-button">
+          Import Item A
+        </button>
+
+        <div class="mods-section">
+          <div class="mods-section-header">
+            <h3>Prefixes</h3>
+            <span id="item-a-prefix-count" class="mod-count">0 / 3</span>
+          </div>
+
+          <div class="mod-add-row">
+            <select id="item-a-prefix-select"></select>
+            <button id="item-a-prefix-add" class="add-mod-button">Add</button>
+          </div>
+
+          <div id="item-a-prefix-list" class="selected-mods"></div>
+        </div>
+
+        <div class="mods-section">
+          <div class="mods-section-header">
+            <h3>Suffixes</h3>
+            <span id="item-a-suffix-count" class="mod-count">0 / 3</span>
+          </div>
+
+          <div class="mod-add-row">
+            <select id="item-a-suffix-select"></select>
+            <button id="item-a-suffix-add" class="add-mod-button">Add</button>
+          </div>
+
+          <div id="item-a-suffix-list" class="selected-mods"></div>
+        </div>
+
+      </div>
+
+      <!-- ITEM B -->
+      <div class="item-card" id="item-b-panel">
+
+        <div class="item-card-header">
+          <h2>Item B</h2>
+          <span class="item-label">TARGET</span>
+        </div>
+
+        <div class="field">
+          <label for="item-b-base-type">Base Type</label>
+          <select id="item-b-base-type"></select>
+        </div>
+
+        <div class="field">
+          <label for="item-b-base">Base</label>
+          <select id="item-b-base"></select>
+        </div>
+
+        <div class="field">
+          <label for="item-b-item-level">Item Level</label>
+          <input id="item-b-item-level" type="number" min="1" max="100" />
+        </div>
+
+        <div class="field">
+          <label for="item-b-influence-1">Influence</label>
+          <select id="item-b-influence-1"></select>
+        </div>
+		
+		<div class="field">
+          <label for="item-b-influence-2">Influence</label>
+          <select id="item-b-influence-2"></select>
+        </div>
+
+        <button id="import-item-b-button" class="add-button">
+          Import Item B
+        </button>
+
+        <div class="mods-section">
+          <div class="mods-section-header">
+            <h3>Prefixes</h3>
+            <span id="item-b-prefix-count" class="mod-count">0 / 3</span>
+          </div>
+
+          <div class="mod-add-row">
+            <select id="item-b-prefix-select"></select>
+            <button id="item-b-prefix-add" class="add-mod-button">Add</button>
+          </div>
+
+          <div id="item-b-prefix-list" class="selected-mods"></div>
+        </div>
+
+        <div class="mods-section">
+          <div class="mods-section-header">
+            <h3>Suffixes</h3>
+            <span id="item-b-suffix-count" class="mod-count">0 / 3</span>
+          </div>
+
+          <div class="mod-add-row">
+            <select id="item-b-suffix-select"></select>
+            <button id="item-b-suffix-add" class="add-mod-button">Add</button>
+          </div>
+
+          <div id="item-b-suffix-list" class="selected-mods"></div>
+        </div>
+
+      </div>
+
+    </div>
+
+    <section class="simulation-section">
+      <div class="simulation-controls">
+        <button id="run-simulation" class="primary-button">
+          Run Simulation
+        </button>
+      </div>
+
+      <div id="simulation-output" class="simulation-output">
+        Simulation output will appear here.
+      </div>
+    </section>
+
+  </main>
+
+  <footer class="site-footer">
+    <p>PoE Recombination Simulator</p>
+  </footer>
+
+  <div id="import-modal" class="modal hidden">
+    <div class="modal-content">
+      <h2 id="import-modal-title">Import Item</h2>
+      <textarea id="import-modal-text"></textarea>
+      <div class="modal-buttons">
+        <button id="import-modal-cancel" class="add-mod-button">Cancel</button>
+        <button id="import-modal-confirm" class="add-button">Import</button>
+      </div>
+    </div>
+  </div>
+
+
+</body>
+</html>

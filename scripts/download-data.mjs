@@ -10,7 +10,9 @@ const FILES = [
   "mods_by_base.json",
   "item_classes.json",
   "tags.json",
-  "stat_translations.json"
+  "stat_translations.json",
+  "essences.json",
+  "crafting_bench_options.json"
 ];
 
 const outputDir =

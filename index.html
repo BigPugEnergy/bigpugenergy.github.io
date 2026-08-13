@@ -1,377 +1,321 @@
-<!doctype html>
-
+<!DOCTYPE html>
 <html lang="en">
-
 <head>
-
-  <meta charset="UTF-8">
-
-  <meta
-    name="viewport"
-    content="width=device-width, initial-scale=1"
-  >
-
-  <title>
-    PoE Recombinator Simulator
-  </title>
-
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>PoE Recombination Simulator</title>
 </head>
-
 
 <body>
 
   <header class="site-header">
-
     <div>
-
-      <h1>
-        PoE Recombinator Simulator
-      </h1>
-
-      <p>
-        Simulate Path of Exile recombination outcomes.
-      </p>
-
+      <h1>PoE Recombination Simulator</h1>
+      <p>Simulate Path of Exile recombination outcomes.</p>
     </div>
-
   </header>
-
 
   <main class="container">
 
     <section class="intro">
-
-      <h2>
-        Input Items
-      </h2>
-
-      <p>
-        Select a base type first, then choose the
-        individual base. Item A and Item B must use
-        the same base type.
-      </p>
-
-      <div
-        id="base-type-status"
-        class="status"
-      >
-        Select a base type for Item A.
-      </div>
-
+      <h2>Input Items</h2>
+      <p>Select a base type first, then choose the individual base.</p>
     </section>
 
+    <div id="base-type-status" class="status">
+      Select a base type for Item A.
+    </div>
 
-    <section class="items-grid">
-
+    <div class="items-grid">
 
       <!-- ITEM A -->
-
-      <article class="item-card">
-
-        <div class="item-card-header">
-
-          <h2>
-            Item A
-          </h2>
-
-          <span class="item-label">
-            INPUT A
-          </span>
-
-        </div>
-
-
-        <div class="field">
-
-          <label
-            for="item-a-base-type"
-          >
-            Base Type
-          </label>
-
-          <select
-            id="item-a-base-type"
-          >
-
-            <option value="">
-              Select base type...
-            </option>
-
-          </select>
-
-        </div>
-
-
-        <div class="field">
-
-          <label
-            for="item-a-base"
-          >
-            Base
-          </label>
-
-          <select
-            id="item-a-base"
-            disabled
-          >
-
-            <option value="">
-              Select base...
-            </option>
-
-          </select>
-
-        </div>
-
-
-        <div class="field">
-
-          <label
-            for="item-a-item-level"
-          >
-            Item Level
-          </label>
-
-          <input
-            id="item-a-item-level"
-            type="number"
-            min="1"
-            max="100"
-            value="86"
-          >
-
-        </div>
-
-
-        <div class="field">
-
-          <label
-            for="item-a-influence"
-          >
-            Influence
-          </label>
-
-          <select
-            id="item-a-influence"
-          >
-
-            <option value="">
-              None
-            </option>
-
-          </select>
-
-        </div>
-
-
-        <div class="mods-placeholder">
-
-          <h3>
-            Prefixes
-          </h3>
-
-          <div class="empty-mods">
-            No prefixes selected.
-          </div>
-
-        </div>
-
-
-        <div class="mods-placeholder">
-
-          <h3>
-            Suffixes
-          </h3>
-
-          <div class="empty-mods">
-            No suffixes selected.
-          </div>
-
-        </div>
-
-      </article>
-
-
-      <!-- ITEM B -->
-
-      <article class="item-card">
+      <div class="item-card" id="item-a-panel">
 
         <div class="item-card-header">
-
-          <h2>
-            Item B
-          </h2>
-
-          <span class="item-label">
-            INPUT B
-          </span>
-
+          <h2>Item A</h2>
         </div>
-
 
         <div class="field">
-
-          <label
-            for="item-b-base-type"
-          >
-            Base Type
-          </label>
-
-          <select
-            id="item-b-base-type"
-            disabled
-          >
-
-            <option value="">
-              Select Item A's base type first...
-            </option>
-
-          </select>
-
-          <small>
-            Item B must use the same base type as
-            Item A.
-          </small>
-
+          <label for="item-a-base-type">Base Type</label>
+          <select id="item-a-base-type"></select>
         </div>
-
 
         <div class="field">
-
-          <label
-            for="item-b-base"
-          >
-            Base
-          </label>
-
-          <select
-            id="item-b-base"
-            disabled
-          >
-
-            <option value="">
-              Select base...
-            </option>
-
-          </select>
-
+          <label for="item-a-base">Base</label>
+          <select id="item-a-base"></select>
         </div>
-
 
         <div class="field">
-
-          <label
-            for="item-b-item-level"
-          >
-            Item Level
-          </label>
-
-          <input
-            id="item-b-item-level"
-            type="number"
-            min="1"
-            max="100"
-            value="86"
-          >
-
+          <label for="item-a-item-level">Item Level</label>
+          <input id="item-a-item-level" type="number" min="1" max="100" value="86" />
         </div>
-
 
         <div class="field">
-
-          <label
-            for="item-b-influence"
-          >
-            Influence
-          </label>
-
-          <select
-            id="item-b-influence"
-          >
-
-            <option value="">
-              None
-            </option>
-
-          </select>
-
+          <label for="item-a-influence-1">Influence</label>
+          <select id="item-a-influence-1"></select>
+        </div>
+		
+		<div class="field">
+          <label for="item-a-influence-2">Influence</label>
+          <select id="item-a-influence-2"></select>
         </div>
 
-
-        <div class="mods-placeholder">
-
-          <h3>
-            Prefixes
-          </h3>
-
-          <div class="empty-mods">
-            No prefixes selected.
-          </div>
-
-        </div>
-
-
-        <div class="mods-placeholder">
-
-          <h3>
-            Suffixes
-          </h3>
-
-          <div class="empty-mods">
-            No suffixes selected.
-          </div>
-
-        </div>
-
-      </article>
-
-    </section>
-
-
-    <section class="simulation-section">
-
-      <div class="simulation-controls">
-
-        <button
-          id="run-simulation"
-          class="primary-button"
-        >
-          Run Recombination
+        <button id="import-item-a-button" class="add-button">
+          Import Item A
         </button>
 
+        <div class="mods-section">
+          <div class="mods-section-header">
+            <h3>Prefixes</h3>
+            <span id="item-a-prefix-count" class="mod-count">0 / 3</span>
+          </div>
+          <div class="mod-add-row">
+            <div class="mod-combobox" id="item-a-prefix-combobox">
+              <button
+                type="button"
+                id="item-a-prefix-trigger"
+                class="mod-combobox-trigger"
+                aria-haspopup="listbox"
+                aria-expanded="false"
+                disabled
+              >
+                Select prefix...
+              </button>
+              <div
+                id="item-a-prefix-dropdown"
+                class="mod-combobox-dropdown"
+                hidden
+              >
+                <input
+                  type="search"
+                  id="item-a-prefix-search"
+                  class="mod-search-input"
+                  placeholder="Search prefixes..."
+                  autocomplete="off"
+                  spellcheck="false"
+                  disabled
+                />
+                <div
+                  id="item-a-prefix-options"
+                  class="mod-combobox-options"
+                  role="listbox"
+                ></div>
+              </div>
+              <select id="item-a-prefix-select" class="mod-combobox-native" aria-hidden="true" tabindex="-1"></select>
+            </div>
+            <button id="item-a-prefix-add" class="add-mod-button">Add</button>
+          </div>
+
+          <div id="item-a-prefix-list" class="selected-mods"></div>
+        </div>
+
+        <div class="mods-section">
+          <div class="mods-section-header">
+            <h3>Suffixes</h3>
+            <span id="item-a-suffix-count" class="mod-count">0 / 3</span>
+          </div>
+          <div class="mod-add-row">
+            <div class="mod-combobox" id="item-a-suffix-combobox">
+              <button
+                type="button"
+                id="item-a-suffix-trigger"
+                class="mod-combobox-trigger"
+                aria-haspopup="listbox"
+                aria-expanded="false"
+                disabled
+              >
+                Select suffix...
+              </button>
+              <div
+                id="item-a-suffix-dropdown"
+                class="mod-combobox-dropdown"
+                hidden
+              >
+                <input
+                  type="search"
+                  id="item-a-suffix-search"
+                  class="mod-search-input"
+                  placeholder="Search suffixes..."
+                  autocomplete="off"
+                  spellcheck="false"
+                  disabled
+                />
+                <div
+                  id="item-a-suffix-options"
+                  class="mod-combobox-options"
+                  role="listbox"
+                ></div>
+              </div>
+              <select id="item-a-suffix-select" class="mod-combobox-native" aria-hidden="true" tabindex="-1"></select>
+            </div>
+            <button id="item-a-suffix-add" class="add-mod-button">Add</button>
+          </div>
+
+          <div id="item-a-suffix-list" class="selected-mods"></div>
+        </div>
+
       </div>
 
+      <!-- ITEM B -->
+      <div class="item-card" id="item-b-panel">
 
-      <div
-        id="simulation-output"
-        class="simulation-output"
-      >
-        Select both bases to run a simulation.
+        <div class="item-card-header">
+          <h2>Item B</h2>
+        </div>
+
+        <div class="field">
+          <label for="item-b-base-type">Base Type</label>
+          <select id="item-b-base-type" disabled></select>
+        </div>
+
+        <div class="field">
+          <label for="item-b-base">Base</label>
+          <select id="item-b-base"></select>
+        </div>
+
+        <div class="field">
+          <label for="item-b-item-level">Item Level</label>
+          <input id="item-b-item-level" type="number" min="1" max="100" value="86" />
+        </div>
+
+        <div class="field">
+          <label for="item-b-influence-1">Influence</label>
+          <select id="item-b-influence-1"></select>
+        </div>
+		
+		<div class="field">
+          <label for="item-b-influence-2">Influence</label>
+          <select id="item-b-influence-2"></select>
+        </div>
+
+        <button id="import-item-b-button" class="add-button">
+          Import Item B
+        </button>
+
+        <div class="mods-section">
+          <div class="mods-section-header">
+            <h3>Prefixes</h3>
+            <span id="item-b-prefix-count" class="mod-count">0 / 3</span>
+          </div>
+          <div class="mod-add-row">
+            <div class="mod-combobox" id="item-b-prefix-combobox">
+              <button
+                type="button"
+                id="item-b-prefix-trigger"
+                class="mod-combobox-trigger"
+                aria-haspopup="listbox"
+                aria-expanded="false"
+                disabled
+              >
+                Select prefix...
+              </button>
+              <div
+                id="item-b-prefix-dropdown"
+                class="mod-combobox-dropdown"
+                hidden
+              >
+                <input
+                  type="search"
+                  id="item-b-prefix-search"
+                  class="mod-search-input"
+                  placeholder="Search prefixes..."
+                  autocomplete="off"
+                  spellcheck="false"
+                  disabled
+                />
+                <div
+                  id="item-b-prefix-options"
+                  class="mod-combobox-options"
+                  role="listbox"
+                ></div>
+              </div>
+              <select id="item-b-prefix-select" class="mod-combobox-native" aria-hidden="true" tabindex="-1"></select>
+            </div>
+            <button id="item-b-prefix-add" class="add-mod-button">Add</button>
+          </div>
+
+          <div id="item-b-prefix-list" class="selected-mods"></div>
+        </div>
+
+        <div class="mods-section">
+          <div class="mods-section-header">
+            <h3>Suffixes</h3>
+            <span id="item-b-suffix-count" class="mod-count">0 / 3</span>
+          </div>
+          <div class="mod-add-row">
+            <div class="mod-combobox" id="item-b-suffix-combobox">
+              <button
+                type="button"
+                id="item-b-suffix-trigger"
+                class="mod-combobox-trigger"
+                aria-haspopup="listbox"
+                aria-expanded="false"
+                disabled
+              >
+                Select suffix...
+              </button>
+              <div
+                id="item-b-suffix-dropdown"
+                class="mod-combobox-dropdown"
+                hidden
+              >
+                <input
+                  type="search"
+                  id="item-b-suffix-search"
+                  class="mod-search-input"
+                  placeholder="Search suffixes..."
+                  autocomplete="off"
+                  spellcheck="false"
+                  disabled
+                />
+                <div
+                  id="item-b-suffix-options"
+                  class="mod-combobox-options"
+                  role="listbox"
+                ></div>
+              </div>
+              <select id="item-b-suffix-select" class="mod-combobox-native" aria-hidden="true" tabindex="-1"></select>
+            </div>
+            <button id="item-b-suffix-add" class="add-mod-button">Add</button>
+          </div>
+
+          <div id="item-b-suffix-list" class="selected-mods"></div>
+        </div>
+
       </div>
 
+    </div>
+
+    <section class="simulation-section">
+      <div class="simulation-controls">
+        <button id="run-simulation" class="primary-button">
+          Run Simulation
+        </button>
+      </div>
+
+      <div id="simulation-output" class="simulation-output">
+        Simulation output will appear here.
+      </div>
     </section>
 
   </main>
 
-
   <footer class="site-footer">
-
-    <p>
-      PoE Recombinator Simulator
-    </p>
-
-    <p>
-      Game data sourced from RePoE.
-    </p>
-
+    <p>PoE Recombination Simulator</p>
   </footer>
 
+  <div id="import-modal" class="modal hidden">
+    <div class="modal-content">
+      <h2 id="import-modal-title">Import Item</h2>
+      <textarea id="import-modal-text"></textarea>
+      <div class="modal-buttons">
+        <button id="import-modal-cancel" class="add-mod-button">Cancel</button>
+        <button id="import-modal-confirm" class="add-button">Import</button>
+      </div>
+    </div>
+  </div>
 
-  <script
-    type="module"
-    src="/src/main.js"
-  ></script>
+  <script type="module" src="/src/main.js"></script>
 
 </body>
-
 </html>
