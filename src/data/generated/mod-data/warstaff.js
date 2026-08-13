@@ -7,6 +7,7 @@ export const MODS = {
     "generationType": "prefix_shaper",
     "domain": "item",
     "group": "AddedFireDamagePerStrength",
+    "type": "AddedFireDamagePerStrength",
     "tags": [],
     "stats": [
       {
@@ -56,6 +57,7 @@ export const MODS = {
     "generationType": "prefix_basilisk",
     "domain": "item",
     "group": "AddedFireDamagePerStrength",
+    "type": "AddedFireDamagePerStrength",
     "tags": [],
     "stats": [
       {
@@ -105,6 +107,7 @@ export const MODS = {
     "generationType": "prefix_shaper",
     "domain": "item",
     "group": "AddedLightningDamagePerIntelligence",
+    "type": "AddedLightningDamagePerIntelligence",
     "tags": [],
     "stats": [
       {
@@ -142,6 +145,7 @@ export const MODS = {
     "generationType": "prefix_basilisk",
     "domain": "item",
     "group": "AddedLightningDamagePerIntelligence",
+    "type": "AddedLightningDamagePerIntelligence",
     "tags": [],
     "stats": [
       {
@@ -179,6 +183,7 @@ export const MODS = {
     "generationType": "suffix_elder",
     "domain": "item",
     "group": "AdditionalProjectiles",
+    "type": "AdditionalProjectiles",
     "tags": [],
     "stats": [
       {
@@ -223,6 +228,7 @@ export const MODS = {
     "generationType": "suffix_adjudicator",
     "domain": "item",
     "group": "AdditionalProjectiles",
+    "type": "AdditionalProjectiles",
     "tags": [],
     "stats": [
       {
@@ -267,6 +273,7 @@ export const MODS = {
     "generationType": "suffix_elder",
     "domain": "item",
     "group": "AreaOfEffect",
+    "type": "AreaOfEffect",
     "tags": [],
     "stats": [
       {
@@ -315,6 +322,7 @@ export const MODS = {
     "generationType": "suffix_elder",
     "domain": "item",
     "group": "AreaOfEffect",
+    "type": "AreaOfEffect",
     "tags": [],
     "stats": [
       {
@@ -363,6 +371,7 @@ export const MODS = {
     "generationType": "suffix_elder",
     "domain": "item",
     "group": "AreaOfEffect",
+    "type": "AreaOfEffect",
     "tags": [],
     "stats": [
       {
@@ -411,6 +420,7 @@ export const MODS = {
     "generationType": "suffix_basilisk",
     "domain": "item",
     "group": "LocalArmourPenetration",
+    "type": "LocalArmourPenetration",
     "tags": [],
     "stats": [
       {
@@ -459,6 +469,7 @@ export const MODS = {
     "generationType": "suffix_basilisk",
     "domain": "item",
     "group": "LocalArmourPenetration",
+    "type": "LocalArmourPenetration",
     "tags": [],
     "stats": [
       {
@@ -507,6 +518,7 @@ export const MODS = {
     "generationType": "prefix_adjudicator",
     "domain": "item",
     "group": "BurnDamagePrefix",
+    "type": "BurnDamagePrefix",
     "tags": [],
     "stats": [
       {
@@ -539,6 +551,7 @@ export const MODS = {
     "generationType": "prefix_adjudicator",
     "domain": "item",
     "group": "BurnDamagePrefix",
+    "type": "BurnDamagePrefix",
     "tags": [],
     "stats": [
       {
@@ -571,6 +584,7 @@ export const MODS = {
     "generationType": "prefix_adjudicator",
     "domain": "item",
     "group": "BurnDamagePrefix",
+    "type": "BurnDamagePrefix",
     "tags": [],
     "stats": [
       {
@@ -603,6 +617,7 @@ export const MODS = {
     "generationType": "prefix_adjudicator",
     "domain": "item",
     "group": "BurnDamagePrefix",
+    "type": "BurnDamagePrefix",
     "tags": [],
     "stats": [
       {
@@ -635,6 +650,7 @@ export const MODS = {
     "generationType": "prefix_elder",
     "domain": "item",
     "group": "LocalChanceForBleedingDamage100FinalInflictedWithThisWeapon",
+    "type": "LocalChanceForBleedingDamage100FinalInflictedWithThisWeapon",
     "tags": [],
     "stats": [
       {
@@ -715,6 +731,7 @@ export const MODS = {
     "generationType": "prefix_elder",
     "domain": "item",
     "group": "LocalChanceForPoisonDamage100FinalInflictedWithThisWeapon",
+    "type": "LocalChanceForPoisonDamage100FinalInflictedWithThisWeapon",
     "tags": [],
     "stats": [
       {
@@ -795,6 +812,7 @@ export const MODS = {
     "generationType": "suffix_eyrie",
     "domain": "item",
     "group": "ChanceToBlockIfDamagedRecently",
+    "type": "ChanceToBlockIfDamagedRecently",
     "tags": [],
     "stats": [
       {
@@ -827,6 +845,7 @@ export const MODS = {
     "generationType": "suffix_eyrie",
     "domain": "item",
     "group": "ChanceToBlockIfDamagedRecently",
+    "type": "ChanceToBlockIfDamagedRecently",
     "tags": [],
     "stats": [
       {
@@ -859,6 +878,7 @@ export const MODS = {
     "generationType": "suffix_crusader",
     "domain": "item",
     "group": "ChanceToChillAttackersOnBlock",
+    "type": "ChanceToChillAttackersOnBlock",
     "tags": [],
     "stats": [
       {
@@ -895,6 +915,7 @@ export const MODS = {
     "generationType": "suffix_crusader",
     "domain": "item",
     "group": "ChanceToChillAttackersOnBlock",
+    "type": "ChanceToChillAttackersOnBlock",
     "tags": [],
     "stats": [
       {
@@ -931,6 +952,7 @@ export const MODS = {
     "generationType": "prefix_elder",
     "domain": "item",
     "group": "EnduranceChargeOnKillChance",
+    "type": "EnduranceChargeOnKillChance",
     "tags": [],
     "stats": [
       {
@@ -979,6 +1001,7 @@ export const MODS = {
     "generationType": "prefix_elder",
     "domain": "item",
     "group": "EnduranceChargeOnKillChance",
+    "type": "EnduranceChargeOnKillChance",
     "tags": [],
     "stats": [
       {
@@ -1027,6 +1050,7 @@ export const MODS = {
     "generationType": "prefix_elder",
     "domain": "item",
     "group": "EnduranceChargeOnKillChanceMaven",
+    "type": "EnduranceChargeOnKillChanceMaven",
     "tags": [],
     "stats": [
       {
@@ -1080,6 +1104,7 @@ export const MODS = {
     "generationType": "prefix_shaper",
     "domain": "item",
     "group": "PowerChargeOnKillChance",
+    "type": "PowerChargeOnKillChance",
     "tags": [],
     "stats": [
       {
@@ -1116,6 +1141,7 @@ export const MODS = {
     "generationType": "prefix_shaper",
     "domain": "item",
     "group": "PowerChargeOnKillChance",
+    "type": "PowerChargeOnKillChance",
     "tags": [],
     "stats": [
       {
@@ -1152,6 +1178,7 @@ export const MODS = {
     "generationType": "prefix_shaper",
     "domain": "item",
     "group": "PowerChargeOnKillChanceMaven",
+    "type": "PowerChargeOnKillChanceMaven",
     "tags": [],
     "stats": [
       {
@@ -1193,6 +1220,7 @@ export const MODS = {
     "generationType": "suffix_basilisk",
     "domain": "item",
     "group": "LocalChanceToIntimidateOnHit",
+    "type": "LocalChanceToIntimidateOnHit",
     "tags": [],
     "stats": [
       {
@@ -1273,6 +1301,7 @@ export const MODS = {
     "generationType": "suffix_basilisk",
     "domain": "item",
     "group": "LocalChanceToIntimidateOnHit",
+    "type": "LocalChanceToIntimidateOnHit",
     "tags": [],
     "stats": [
       {
@@ -1353,6 +1382,7 @@ export const MODS = {
     "generationType": "suffix_crusader",
     "domain": "item",
     "group": "ChanceToShockAttackersOnBlock",
+    "type": "ChanceToShockAttackersOnBlock",
     "tags": [],
     "stats": [
       {
@@ -1389,6 +1419,7 @@ export const MODS = {
     "generationType": "suffix_crusader",
     "domain": "item",
     "group": "ChanceToShockAttackersOnBlock",
+    "type": "ChanceToShockAttackersOnBlock",
     "tags": [],
     "stats": [
       {
@@ -1425,6 +1456,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "ChaosDamageOverTimeMultiplier",
+    "type": "ChaosDamageOverTimeMultiplier",
     "tags": [],
     "stats": [
       {
@@ -1453,6 +1485,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "ChaosDamageOverTimeMultiplier",
+    "type": "ChaosDamageOverTimeMultiplier",
     "tags": [],
     "stats": [
       {
@@ -1481,6 +1514,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "ChaosDamageOverTimeMultiplier",
+    "type": "ChaosDamageOverTimeMultiplier",
     "tags": [],
     "stats": [
       {
@@ -1509,6 +1543,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "ChaosDamageOverTimeMultiplier",
+    "type": "ChaosDamageOverTimeMultiplier",
     "tags": [],
     "stats": [
       {
@@ -1537,6 +1572,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "ChaosDamageOverTimeMultiplier",
+    "type": "ChaosDamageOverTimeMultiplier",
     "tags": [],
     "stats": [
       {
@@ -1565,6 +1601,7 @@ export const MODS = {
     "generationType": "suffix_basilisk",
     "domain": "item",
     "group": "PhysicalDamageConvertedToChaos",
+    "type": "PhysicalDamageConvertedToChaos",
     "tags": [],
     "stats": [
       {
@@ -1645,6 +1682,7 @@ export const MODS = {
     "generationType": "suffix_basilisk",
     "domain": "item",
     "group": "PhysicalDamageConvertedToChaos",
+    "type": "PhysicalDamageConvertedToChaos",
     "tags": [],
     "stats": [
       {
@@ -1725,6 +1763,7 @@ export const MODS = {
     "generationType": "suffix_crusader",
     "domain": "item",
     "group": "ConvertPhysicalToFire",
+    "type": "ConvertPhysicalToFire",
     "tags": [],
     "stats": [
       {
@@ -1785,6 +1824,7 @@ export const MODS = {
     "generationType": "suffix_crusader",
     "domain": "item",
     "group": "ConvertPhysicalToFire",
+    "type": "ConvertPhysicalToFire",
     "tags": [],
     "stats": [
       {
@@ -1845,6 +1885,7 @@ export const MODS = {
     "generationType": "suffix_crusader",
     "domain": "item",
     "group": "ConvertPhysicalToLightning",
+    "type": "ConvertPhysicalToLightning",
     "tags": [],
     "stats": [
       {
@@ -1893,6 +1934,7 @@ export const MODS = {
     "generationType": "suffix_crusader",
     "domain": "item",
     "group": "ConvertPhysicalToLightning",
+    "type": "ConvertPhysicalToLightning",
     "tags": [],
     "stats": [
       {
@@ -1941,6 +1983,7 @@ export const MODS = {
     "generationType": "suffix_shaper",
     "domain": "item",
     "group": "CriticalStrikeChanceIfNoCriticalStrikeDealtRecentlyUber",
+    "type": "CriticalStrikeChanceIfNoCriticalStrikeDealtRecentlyUber",
     "tags": [],
     "stats": [
       {
@@ -1978,6 +2021,7 @@ export const MODS = {
     "generationType": "suffix_shaper",
     "domain": "item",
     "group": "CriticalStrikeChanceTwoHandedCritChanceRecently",
+    "type": "CriticalStrikeChanceTwoHandedCritChanceRecently",
     "tags": [],
     "stats": [
       {
@@ -2031,6 +2075,7 @@ export const MODS = {
     "generationType": "suffix_shaper",
     "domain": "item",
     "group": "CriticalStrikeChanceTwoHandedCritChanceRecently",
+    "type": "CriticalStrikeChanceTwoHandedCritChanceRecently",
     "tags": [],
     "stats": [
       {
@@ -2084,6 +2129,7 @@ export const MODS = {
     "generationType": "suffix_elder",
     "domain": "item",
     "group": "CriticalStrikeChanceTwoHandedCritMultiRecently",
+    "type": "CriticalStrikeChanceTwoHandedCritMultiRecently",
     "tags": [],
     "stats": [
       {
@@ -2137,6 +2183,7 @@ export const MODS = {
     "generationType": "suffix_elder",
     "domain": "item",
     "group": "CriticalStrikeChanceTwoHandedCritMultiRecently",
+    "type": "CriticalStrikeChanceTwoHandedCritMultiRecently",
     "tags": [],
     "stats": [
       {
@@ -2190,6 +2237,7 @@ export const MODS = {
     "generationType": "suffix_shaper",
     "domain": "item",
     "group": "CriticalStrikeMultiplierIfBlockedRecentlyUber",
+    "type": "CriticalStrikeMultiplierIfBlockedRecentlyUber",
     "tags": [],
     "stats": [
       {
@@ -2227,6 +2275,7 @@ export const MODS = {
     "generationType": "suffix_adjudicator",
     "domain": "item",
     "group": "CullingStrike",
+    "type": "CullingStrike",
     "tags": [],
     "stats": [
       {
@@ -2279,6 +2328,7 @@ export const MODS = {
     "generationType": "suffix_adjudicator",
     "domain": "item",
     "group": "CullingStrikeMaven",
+    "type": "CullingStrikeMaven",
     "tags": [],
     "stats": [
       {
@@ -2336,6 +2386,7 @@ export const MODS = {
     "generationType": "suffix_elder",
     "domain": "item",
     "group": "CullingStrike",
+    "type": "CullingStrike",
     "tags": [],
     "stats": [
       {
@@ -2384,6 +2435,7 @@ export const MODS = {
     "generationType": "suffix_eyrie",
     "domain": "item",
     "group": "IncreasedDamageFromAuras",
+    "type": "IncreasedDamageFromAuras",
     "tags": [],
     "stats": [
       {
@@ -2432,6 +2484,7 @@ export const MODS = {
     "generationType": "delve_suffix",
     "domain": "delve",
     "group": "AbyssJewelSocket",
+    "type": "AbyssJewelSocket",
     "tags": [],
     "stats": [
       {
@@ -2484,6 +2537,7 @@ export const MODS = {
     "generationType": "delve_suffix",
     "domain": "delve",
     "group": "DelveDexterityGemLevel",
+    "type": "DelveDexterityGemLevel",
     "tags": [],
     "stats": [
       {
@@ -2584,6 +2638,7 @@ export const MODS = {
     "generationType": "delve_suffix",
     "domain": "delve",
     "group": "DelveIntelligenceGemLevel",
+    "type": "DelveIntelligenceGemLevel",
     "tags": [],
     "stats": [
       {
@@ -2684,6 +2739,7 @@ export const MODS = {
     "generationType": "delve_suffix",
     "domain": "delve",
     "group": "DelveStrengthGemLevel",
+    "type": "DelveStrengthGemLevel",
     "tags": [],
     "stats": [
       {
@@ -2784,6 +2840,7 @@ export const MODS = {
     "generationType": "delve_suffix",
     "domain": "delve",
     "group": "PhysicalDamageReductionRatingIfYouHaveHitAnEnemyRecently",
+    "type": "PhysicalDamageReductionRatingIfYouHaveHitAnEnemyRecently",
     "tags": [],
     "stats": [
       {
@@ -2836,6 +2893,7 @@ export const MODS = {
     "generationType": "delve_suffix",
     "domain": "delve",
     "group": "ChanceToGainOnslaughtOnKill",
+    "type": "ChanceToGainOnslaughtOnKill",
     "tags": [],
     "stats": [
       {
@@ -2872,6 +2930,7 @@ export const MODS = {
     "generationType": "delve_prefix",
     "domain": "delve",
     "group": "ColdResistancePenetration",
+    "type": "ColdResistancePenetration",
     "tags": [],
     "stats": [
       {
@@ -2908,6 +2967,7 @@ export const MODS = {
     "generationType": "delve_suffix",
     "domain": "delve",
     "group": "DamageOnFullLife",
+    "type": "DamageOnFullLife",
     "tags": [],
     "stats": [
       {
@@ -2944,6 +3004,7 @@ export const MODS = {
     "generationType": "delve_suffix",
     "domain": "delve",
     "group": "DamageOnFullLife",
+    "type": "DamageOnFullLife",
     "tags": [],
     "stats": [
       {
@@ -2980,6 +3041,7 @@ export const MODS = {
     "generationType": "delve_suffix",
     "domain": "delve",
     "group": "CurseOnHitDespair",
+    "type": "CurseOnHitDespair",
     "tags": [],
     "stats": [
       {
@@ -3016,6 +3078,7 @@ export const MODS = {
     "generationType": "delve_prefix",
     "domain": "delve",
     "group": "ElementalDamagePercent",
+    "type": "ElementalDamagePercent",
     "tags": [],
     "stats": [
       {
@@ -3052,6 +3115,7 @@ export const MODS = {
     "generationType": "delve_prefix",
     "domain": "delve",
     "group": "ElementalDamagePercent",
+    "type": "ElementalDamagePercent",
     "tags": [],
     "stats": [
       {
@@ -3088,6 +3152,7 @@ export const MODS = {
     "generationType": "delve_prefix",
     "domain": "delve",
     "group": "ElementalDamagePercent",
+    "type": "ElementalDamagePercent",
     "tags": [],
     "stats": [
       {
@@ -3124,6 +3189,7 @@ export const MODS = {
     "generationType": "delve_prefix",
     "domain": "delve",
     "group": "ElementalDamagePercent",
+    "type": "ElementalDamagePercent",
     "tags": [],
     "stats": [
       {
@@ -3160,6 +3226,7 @@ export const MODS = {
     "generationType": "delve_suffix",
     "domain": "delve",
     "group": "EnergyShieldRegenerationRatePerMinuteIfYouHaveHitAnEnemyRecently",
+    "type": "EnergyShieldRegenerationRatePerMinuteIfYouHaveHitAnEnemyRecently",
     "tags": [],
     "stats": [
       {
@@ -3196,6 +3263,7 @@ export const MODS = {
     "generationType": "delve_prefix",
     "domain": "delve",
     "group": "FireResistancePenetration",
+    "type": "FireResistancePenetration",
     "tags": [],
     "stats": [
       {
@@ -3232,6 +3300,7 @@ export const MODS = {
     "generationType": "delve_suffix",
     "domain": "delve",
     "group": "IncreasedDamageFromAuras",
+    "type": "IncreasedDamageFromAuras",
     "tags": [],
     "stats": [
       {
@@ -3268,6 +3337,7 @@ export const MODS = {
     "generationType": "delve_suffix",
     "domain": "delve",
     "group": "LocalChanceToIntimidateOnHit",
+    "type": "LocalChanceToIntimidateOnHit",
     "tags": [],
     "stats": [
       {
@@ -3304,6 +3374,7 @@ export const MODS = {
     "generationType": "delve_prefix",
     "domain": "delve",
     "group": "LightningResistancePenetration",
+    "type": "LightningResistancePenetration",
     "tags": [],
     "stats": [
       {
@@ -3340,6 +3411,7 @@ export const MODS = {
     "generationType": "delve_prefix",
     "domain": "delve",
     "group": "LocalAttackReduceEnemyElementalResistance",
+    "type": "LocalAttackReduceEnemyElementalResistance",
     "tags": [],
     "stats": [
       {
@@ -3376,6 +3448,7 @@ export const MODS = {
     "generationType": "delve_prefix",
     "domain": "delve",
     "group": "LocalChanceForBleedingDamage100FinalInflictedWithThisWeapon",
+    "type": "LocalChanceForBleedingDamage100FinalInflictedWithThisWeapon",
     "tags": [],
     "stats": [
       {
@@ -3412,6 +3485,7 @@ export const MODS = {
     "generationType": "delve_prefix",
     "domain": "delve",
     "group": "LocalChanceForPoisonDamage100FinalInflictedWithThisWeapon",
+    "type": "LocalChanceForPoisonDamage100FinalInflictedWithThisWeapon",
     "tags": [],
     "stats": [
       {
@@ -3448,6 +3522,7 @@ export const MODS = {
     "generationType": "delve_suffix",
     "domain": "delve",
     "group": "ManaRegeneratedIfYouveHitRecently",
+    "type": "ManaRegeneratedIfYouveHitRecently",
     "tags": [],
     "stats": [
       {
@@ -3484,6 +3559,7 @@ export const MODS = {
     "generationType": "delve_prefix",
     "domain": "delve",
     "group": "MinionDamageOnWeapon",
+    "type": "MinionDamageOnWeapon",
     "tags": [],
     "stats": [
       {
@@ -3520,6 +3596,7 @@ export const MODS = {
     "generationType": "delve_prefix",
     "domain": "delve",
     "group": "MinionDamageOnWeapon",
+    "type": "MinionDamageOnWeapon",
     "tags": [],
     "stats": [
       {
@@ -3556,6 +3633,7 @@ export const MODS = {
     "generationType": "delve_prefix",
     "domain": "delve",
     "group": "MinionDamageOnWeapon",
+    "type": "MinionDamageOnWeapon",
     "tags": [],
     "stats": [
       {
@@ -3592,6 +3670,7 @@ export const MODS = {
     "generationType": "delve_prefix",
     "domain": "delve",
     "group": "MinionDamageOnWeapon",
+    "type": "MinionDamageOnWeapon",
     "tags": [],
     "stats": [
       {
@@ -3628,6 +3707,7 @@ export const MODS = {
     "generationType": "delve_prefix",
     "domain": "delve",
     "group": "SocketedAttacksDamageFinal",
+    "type": "SocketedAttacksDamageFinal",
     "tags": [],
     "stats": [
       {
@@ -3664,6 +3744,7 @@ export const MODS = {
     "generationType": "delve_prefix",
     "domain": "delve",
     "group": "SocketedSpellsDamageFinal",
+    "type": "SocketedSpellsDamageFinal",
     "tags": [],
     "stats": [
       {
@@ -3700,6 +3781,7 @@ export const MODS = {
     "generationType": "delve_suffix",
     "domain": "delve",
     "group": "VaalSoulCost",
+    "type": "VaalSoulCost",
     "tags": [],
     "stats": [
       {
@@ -3730,1941 +3812,13 @@ export const MODS = {
     ],
     "requiredLevel": 1
   },
-  "DexMasterItemGenerationCannotChangeSuffixes": {
-    "id": "DexMasterItemGenerationCannotChangeSuffixes",
-    "name": "Suffixed",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "ItemGenerationCannotChangeSuffixes",
-    "tags": [],
-    "stats": [
-      {
-        "id": "item_generation_cannot_change_suffixes",
-        "max": 1,
-        "min": 1
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 1
-  },
-  "EinharMasterAllAttributes1": {
-    "id": "EinharMasterAllAttributes1",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "AllAttributes",
-    "tags": [],
-    "stats": [
-      {
-        "id": "additional_all_attributes",
-        "max": 9,
-        "min": 6
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 30
-  },
-  "EinharMasterAllAttributes2": {
-    "id": "EinharMasterAllAttributes2",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "AllAttributes",
-    "tags": [],
-    "stats": [
-      {
-        "id": "additional_all_attributes",
-        "max": 13,
-        "min": 10
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 50
-  },
-  "EinharMasterChaosDamageTwoHandPrefix1": {
-    "id": "EinharMasterChaosDamageTwoHandPrefix1",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "WeaponCasterDamagePrefix",
-    "tags": [],
-    "stats": [
-      {
-        "id": "chaos_damage_+%",
-        "max": 60,
-        "min": 44
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 20
-  },
-  "EinharMasterChaosDamageTwoHandPrefix2": {
-    "id": "EinharMasterChaosDamageTwoHandPrefix2",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "WeaponCasterDamagePrefix",
-    "tags": [],
-    "stats": [
-      {
-        "id": "chaos_damage_+%",
-        "max": 78,
-        "min": 61
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 40
-  },
-  "EinharMasterChaosDamageTwoHandPrefix3_": {
-    "id": "EinharMasterChaosDamageTwoHandPrefix3_",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "WeaponCasterDamagePrefix",
-    "tags": [],
-    "stats": [
-      {
-        "id": "chaos_damage_+%",
-        "max": 95,
-        "min": 79
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 68
-  },
-  "EinharMasterColdDamageTwoHandPrefix1": {
-    "id": "EinharMasterColdDamageTwoHandPrefix1",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "WeaponCasterDamagePrefix",
-    "tags": [],
-    "stats": [
-      {
-        "id": "cold_damage_+%",
-        "max": 60,
-        "min": 44
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 20
-  },
-  "EinharMasterColdDamageTwoHandPrefix2": {
-    "id": "EinharMasterColdDamageTwoHandPrefix2",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "WeaponCasterDamagePrefix",
-    "tags": [],
-    "stats": [
-      {
-        "id": "cold_damage_+%",
-        "max": 78,
-        "min": 61
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 40
-  },
-  "EinharMasterColdDamageTwoHandPrefix3": {
-    "id": "EinharMasterColdDamageTwoHandPrefix3",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "WeaponCasterDamagePrefix",
-    "tags": [],
-    "stats": [
-      {
-        "id": "cold_damage_+%",
-        "max": 95,
-        "min": 79
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 68
-  },
-  "EinharMasterCriticalStrikeChanceSpells2h1": {
-    "id": "EinharMasterCriticalStrikeChanceSpells2h1",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "SpellCriticalStrikeChanceIncrease",
-    "tags": [],
-    "stats": [
-      {
-        "id": "spell_critical_strike_chance_+%",
-        "max": 89,
-        "min": 70
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 40
-  },
-  "EinharMasterCriticalStrikeChanceSpells2h2_": {
-    "id": "EinharMasterCriticalStrikeChanceSpells2h2_",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "SpellCriticalStrikeChanceIncrease",
-    "tags": [],
-    "stats": [
-      {
-        "id": "spell_critical_strike_chance_+%",
-        "max": 120,
-        "min": 90
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 60
-  },
-  "EinharMasterCriticalStrikeMultiplier1": {
-    "id": "EinharMasterCriticalStrikeMultiplier1",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "CriticalStrikeMultiplier",
-    "tags": [],
-    "stats": [
-      {
-        "id": "base_critical_strike_multiplier_+",
-        "max": 19,
-        "min": 17
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 40
-  },
-  "EinharMasterCriticalStrikeMultiplier2": {
-    "id": "EinharMasterCriticalStrikeMultiplier2",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "CriticalStrikeMultiplier",
-    "tags": [],
-    "stats": [
-      {
-        "id": "base_critical_strike_multiplier_+",
-        "max": 24,
-        "min": 20
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 60
-  },
-  "EinharMasterCriticalStrikeMultiplier3": {
-    "id": "EinharMasterCriticalStrikeMultiplier3",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "CriticalStrikeMultiplier",
-    "tags": [],
-    "stats": [
-      {
-        "id": "base_critical_strike_multiplier_+",
-        "max": 28,
-        "min": 25
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 75
-  },
-  "EinharMasterDegenerationDamage1_": {
-    "id": "EinharMasterDegenerationDamage1_",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "DegenerationDamage",
-    "tags": [],
-    "stats": [
-      {
-        "id": "damage_over_time_+%",
-        "max": 20,
-        "min": 11
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 30
-  },
-  "EinharMasterDegenerationDamage2": {
-    "id": "EinharMasterDegenerationDamage2",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "DegenerationDamage",
-    "tags": [],
-    "stats": [
-      {
-        "id": "damage_over_time_+%",
-        "max": 30,
-        "min": 21
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 50
-  },
-  "EinharMasterDexterity2": {
-    "id": "EinharMasterDexterity2",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "Dexterity",
-    "tags": [],
-    "stats": [
-      {
-        "id": "additional_dexterity",
-        "max": 25,
-        "min": 21
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 20
-  },
-  "EinharMasterDexterity3": {
-    "id": "EinharMasterDexterity3",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "Dexterity",
-    "tags": [],
-    "stats": [
-      {
-        "id": "additional_dexterity",
-        "max": 30,
-        "min": 26
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 40
-  },
-  "EinharMasterFireDamageTwoHandPrefix1": {
-    "id": "EinharMasterFireDamageTwoHandPrefix1",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "WeaponCasterDamagePrefix",
-    "tags": [],
-    "stats": [
-      {
-        "id": "fire_damage_+%",
-        "max": 60,
-        "min": 44
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 20
-  },
-  "EinharMasterFireDamageTwoHandPrefix2": {
-    "id": "EinharMasterFireDamageTwoHandPrefix2",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "WeaponCasterDamagePrefix",
-    "tags": [],
-    "stats": [
-      {
-        "id": "fire_damage_+%",
-        "max": 78,
-        "min": 61
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 40
-  },
-  "EinharMasterFireDamageTwoHandPrefix3": {
-    "id": "EinharMasterFireDamageTwoHandPrefix3",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "WeaponCasterDamagePrefix",
-    "tags": [],
-    "stats": [
-      {
-        "id": "fire_damage_+%",
-        "max": 95,
-        "min": 79
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 68
-  },
-  "EinharMasterIncreasedCastSpeedTwoHand1": {
-    "id": "EinharMasterIncreasedCastSpeedTwoHand1",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "IncreasedCastSpeed",
-    "tags": [],
-    "stats": [
-      {
-        "id": "base_cast_speed_+%",
-        "max": 20,
-        "min": 15
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 30
-  },
-  "EinharMasterIncreasedCastSpeedTwoHand2": {
-    "id": "EinharMasterIncreasedCastSpeedTwoHand2",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "IncreasedCastSpeed",
-    "tags": [],
-    "stats": [
-      {
-        "id": "base_cast_speed_+%",
-        "max": 26,
-        "min": 21
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 50
-  },
-  "EinharMasterIncreasedCastSpeedTwoHand3_": {
-    "id": "EinharMasterIncreasedCastSpeedTwoHand3_",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "IncreasedCastSpeed",
-    "tags": [],
-    "stats": [
-      {
-        "id": "base_cast_speed_+%",
-        "max": 32,
-        "min": 27
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 75
-  },
-  "EinharMasterIncreasedManaRegenerationTwoHandWeapon1": {
-    "id": "EinharMasterIncreasedManaRegenerationTwoHandWeapon1",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "ManaRegeneration",
-    "tags": [],
-    "stats": [
-      {
-        "id": "mana_regeneration_rate_+%",
-        "max": 45,
-        "min": 30
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 30
-  },
-  "EinharMasterIncreasedManaRegenerationTwoHandWeapon2": {
-    "id": "EinharMasterIncreasedManaRegenerationTwoHandWeapon2",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "ManaRegeneration",
-    "tags": [],
-    "stats": [
-      {
-        "id": "mana_regeneration_rate_+%",
-        "max": 60,
-        "min": 46
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 50
-  },
-  "EinharMasterIncreasedManaTwoHandWeapon1___": {
-    "id": "EinharMasterIncreasedManaTwoHandWeapon1___",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "IncreasedMana",
-    "tags": [],
-    "stats": [
-      {
-        "id": "base_maximum_mana",
-        "max": 64,
-        "min": 55
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 20
-  },
-  "EinharMasterIncreasedManaTwoHandWeapon2_": {
-    "id": "EinharMasterIncreasedManaTwoHandWeapon2_",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "IncreasedMana",
-    "tags": [],
-    "stats": [
-      {
-        "id": "base_maximum_mana",
-        "max": 74,
-        "min": 65
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 40
-  },
-  "EinharMasterIncreasedManaTwoHandWeapon3_": {
-    "id": "EinharMasterIncreasedManaTwoHandWeapon3_",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "IncreasedMana",
-    "tags": [],
-    "stats": [
-      {
-        "id": "base_maximum_mana",
-        "max": 84,
-        "min": 75
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 60
-  },
-  "EinharMasterIncreasedManaTwoHandWeapon4": {
-    "id": "EinharMasterIncreasedManaTwoHandWeapon4",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "IncreasedMana",
-    "tags": [],
-    "stats": [
-      {
-        "id": "base_maximum_mana",
-        "max": 94,
-        "min": 85
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 75
-  },
-  "EinharMasterIntelligence2__": {
-    "id": "EinharMasterIntelligence2__",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "Intelligence",
-    "tags": [],
-    "stats": [
-      {
-        "id": "additional_intelligence",
-        "max": 25,
-        "min": 21
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 20
-  },
-  "EinharMasterIntelligence3": {
-    "id": "EinharMasterIntelligence3",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "Intelligence",
-    "tags": [],
-    "stats": [
-      {
-        "id": "additional_intelligence",
-        "max": 30,
-        "min": 26
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 40
-  },
-  "EinharMasterLightningDamageTwoHandPrefix1": {
-    "id": "EinharMasterLightningDamageTwoHandPrefix1",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "WeaponCasterDamagePrefix",
-    "tags": [],
-    "stats": [
-      {
-        "id": "lightning_damage_+%",
-        "max": 60,
-        "min": 44
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 20
-  },
-  "EinharMasterLightningDamageTwoHandPrefix2": {
-    "id": "EinharMasterLightningDamageTwoHandPrefix2",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "WeaponCasterDamagePrefix",
-    "tags": [],
-    "stats": [
-      {
-        "id": "lightning_damage_+%",
-        "max": 78,
-        "min": 61
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 40
-  },
-  "EinharMasterLightningDamageTwoHandPrefix3": {
-    "id": "EinharMasterLightningDamageTwoHandPrefix3",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "WeaponCasterDamagePrefix",
-    "tags": [],
-    "stats": [
-      {
-        "id": "lightning_damage_+%",
-        "max": 95,
-        "min": 79
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 68
-  },
-  "EinharMasterLocalAccuracyRating1": {
-    "id": "EinharMasterLocalAccuracyRating1",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "IncreasedAccuracy",
-    "tags": [],
-    "stats": [
-      {
-        "id": "local_accuracy_rating",
-        "max": 120,
-        "min": 91
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 20
-  },
-  "EinharMasterLocalAccuracyRating2": {
-    "id": "EinharMasterLocalAccuracyRating2",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "IncreasedAccuracy",
-    "tags": [],
-    "stats": [
-      {
-        "id": "local_accuracy_rating",
-        "max": 200,
-        "min": 121
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 40
-  },
-  "EinharMasterLocalAccuracyRating3": {
-    "id": "EinharMasterLocalAccuracyRating3",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "IncreasedAccuracy",
-    "tags": [],
-    "stats": [
-      {
-        "id": "local_accuracy_rating",
-        "max": 300,
-        "min": 201
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 68
-  },
-  "EinharMasterLocalColdDamageTwoHand1": {
-    "id": "EinharMasterLocalColdDamageTwoHand1",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "ColdDamage",
-    "tags": [],
-    "stats": [
-      {
-        "id": "local_minimum_added_cold_damage",
-        "max": 21,
-        "min": 19
-      },
-      {
-        "id": "local_maximum_added_cold_damage",
-        "max": 41,
-        "min": 32
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 20
-  },
-  "EinharMasterLocalColdDamageTwoHand2": {
-    "id": "EinharMasterLocalColdDamageTwoHand2",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "ColdDamage",
-    "tags": [],
-    "stats": [
-      {
-        "id": "local_minimum_added_cold_damage",
-        "max": 46,
-        "min": 38
-      },
-      {
-        "id": "local_maximum_added_cold_damage",
-        "max": 85,
-        "min": 73
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 40
-  },
-  "EinharMasterLocalColdDamageTwoHand3": {
-    "id": "EinharMasterLocalColdDamageTwoHand3",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "ColdDamage",
-    "tags": [],
-    "stats": [
-      {
-        "id": "local_minimum_added_cold_damage",
-        "max": 72,
-        "min": 60
-      },
-      {
-        "id": "local_maximum_added_cold_damage",
-        "max": 128,
-        "min": 110
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 68
-  },
-  "EinharMasterLocalCriticalStrikeChance1_": {
-    "id": "EinharMasterLocalCriticalStrikeChance1_",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "CriticalStrikeChanceIncrease",
-    "tags": [],
-    "stats": [
-      {
-        "id": "local_critical_strike_chance_+%",
-        "max": 19,
-        "min": 17
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 40
-  },
-  "EinharMasterLocalCriticalStrikeChance2": {
-    "id": "EinharMasterLocalCriticalStrikeChance2",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "CriticalStrikeChanceIncrease",
-    "tags": [],
-    "stats": [
-      {
-        "id": "local_critical_strike_chance_+%",
-        "max": 24,
-        "min": 20
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 60
-  },
-  "EinharMasterLocalCriticalStrikeChance3_": {
-    "id": "EinharMasterLocalCriticalStrikeChance3_",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "CriticalStrikeChanceIncrease",
-    "tags": [],
-    "stats": [
-      {
-        "id": "local_critical_strike_chance_+%",
-        "max": 27,
-        "min": 25
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 75
-  },
-  "EinharMasterLocalFireDamageTwoHand1": {
-    "id": "EinharMasterLocalFireDamageTwoHand1",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "FireDamage",
-    "tags": [],
-    "stats": [
-      {
-        "id": "local_minimum_added_fire_damage",
-        "max": 21,
-        "min": 19
-      },
-      {
-        "id": "local_maximum_added_fire_damage",
-        "max": 41,
-        "min": 32
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 20
-  },
-  "EinharMasterLocalFireDamageTwoHand2": {
-    "id": "EinharMasterLocalFireDamageTwoHand2",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "FireDamage",
-    "tags": [],
-    "stats": [
-      {
-        "id": "local_minimum_added_fire_damage",
-        "max": 46,
-        "min": 38
-      },
-      {
-        "id": "local_maximum_added_fire_damage",
-        "max": 85,
-        "min": 73
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 40
-  },
-  "EinharMasterLocalFireDamageTwoHand3": {
-    "id": "EinharMasterLocalFireDamageTwoHand3",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "FireDamage",
-    "tags": [],
-    "stats": [
-      {
-        "id": "local_minimum_added_fire_damage",
-        "max": 72,
-        "min": 60
-      },
-      {
-        "id": "local_maximum_added_fire_damage",
-        "max": 128,
-        "min": 110
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 68
-  },
-  "EinharMasterLocalIncreasedAttackSpeed1__": {
-    "id": "EinharMasterLocalIncreasedAttackSpeed1__",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "IncreasedAttackSpeed",
-    "tags": [],
-    "stats": [
-      {
-        "id": "local_attack_speed_+%",
-        "max": 10,
-        "min": 8
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 30
-  },
-  "EinharMasterLocalIncreasedAttackSpeed2_": {
-    "id": "EinharMasterLocalIncreasedAttackSpeed2_",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "IncreasedAttackSpeed",
-    "tags": [],
-    "stats": [
-      {
-        "id": "local_attack_speed_+%",
-        "max": 15,
-        "min": 11
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 50
-  },
-  "EinharMasterLocalIncreasedAttackSpeed3": {
-    "id": "EinharMasterLocalIncreasedAttackSpeed3",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "IncreasedAttackSpeed",
-    "tags": [],
-    "stats": [
-      {
-        "id": "local_attack_speed_+%",
-        "max": 20,
-        "min": 16
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 75
-  },
-  "EinharMasterLocalIncreasedPhysicalDamage1": {
-    "id": "EinharMasterLocalIncreasedPhysicalDamage1",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "LocalPhysicalDamagePercent",
-    "tags": [],
-    "stats": [
-      {
-        "id": "local_physical_damage_+%",
-        "max": 59,
-        "min": 40
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 20
-  },
-  "EinharMasterLocalIncreasedPhysicalDamage2_": {
-    "id": "EinharMasterLocalIncreasedPhysicalDamage2_",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "LocalPhysicalDamagePercent",
-    "tags": [],
-    "stats": [
-      {
-        "id": "local_physical_damage_+%",
-        "max": 79,
-        "min": 60
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 40
-  },
-  "EinharMasterLocalIncreasedPhysicalDamage3": {
-    "id": "EinharMasterLocalIncreasedPhysicalDamage3",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "LocalPhysicalDamagePercent",
-    "tags": [],
-    "stats": [
-      {
-        "id": "local_physical_damage_+%",
-        "max": 99,
-        "min": 80
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 60
-  },
-  "EinharMasterLocalIncreasedPhysicalDamage4___": {
-    "id": "EinharMasterLocalIncreasedPhysicalDamage4___",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "LocalPhysicalDamagePercent",
-    "tags": [],
-    "stats": [
-      {
-        "id": "local_physical_damage_+%",
-        "max": 129,
-        "min": 100
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 80
-  },
-  "EinharMasterLocalLifeLeechPermyriadNewSuffix1": {
-    "id": "EinharMasterLocalLifeLeechPermyriadNewSuffix1",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "LifeLeech",
-    "tags": [],
-    "stats": [
-      {
-        "id": "local_life_leech_from_physical_damage_permyriad",
-        "max": 240,
-        "min": 200
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 30
-  },
-  "EinharMasterLocalLifeLeechPermyriadNewSuffix2": {
-    "id": "EinharMasterLocalLifeLeechPermyriadNewSuffix2",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "LifeLeech",
-    "tags": [],
-    "stats": [
-      {
-        "id": "local_life_leech_from_physical_damage_permyriad",
-        "max": 300,
-        "min": 260
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 50
-  },
-  "EinharMasterLocalLightningDamageTwoHand1_": {
-    "id": "EinharMasterLocalLightningDamageTwoHand1_",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "LightningDamage",
-    "tags": [],
-    "stats": [
-      {
-        "id": "local_minimum_added_lightning_damage",
-        "max": 5,
-        "min": 2
-      },
-      {
-        "id": "local_maximum_added_lightning_damage",
-        "max": 64,
-        "min": 46
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 20
-  },
-  "EinharMasterLocalLightningDamageTwoHand2": {
-    "id": "EinharMasterLocalLightningDamageTwoHand2",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "LightningDamage",
-    "tags": [],
-    "stats": [
-      {
-        "id": "local_minimum_added_lightning_damage",
-        "max": 9,
-        "min": 6
-      },
-      {
-        "id": "local_maximum_added_lightning_damage",
-        "max": 139,
-        "min": 104
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 40
-  },
-  "EinharMasterLocalLightningDamageTwoHand3": {
-    "id": "EinharMasterLocalLightningDamageTwoHand3",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "LightningDamage",
-    "tags": [],
-    "stats": [
-      {
-        "id": "local_minimum_added_lightning_damage",
-        "max": 14,
-        "min": 10
-      },
-      {
-        "id": "local_maximum_added_lightning_damage",
-        "max": 197,
-        "min": 162
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 68
-  },
-  "EinharMasterLocalManaLeechPermyriadNewSuffix1": {
-    "id": "EinharMasterLocalManaLeechPermyriadNewSuffix1",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "ManaLeech",
-    "tags": [],
-    "stats": [
-      {
-        "id": "local_mana_leech_from_physical_damage_permyriad",
-        "max": 240,
-        "min": 200
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 50
-  },
-  "EinharMasterLocalPhysicalDamageTwoHand1": {
-    "id": "EinharMasterLocalPhysicalDamageTwoHand1",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "PhysicalDamage",
-    "tags": [],
-    "stats": [
-      {
-        "id": "local_minimum_added_physical_damage",
-        "max": 12,
-        "min": 9
-      },
-      {
-        "id": "local_maximum_added_physical_damage",
-        "max": 21,
-        "min": 18
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 20
-  },
-  "EinharMasterLocalPhysicalDamageTwoHand2": {
-    "id": "EinharMasterLocalPhysicalDamageTwoHand2",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "PhysicalDamage",
-    "tags": [],
-    "stats": [
-      {
-        "id": "local_minimum_added_physical_damage",
-        "max": 15,
-        "min": 11
-      },
-      {
-        "id": "local_maximum_added_physical_damage",
-        "max": 27,
-        "min": 23
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 40
-  },
-  "EinharMasterLocalPhysicalDamageTwoHand3": {
-    "id": "EinharMasterLocalPhysicalDamageTwoHand3",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "PhysicalDamage",
-    "tags": [],
-    "stats": [
-      {
-        "id": "local_minimum_added_physical_damage",
-        "max": 24,
-        "min": 18
-      },
-      {
-        "id": "local_maximum_added_physical_damage",
-        "max": 42,
-        "min": 36
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 68
-  },
-  "EinharMasterMineDamageOnWeapon2h1": {
-    "id": "EinharMasterMineDamageOnWeapon2h1",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "WeaponCasterDamagePrefix",
-    "tags": [],
-    "stats": [
-      {
-        "id": "mine_damage_+%",
-        "max": 78,
-        "min": 61
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 50
-  },
-  "EinharMasterMineDamageOnWeapon2h2": {
-    "id": "EinharMasterMineDamageOnWeapon2h2",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "WeaponCasterDamagePrefix",
-    "tags": [],
-    "stats": [
-      {
-        "id": "mine_damage_+%",
-        "max": 95,
-        "min": 79
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 68
-  },
-  "EinharMasterMineLayingSpeed2h1": {
-    "id": "EinharMasterMineLayingSpeed2h1",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "IncreasedCastSpeed",
-    "tags": [],
-    "stats": [
-      {
-        "id": "mine_laying_speed_+%",
-        "max": 20,
-        "min": 17
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 50
-  },
-  "EinharMasterMineLayingSpeed2h2_": {
-    "id": "EinharMasterMineLayingSpeed2h2_",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "IncreasedCastSpeed",
-    "tags": [],
-    "stats": [
-      {
-        "id": "mine_laying_speed_+%",
-        "max": 23,
-        "min": 21
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 68
-  },
-  "EinharMasterMinionDamageOnWeapon2h1_": {
-    "id": "EinharMasterMinionDamageOnWeapon2h1_",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "WeaponCasterDamagePrefix",
-    "tags": [],
-    "stats": [
-      {
-        "id": "minion_damage_+%",
-        "max": 51,
-        "min": 37
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 30
-  },
-  "EinharMasterMinionDamageOnWeapon2h2": {
-    "id": "EinharMasterMinionDamageOnWeapon2h2",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "WeaponCasterDamagePrefix",
-    "tags": [],
-    "stats": [
-      {
-        "id": "minion_damage_+%",
-        "max": 66,
-        "min": 52
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 60
-  },
-  "EinharMasterMinionDamageOnWeapon2h3": {
-    "id": "EinharMasterMinionDamageOnWeapon2h3",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "WeaponCasterDamagePrefix",
-    "tags": [],
-    "stats": [
-      {
-        "id": "minion_damage_+%",
-        "max": 81,
-        "min": 67
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 75
-  },
-  "EinharMasterSpellAddedColdDamageTwoHand1": {
-    "id": "EinharMasterSpellAddedColdDamageTwoHand1",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "SpellAddedElementalDamage",
-    "tags": [],
-    "stats": [
-      {
-        "id": "spell_minimum_added_cold_damage",
-        "max": 26,
-        "min": 19
-      },
-      {
-        "id": "spell_maximum_added_cold_damage",
-        "max": 45,
-        "min": 38
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 30
-  },
-  "EinharMasterSpellAddedColdDamageTwoHand2_": {
-    "id": "EinharMasterSpellAddedColdDamageTwoHand2_",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "SpellAddedElementalDamage",
-    "tags": [],
-    "stats": [
-      {
-        "id": "spell_minimum_added_cold_damage",
-        "max": 47,
-        "min": 36
-      },
-      {
-        "id": "spell_maximum_added_cold_damage",
-        "max": 82,
-        "min": 71
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 50
-  },
-  "EinharMasterSpellAddedColdDamageTwoHand3": {
-    "id": "EinharMasterSpellAddedColdDamageTwoHand3",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "SpellAddedElementalDamage",
-    "tags": [],
-    "stats": [
-      {
-        "id": "spell_minimum_added_cold_damage",
-        "max": 69,
-        "min": 52
-      },
-      {
-        "id": "spell_maximum_added_cold_damage",
-        "max": 121,
-        "min": 103
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 68
-  },
-  "EinharMasterSpellAddedFireDamageTwoHand1": {
-    "id": "EinharMasterSpellAddedFireDamageTwoHand1",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "SpellAddedElementalDamage",
-    "tags": [],
-    "stats": [
-      {
-        "id": "spell_minimum_added_fire_damage",
-        "max": 29,
-        "min": 22
-      },
-      {
-        "id": "spell_maximum_added_fire_damage",
-        "max": 49,
-        "min": 42
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 30
-  },
-  "EinharMasterSpellAddedFireDamageTwoHand2": {
-    "id": "EinharMasterSpellAddedFireDamageTwoHand2",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "SpellAddedElementalDamage",
-    "tags": [],
-    "stats": [
-      {
-        "id": "spell_minimum_added_fire_damage",
-        "max": 52,
-        "min": 38
-      },
-      {
-        "id": "spell_maximum_added_fire_damage",
-        "max": 90,
-        "min": 78
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 50
-  },
-  "EinharMasterSpellAddedFireDamageTwoHand3": {
-    "id": "EinharMasterSpellAddedFireDamageTwoHand3",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "SpellAddedElementalDamage",
-    "tags": [],
-    "stats": [
-      {
-        "id": "spell_minimum_added_fire_damage",
-        "max": 75,
-        "min": 56
-      },
-      {
-        "id": "spell_maximum_added_fire_damage",
-        "max": 132,
-        "min": 114
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 68
-  },
-  "EinharMasterSpellAddedLightningDamageTwoHand1": {
-    "id": "EinharMasterSpellAddedLightningDamageTwoHand1",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "SpellAddedElementalDamage",
-    "tags": [],
-    "stats": [
-      {
-        "id": "spell_minimum_added_lightning_damage",
-        "max": 7,
-        "min": 1
-      },
-      {
-        "id": "spell_maximum_added_lightning_damage",
-        "max": 86,
-        "min": 81
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 30
-  },
-  "EinharMasterSpellAddedLightningDamageTwoHand2": {
-    "id": "EinharMasterSpellAddedLightningDamageTwoHand2",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "SpellAddedElementalDamage",
-    "tags": [],
-    "stats": [
-      {
-        "id": "spell_minimum_added_lightning_damage",
-        "max": 12,
-        "min": 4
-      },
-      {
-        "id": "spell_maximum_added_lightning_damage",
-        "max": 158,
-        "min": 149
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 50
-  },
-  "EinharMasterSpellAddedLightningDamageTwoHand3": {
-    "id": "EinharMasterSpellAddedLightningDamageTwoHand3",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "SpellAddedElementalDamage",
-    "tags": [],
-    "stats": [
-      {
-        "id": "spell_minimum_added_lightning_damage",
-        "max": 18,
-        "min": 5
-      },
-      {
-        "id": "spell_maximum_added_lightning_damage",
-        "max": 230,
-        "min": 218
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 68
-  },
-  "EinharMasterSpellDamageOnTwoHandWeapon1": {
-    "id": "EinharMasterSpellDamageOnTwoHandWeapon1",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "WeaponCasterDamagePrefix",
-    "tags": [],
-    "stats": [
-      {
-        "id": "spell_damage_+%",
-        "max": 60,
-        "min": 44
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 20
-  },
-  "EinharMasterSpellDamageOnTwoHandWeapon2": {
-    "id": "EinharMasterSpellDamageOnTwoHandWeapon2",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "WeaponCasterDamagePrefix",
-    "tags": [],
-    "stats": [
-      {
-        "id": "spell_damage_+%",
-        "max": 78,
-        "min": 61
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 40
-  },
-  "EinharMasterSpellDamageOnTwoHandWeapon3": {
-    "id": "EinharMasterSpellDamageOnTwoHandWeapon3",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "WeaponCasterDamagePrefix",
-    "tags": [],
-    "stats": [
-      {
-        "id": "spell_damage_+%",
-        "max": 95,
-        "min": 79
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 60
-  },
-  "EinharMasterSpellDamageOnTwoHandWeapon4_": {
-    "id": "EinharMasterSpellDamageOnTwoHandWeapon4_",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "WeaponCasterDamagePrefix",
-    "tags": [],
-    "stats": [
-      {
-        "id": "spell_damage_+%",
-        "max": 115,
-        "min": 96
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 80
-  },
-  "EinharMasterStaffAttackBlock1": {
-    "id": "EinharMasterStaffAttackBlock1",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "AdditionalBlock",
-    "tags": [],
-    "stats": [
-      {
-        "id": "additional_block_%",
-        "max": 10,
-        "min": 8
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 50
-  },
-  "EinharMasterStaffAttackBlock2": {
-    "id": "EinharMasterStaffAttackBlock2",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "AdditionalBlock",
-    "tags": [],
-    "stats": [
-      {
-        "id": "additional_block_%",
-        "max": 13,
-        "min": 11
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 68
-  },
-  "EinharMasterStaffSpellBlock1": {
-    "id": "EinharMasterStaffSpellBlock1",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "SpellBlockPercentage",
-    "tags": [],
-    "stats": [
-      {
-        "id": "additional_spell_block_%",
-        "max": 10,
-        "min": 8
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 50
-  },
-  "EinharMasterStaffSpellBlock2": {
-    "id": "EinharMasterStaffSpellBlock2",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "SpellBlockPercentage",
-    "tags": [],
-    "stats": [
-      {
-        "id": "additional_spell_block_%",
-        "max": 13,
-        "min": 11
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 68
-  },
-  "EinharMasterStrength2": {
-    "id": "EinharMasterStrength2",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "Strength",
-    "tags": [],
-    "stats": [
-      {
-        "id": "additional_strength",
-        "max": 25,
-        "min": 21
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 20
-  },
-  "EinharMasterStrength3": {
-    "id": "EinharMasterStrength3",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "Strength",
-    "tags": [],
-    "stats": [
-      {
-        "id": "additional_strength",
-        "max": 30,
-        "min": 26
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 40
-  },
-  "EinharMasterTrapDamageOnWeapon2h1": {
-    "id": "EinharMasterTrapDamageOnWeapon2h1",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "WeaponCasterDamagePrefix",
-    "tags": [],
-    "stats": [
-      {
-        "id": "trap_damage_+%",
-        "max": 78,
-        "min": 61
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 50
-  },
-  "EinharMasterTrapDamageOnWeapon2h2": {
-    "id": "EinharMasterTrapDamageOnWeapon2h2",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "WeaponCasterDamagePrefix",
-    "tags": [],
-    "stats": [
-      {
-        "id": "trap_damage_+%",
-        "max": 95,
-        "min": 79
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 68
-  },
-  "EinharMasterTrapThrowingSpeed2h1": {
-    "id": "EinharMasterTrapThrowingSpeed2h1",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "IncreasedCastSpeed",
-    "tags": [],
-    "stats": [
-      {
-        "id": "trap_throwing_speed_+%",
-        "max": 20,
-        "min": 17
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 50
-  },
-  "EinharMasterTrapThrowingSpeed2h2_": {
-    "id": "EinharMasterTrapThrowingSpeed2h2_",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "IncreasedCastSpeed",
-    "tags": [],
-    "stats": [
-      {
-        "id": "trap_throwing_speed_+%",
-        "max": 23,
-        "min": 21
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 68
-  },
-  "EinharMasterTriggerSocketedSpellOnSkillUse1": {
-    "id": "EinharMasterTriggerSocketedSpellOnSkillUse1",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "SupportedByTrigger",
-    "tags": [],
-    "stats": [
-      {
-        "id": "trigger_socketed_spell_on_skill_use_%",
-        "max": 100,
-        "min": 100
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 75
-  },
-  "EinharMasterWeaponElementalDamage1_": {
-    "id": "EinharMasterWeaponElementalDamage1_",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "IncreasedWeaponElementalDamagePercent",
-    "tags": [],
-    "stats": [
-      {
-        "id": "elemental_damage_with_attack_skills_+%",
-        "max": 23,
-        "min": 15
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 30
-  },
-  "EinharMasterWeaponElementalDamage2": {
-    "id": "EinharMasterWeaponElementalDamage2",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "IncreasedWeaponElementalDamagePercent",
-    "tags": [],
-    "stats": [
-      {
-        "id": "elemental_damage_with_attack_skills_+%",
-        "max": 32,
-        "min": 24
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 50
-  },
   "ElementalDamagePercentAddedAsChaosStaffUber1": {
     "id": "ElementalDamagePercentAddedAsChaosStaffUber1",
     "name": "The Shaper's",
     "generationType": "prefix_shaper",
     "domain": "item",
     "group": "ElementalDamagePercentAddedAsChaos",
+    "type": "ElementalDamagePercentAddedAsChaos",
     "tags": [],
     "stats": [
       {
@@ -5697,6 +3851,7 @@ export const MODS = {
     "generationType": "prefix_shaper",
     "domain": "item",
     "group": "ElementalDamagePercentAddedAsChaos",
+    "type": "ElementalDamagePercentAddedAsChaos",
     "tags": [],
     "stats": [
       {
@@ -5729,6 +3884,7 @@ export const MODS = {
     "generationType": "prefix_shaper",
     "domain": "item",
     "group": "ElementalPenetration",
+    "type": "ElementalPenetration",
     "tags": [],
     "stats": [
       {
@@ -5777,6 +3933,7 @@ export const MODS = {
     "generationType": "prefix_shaper",
     "domain": "item",
     "group": "ElementalPenetration",
+    "type": "ElementalPenetration",
     "tags": [],
     "stats": [
       {
@@ -5825,6 +3982,7 @@ export const MODS = {
     "generationType": "prefix_shaper",
     "domain": "item",
     "group": "ElementalPenetration",
+    "type": "ElementalPenetration",
     "tags": [],
     "stats": [
       {
@@ -5873,6 +4031,7 @@ export const MODS = {
     "generationType": "prefix_eyrie",
     "domain": "item",
     "group": "EnduranceChargeOnKillChance",
+    "type": "EnduranceChargeOnKillChance",
     "tags": [],
     "stats": [
       {
@@ -5937,6 +4096,7 @@ export const MODS = {
     "generationType": "prefix_eyrie",
     "domain": "item",
     "group": "EnduranceChargeOnKillChance",
+    "type": "EnduranceChargeOnKillChance",
     "tags": [],
     "stats": [
       {
@@ -6001,6 +4161,7 @@ export const MODS = {
     "generationType": "prefix_eyrie",
     "domain": "item",
     "group": "EnduranceChargeOnKillChanceMaven",
+    "type": "EnduranceChargeOnKillChanceMaven",
     "tags": [],
     "stats": [
       {
@@ -6070,6 +4231,7 @@ export const MODS = {
     "generationType": "suffix_basilisk",
     "domain": "item",
     "group": "FasterIgniteDamage",
+    "type": "FasterIgniteDamage",
     "tags": [],
     "stats": [
       {
@@ -6102,6 +4264,7 @@ export const MODS = {
     "generationType": "suffix_basilisk",
     "domain": "item",
     "group": "FasterIgniteDamage",
+    "type": "FasterIgniteDamage",
     "tags": [],
     "stats": [
       {
@@ -6134,6 +4297,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "FireDamageOverTimeMultiplier",
+    "type": "FireDamageOverTimeMultiplier",
     "tags": [],
     "stats": [
       {
@@ -6162,6 +4326,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "FireDamageOverTimeMultiplier",
+    "type": "FireDamageOverTimeMultiplier",
     "tags": [],
     "stats": [
       {
@@ -6190,6 +4355,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "FireDamageOverTimeMultiplier",
+    "type": "FireDamageOverTimeMultiplier",
     "tags": [],
     "stats": [
       {
@@ -6218,6 +4384,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "FireDamageOverTimeMultiplier",
+    "type": "FireDamageOverTimeMultiplier",
     "tags": [],
     "stats": [
       {
@@ -6246,6 +4413,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "FireDamageOverTimeMultiplier",
+    "type": "FireDamageOverTimeMultiplier",
     "tags": [],
     "stats": [
       {
@@ -6274,6 +4442,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "GlobalDamageOverTimeMultiplier",
+    "type": "GlobalDamageOverTimeMultiplier",
     "tags": [],
     "stats": [
       {
@@ -6306,6 +4475,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "GlobalDamageOverTimeMultiplier",
+    "type": "GlobalDamageOverTimeMultiplier",
     "tags": [],
     "stats": [
       {
@@ -6338,6 +4508,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "GlobalDamageOverTimeMultiplier",
+    "type": "GlobalDamageOverTimeMultiplier",
     "tags": [],
     "stats": [
       {
@@ -6370,6 +4541,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "GlobalDamageOverTimeMultiplier",
+    "type": "GlobalDamageOverTimeMultiplier",
     "tags": [],
     "stats": [
       {
@@ -6402,6 +4574,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "GlobalDamageOverTimeMultiplier",
+    "type": "GlobalDamageOverTimeMultiplier",
     "tags": [],
     "stats": [
       {
@@ -6428,69 +4601,13 @@ export const MODS = {
     ],
     "requiredLevel": 82
   },
-  "HelenaMasterDexterity1": {
-    "id": "HelenaMasterDexterity1",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "Dexterity",
-    "tags": [],
-    "stats": [
-      {
-        "id": "additional_dexterity",
-        "max": 20,
-        "min": 15
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 15
-  },
-  "HelenaMasterIntelligence1": {
-    "id": "HelenaMasterIntelligence1",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "Intelligence",
-    "tags": [],
-    "stats": [
-      {
-        "id": "additional_intelligence",
-        "max": 20,
-        "min": 15
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 15
-  },
-  "HelenaMasterStrength1": {
-    "id": "HelenaMasterStrength1",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "Strength",
-    "tags": [],
-    "stats": [
-      {
-        "id": "additional_strength",
-        "max": 20,
-        "min": 15
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 15
-  },
   "HellscapeDownsideCannotApplyAilments1___": {
     "id": "HellscapeDownsideCannotApplyAilments1___",
     "name": "",
     "generationType": "scourge_detriment",
     "domain": "item",
     "group": "CannotApplyFireAilments",
+    "type": "CannotApplyFireAilments",
     "tags": [],
     "stats": [
       {
@@ -6527,6 +4644,7 @@ export const MODS = {
     "generationType": "scourge_detriment",
     "domain": "item",
     "group": "ChaosResistancePenetration",
+    "type": "ChaosResistancePenetration",
     "tags": [],
     "stats": [
       {
@@ -6555,6 +4673,7 @@ export const MODS = {
     "generationType": "scourge_detriment",
     "domain": "item",
     "group": "ChaosResistancePenetration",
+    "type": "ChaosResistancePenetration",
     "tags": [],
     "stats": [
       {
@@ -6583,6 +4702,7 @@ export const MODS = {
     "generationType": "scourge_detriment",
     "domain": "item",
     "group": "ColdResistancePenetration",
+    "type": "ColdResistancePenetration",
     "tags": [],
     "stats": [
       {
@@ -6611,6 +4731,7 @@ export const MODS = {
     "generationType": "scourge_detriment",
     "domain": "item",
     "group": "ColdResistancePenetration",
+    "type": "ColdResistancePenetration",
     "tags": [],
     "stats": [
       {
@@ -6639,6 +4760,7 @@ export const MODS = {
     "generationType": "scourge_detriment",
     "domain": "item",
     "group": "DealNoChaosDamage",
+    "type": "DealNoChaosDamage",
     "tags": [],
     "stats": [
       {
@@ -6671,6 +4793,7 @@ export const MODS = {
     "generationType": "scourge_detriment",
     "domain": "item",
     "group": "DealNoColdDamage",
+    "type": "DealNoColdDamage",
     "tags": [],
     "stats": [
       {
@@ -6703,6 +4826,7 @@ export const MODS = {
     "generationType": "scourge_detriment",
     "domain": "item",
     "group": "DealNoFireDamage",
+    "type": "DealNoFireDamage",
     "tags": [],
     "stats": [
       {
@@ -6735,6 +4859,7 @@ export const MODS = {
     "generationType": "scourge_detriment",
     "domain": "item",
     "group": "DealNoLightningDamage",
+    "type": "DealNoLightningDamage",
     "tags": [],
     "stats": [
       {
@@ -6767,6 +4892,7 @@ export const MODS = {
     "generationType": "scourge_detriment",
     "domain": "item",
     "group": "DealNoPhysicalDamage",
+    "type": "DealNoPhysicalDamage",
     "tags": [],
     "stats": [
       {
@@ -6799,6 +4925,7 @@ export const MODS = {
     "generationType": "scourge_detriment",
     "domain": "item",
     "group": "FireResistancePenetration",
+    "type": "FireResistancePenetration",
     "tags": [],
     "stats": [
       {
@@ -6827,6 +4954,7 @@ export const MODS = {
     "generationType": "scourge_detriment",
     "domain": "item",
     "group": "FireResistancePenetration",
+    "type": "FireResistancePenetration",
     "tags": [],
     "stats": [
       {
@@ -6855,6 +4983,7 @@ export const MODS = {
     "generationType": "scourge_detriment",
     "domain": "item",
     "group": "HellscapeDownsideIntelligenceRequirement",
+    "type": "HellscapeDownsideIntelligenceRequirement",
     "tags": [],
     "stats": [
       {
@@ -6915,6 +5044,7 @@ export const MODS = {
     "generationType": "scourge_detriment",
     "domain": "item",
     "group": "HellscapeDownsideIntelligenceRequirement",
+    "type": "HellscapeDownsideIntelligenceRequirement",
     "tags": [],
     "stats": [
       {
@@ -6975,6 +5105,7 @@ export const MODS = {
     "generationType": "scourge_detriment",
     "domain": "item",
     "group": "HellscapeDownsideIntelligenceRequirement",
+    "type": "HellscapeDownsideIntelligenceRequirement",
     "tags": [],
     "stats": [
       {
@@ -7035,6 +5166,7 @@ export const MODS = {
     "generationType": "scourge_detriment",
     "domain": "item",
     "group": "HellscapeDownsideIntelligenceRequirement",
+    "type": "HellscapeDownsideIntelligenceRequirement",
     "tags": [],
     "stats": [
       {
@@ -7095,6 +5227,7 @@ export const MODS = {
     "generationType": "scourge_detriment",
     "domain": "item",
     "group": "LightningResistancePenetration",
+    "type": "LightningResistancePenetration",
     "tags": [],
     "stats": [
       {
@@ -7123,6 +5256,7 @@ export const MODS = {
     "generationType": "scourge_detriment",
     "domain": "item",
     "group": "LightningResistancePenetration",
+    "type": "LightningResistancePenetration",
     "tags": [],
     "stats": [
       {
@@ -7151,6 +5285,7 @@ export const MODS = {
     "generationType": "scourge_detriment",
     "domain": "item",
     "group": "ManaRegeneration",
+    "type": "ManaRegeneration",
     "tags": [],
     "stats": [
       {
@@ -7215,6 +5350,7 @@ export const MODS = {
     "generationType": "scourge_detriment",
     "domain": "item",
     "group": "ManaRegeneration",
+    "type": "ManaRegeneration",
     "tags": [],
     "stats": [
       {
@@ -7279,6 +5415,7 @@ export const MODS = {
     "generationType": "scourge_detriment",
     "domain": "item",
     "group": "ManaRegeneration",
+    "type": "ManaRegeneration",
     "tags": [],
     "stats": [
       {
@@ -7343,6 +5480,7 @@ export const MODS = {
     "generationType": "scourge_detriment",
     "domain": "item",
     "group": "ManaRegeneration",
+    "type": "ManaRegeneration",
     "tags": [],
     "stats": [
       {
@@ -7407,6 +5545,7 @@ export const MODS = {
     "generationType": "scourge_detriment",
     "domain": "item",
     "group": "ManaRegeneration",
+    "type": "ManaRegeneration",
     "tags": [],
     "stats": [
       {
@@ -7471,6 +5610,7 @@ export const MODS = {
     "generationType": "scourge_detriment",
     "domain": "item",
     "group": "ManaRegeneration",
+    "type": "ManaRegeneration",
     "tags": [],
     "stats": [
       {
@@ -7535,6 +5675,7 @@ export const MODS = {
     "generationType": "scourge_detriment",
     "domain": "item",
     "group": "ChaosResistance",
+    "type": "ChaosResistance",
     "tags": [],
     "stats": [
       {
@@ -7583,6 +5724,7 @@ export const MODS = {
     "generationType": "scourge_detriment",
     "domain": "item",
     "group": "ChaosResistance",
+    "type": "ChaosResistance",
     "tags": [],
     "stats": [
       {
@@ -7631,6 +5773,7 @@ export const MODS = {
     "generationType": "scourge_detriment",
     "domain": "item",
     "group": "ChaosResistance",
+    "type": "ChaosResistance",
     "tags": [],
     "stats": [
       {
@@ -7679,6 +5822,7 @@ export const MODS = {
     "generationType": "scourge_detriment",
     "domain": "item",
     "group": "ChaosResistance",
+    "type": "ChaosResistance",
     "tags": [],
     "stats": [
       {
@@ -7727,6 +5871,7 @@ export const MODS = {
     "generationType": "scourge_detriment",
     "domain": "item",
     "group": "ColdResistance",
+    "type": "ColdResistance",
     "tags": [],
     "stats": [
       {
@@ -7775,6 +5920,7 @@ export const MODS = {
     "generationType": "scourge_detriment",
     "domain": "item",
     "group": "ColdResistance",
+    "type": "ColdResistance",
     "tags": [],
     "stats": [
       {
@@ -7823,6 +5969,7 @@ export const MODS = {
     "generationType": "scourge_detriment",
     "domain": "item",
     "group": "ColdResistance",
+    "type": "ColdResistance",
     "tags": [],
     "stats": [
       {
@@ -7871,6 +6018,7 @@ export const MODS = {
     "generationType": "scourge_detriment",
     "domain": "item",
     "group": "ColdResistance",
+    "type": "ColdResistance",
     "tags": [],
     "stats": [
       {
@@ -7919,6 +6067,7 @@ export const MODS = {
     "generationType": "scourge_detriment",
     "domain": "item",
     "group": "FireResistance",
+    "type": "FireResistance",
     "tags": [],
     "stats": [
       {
@@ -7967,6 +6116,7 @@ export const MODS = {
     "generationType": "scourge_detriment",
     "domain": "item",
     "group": "FireResistance",
+    "type": "FireResistance",
     "tags": [],
     "stats": [
       {
@@ -8015,6 +6165,7 @@ export const MODS = {
     "generationType": "scourge_detriment",
     "domain": "item",
     "group": "FireResistance",
+    "type": "FireResistance",
     "tags": [],
     "stats": [
       {
@@ -8063,6 +6214,7 @@ export const MODS = {
     "generationType": "scourge_detriment",
     "domain": "item",
     "group": "FireResistance",
+    "type": "FireResistance",
     "tags": [],
     "stats": [
       {
@@ -8111,6 +6263,7 @@ export const MODS = {
     "generationType": "scourge_detriment",
     "domain": "item",
     "group": "LightningResistance",
+    "type": "LightningResistance",
     "tags": [],
     "stats": [
       {
@@ -8159,6 +6312,7 @@ export const MODS = {
     "generationType": "scourge_detriment",
     "domain": "item",
     "group": "LightningResistance",
+    "type": "LightningResistance",
     "tags": [],
     "stats": [
       {
@@ -8207,6 +6361,7 @@ export const MODS = {
     "generationType": "scourge_detriment",
     "domain": "item",
     "group": "LightningResistance",
+    "type": "LightningResistance",
     "tags": [],
     "stats": [
       {
@@ -8255,6 +6410,7 @@ export const MODS = {
     "generationType": "scourge_detriment",
     "domain": "item",
     "group": "LightningResistance",
+    "type": "LightningResistance",
     "tags": [],
     "stats": [
       {
@@ -8303,6 +6459,7 @@ export const MODS = {
     "generationType": "scourge_detriment",
     "domain": "item",
     "group": "HellscapeDownsideStrengthRequirement",
+    "type": "HellscapeDownsideStrengthRequirement",
     "tags": [],
     "stats": [
       {
@@ -8363,6 +6520,7 @@ export const MODS = {
     "generationType": "scourge_detriment",
     "domain": "item",
     "group": "HellscapeDownsideStrengthRequirement",
+    "type": "HellscapeDownsideStrengthRequirement",
     "tags": [],
     "stats": [
       {
@@ -8423,6 +6581,7 @@ export const MODS = {
     "generationType": "scourge_detriment",
     "domain": "item",
     "group": "HellscapeDownsideStrengthRequirement",
+    "type": "HellscapeDownsideStrengthRequirement",
     "tags": [],
     "stats": [
       {
@@ -8483,6 +6642,7 @@ export const MODS = {
     "generationType": "scourge_detriment",
     "domain": "item",
     "group": "HellscapeDownsideStrengthRequirement",
+    "type": "HellscapeDownsideStrengthRequirement",
     "tags": [],
     "stats": [
       {
@@ -8543,6 +6703,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "IntelligenceImplicit",
+    "type": "IntelligenceImplicit",
     "tags": [],
     "stats": [
       {
@@ -8615,6 +6776,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "IntelligenceImplicit",
+    "type": "IntelligenceImplicit",
     "tags": [],
     "stats": [
       {
@@ -8687,6 +6849,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "IntelligenceImplicit",
+    "type": "IntelligenceImplicit",
     "tags": [],
     "stats": [
       {
@@ -8759,6 +6922,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "IntelligenceImplicit",
+    "type": "IntelligenceImplicit",
     "tags": [],
     "stats": [
       {
@@ -8831,6 +6995,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "StrengthImplicit",
+    "type": "StrengthImplicit",
     "tags": [],
     "stats": [
       {
@@ -8903,6 +7068,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "StrengthImplicit",
+    "type": "StrengthImplicit",
     "tags": [],
     "stats": [
       {
@@ -8975,6 +7141,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "StrengthImplicit",
+    "type": "StrengthImplicit",
     "tags": [],
     "stats": [
       {
@@ -9047,6 +7214,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "StrengthImplicit",
+    "type": "StrengthImplicit",
     "tags": [],
     "stats": [
       {
@@ -9119,6 +7287,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "BaseChanceToDealTripleDamage",
+    "type": "BaseChanceToDealTripleDamage",
     "tags": [],
     "stats": [
       {
@@ -9147,6 +7316,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "BaseChanceToDealTripleDamage",
+    "type": "BaseChanceToDealTripleDamage",
     "tags": [],
     "stats": [
       {
@@ -9175,6 +7345,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "BaseChanceToDealTripleDamage",
+    "type": "BaseChanceToDealTripleDamage",
     "tags": [],
     "stats": [
       {
@@ -9203,6 +7374,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "ChanceToFreeze",
+    "type": "ChanceToFreeze",
     "tags": [],
     "stats": [
       {
@@ -9231,6 +7403,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "ChanceToFreeze",
+    "type": "ChanceToFreeze",
     "tags": [],
     "stats": [
       {
@@ -9259,6 +7432,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "ChanceToFreeze",
+    "type": "ChanceToFreeze",
     "tags": [],
     "stats": [
       {
@@ -9287,6 +7461,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "ChanceToIgnite",
+    "type": "ChanceToIgnite",
     "tags": [],
     "stats": [
       {
@@ -9315,6 +7490,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "ChanceToIgnite",
+    "type": "ChanceToIgnite",
     "tags": [],
     "stats": [
       {
@@ -9343,6 +7519,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "ChanceToIgnite",
+    "type": "ChanceToIgnite",
     "tags": [],
     "stats": [
       {
@@ -9371,6 +7548,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "ChanceToShock",
+    "type": "ChanceToShock",
     "tags": [],
     "stats": [
       {
@@ -9399,6 +7577,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "ChanceToShock",
+    "type": "ChanceToShock",
     "tags": [],
     "stats": [
       {
@@ -9427,6 +7606,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "ChanceToShock",
+    "type": "ChanceToShock",
     "tags": [],
     "stats": [
       {
@@ -9455,6 +7635,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "ChaosDamageOverTimeMultiplier",
+    "type": "ChaosDamageOverTimeMultiplier",
     "tags": [],
     "stats": [
       {
@@ -9483,6 +7664,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "ChaosDamageOverTimeMultiplier",
+    "type": "ChaosDamageOverTimeMultiplier",
     "tags": [],
     "stats": [
       {
@@ -9511,6 +7693,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "ChaosResistancePenetration",
+    "type": "ChaosResistancePenetration",
     "tags": [],
     "stats": [
       {
@@ -9539,6 +7722,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "ChaosResistancePenetration",
+    "type": "ChaosResistancePenetration",
     "tags": [],
     "stats": [
       {
@@ -9567,6 +7751,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "ChaosResistancePenetration",
+    "type": "ChaosResistancePenetration",
     "tags": [],
     "stats": [
       {
@@ -9595,6 +7780,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "ChaosResistance",
+    "type": "ChaosResistance",
     "tags": [],
     "stats": [
       {
@@ -9643,6 +7829,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "ChaosResistance",
+    "type": "ChaosResistance",
     "tags": [],
     "stats": [
       {
@@ -9691,6 +7878,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "ChaosResistance",
+    "type": "ChaosResistance",
     "tags": [],
     "stats": [
       {
@@ -9739,6 +7927,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "ChaosResistance",
+    "type": "ChaosResistance",
     "tags": [],
     "stats": [
       {
@@ -9787,6 +7976,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "ColdDamageOverTimeMultiplier",
+    "type": "ColdDamageOverTimeMultiplier",
     "tags": [],
     "stats": [
       {
@@ -9815,6 +8005,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "ColdDamageOverTimeMultiplier",
+    "type": "ColdDamageOverTimeMultiplier",
     "tags": [],
     "stats": [
       {
@@ -9843,6 +8034,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "ColdResistancePenetration",
+    "type": "ColdResistancePenetration",
     "tags": [],
     "stats": [
       {
@@ -9871,6 +8063,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "ColdResistancePenetration",
+    "type": "ColdResistancePenetration",
     "tags": [],
     "stats": [
       {
@@ -9899,6 +8092,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "ColdResistancePenetration",
+    "type": "ColdResistancePenetration",
     "tags": [],
     "stats": [
       {
@@ -9927,6 +8121,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "ColdResistance",
+    "type": "ColdResistance",
     "tags": [],
     "stats": [
       {
@@ -9975,6 +8170,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "ColdResistance",
+    "type": "ColdResistance",
     "tags": [],
     "stats": [
       {
@@ -10023,6 +8219,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "ColdResistance",
+    "type": "ColdResistance",
     "tags": [],
     "stats": [
       {
@@ -10071,6 +8268,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "ColdResistance",
+    "type": "ColdResistance",
     "tags": [],
     "stats": [
       {
@@ -10119,6 +8317,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "CullingStrike",
+    "type": "CullingStrike",
     "tags": [],
     "stats": [
       {
@@ -10147,6 +8346,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "FireDamageOverTimeMultiplier",
+    "type": "FireDamageOverTimeMultiplier",
     "tags": [],
     "stats": [
       {
@@ -10175,6 +8375,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "FireDamageOverTimeMultiplier",
+    "type": "FireDamageOverTimeMultiplier",
     "tags": [],
     "stats": [
       {
@@ -10203,6 +8404,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "FireResistancePenetration",
+    "type": "FireResistancePenetration",
     "tags": [],
     "stats": [
       {
@@ -10231,6 +8433,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "FireResistancePenetration",
+    "type": "FireResistancePenetration",
     "tags": [],
     "stats": [
       {
@@ -10259,6 +8462,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "FireResistancePenetration",
+    "type": "FireResistancePenetration",
     "tags": [],
     "stats": [
       {
@@ -10287,6 +8491,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "FireResistance",
+    "type": "FireResistance",
     "tags": [],
     "stats": [
       {
@@ -10335,6 +8540,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "FireResistance",
+    "type": "FireResistance",
     "tags": [],
     "stats": [
       {
@@ -10383,6 +8589,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "FireResistance",
+    "type": "FireResistance",
     "tags": [],
     "stats": [
       {
@@ -10431,6 +8638,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "FireResistance",
+    "type": "FireResistance",
     "tags": [],
     "stats": [
       {
@@ -10479,6 +8687,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "FasterIgniteDamage",
+    "type": "FasterIgniteDamage",
     "tags": [],
     "stats": [
       {
@@ -10507,6 +8716,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "FasterIgniteDamage",
+    "type": "FasterIgniteDamage",
     "tags": [],
     "stats": [
       {
@@ -10535,6 +8745,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "FasterIgniteDamage",
+    "type": "FasterIgniteDamage",
     "tags": [],
     "stats": [
       {
@@ -10563,6 +8774,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "IncreaseSocketedSupportGemQuality",
+    "type": "IncreaseSocketedSupportGemQuality",
     "tags": [],
     "stats": [
       {
@@ -10595,6 +8807,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "IncreaseSocketedSupportGemQuality",
+    "type": "IncreaseSocketedSupportGemQuality",
     "tags": [],
     "stats": [
       {
@@ -10627,6 +8840,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "ColdExposureOnHit",
+    "type": "ColdExposureOnHit",
     "tags": [],
     "stats": [
       {
@@ -10659,6 +8873,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "ColdExposureOnHit",
+    "type": "ColdExposureOnHit",
     "tags": [],
     "stats": [
       {
@@ -10691,6 +8906,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "ColdExposureOnHit",
+    "type": "ColdExposureOnHit",
     "tags": [],
     "stats": [
       {
@@ -10723,6 +8939,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "FireExposureOnHit",
+    "type": "FireExposureOnHit",
     "tags": [],
     "stats": [
       {
@@ -10755,6 +8972,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "FireExposureOnHit",
+    "type": "FireExposureOnHit",
     "tags": [],
     "stats": [
       {
@@ -10787,6 +9005,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "FireExposureOnHit",
+    "type": "FireExposureOnHit",
     "tags": [],
     "stats": [
       {
@@ -10819,6 +9038,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "LightningExposureOnHit",
+    "type": "LightningExposureOnHit",
     "tags": [],
     "stats": [
       {
@@ -10851,6 +9071,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "LightningExposureOnHit",
+    "type": "LightningExposureOnHit",
     "tags": [],
     "stats": [
       {
@@ -10883,6 +9104,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "LightningExposureOnHit",
+    "type": "LightningExposureOnHit",
     "tags": [],
     "stats": [
       {
@@ -10915,6 +9137,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "LightningResistancePenetration",
+    "type": "LightningResistancePenetration",
     "tags": [],
     "stats": [
       {
@@ -10943,6 +9166,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "LightningResistancePenetration",
+    "type": "LightningResistancePenetration",
     "tags": [],
     "stats": [
       {
@@ -10971,6 +9195,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "LightningResistancePenetration",
+    "type": "LightningResistancePenetration",
     "tags": [],
     "stats": [
       {
@@ -10999,6 +9224,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "LightningResistance",
+    "type": "LightningResistance",
     "tags": [],
     "stats": [
       {
@@ -11047,6 +9273,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "LightningResistance",
+    "type": "LightningResistance",
     "tags": [],
     "stats": [
       {
@@ -11095,6 +9322,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "LightningResistance",
+    "type": "LightningResistance",
     "tags": [],
     "stats": [
       {
@@ -11143,6 +9371,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "LightningResistance",
+    "type": "LightningResistance",
     "tags": [],
     "stats": [
       {
@@ -11191,6 +9420,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "LocalChaosDamage",
+    "type": "LocalChaosDamage",
     "tags": [],
     "stats": [
       {
@@ -11228,6 +9458,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "LocalChaosDamage",
+    "type": "LocalChaosDamage",
     "tags": [],
     "stats": [
       {
@@ -11265,6 +9496,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "LocalChaosDamage",
+    "type": "LocalChaosDamage",
     "tags": [],
     "stats": [
       {
@@ -11302,6 +9534,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "LocalChaosDamage",
+    "type": "LocalChaosDamage",
     "tags": [],
     "stats": [
       {
@@ -11339,6 +9572,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "LocalColdDamage",
+    "type": "LocalColdDamage",
     "tags": [],
     "stats": [
       {
@@ -11376,6 +9610,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "LocalColdDamage",
+    "type": "LocalColdDamage",
     "tags": [],
     "stats": [
       {
@@ -11413,6 +9648,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "LocalColdDamage",
+    "type": "LocalColdDamage",
     "tags": [],
     "stats": [
       {
@@ -11450,6 +9686,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "LocalColdDamage",
+    "type": "LocalColdDamage",
     "tags": [],
     "stats": [
       {
@@ -11487,6 +9724,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "LocalFireDamage",
+    "type": "LocalFireDamage",
     "tags": [],
     "stats": [
       {
@@ -11524,6 +9762,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "LocalFireDamage",
+    "type": "LocalFireDamage",
     "tags": [],
     "stats": [
       {
@@ -11561,6 +9800,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "LocalFireDamage",
+    "type": "LocalFireDamage",
     "tags": [],
     "stats": [
       {
@@ -11598,6 +9838,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "LocalFireDamage",
+    "type": "LocalFireDamage",
     "tags": [],
     "stats": [
       {
@@ -11635,6 +9876,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "LocalLightningDamage",
+    "type": "LocalLightningDamage",
     "tags": [],
     "stats": [
       {
@@ -11672,6 +9914,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "LocalLightningDamage",
+    "type": "LocalLightningDamage",
     "tags": [],
     "stats": [
       {
@@ -11709,6 +9952,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "LocalLightningDamage",
+    "type": "LocalLightningDamage",
     "tags": [],
     "stats": [
       {
@@ -11746,6 +9990,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "LocalLightningDamage",
+    "type": "LocalLightningDamage",
     "tags": [],
     "stats": [
       {
@@ -11783,6 +10028,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "LocalPhysicalDamage",
+    "type": "LocalPhysicalDamage",
     "tags": [],
     "stats": [
       {
@@ -11816,6 +10062,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "LocalPhysicalDamage",
+    "type": "LocalPhysicalDamage",
     "tags": [],
     "stats": [
       {
@@ -11849,6 +10096,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "LocalPhysicalDamage",
+    "type": "LocalPhysicalDamage",
     "tags": [],
     "stats": [
       {
@@ -11882,6 +10130,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "LocalPhysicalDamage",
+    "type": "LocalPhysicalDamage",
     "tags": [],
     "stats": [
       {
@@ -11915,6 +10164,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "ManaRegeneration",
+    "type": "ManaRegeneration",
     "tags": [],
     "stats": [
       {
@@ -11975,6 +10225,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "ManaRegeneration",
+    "type": "ManaRegeneration",
     "tags": [],
     "stats": [
       {
@@ -12035,6 +10286,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "ManaRegeneration",
+    "type": "ManaRegeneration",
     "tags": [],
     "stats": [
       {
@@ -12095,6 +10347,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "ManaRegeneration",
+    "type": "ManaRegeneration",
     "tags": [],
     "stats": [
       {
@@ -12155,6 +10408,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "ManaRegeneration",
+    "type": "ManaRegeneration",
     "tags": [],
     "stats": [
       {
@@ -12215,6 +10469,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "ManaRegeneration",
+    "type": "ManaRegeneration",
     "tags": [],
     "stats": [
       {
@@ -12275,6 +10530,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "PhysicalDamageOverTimeMultiplier",
+    "type": "PhysicalDamageOverTimeMultiplier",
     "tags": [],
     "stats": [
       {
@@ -12303,6 +10559,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "PhysicalDamageOverTimeMultiplier",
+    "type": "PhysicalDamageOverTimeMultiplier",
     "tags": [],
     "stats": [
       {
@@ -12331,6 +10588,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "LocalAttributeRequirements",
+    "type": "LocalAttributeRequirements",
     "tags": [],
     "stats": [
       {
@@ -12379,6 +10637,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "LocalAttributeRequirements",
+    "type": "LocalAttributeRequirements",
     "tags": [],
     "stats": [
       {
@@ -12427,6 +10686,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "LocalAttributeRequirements",
+    "type": "LocalAttributeRequirements",
     "tags": [],
     "stats": [
       {
@@ -12475,6 +10735,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "StunDurationIncreasePercent",
+    "type": "StunDurationIncreasePercent",
     "tags": [],
     "stats": [
       {
@@ -12511,6 +10772,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "StunDurationIncreasePercent",
+    "type": "StunDurationIncreasePercent",
     "tags": [],
     "stats": [
       {
@@ -12547,6 +10809,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "StunDurationIncreasePercent",
+    "type": "StunDurationIncreasePercent",
     "tags": [],
     "stats": [
       {
@@ -12583,6 +10846,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "StunThresholdReduction",
+    "type": "StunThresholdReduction",
     "tags": [],
     "stats": [
       {
@@ -12631,6 +10895,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "StunThresholdReduction",
+    "type": "StunThresholdReduction",
     "tags": [],
     "stats": [
       {
@@ -12679,6 +10944,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "StunThresholdReduction",
+    "type": "StunThresholdReduction",
     "tags": [],
     "stats": [
       {
@@ -12727,6 +10993,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "UnholyMightOnKillPercentChance",
+    "type": "UnholyMightOnKillPercentChance",
     "tags": [],
     "stats": [
       {
@@ -12767,6 +11034,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "UnholyMightOnKillPercentChance",
+    "type": "UnholyMightOnKillPercentChance",
     "tags": [],
     "stats": [
       {
@@ -12807,6 +11075,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "UnholyMightOnKillPercentChance",
+    "type": "UnholyMightOnKillPercentChance",
     "tags": [],
     "stats": [
       {
@@ -12847,6 +11116,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "LocalMeleeWeaponRange",
+    "type": "LocalMeleeWeaponRange",
     "tags": [],
     "stats": [
       {
@@ -12883,6 +11153,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "LocalMeleeWeaponRange",
+    "type": "LocalMeleeWeaponRange",
     "tags": [],
     "stats": [
       {
@@ -12919,6 +11190,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "LocalMeleeWeaponRange",
+    "type": "LocalMeleeWeaponRange",
     "tags": [],
     "stats": [
       {
@@ -12955,6 +11227,7 @@ export const MODS = {
     "generationType": "scourge_benefit",
     "domain": "item",
     "group": "LocalMeleeWeaponRange",
+    "type": "LocalMeleeWeaponRange",
     "tags": [],
     "stats": [
       {
@@ -12991,6 +11264,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "IncreasedMana",
+    "type": "IncreasedMana",
     "tags": [],
     "stats": [
       {
@@ -13019,6 +11293,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "IncreasedMana",
+    "type": "IncreasedMana",
     "tags": [],
     "stats": [
       {
@@ -13047,6 +11322,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "IncreasedMana",
+    "type": "IncreasedMana",
     "tags": [],
     "stats": [
       {
@@ -13075,6 +11351,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "IncreasedMana",
+    "type": "IncreasedMana",
     "tags": [],
     "stats": [
       {
@@ -13103,6 +11380,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "IncreasedMana",
+    "type": "IncreasedMana",
     "tags": [],
     "stats": [
       {
@@ -13131,6 +11409,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "IncreasedMana",
+    "type": "IncreasedMana",
     "tags": [],
     "stats": [
       {
@@ -13159,6 +11438,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "IncreasedMana",
+    "type": "IncreasedMana",
     "tags": [],
     "stats": [
       {
@@ -13187,6 +11467,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "IncreasedMana",
+    "type": "IncreasedMana",
     "tags": [],
     "stats": [
       {
@@ -13215,6 +11496,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "IncreasedMana",
+    "type": "IncreasedMana",
     "tags": [],
     "stats": [
       {
@@ -13243,6 +11525,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "IncreasedMana",
+    "type": "IncreasedMana",
     "tags": [],
     "stats": [
       {
@@ -13271,6 +11554,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "IncreasedMana",
+    "type": "IncreasedMana",
     "tags": [],
     "stats": [
       {
@@ -13299,6 +11583,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "IncreasedMana",
+    "type": "IncreasedMana",
     "tags": [],
     "stats": [
       {
@@ -13327,6 +11612,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "Intelligence",
+    "type": "Intelligence",
     "tags": [],
     "stats": [
       {
@@ -13399,6 +11685,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "Intelligence",
+    "type": "Intelligence",
     "tags": [],
     "stats": [
       {
@@ -13471,6 +11758,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "Intelligence",
+    "type": "Intelligence",
     "tags": [],
     "stats": [
       {
@@ -13543,6 +11831,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "Intelligence",
+    "type": "Intelligence",
     "tags": [],
     "stats": [
       {
@@ -13615,6 +11904,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "Intelligence",
+    "type": "Intelligence",
     "tags": [],
     "stats": [
       {
@@ -13687,6 +11977,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "Intelligence",
+    "type": "Intelligence",
     "tags": [],
     "stats": [
       {
@@ -13759,6 +12050,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "Intelligence",
+    "type": "Intelligence",
     "tags": [],
     "stats": [
       {
@@ -13831,6 +12123,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "Intelligence",
+    "type": "Intelligence",
     "tags": [],
     "stats": [
       {
@@ -13903,6 +12196,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "Intelligence",
+    "type": "Intelligence",
     "tags": [],
     "stats": [
       {
@@ -13969,5199 +12263,13 @@ export const MODS = {
     ],
     "requiredLevel": 82
   },
-  "IntMasterItemGenerationCannotRollAttackAffixes": {
-    "id": "IntMasterItemGenerationCannotRollAttackAffixes",
-    "name": "of Spellcraft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "ItemGenerationCannotRollAttackAffixes",
-    "tags": [],
-    "stats": [
-      {
-        "id": "item_generation_cannot_roll_attack_affixes",
-        "max": 1,
-        "min": 1
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 1
-  },
-  "JunMaster2AlwaysHits1": {
-    "id": "JunMaster2AlwaysHits1",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "AlwaysHits",
-    "tags": [],
-    "stats": [
-      {
-        "id": "local_always_hit",
-        "max": 1,
-        "min": 1
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "bow",
-        "weight": 0
-      },
-      {
-        "tag": "wand",
-        "weight": 0
-      },
-      {
-        "tag": "weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 60
-  },
-  "JunMaster2AttackSpeedPercentIfRareOrUniqueEnemyNearby2h1": {
-    "id": "JunMaster2AttackSpeedPercentIfRareOrUniqueEnemyNearby2h1",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "AttackSpeedPercentIfRareOrUniqueEnemyNearby",
-    "tags": [],
-    "stats": [
-      {
-        "id": "attack_speed_+%_if_rare_or_unique_enemy_nearby",
-        "max": 16,
-        "min": 14
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "two_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 60
-  },
-  "JunMaster2AttackSpeedPercentIfRareOrUniqueEnemyNearby2h2_": {
-    "id": "JunMaster2AttackSpeedPercentIfRareOrUniqueEnemyNearby2h2_",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "AttackSpeedPercentIfRareOrUniqueEnemyNearby",
-    "tags": [],
-    "stats": [
-      {
-        "id": "attack_speed_+%_if_rare_or_unique_enemy_nearby",
-        "max": 19,
-        "min": 17
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "two_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 72
-  },
-  "JunMaster2AttackSpeedPercentIfRareOrUniqueEnemyNearby2h3": {
-    "id": "JunMaster2AttackSpeedPercentIfRareOrUniqueEnemyNearby2h3",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "AttackSpeedPercentIfRareOrUniqueEnemyNearby",
-    "tags": [],
-    "stats": [
-      {
-        "id": "attack_speed_+%_if_rare_or_unique_enemy_nearby",
-        "max": 22,
-        "min": 20
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "two_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 81
-  },
-  "JunMaster2BleedOnHitGained2h2": {
-    "id": "JunMaster2BleedOnHitGained2h2",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "PhysicalDamage",
-    "tags": [],
-    "stats": [
-      {
-        "id": "local_minimum_added_physical_damage",
-        "max": 13,
-        "min": 11
-      },
-      {
-        "id": "local_maximum_added_physical_damage",
-        "max": 17,
-        "min": 16
-      },
-      {
-        "id": "local_chance_to_bleed_on_hit_%",
-        "max": 35,
-        "min": 35
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "two_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 72
-  },
-  "JunMaster2BleedOnHitGained2h3_": {
-    "id": "JunMaster2BleedOnHitGained2h3_",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "PhysicalDamage",
-    "tags": [],
-    "stats": [
-      {
-        "id": "local_minimum_added_physical_damage",
-        "max": 16,
-        "min": 14
-      },
-      {
-        "id": "local_maximum_added_physical_damage",
-        "max": 20,
-        "min": 18
-      },
-      {
-        "id": "local_chance_to_bleed_on_hit_%",
-        "max": 40,
-        "min": 40
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "two_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 81
-  },
-  "JunMaster2CastSpeedAndGainArcaneSurgeOnKillChance2h1_": {
-    "id": "JunMaster2CastSpeedAndGainArcaneSurgeOnKillChance2h1_",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "IncreasedCastSpeed",
-    "tags": [],
-    "stats": [
-      {
-        "id": "base_cast_speed_+%",
-        "max": 14,
-        "min": 12
-      },
-      {
-        "id": "gain_arcane_surge_on_kill_chance_%",
-        "max": 10,
-        "min": 10
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "staff",
-        "weight": 0
-      },
-      {
-        "tag": "two_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 60
-  },
-  "JunMaster2CastSpeedAndGainArcaneSurgeOnKillChance2h2_": {
-    "id": "JunMaster2CastSpeedAndGainArcaneSurgeOnKillChance2h2_",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "IncreasedCastSpeed",
-    "tags": [],
-    "stats": [
-      {
-        "id": "base_cast_speed_+%",
-        "max": 18,
-        "min": 15
-      },
-      {
-        "id": "gain_arcane_surge_on_kill_chance_%",
-        "max": 10,
-        "min": 10
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "staff",
-        "weight": 0
-      },
-      {
-        "tag": "two_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 72
-  },
-  "JunMaster2CastSpeedAndGainArcaneSurgeOnKillChance2h3": {
-    "id": "JunMaster2CastSpeedAndGainArcaneSurgeOnKillChance2h3",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "IncreasedCastSpeed",
-    "tags": [],
-    "stats": [
-      {
-        "id": "base_cast_speed_+%",
-        "max": 24,
-        "min": 19
-      },
-      {
-        "id": "gain_arcane_surge_on_kill_chance_%",
-        "max": 10,
-        "min": 10
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "staff",
-        "weight": 0
-      },
-      {
-        "tag": "two_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 81
-  },
-  "JunMaster2ChanceToDealDoubleDamageWhileFocused2h1_": {
-    "id": "JunMaster2ChanceToDealDoubleDamageWhileFocused2h1_",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "ChanceToDealDoubleDamageWhileFocused",
-    "tags": [],
-    "stats": [
-      {
-        "id": "chance_to_deal_double_damage_%_while_focused",
-        "max": 20,
-        "min": 16
-      },
-      {
-        "id": "grant_focus_skill",
-        "max": 1,
-        "min": 1
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "two_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 60
-  },
-  "JunMaster2ChanceToDealDoubleDamageWhileFocused2h2": {
-    "id": "JunMaster2ChanceToDealDoubleDamageWhileFocused2h2",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "ChanceToDealDoubleDamageWhileFocused",
-    "tags": [],
-    "stats": [
-      {
-        "id": "chance_to_deal_double_damage_%_while_focused",
-        "max": 25,
-        "min": 21
-      },
-      {
-        "id": "grant_focus_skill",
-        "max": 1,
-        "min": 1
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "two_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 72
-  },
-  "JunMaster2ChanceToDealDoubleDamageWhileFocused2h3": {
-    "id": "JunMaster2ChanceToDealDoubleDamageWhileFocused2h3",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "ChanceToDealDoubleDamageWhileFocused",
-    "tags": [],
-    "stats": [
-      {
-        "id": "chance_to_deal_double_damage_%_while_focused",
-        "max": 30,
-        "min": 26
-      },
-      {
-        "id": "grant_focus_skill",
-        "max": 1,
-        "min": 1
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "two_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 81
-  },
-  "JunMaster2ChaosDamageAndChaosSkillDuration2h1": {
-    "id": "JunMaster2ChaosDamageAndChaosSkillDuration2h1",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "WeaponCasterDamagePrefix",
-    "tags": [],
-    "stats": [
-      {
-        "id": "chaos_damage_+%",
-        "max": 69,
-        "min": 60
-      },
-      {
-        "id": "chaos_skill_effect_duration_+%",
-        "max": 17,
-        "min": 15
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "one_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "bow",
-        "weight": 0
-      },
-      {
-        "tag": "staff",
-        "weight": 0
-      },
-      {
-        "tag": "weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 60
-  },
-  "JunMaster2ChaosDamageAndChaosSkillDuration2h2": {
-    "id": "JunMaster2ChaosDamageAndChaosSkillDuration2h2",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "WeaponCasterDamagePrefix",
-    "tags": [],
-    "stats": [
-      {
-        "id": "chaos_damage_+%",
-        "max": 79,
-        "min": 70
-      },
-      {
-        "id": "chaos_skill_effect_duration_+%",
-        "max": 20,
-        "min": 18
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "one_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "bow",
-        "weight": 0
-      },
-      {
-        "tag": "staff",
-        "weight": 0
-      },
-      {
-        "tag": "weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 72
-  },
-  "JunMaster2ChaosDamageAndChaosSkillDuration2h3_": {
-    "id": "JunMaster2ChaosDamageAndChaosSkillDuration2h3_",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "WeaponCasterDamagePrefix",
-    "tags": [],
-    "stats": [
-      {
-        "id": "chaos_damage_+%",
-        "max": 89,
-        "min": 80
-      },
-      {
-        "id": "chaos_skill_effect_duration_+%",
-        "max": 23,
-        "min": 21
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "one_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "bow",
-        "weight": 0
-      },
-      {
-        "tag": "staff",
-        "weight": 0
-      },
-      {
-        "tag": "weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 81
-  },
-  "JunMaster2ChaosDamageOverTimeMultiplierTwoHand1": {
-    "id": "JunMaster2ChaosDamageOverTimeMultiplierTwoHand1",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "DamageOverTimeMultiplier",
-    "tags": [],
-    "stats": [
-      {
-        "id": "chaos_dot_multiplier_+",
-        "max": 27,
-        "min": 25
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "one_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "staff",
-        "weight": 0
-      },
-      {
-        "tag": "bow",
-        "weight": 0
-      },
-      {
-        "tag": "weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 60
-  },
-  "JunMaster2ChaosDamageOverTimeMultiplierTwoHand2_": {
-    "id": "JunMaster2ChaosDamageOverTimeMultiplierTwoHand2_",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "DamageOverTimeMultiplier",
-    "tags": [],
-    "stats": [
-      {
-        "id": "chaos_dot_multiplier_+",
-        "max": 30,
-        "min": 28
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "one_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "staff",
-        "weight": 0
-      },
-      {
-        "tag": "bow",
-        "weight": 0
-      },
-      {
-        "tag": "weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 72
-  },
-  "JunMaster2ChaosDamageOverTimeMultiplierTwoHand3": {
-    "id": "JunMaster2ChaosDamageOverTimeMultiplierTwoHand3",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "DamageOverTimeMultiplier",
-    "tags": [],
-    "stats": [
-      {
-        "id": "chaos_dot_multiplier_+",
-        "max": 35,
-        "min": 31
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "one_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "staff",
-        "weight": 0
-      },
-      {
-        "tag": "bow",
-        "weight": 0
-      },
-      {
-        "tag": "weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 81
-  },
-  "JunMaster2ChaosPenetrationWithAttacks1": {
-    "id": "JunMaster2ChaosPenetrationWithAttacks1",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "ChaosPenetrationWithAttacks",
-    "tags": [],
-    "stats": [
-      {
-        "id": "local_chaos_penetration_%",
-        "max": 7,
-        "min": 6
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "wand",
-        "weight": 0
-      },
-      {
-        "tag": "dagger",
-        "weight": 0
-      },
-      {
-        "tag": "weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 60
-  },
-  "JunMaster2ChaosPenetrationWithAttacks2": {
-    "id": "JunMaster2ChaosPenetrationWithAttacks2",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "ChaosPenetrationWithAttacks",
-    "tags": [],
-    "stats": [
-      {
-        "id": "local_chaos_penetration_%",
-        "max": 10,
-        "min": 8
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "wand",
-        "weight": 0
-      },
-      {
-        "tag": "dagger",
-        "weight": 0
-      },
-      {
-        "tag": "weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 72
-  },
-  "JunMaster2ChaosPenetrationWithAttacks3_": {
-    "id": "JunMaster2ChaosPenetrationWithAttacks3_",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "ChaosPenetrationWithAttacks",
-    "tags": [],
-    "stats": [
-      {
-        "id": "local_chaos_penetration_%",
-        "max": 13,
-        "min": 11
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "wand",
-        "weight": 0
-      },
-      {
-        "tag": "dagger",
-        "weight": 0
-      },
-      {
-        "tag": "weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 81
-  },
-  "JunMaster2ColdAddedAsChaos2h2": {
-    "id": "JunMaster2ColdAddedAsChaos2h2",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "NonChaosAddedAsChaos",
-    "tags": [],
-    "stats": [
-      {
-        "id": "cold_damage_%_to_add_as_chaos",
-        "max": 13,
-        "min": 11
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "two_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 72
-  },
-  "JunMaster2ColdAddedAsChaos2h3": {
-    "id": "JunMaster2ColdAddedAsChaos2h3",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "NonChaosAddedAsChaos",
-    "tags": [],
-    "stats": [
-      {
-        "id": "cold_damage_%_to_add_as_chaos",
-        "max": 16,
-        "min": 14
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "two_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 81
-  },
-  "JunMaster2ColdDamageAndBaseChanceToFreeze2h1": {
-    "id": "JunMaster2ColdDamageAndBaseChanceToFreeze2h1",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "WeaponCasterDamagePrefix",
-    "tags": [],
-    "stats": [
-      {
-        "id": "cold_damage_+%",
-        "max": 73,
-        "min": 63
-      },
-      {
-        "id": "base_chance_to_freeze_%",
-        "max": 24,
-        "min": 21
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "one_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "bow",
-        "weight": 0
-      },
-      {
-        "tag": "staff",
-        "weight": 0
-      },
-      {
-        "tag": "weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 60
-  },
-  "JunMaster2ColdDamageAndBaseChanceToFreeze2h2": {
-    "id": "JunMaster2ColdDamageAndBaseChanceToFreeze2h2",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "WeaponCasterDamagePrefix",
-    "tags": [],
-    "stats": [
-      {
-        "id": "cold_damage_+%",
-        "max": 88,
-        "min": 74
-      },
-      {
-        "id": "base_chance_to_freeze_%",
-        "max": 28,
-        "min": 25
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "one_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "bow",
-        "weight": 0
-      },
-      {
-        "tag": "staff",
-        "weight": 0
-      },
-      {
-        "tag": "weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 72
-  },
-  "JunMaster2ColdDamageAndBaseChanceToFreeze2h3_": {
-    "id": "JunMaster2ColdDamageAndBaseChanceToFreeze2h3_",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "WeaponCasterDamagePrefix",
-    "tags": [],
-    "stats": [
-      {
-        "id": "cold_damage_+%",
-        "max": 105,
-        "min": 89
-      },
-      {
-        "id": "base_chance_to_freeze_%",
-        "max": 34,
-        "min": 29
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "one_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "bow",
-        "weight": 0
-      },
-      {
-        "tag": "staff",
-        "weight": 0
-      },
-      {
-        "tag": "weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 81
-  },
-  "JunMaster2ColdDamageOverTimeMultiplierTwoHand1": {
-    "id": "JunMaster2ColdDamageOverTimeMultiplierTwoHand1",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "DamageOverTimeMultiplier",
-    "tags": [],
-    "stats": [
-      {
-        "id": "cold_dot_multiplier_+",
-        "max": 27,
-        "min": 25
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "bow",
-        "weight": 0
-      },
-      {
-        "tag": "staff",
-        "weight": 0
-      },
-      {
-        "tag": "two_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 60
-  },
-  "JunMaster2ColdDamageOverTimeMultiplierTwoHand2": {
-    "id": "JunMaster2ColdDamageOverTimeMultiplierTwoHand2",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "DamageOverTimeMultiplier",
-    "tags": [],
-    "stats": [
-      {
-        "id": "cold_dot_multiplier_+",
-        "max": 30,
-        "min": 28
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "bow",
-        "weight": 0
-      },
-      {
-        "tag": "staff",
-        "weight": 0
-      },
-      {
-        "tag": "two_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 72
-  },
-  "JunMaster2ColdDamageOverTimeMultiplierTwoHand3": {
-    "id": "JunMaster2ColdDamageOverTimeMultiplierTwoHand3",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "DamageOverTimeMultiplier",
-    "tags": [],
-    "stats": [
-      {
-        "id": "cold_dot_multiplier_+",
-        "max": 35,
-        "min": 31
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "bow",
-        "weight": 0
-      },
-      {
-        "tag": "staff",
-        "weight": 0
-      },
-      {
-        "tag": "two_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 81
-  },
-  "JunMaster2CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby2h1_": {
-    "id": "JunMaster2CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby2h1_",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby",
-    "tags": [],
-    "stats": [
-      {
-        "id": "critical_strike_multiplier_+_if_rare_or_unique_enemy_nearby",
-        "max": 31,
-        "min": 25
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "two_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 60
-  },
-  "JunMaster2CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby2h2": {
-    "id": "JunMaster2CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby2h2",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby",
-    "tags": [],
-    "stats": [
-      {
-        "id": "critical_strike_multiplier_+_if_rare_or_unique_enemy_nearby",
-        "max": 38,
-        "min": 32
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "two_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 72
-  },
-  "JunMaster2CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby2h3": {
-    "id": "JunMaster2CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby2h3",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby",
-    "tags": [],
-    "stats": [
-      {
-        "id": "critical_strike_multiplier_+_if_rare_or_unique_enemy_nearby",
-        "max": 45,
-        "min": 39
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "two_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 81
-  },
-  "JunMaster2DamagePerEnduranceCharge2h1": {
-    "id": "JunMaster2DamagePerEnduranceCharge2h1",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "AllDamage",
-    "tags": [],
-    "stats": [
-      {
-        "id": "damage_+%_per_endurance_charge",
-        "max": 6,
-        "min": 5
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "two_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 60
-  },
-  "JunMaster2DamagePerFrenzyCharge2h1": {
-    "id": "JunMaster2DamagePerFrenzyCharge2h1",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "AllDamage",
-    "tags": [],
-    "stats": [
-      {
-        "id": "damage_+%_per_frenzy_charge",
-        "max": 6,
-        "min": 5
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "two_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 60
-  },
-  "JunMaster2DamagePerPowerCharge2h1__": {
-    "id": "JunMaster2DamagePerPowerCharge2h1__",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "AllDamage",
-    "tags": [],
-    "stats": [
-      {
-        "id": "damage_+%_per_power_charge",
-        "max": 6,
-        "min": 5
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "two_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 60
-  },
-  "JunMaster2DoubleDamageChance2h1": {
-    "id": "JunMaster2DoubleDamageChance2h1",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "DoubleDamage",
-    "tags": [],
-    "stats": [
-      {
-        "id": "chance_to_deal_double_damage_%",
-        "max": 7,
-        "min": 6
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "two_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 60
-  },
-  "JunMaster2DoubleDamageChance2h2": {
-    "id": "JunMaster2DoubleDamageChance2h2",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "DoubleDamage",
-    "tags": [],
-    "stats": [
-      {
-        "id": "chance_to_deal_double_damage_%",
-        "max": 10,
-        "min": 8
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "two_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 72
-  },
-  "JunMaster2ElementalPenetrationWithAttacks1": {
-    "id": "JunMaster2ElementalPenetrationWithAttacks1",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "LocalAttackReduceEnemyElementalResistance",
-    "tags": [],
-    "stats": [
-      {
-        "id": "local_elemental_penetration_%",
-        "max": 7,
-        "min": 6
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "wand",
-        "weight": 0
-      },
-      {
-        "tag": "dagger",
-        "weight": 0
-      },
-      {
-        "tag": "weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 60
-  },
-  "JunMaster2ElementalPenetrationWithAttacks2": {
-    "id": "JunMaster2ElementalPenetrationWithAttacks2",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "LocalAttackReduceEnemyElementalResistance",
-    "tags": [],
-    "stats": [
-      {
-        "id": "local_elemental_penetration_%",
-        "max": 10,
-        "min": 8
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "wand",
-        "weight": 0
-      },
-      {
-        "tag": "dagger",
-        "weight": 0
-      },
-      {
-        "tag": "weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 72
-  },
-  "JunMaster2ElementalPenetrationWithAttacks3": {
-    "id": "JunMaster2ElementalPenetrationWithAttacks3",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "LocalAttackReduceEnemyElementalResistance",
-    "tags": [],
-    "stats": [
-      {
-        "id": "local_elemental_penetration_%",
-        "max": 13,
-        "min": 11
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "wand",
-        "weight": 0
-      },
-      {
-        "tag": "dagger",
-        "weight": 0
-      },
-      {
-        "tag": "weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 81
-  },
-  "JunMaster2FireAddedAsChaos2h2": {
-    "id": "JunMaster2FireAddedAsChaos2h2",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "NonChaosAddedAsChaos",
-    "tags": [],
-    "stats": [
-      {
-        "id": "fire_damage_%_to_add_as_chaos",
-        "max": 13,
-        "min": 11
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "two_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 72
-  },
-  "JunMaster2FireAddedAsChaos2h3_": {
-    "id": "JunMaster2FireAddedAsChaos2h3_",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "NonChaosAddedAsChaos",
-    "tags": [],
-    "stats": [
-      {
-        "id": "fire_damage_%_to_add_as_chaos",
-        "max": 16,
-        "min": 14
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "two_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 81
-  },
-  "JunMaster2FireDamageAndChanceToIgnite2h1": {
-    "id": "JunMaster2FireDamageAndChanceToIgnite2h1",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "WeaponCasterDamagePrefix",
-    "tags": [],
-    "stats": [
-      {
-        "id": "fire_damage_+%",
-        "max": 73,
-        "min": 63
-      },
-      {
-        "id": "base_chance_to_ignite_%",
-        "max": 24,
-        "min": 21
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "one_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "bow",
-        "weight": 0
-      },
-      {
-        "tag": "staff",
-        "weight": 0
-      },
-      {
-        "tag": "weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 60
-  },
-  "JunMaster2FireDamageAndChanceToIgnite2h2": {
-    "id": "JunMaster2FireDamageAndChanceToIgnite2h2",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "WeaponCasterDamagePrefix",
-    "tags": [],
-    "stats": [
-      {
-        "id": "fire_damage_+%",
-        "max": 88,
-        "min": 74
-      },
-      {
-        "id": "base_chance_to_ignite_%",
-        "max": 28,
-        "min": 25
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "one_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "bow",
-        "weight": 0
-      },
-      {
-        "tag": "staff",
-        "weight": 0
-      },
-      {
-        "tag": "weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 72
-  },
-  "JunMaster2FireDamageAndChanceToIgnite2h3": {
-    "id": "JunMaster2FireDamageAndChanceToIgnite2h3",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "WeaponCasterDamagePrefix",
-    "tags": [],
-    "stats": [
-      {
-        "id": "fire_damage_+%",
-        "max": 105,
-        "min": 89
-      },
-      {
-        "id": "base_chance_to_ignite_%",
-        "max": 34,
-        "min": 29
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "one_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "bow",
-        "weight": 0
-      },
-      {
-        "tag": "staff",
-        "weight": 0
-      },
-      {
-        "tag": "weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 81
-  },
-  "JunMaster2FireDamageOverTimeMultiplierTwoHand1_": {
-    "id": "JunMaster2FireDamageOverTimeMultiplierTwoHand1_",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "DamageOverTimeMultiplier",
-    "tags": [],
-    "stats": [
-      {
-        "id": "fire_dot_multiplier_+",
-        "max": 27,
-        "min": 25
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "bow",
-        "weight": 0
-      },
-      {
-        "tag": "staff",
-        "weight": 0
-      },
-      {
-        "tag": "two_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 60
-  },
-  "JunMaster2FireDamageOverTimeMultiplierTwoHand2": {
-    "id": "JunMaster2FireDamageOverTimeMultiplierTwoHand2",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "DamageOverTimeMultiplier",
-    "tags": [],
-    "stats": [
-      {
-        "id": "fire_dot_multiplier_+",
-        "max": 30,
-        "min": 28
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "bow",
-        "weight": 0
-      },
-      {
-        "tag": "staff",
-        "weight": 0
-      },
-      {
-        "tag": "two_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 72
-  },
-  "JunMaster2FireDamageOverTimeMultiplierTwoHand3": {
-    "id": "JunMaster2FireDamageOverTimeMultiplierTwoHand3",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "DamageOverTimeMultiplier",
-    "tags": [],
-    "stats": [
-      {
-        "id": "fire_dot_multiplier_+",
-        "max": 35,
-        "min": 31
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "bow",
-        "weight": 0
-      },
-      {
-        "tag": "staff",
-        "weight": 0
-      },
-      {
-        "tag": "two_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 81
-  },
-  "JunMaster2LightningAddedAsChaos2h2": {
-    "id": "JunMaster2LightningAddedAsChaos2h2",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "NonChaosAddedAsChaos",
-    "tags": [],
-    "stats": [
-      {
-        "id": "lightning_damage_%_to_add_as_chaos",
-        "max": 13,
-        "min": 11
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "two_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 72
-  },
-  "JunMaster2LightningAddedAsChaos2h3___": {
-    "id": "JunMaster2LightningAddedAsChaos2h3___",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "NonChaosAddedAsChaos",
-    "tags": [],
-    "stats": [
-      {
-        "id": "lightning_damage_%_to_add_as_chaos",
-        "max": 16,
-        "min": 14
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "two_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 81
-  },
-  "JunMaster2LightningDamageAndChanceToShock2h1": {
-    "id": "JunMaster2LightningDamageAndChanceToShock2h1",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "WeaponCasterDamagePrefix",
-    "tags": [],
-    "stats": [
-      {
-        "id": "lightning_damage_+%",
-        "max": 73,
-        "min": 63
-      },
-      {
-        "id": "base_chance_to_shock_%",
-        "max": 24,
-        "min": 21
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "one_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "bow",
-        "weight": 0
-      },
-      {
-        "tag": "staff",
-        "weight": 0
-      },
-      {
-        "tag": "weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 60
-  },
-  "JunMaster2LightningDamageAndChanceToShock2h2": {
-    "id": "JunMaster2LightningDamageAndChanceToShock2h2",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "WeaponCasterDamagePrefix",
-    "tags": [],
-    "stats": [
-      {
-        "id": "lightning_damage_+%",
-        "max": 88,
-        "min": 74
-      },
-      {
-        "id": "base_chance_to_shock_%",
-        "max": 28,
-        "min": 25
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "one_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "bow",
-        "weight": 0
-      },
-      {
-        "tag": "staff",
-        "weight": 0
-      },
-      {
-        "tag": "weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 72
-  },
-  "JunMaster2LightningDamageAndChanceToShock2h3": {
-    "id": "JunMaster2LightningDamageAndChanceToShock2h3",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "WeaponCasterDamagePrefix",
-    "tags": [],
-    "stats": [
-      {
-        "id": "lightning_damage_+%",
-        "max": 105,
-        "min": 89
-      },
-      {
-        "id": "base_chance_to_shock_%",
-        "max": 34,
-        "min": 29
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "one_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "bow",
-        "weight": 0
-      },
-      {
-        "tag": "staff",
-        "weight": 0
-      },
-      {
-        "tag": "weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 81
-  },
-  "JunMaster2LocalAccuracyRatingStrengthDexterity1": {
-    "id": "JunMaster2LocalAccuracyRatingStrengthDexterity1",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "IncreasedAccuracy",
-    "tags": [],
-    "stats": [
-      {
-        "id": "local_accuracy_rating",
-        "max": 200,
-        "min": 161
-      },
-      {
-        "id": "additional_strength_and_dexterity",
-        "max": 19,
-        "min": 15
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 60
-  },
-  "JunMaster2LocalAccuracyRatingStrengthDexterity2": {
-    "id": "JunMaster2LocalAccuracyRatingStrengthDexterity2",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "IncreasedAccuracy",
-    "tags": [],
-    "stats": [
-      {
-        "id": "local_accuracy_rating",
-        "max": 250,
-        "min": 201
-      },
-      {
-        "id": "additional_strength_and_dexterity",
-        "max": 24,
-        "min": 20
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 75
-  },
-  "JunMaster2LocalAttackSpeedAndLocalDisplayTriggerLevel1BloodRageOnKillChance1_": {
-    "id": "JunMaster2LocalAttackSpeedAndLocalDisplayTriggerLevel1BloodRageOnKillChance1_",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "IncreasedAttackSpeed",
-    "tags": [],
-    "stats": [
-      {
-        "id": "local_attack_speed_+%",
-        "max": 10,
-        "min": 8
-      },
-      {
-        "id": "local_display_trigger_level_1_blood_rage_on_kill_chance_%",
-        "max": 10,
-        "min": 10
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 60
-  },
-  "JunMaster2LocalAttackSpeedAndLocalDisplayTriggerLevel1BloodRageOnKillChance2": {
-    "id": "JunMaster2LocalAttackSpeedAndLocalDisplayTriggerLevel1BloodRageOnKillChance2",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "IncreasedAttackSpeed",
-    "tags": [],
-    "stats": [
-      {
-        "id": "local_attack_speed_+%",
-        "max": 16,
-        "min": 13
-      },
-      {
-        "id": "local_display_trigger_level_1_blood_rage_on_kill_chance_%",
-        "max": 10,
-        "min": 10
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "ranged",
-        "weight": 0
-      },
-      {
-        "tag": "weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 75
-  },
-  "JunMaster2LocalAttackSpeedDexterityIntelligence1____": {
-    "id": "JunMaster2LocalAttackSpeedDexterityIntelligence1____",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "IncreasedAttackSpeed",
-    "tags": [],
-    "stats": [
-      {
-        "id": "local_attack_speed_+%",
-        "max": 10,
-        "min": 8
-      },
-      {
-        "id": "additional_dexterity_and_intelligence",
-        "max": 19,
-        "min": 15
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 60
-  },
-  "JunMaster2LocalAttackSpeedDexterityIntelligence2": {
-    "id": "JunMaster2LocalAttackSpeedDexterityIntelligence2",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "IncreasedAttackSpeed",
-    "tags": [],
-    "stats": [
-      {
-        "id": "local_attack_speed_+%",
-        "max": 16,
-        "min": 13
-      },
-      {
-        "id": "additional_dexterity_and_intelligence",
-        "max": 24,
-        "min": 20
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 75
-  },
-  "JunMaster2LocalCriticalStrikeChanceStrengthIntelligence1": {
-    "id": "JunMaster2LocalCriticalStrikeChanceStrengthIntelligence1",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "CriticalStrikeChanceIncrease",
-    "tags": [],
-    "stats": [
-      {
-        "id": "local_critical_strike_chance_+%",
-        "max": 20,
-        "min": 15
-      },
-      {
-        "id": "additional_strength_and_intelligence",
-        "max": 19,
-        "min": 15
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 60
-  },
-  "JunMaster2LocalCriticalStrikeChanceStrengthIntelligence2___": {
-    "id": "JunMaster2LocalCriticalStrikeChanceStrengthIntelligence2___",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "CriticalStrikeChanceIncrease",
-    "tags": [],
-    "stats": [
-      {
-        "id": "local_critical_strike_chance_+%",
-        "max": 25,
-        "min": 21
-      },
-      {
-        "id": "additional_strength_and_intelligence",
-        "max": 24,
-        "min": 20
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 75
-  },
-  "JunMaster2LocalIncreasedPhysicalDamageAndBleedChanceCrafted1": {
-    "id": "JunMaster2LocalIncreasedPhysicalDamageAndBleedChanceCrafted1",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "LocalPhysicalDamagePercent",
-    "tags": [],
-    "stats": [
-      {
-        "id": "local_physical_damage_+%",
-        "max": 85,
-        "min": 81
-      },
-      {
-        "id": "local_chance_to_bleed_on_hit_%",
-        "max": 15,
-        "min": 13
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "wand",
-        "weight": 0
-      },
-      {
-        "tag": "sceptre",
-        "weight": 0
-      },
-      {
-        "tag": "dagger",
-        "weight": 0
-      },
-      {
-        "tag": "weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 60
-  },
-  "JunMaster2LocalIncreasedPhysicalDamageAndBleedChanceCrafted2": {
-    "id": "JunMaster2LocalIncreasedPhysicalDamageAndBleedChanceCrafted2",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "LocalPhysicalDamagePercent",
-    "tags": [],
-    "stats": [
-      {
-        "id": "local_physical_damage_+%",
-        "max": 94,
-        "min": 86
-      },
-      {
-        "id": "local_chance_to_bleed_on_hit_%",
-        "max": 17,
-        "min": 16
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "wand",
-        "weight": 0
-      },
-      {
-        "tag": "sceptre",
-        "weight": 0
-      },
-      {
-        "tag": "dagger",
-        "weight": 0
-      },
-      {
-        "tag": "weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 72
-  },
-  "JunMaster2LocalIncreasedPhysicalDamageAndBleedChanceCrafted3": {
-    "id": "JunMaster2LocalIncreasedPhysicalDamageAndBleedChanceCrafted3",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "LocalPhysicalDamagePercent",
-    "tags": [],
-    "stats": [
-      {
-        "id": "local_physical_damage_+%",
-        "max": 105,
-        "min": 95
-      },
-      {
-        "id": "local_chance_to_bleed_on_hit_%",
-        "max": 20,
-        "min": 18
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "wand",
-        "weight": 0
-      },
-      {
-        "tag": "sceptre",
-        "weight": 0
-      },
-      {
-        "tag": "dagger",
-        "weight": 0
-      },
-      {
-        "tag": "weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 81
-  },
-  "JunMaster2LocalIncreasedPhysicalDamageAndBlindChanceCrafted1_": {
-    "id": "JunMaster2LocalIncreasedPhysicalDamageAndBlindChanceCrafted1_",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "LocalPhysicalDamagePercent",
-    "tags": [],
-    "stats": [
-      {
-        "id": "local_physical_damage_+%",
-        "max": 85,
-        "min": 81
-      },
-      {
-        "id": "local_chance_to_blind_on_hit_%",
-        "max": 15,
-        "min": 13
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "wand",
-        "weight": 0
-      },
-      {
-        "tag": "sceptre",
-        "weight": 0
-      },
-      {
-        "tag": "dagger",
-        "weight": 0
-      },
-      {
-        "tag": "weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 60
-  },
-  "JunMaster2LocalIncreasedPhysicalDamageAndBlindChanceCrafted2": {
-    "id": "JunMaster2LocalIncreasedPhysicalDamageAndBlindChanceCrafted2",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "LocalPhysicalDamagePercent",
-    "tags": [],
-    "stats": [
-      {
-        "id": "local_physical_damage_+%",
-        "max": 94,
-        "min": 86
-      },
-      {
-        "id": "local_chance_to_blind_on_hit_%",
-        "max": 17,
-        "min": 16
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "wand",
-        "weight": 0
-      },
-      {
-        "tag": "sceptre",
-        "weight": 0
-      },
-      {
-        "tag": "dagger",
-        "weight": 0
-      },
-      {
-        "tag": "weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 72
-  },
-  "JunMaster2LocalIncreasedPhysicalDamageAndBlindChanceCrafted3": {
-    "id": "JunMaster2LocalIncreasedPhysicalDamageAndBlindChanceCrafted3",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "LocalPhysicalDamagePercent",
-    "tags": [],
-    "stats": [
-      {
-        "id": "local_physical_damage_+%",
-        "max": 105,
-        "min": 95
-      },
-      {
-        "id": "local_chance_to_blind_on_hit_%",
-        "max": 20,
-        "min": 18
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "wand",
-        "weight": 0
-      },
-      {
-        "tag": "sceptre",
-        "weight": 0
-      },
-      {
-        "tag": "dagger",
-        "weight": 0
-      },
-      {
-        "tag": "weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 81
-  },
-  "JunMaster2LocalIncreasedPhysicalDamageAndImpaleCrafted1": {
-    "id": "JunMaster2LocalIncreasedPhysicalDamageAndImpaleCrafted1",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "LocalPhysicalDamagePercent",
-    "tags": [],
-    "stats": [
-      {
-        "id": "local_physical_damage_+%",
-        "max": 85,
-        "min": 81
-      },
-      {
-        "id": "local_attacks_impale_on_hit_%_chance",
-        "max": 15,
-        "min": 13
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "wand",
-        "weight": 0
-      },
-      {
-        "tag": "sceptre",
-        "weight": 0
-      },
-      {
-        "tag": "dagger",
-        "weight": 0
-      },
-      {
-        "tag": "weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 60
-  },
-  "JunMaster2LocalIncreasedPhysicalDamageAndImpaleCrafted2": {
-    "id": "JunMaster2LocalIncreasedPhysicalDamageAndImpaleCrafted2",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "LocalPhysicalDamagePercent",
-    "tags": [],
-    "stats": [
-      {
-        "id": "local_physical_damage_+%",
-        "max": 94,
-        "min": 86
-      },
-      {
-        "id": "local_attacks_impale_on_hit_%_chance",
-        "max": 17,
-        "min": 16
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "wand",
-        "weight": 0
-      },
-      {
-        "tag": "sceptre",
-        "weight": 0
-      },
-      {
-        "tag": "dagger",
-        "weight": 0
-      },
-      {
-        "tag": "weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 72
-  },
-  "JunMaster2LocalIncreasedPhysicalDamageAndImpaleCrafted3": {
-    "id": "JunMaster2LocalIncreasedPhysicalDamageAndImpaleCrafted3",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "LocalPhysicalDamagePercent",
-    "tags": [],
-    "stats": [
-      {
-        "id": "local_physical_damage_+%",
-        "max": 105,
-        "min": 95
-      },
-      {
-        "id": "local_attacks_impale_on_hit_%_chance",
-        "max": 20,
-        "min": 18
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "wand",
-        "weight": 0
-      },
-      {
-        "tag": "sceptre",
-        "weight": 0
-      },
-      {
-        "tag": "dagger",
-        "weight": 0
-      },
-      {
-        "tag": "weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 81
-  },
-  "JunMaster2LocalIncreasedPhysicalDamageAndPoisonChanceCrafted1": {
-    "id": "JunMaster2LocalIncreasedPhysicalDamageAndPoisonChanceCrafted1",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "LocalPhysicalDamagePercent",
-    "tags": [],
-    "stats": [
-      {
-        "id": "local_physical_damage_+%",
-        "max": 85,
-        "min": 81
-      },
-      {
-        "id": "local_poison_on_hit_%",
-        "max": 15,
-        "min": 13
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "wand",
-        "weight": 0
-      },
-      {
-        "tag": "sceptre",
-        "weight": 0
-      },
-      {
-        "tag": "dagger",
-        "weight": 0
-      },
-      {
-        "tag": "weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 60
-  },
-  "JunMaster2LocalIncreasedPhysicalDamageAndPoisonChanceCrafted2_": {
-    "id": "JunMaster2LocalIncreasedPhysicalDamageAndPoisonChanceCrafted2_",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "LocalPhysicalDamagePercent",
-    "tags": [],
-    "stats": [
-      {
-        "id": "local_physical_damage_+%",
-        "max": 94,
-        "min": 86
-      },
-      {
-        "id": "local_poison_on_hit_%",
-        "max": 17,
-        "min": 16
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "wand",
-        "weight": 0
-      },
-      {
-        "tag": "sceptre",
-        "weight": 0
-      },
-      {
-        "tag": "dagger",
-        "weight": 0
-      },
-      {
-        "tag": "weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 72
-  },
-  "JunMaster2LocalIncreasedPhysicalDamageAndPoisonChanceCrafted3": {
-    "id": "JunMaster2LocalIncreasedPhysicalDamageAndPoisonChanceCrafted3",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "LocalPhysicalDamagePercent",
-    "tags": [],
-    "stats": [
-      {
-        "id": "local_physical_damage_+%",
-        "max": 105,
-        "min": 95
-      },
-      {
-        "id": "local_poison_on_hit_%",
-        "max": 20,
-        "min": 18
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "wand",
-        "weight": 0
-      },
-      {
-        "tag": "sceptre",
-        "weight": 0
-      },
-      {
-        "tag": "dagger",
-        "weight": 0
-      },
-      {
-        "tag": "weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 81
-  },
-  "JunMaster2LocalIncreaseSocketedSupportGemLevel1": {
-    "id": "JunMaster2LocalIncreaseSocketedSupportGemLevel1",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "IncreaseSpecificSocketedGemLevel",
-    "tags": [],
-    "stats": [
-      {
-        "id": "local_socketed_support_gem_level_+",
-        "max": 1,
-        "min": 1
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "weapon",
-        "weight": 0
-      },
-      {
-        "tag": "shield",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 60
-  },
-  "JunMaster2LocalIncreaseSocketedSupportGemLevel2": {
-    "id": "JunMaster2LocalIncreaseSocketedSupportGemLevel2",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "IncreaseSpecificSocketedGemLevel",
-    "tags": [],
-    "stats": [
-      {
-        "id": "local_socketed_support_gem_level_+",
-        "max": 2,
-        "min": 2
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "weapon",
-        "weight": 0
-      },
-      {
-        "tag": "shield",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 80
-  },
-  "JunMaster2MinionAttackAndCastSpeedOnWeapon2h1_": {
-    "id": "JunMaster2MinionAttackAndCastSpeedOnWeapon2h1_",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "MinionAttackSpeedAndCastSpeed",
-    "tags": [],
-    "stats": [
-      {
-        "id": "minion_attack_speed_+%",
-        "max": 21,
-        "min": 19
-      },
-      {
-        "id": "minion_cast_speed_+%",
-        "max": 21,
-        "min": 19
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "one_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "staff",
-        "weight": 0
-      },
-      {
-        "tag": "weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 60
-  },
-  "JunMaster2MinionAttackAndCastSpeedOnWeapon2h2": {
-    "id": "JunMaster2MinionAttackAndCastSpeedOnWeapon2h2",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "MinionAttackSpeedAndCastSpeed",
-    "tags": [],
-    "stats": [
-      {
-        "id": "minion_attack_speed_+%",
-        "max": 24,
-        "min": 22
-      },
-      {
-        "id": "minion_cast_speed_+%",
-        "max": 24,
-        "min": 22
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "one_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "staff",
-        "weight": 0
-      },
-      {
-        "tag": "weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 72
-  },
-  "JunMaster2MinionAttackAndCastSpeedOnWeapon2h3_": {
-    "id": "JunMaster2MinionAttackAndCastSpeedOnWeapon2h3_",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "MinionAttackSpeedAndCastSpeed",
-    "tags": [],
-    "stats": [
-      {
-        "id": "minion_attack_speed_+%",
-        "max": 28,
-        "min": 25
-      },
-      {
-        "id": "minion_cast_speed_+%",
-        "max": 28,
-        "min": 25
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "one_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "staff",
-        "weight": 0
-      },
-      {
-        "tag": "weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 81
-  },
-  "JunMaster2MinionDamageAndMinionMaximumLife2h1": {
-    "id": "JunMaster2MinionDamageAndMinionMaximumLife2h1",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "WeaponCasterDamagePrefix",
-    "tags": [],
-    "stats": [
-      {
-        "id": "minion_damage_+%",
-        "max": 32,
-        "min": 26
-      },
-      {
-        "id": "minion_maximum_life_+%",
-        "max": 32,
-        "min": 26
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "one_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "staff",
-        "weight": 0
-      },
-      {
-        "tag": "weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 60
-  },
-  "JunMaster2MinionDamageAndMinionMaximumLife2h2_": {
-    "id": "JunMaster2MinionDamageAndMinionMaximumLife2h2_",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "WeaponCasterDamagePrefix",
-    "tags": [],
-    "stats": [
-      {
-        "id": "minion_damage_+%",
-        "max": 38,
-        "min": 33
-      },
-      {
-        "id": "minion_maximum_life_+%",
-        "max": 38,
-        "min": 33
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "one_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "staff",
-        "weight": 0
-      },
-      {
-        "tag": "weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 72
-  },
-  "JunMaster2MinionDamageAndMinionMaximumLife2h3": {
-    "id": "JunMaster2MinionDamageAndMinionMaximumLife2h3",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "WeaponCasterDamagePrefix",
-    "tags": [],
-    "stats": [
-      {
-        "id": "minion_damage_+%",
-        "max": 45,
-        "min": 39
-      },
-      {
-        "id": "minion_maximum_life_+%",
-        "max": 45,
-        "min": 39
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "one_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "staff",
-        "weight": 0
-      },
-      {
-        "tag": "weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 81
-  },
-  "JunMaster2PhysicalAddedAsChaos2h2": {
-    "id": "JunMaster2PhysicalAddedAsChaos2h2",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "NonChaosAddedAsChaos",
-    "tags": [],
-    "stats": [
-      {
-        "id": "physical_damage_%_to_add_as_chaos",
-        "max": 13,
-        "min": 11
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "two_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 72
-  },
-  "JunMaster2PhysicalAddedAsChaos2h3": {
-    "id": "JunMaster2PhysicalAddedAsChaos2h3",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "NonChaosAddedAsChaos",
-    "tags": [],
-    "stats": [
-      {
-        "id": "physical_damage_%_to_add_as_chaos",
-        "max": 16,
-        "min": 14
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "two_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 81
-  },
-  "JunMaster2PhysicalDamageOverTimeMultiplierTwoHand1": {
-    "id": "JunMaster2PhysicalDamageOverTimeMultiplierTwoHand1",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "DamageOverTimeMultiplier",
-    "tags": [],
-    "stats": [
-      {
-        "id": "physical_dot_multiplier_+",
-        "max": 27,
-        "min": 25
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "bow",
-        "weight": 0
-      },
-      {
-        "tag": "two_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 60
-  },
-  "JunMaster2PhysicalDamageOverTimeMultiplierTwoHand2": {
-    "id": "JunMaster2PhysicalDamageOverTimeMultiplierTwoHand2",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "DamageOverTimeMultiplier",
-    "tags": [],
-    "stats": [
-      {
-        "id": "physical_dot_multiplier_+",
-        "max": 30,
-        "min": 28
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "bow",
-        "weight": 0
-      },
-      {
-        "tag": "two_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 72
-  },
-  "JunMaster2PhysicalDamageOverTimeMultiplierTwoHand3": {
-    "id": "JunMaster2PhysicalDamageOverTimeMultiplierTwoHand3",
-    "name": "of Craft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "DamageOverTimeMultiplier",
-    "tags": [],
-    "stats": [
-      {
-        "id": "physical_dot_multiplier_+",
-        "max": 35,
-        "min": 31
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "bow",
-        "weight": 0
-      },
-      {
-        "tag": "two_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 81
-  },
-  "JunMaster2SocketedGemQuality2": {
-    "id": "JunMaster2SocketedGemQuality2",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "SocketedGemQuality",
-    "tags": [],
-    "stats": [
-      {
-        "id": "local_socketed_gem_quality_+",
-        "max": 7,
-        "min": 6
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "weapon",
-        "weight": 0
-      },
-      {
-        "tag": "shield",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 72
-  },
-  "JunMaster2SocketedGemQuality3": {
-    "id": "JunMaster2SocketedGemQuality3",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "SocketedGemQuality",
-    "tags": [],
-    "stats": [
-      {
-        "id": "local_socketed_gem_quality_+",
-        "max": 8,
-        "min": 7
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "weapon",
-        "weight": 0
-      },
-      {
-        "tag": "shield",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 81
-  },
-  "JunMaster2SpellDamageAndManaRegenerationRate2h1_": {
-    "id": "JunMaster2SpellDamageAndManaRegenerationRate2h1_",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "WeaponCasterDamagePrefix",
-    "tags": [],
-    "stats": [
-      {
-        "id": "spell_damage_+%",
-        "max": 73,
-        "min": 63
-      },
-      {
-        "id": "mana_regeneration_rate_+%",
-        "max": 20,
-        "min": 16
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "bow",
-        "weight": 0
-      },
-      {
-        "tag": "staff",
-        "weight": 0
-      },
-      {
-        "tag": "two_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 60
-  },
-  "JunMaster2SpellDamageAndManaRegenerationRate2h2_": {
-    "id": "JunMaster2SpellDamageAndManaRegenerationRate2h2_",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "WeaponCasterDamagePrefix",
-    "tags": [],
-    "stats": [
-      {
-        "id": "spell_damage_+%",
-        "max": 88,
-        "min": 74
-      },
-      {
-        "id": "mana_regeneration_rate_+%",
-        "max": 25,
-        "min": 21
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "bow",
-        "weight": 0
-      },
-      {
-        "tag": "staff",
-        "weight": 0
-      },
-      {
-        "tag": "two_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 72
-  },
-  "JunMaster2SpellDamageAndManaRegenerationRate2h3_": {
-    "id": "JunMaster2SpellDamageAndManaRegenerationRate2h3_",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "WeaponCasterDamagePrefix",
-    "tags": [],
-    "stats": [
-      {
-        "id": "spell_damage_+%",
-        "max": 105,
-        "min": 89
-      },
-      {
-        "id": "mana_regeneration_rate_+%",
-        "max": 30,
-        "min": 26
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "bow",
-        "weight": 0
-      },
-      {
-        "tag": "staff",
-        "weight": 0
-      },
-      {
-        "tag": "two_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 81
-  },
-  "JunMaster2SpellDamageAndNonChaosDamageToAddAsChaosDamage2h1": {
-    "id": "JunMaster2SpellDamageAndNonChaosDamageToAddAsChaosDamage2h1",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "WeaponCasterDamagePrefix",
-    "tags": [],
-    "stats": [
-      {
-        "id": "spell_damage_+%",
-        "max": 69,
-        "min": 60
-      },
-      {
-        "id": "non_chaos_damage_to_add_as_chaos_damage_%",
-        "max": 4,
-        "min": 3
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "bow",
-        "weight": 0
-      },
-      {
-        "tag": "staff",
-        "weight": 0
-      },
-      {
-        "tag": "two_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 60
-  },
-  "JunMaster2SpellDamageAndNonChaosDamageToAddAsChaosDamage2h2": {
-    "id": "JunMaster2SpellDamageAndNonChaosDamageToAddAsChaosDamage2h2",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "WeaponCasterDamagePrefix",
-    "tags": [],
-    "stats": [
-      {
-        "id": "spell_damage_+%",
-        "max": 79,
-        "min": 70
-      },
-      {
-        "id": "non_chaos_damage_to_add_as_chaos_damage_%",
-        "max": 6,
-        "min": 5
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "bow",
-        "weight": 0
-      },
-      {
-        "tag": "staff",
-        "weight": 0
-      },
-      {
-        "tag": "two_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 72
-  },
-  "JunMaster2SpellDamageAndNonChaosDamageToAddAsChaosDamage2h3": {
-    "id": "JunMaster2SpellDamageAndNonChaosDamageToAddAsChaosDamage2h3",
-    "name": "Upgraded",
-    "generationType": "prefix",
-    "domain": "crafted",
-    "group": "WeaponCasterDamagePrefix",
-    "tags": [],
-    "stats": [
-      {
-        "id": "spell_damage_+%",
-        "max": 89,
-        "min": 80
-      },
-      {
-        "id": "non_chaos_damage_to_add_as_chaos_damage_%",
-        "max": 8,
-        "min": 7
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "bow",
-        "weight": 0
-      },
-      {
-        "tag": "staff",
-        "weight": 0
-      },
-      {
-        "tag": "two_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 81
-  },
-  "JunMasterVeiledAttackSpeedPercentIfRareOrUniqueEnemyNearby2h": {
-    "id": "JunMasterVeiledAttackSpeedPercentIfRareOrUniqueEnemyNearby2h",
-    "name": "of the Order",
-    "generationType": "suffix",
-    "domain": "unveiled",
-    "group": "AttackSpeedPercentIfRareOrUniqueEnemyNearby",
-    "tags": [],
-    "stats": [
-      {
-        "id": "attack_speed_+%_if_rare_or_unique_enemy_nearby",
-        "max": 30,
-        "min": 27
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "two_hand_weapon",
-        "weight": 1000
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 60
-  },
-  "JunMasterVeiledCastSpeedAndGainArcaneSurgeOnKillChance2h_": {
-    "id": "JunMasterVeiledCastSpeedAndGainArcaneSurgeOnKillChance2h_",
-    "name": "of the Order",
-    "generationType": "suffix",
-    "domain": "unveiled",
-    "group": "IncreasedCastSpeed",
-    "tags": [],
-    "stats": [
-      {
-        "id": "base_cast_speed_+%",
-        "max": 31,
-        "min": 26
-      },
-      {
-        "id": "gain_arcane_surge_on_kill_chance_%",
-        "max": 15,
-        "min": 15
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "staff",
-        "weight": 1000
-      },
-      {
-        "tag": "two_hand_weapon",
-        "weight": 100
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 60
-  },
-  "JunMasterVeiledChanceToDealDoubleDamageWhileFocused2h_": {
-    "id": "JunMasterVeiledChanceToDealDoubleDamageWhileFocused2h_",
-    "name": "of the Order",
-    "generationType": "suffix",
-    "domain": "unveiled",
-    "group": "ChanceToDealDoubleDamageWhileFocused",
-    "tags": [],
-    "stats": [
-      {
-        "id": "chance_to_deal_double_damage_%_while_focused",
-        "max": 40,
-        "min": 36
-      },
-      {
-        "id": "grant_focus_skill",
-        "max": 1,
-        "min": 1
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "two_hand_weapon",
-        "weight": 1000
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 60
-  },
-  "JunMasterVeiledChaosDamageAndChaosSkillDuration1h": {
-    "id": "JunMasterVeiledChaosDamageAndChaosSkillDuration1h",
-    "name": "Chosen",
-    "generationType": "prefix",
-    "domain": "unveiled",
-    "group": "WeaponCasterDamagePrefix",
-    "tags": [],
-    "stats": [
-      {
-        "id": "chaos_damage_+%",
-        "max": 69,
-        "min": 60
-      },
-      {
-        "id": "chaos_skill_effect_duration_+%",
-        "max": 15,
-        "min": 13
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "two_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "wand",
-        "weight": 1000
-      },
-      {
-        "tag": "dagger",
-        "weight": 1000
-      },
-      {
-        "tag": "sceptre",
-        "weight": 1000
-      },
-      {
-        "tag": "weapon",
-        "weight": 100
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 60
-  },
-  "JunMasterVeiledChaosDamageAndChaosSkillDuration2h_": {
-    "id": "JunMasterVeiledChaosDamageAndChaosSkillDuration2h_",
-    "name": "Chosen",
-    "generationType": "prefix",
-    "domain": "unveiled",
-    "group": "WeaponCasterDamagePrefix",
-    "tags": [],
-    "stats": [
-      {
-        "id": "chaos_damage_+%",
-        "max": 120,
-        "min": 105
-      },
-      {
-        "id": "chaos_skill_effect_duration_+%",
-        "max": 30,
-        "min": 26
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "one_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "bow",
-        "weight": 0
-      },
-      {
-        "tag": "staff",
-        "weight": 1000
-      },
-      {
-        "tag": "weapon",
-        "weight": 100
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 60
-  },
-  "JunMasterVeiledChaosDamageOverTimeMultiplier__": {
-    "id": "JunMasterVeiledChaosDamageOverTimeMultiplier__",
-    "name": "of the Order",
-    "generationType": "suffix",
-    "domain": "unveiled",
-    "group": "DamageOverTimeMultiplier",
-    "tags": [],
-    "stats": [
-      {
-        "id": "chaos_dot_multiplier_+",
-        "max": 28,
-        "min": 24
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "bow",
-        "weight": 1000
-      },
-      {
-        "tag": "two_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "wand",
-        "weight": 1000
-      },
-      {
-        "tag": "dagger",
-        "weight": 1000
-      },
-      {
-        "tag": "sceptre",
-        "weight": 600
-      },
-      {
-        "tag": "weapon",
-        "weight": 100
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 60
-  },
-  "JunMasterVeiledChaosDamageOverTimeMultiplierTwoHand": {
-    "id": "JunMasterVeiledChaosDamageOverTimeMultiplierTwoHand",
-    "name": "of the Order",
-    "generationType": "suffix",
-    "domain": "unveiled",
-    "group": "DamageOverTimeMultiplier",
-    "tags": [],
-    "stats": [
-      {
-        "id": "chaos_dot_multiplier_+",
-        "max": 48,
-        "min": 44
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "one_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "bow",
-        "weight": 0
-      },
-      {
-        "tag": "staff",
-        "weight": 1000
-      },
-      {
-        "tag": "weapon",
-        "weight": 100
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 60
-  },
-  "JunMasterVeiledChaosPenetrationWithAttacks__": {
-    "id": "JunMasterVeiledChaosPenetrationWithAttacks__",
-    "name": "Chosen",
-    "generationType": "prefix",
-    "domain": "unveiled",
-    "group": "ChaosPenetrationWithAttacks",
-    "tags": [],
-    "stats": [
-      {
-        "id": "local_chaos_penetration_%",
-        "max": 16,
-        "min": 14
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "wand",
-        "weight": 500
-      },
-      {
-        "tag": "dagger",
-        "weight": 500
-      },
-      {
-        "tag": "weapon",
-        "weight": 1000
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 60
-  },
-  "JunMasterVeiledColdDamageAndBaseChanceToFreeze1h": {
-    "id": "JunMasterVeiledColdDamageAndBaseChanceToFreeze1h",
-    "name": "Chosen",
-    "generationType": "prefix",
-    "domain": "unveiled",
-    "group": "WeaponCasterDamagePrefix",
-    "tags": [],
-    "stats": [
-      {
-        "id": "cold_damage_+%",
-        "max": 79,
-        "min": 70
-      },
-      {
-        "id": "base_chance_to_freeze_%",
-        "max": 23,
-        "min": 21
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "two_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "wand",
-        "weight": 1000
-      },
-      {
-        "tag": "dagger",
-        "weight": 1000
-      },
-      {
-        "tag": "sceptre",
-        "weight": 1000
-      },
-      {
-        "tag": "weapon",
-        "weight": 100
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 60
-  },
-  "JunMasterVeiledColdDamageAndBaseChanceToFreeze2h__": {
-    "id": "JunMasterVeiledColdDamageAndBaseChanceToFreeze2h__",
-    "name": "Chosen",
-    "generationType": "prefix",
-    "domain": "unveiled",
-    "group": "WeaponCasterDamagePrefix",
-    "tags": [],
-    "stats": [
-      {
-        "id": "cold_damage_+%",
-        "max": 138,
-        "min": 123
-      },
-      {
-        "id": "base_chance_to_freeze_%",
-        "max": 40,
-        "min": 35
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "one_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "bow",
-        "weight": 0
-      },
-      {
-        "tag": "staff",
-        "weight": 1000
-      },
-      {
-        "tag": "weapon",
-        "weight": 100
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 60
-  },
-  "JunMasterVeiledColdDamageOverTimeMultiplier___": {
-    "id": "JunMasterVeiledColdDamageOverTimeMultiplier___",
-    "name": "of the Order",
-    "generationType": "suffix",
-    "domain": "unveiled",
-    "group": "DamageOverTimeMultiplier",
-    "tags": [],
-    "stats": [
-      {
-        "id": "cold_dot_multiplier_+",
-        "max": 28,
-        "min": 24
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "two_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "wand",
-        "weight": 1000
-      },
-      {
-        "tag": "dagger",
-        "weight": 1000
-      },
-      {
-        "tag": "sceptre",
-        "weight": 600
-      },
-      {
-        "tag": "weapon",
-        "weight": 400
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 60
-  },
-  "JunMasterVeiledColdDamageOverTimeMultiplierTwoHand": {
-    "id": "JunMasterVeiledColdDamageOverTimeMultiplierTwoHand",
-    "name": "of the Order",
-    "generationType": "suffix",
-    "domain": "unveiled",
-    "group": "DamageOverTimeMultiplier",
-    "tags": [],
-    "stats": [
-      {
-        "id": "cold_dot_multiplier_+",
-        "max": 48,
-        "min": 44
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "bow",
-        "weight": 0
-      },
-      {
-        "tag": "staff",
-        "weight": 1000
-      },
-      {
-        "tag": "two_hand_weapon",
-        "weight": 400
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 60
-  },
-  "JunMasterVeiledCriticalStrikeMultiplierIfRareOrUniqueEnemyNearby2h": {
-    "id": "JunMasterVeiledCriticalStrikeMultiplierIfRareOrUniqueEnemyNearby2h",
-    "name": "of the Order",
-    "generationType": "suffix",
-    "domain": "unveiled",
-    "group": "CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby",
-    "tags": [],
-    "stats": [
-      {
-        "id": "critical_strike_multiplier_+_if_rare_or_unique_enemy_nearby",
-        "max": 60,
-        "min": 54
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "two_hand_weapon",
-        "weight": 1000
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 60
-  },
-  "JunMasterVeiledDamagePerEnduranceCharge2h": {
-    "id": "JunMasterVeiledDamagePerEnduranceCharge2h",
-    "name": "of the Order",
-    "generationType": "suffix",
-    "domain": "unveiled",
-    "group": "AllDamage",
-    "tags": [],
-    "stats": [
-      {
-        "id": "damage_+%_per_endurance_charge",
-        "max": 8,
-        "min": 7
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "two_hand_weapon",
-        "weight": 1000
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 60
-  },
-  "JunMasterVeiledDamagePerFrenzyCharge2h__": {
-    "id": "JunMasterVeiledDamagePerFrenzyCharge2h__",
-    "name": "of the Order",
-    "generationType": "suffix",
-    "domain": "unveiled",
-    "group": "AllDamage",
-    "tags": [],
-    "stats": [
-      {
-        "id": "damage_+%_per_frenzy_charge",
-        "max": 8,
-        "min": 7
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "two_hand_weapon",
-        "weight": 1000
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 60
-  },
-  "JunMasterVeiledDamagePerPowerCharge2h": {
-    "id": "JunMasterVeiledDamagePerPowerCharge2h",
-    "name": "of the Order",
-    "generationType": "suffix",
-    "domain": "unveiled",
-    "group": "AllDamage",
-    "tags": [],
-    "stats": [
-      {
-        "id": "damage_+%_per_power_charge",
-        "max": 8,
-        "min": 7
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "two_hand_weapon",
-        "weight": 1000
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 60
-  },
-  "JunMasterVeiledDoubleDamageChance2h_": {
-    "id": "JunMasterVeiledDoubleDamageChance2h_",
-    "name": "of the Order",
-    "generationType": "suffix",
-    "domain": "unveiled",
-    "group": "DoubleDamage",
-    "tags": [],
-    "stats": [
-      {
-        "id": "chance_to_deal_double_damage_%",
-        "max": 14,
-        "min": 12
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "two_hand_weapon",
-        "weight": 1000
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 60
-  },
-  "JunMasterVeiledElementalPenetrationWithAttacks_": {
-    "id": "JunMasterVeiledElementalPenetrationWithAttacks_",
-    "name": "Chosen",
-    "generationType": "prefix",
-    "domain": "unveiled",
-    "group": "LocalAttackReduceEnemyElementalResistance",
-    "tags": [],
-    "stats": [
-      {
-        "id": "local_elemental_penetration_%",
-        "max": 16,
-        "min": 14
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "wand",
-        "weight": 500
-      },
-      {
-        "tag": "dagger",
-        "weight": 500
-      },
-      {
-        "tag": "weapon",
-        "weight": 1000
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 60
-  },
-  "JunMasterVeiledFireDamageAndChanceToIgnite1h": {
-    "id": "JunMasterVeiledFireDamageAndChanceToIgnite1h",
-    "name": "Chosen",
-    "generationType": "prefix",
-    "domain": "unveiled",
-    "group": "WeaponCasterDamagePrefix",
-    "tags": [],
-    "stats": [
-      {
-        "id": "fire_damage_+%",
-        "max": 79,
-        "min": 70
-      },
-      {
-        "id": "base_chance_to_ignite_%",
-        "max": 23,
-        "min": 21
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "two_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "wand",
-        "weight": 1000
-      },
-      {
-        "tag": "dagger",
-        "weight": 1000
-      },
-      {
-        "tag": "sceptre",
-        "weight": 1000
-      },
-      {
-        "tag": "weapon",
-        "weight": 100
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 60
-  },
-  "JunMasterVeiledFireDamageAndChanceToIgnite2h": {
-    "id": "JunMasterVeiledFireDamageAndChanceToIgnite2h",
-    "name": "Chosen",
-    "generationType": "prefix",
-    "domain": "unveiled",
-    "group": "WeaponCasterDamagePrefix",
-    "tags": [],
-    "stats": [
-      {
-        "id": "fire_damage_+%",
-        "max": 138,
-        "min": 123
-      },
-      {
-        "id": "base_chance_to_ignite_%",
-        "max": 40,
-        "min": 35
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "one_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "bow",
-        "weight": 0
-      },
-      {
-        "tag": "staff",
-        "weight": 1000
-      },
-      {
-        "tag": "weapon",
-        "weight": 100
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 60
-  },
-  "JunMasterVeiledFireDamageOverTimeMultiplier": {
-    "id": "JunMasterVeiledFireDamageOverTimeMultiplier",
-    "name": "of the Order",
-    "generationType": "suffix",
-    "domain": "unveiled",
-    "group": "DamageOverTimeMultiplier",
-    "tags": [],
-    "stats": [
-      {
-        "id": "fire_dot_multiplier_+",
-        "max": 28,
-        "min": 24
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "bow",
-        "weight": 100
-      },
-      {
-        "tag": "two_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "wand",
-        "weight": 1000
-      },
-      {
-        "tag": "dagger",
-        "weight": 1000
-      },
-      {
-        "tag": "sceptre",
-        "weight": 600
-      },
-      {
-        "tag": "weapon",
-        "weight": 400
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 60
-  },
-  "JunMasterVeiledFireDamageOverTimeMultiplierTwoHand": {
-    "id": "JunMasterVeiledFireDamageOverTimeMultiplierTwoHand",
-    "name": "of the Order",
-    "generationType": "suffix",
-    "domain": "unveiled",
-    "group": "DamageOverTimeMultiplier",
-    "tags": [],
-    "stats": [
-      {
-        "id": "fire_dot_multiplier_+",
-        "max": 48,
-        "min": 44
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "bow",
-        "weight": 0
-      },
-      {
-        "tag": "staff",
-        "weight": 1000
-      },
-      {
-        "tag": "two_hand_weapon",
-        "weight": 400
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 60
-  },
-  "JunMasterVeiledLightningDamageAndChanceToShock1h_": {
-    "id": "JunMasterVeiledLightningDamageAndChanceToShock1h_",
-    "name": "Chosen",
-    "generationType": "prefix",
-    "domain": "unveiled",
-    "group": "WeaponCasterDamagePrefix",
-    "tags": [],
-    "stats": [
-      {
-        "id": "lightning_damage_+%",
-        "max": 79,
-        "min": 70
-      },
-      {
-        "id": "base_chance_to_shock_%",
-        "max": 23,
-        "min": 21
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "two_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "wand",
-        "weight": 1000
-      },
-      {
-        "tag": "dagger",
-        "weight": 1000
-      },
-      {
-        "tag": "sceptre",
-        "weight": 1000
-      },
-      {
-        "tag": "weapon",
-        "weight": 100
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 60
-  },
-  "JunMasterVeiledLightningDamageAndChanceToShock2h": {
-    "id": "JunMasterVeiledLightningDamageAndChanceToShock2h",
-    "name": "Chosen",
-    "generationType": "prefix",
-    "domain": "unveiled",
-    "group": "WeaponCasterDamagePrefix",
-    "tags": [],
-    "stats": [
-      {
-        "id": "lightning_damage_+%",
-        "max": 138,
-        "min": 123
-      },
-      {
-        "id": "base_chance_to_shock_%",
-        "max": 40,
-        "min": 35
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "one_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "bow",
-        "weight": 0
-      },
-      {
-        "tag": "staff",
-        "weight": 1000
-      },
-      {
-        "tag": "weapon",
-        "weight": 100
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 60
-  },
-  "JunMasterVeiledLocalAccuracyRatingStrengthDexterity_": {
-    "id": "JunMasterVeiledLocalAccuracyRatingStrengthDexterity_",
-    "name": "of the Order",
-    "generationType": "suffix",
-    "domain": "unveiled",
-    "group": "IncreasedAccuracy",
-    "tags": [],
-    "stats": [
-      {
-        "id": "local_accuracy_rating",
-        "max": 350,
-        "min": 311
-      },
-      {
-        "id": "additional_strength_and_dexterity",
-        "max": 28,
-        "min": 25
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "weapon",
-        "weight": 1000
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 60
-  },
-  "JunMasterVeiledLocalAttackSpeedAndLocalDisplayTriggerLevel1BloodRageOnKillChance_": {
-    "id": "JunMasterVeiledLocalAttackSpeedAndLocalDisplayTriggerLevel1BloodRageOnKillChance_",
-    "name": "of the Order",
-    "generationType": "suffix",
-    "domain": "unveiled",
-    "group": "IncreasedAttackSpeed",
-    "tags": [],
-    "stats": [
-      {
-        "id": "local_attack_speed_+%",
-        "max": 22,
-        "min": 18
-      },
-      {
-        "id": "local_display_trigger_level_1_blood_rage_on_kill_chance_%",
-        "max": 15,
-        "min": 15
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "ranged",
-        "weight": 0
-      },
-      {
-        "tag": "weapon",
-        "weight": 1000
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 60
-  },
-  "JunMasterVeiledLocalAttackSpeedDexterityIntelligence": {
-    "id": "JunMasterVeiledLocalAttackSpeedDexterityIntelligence",
-    "name": "of the Order",
-    "generationType": "suffix",
-    "domain": "unveiled",
-    "group": "IncreasedAttackSpeed",
-    "tags": [],
-    "stats": [
-      {
-        "id": "local_attack_speed_+%",
-        "max": 22,
-        "min": 18
-      },
-      {
-        "id": "additional_dexterity_and_intelligence",
-        "max": 28,
-        "min": 25
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "ranged",
-        "weight": 0
-      },
-      {
-        "tag": "weapon",
-        "weight": 1000
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 60
-  },
-  "JunMasterVeiledLocalCriticalStrikeChanceStrengthIntelligence__": {
-    "id": "JunMasterVeiledLocalCriticalStrikeChanceStrengthIntelligence__",
-    "name": "of the Order",
-    "generationType": "suffix",
-    "domain": "unveiled",
-    "group": "CriticalStrikeChanceIncrease",
-    "tags": [],
-    "stats": [
-      {
-        "id": "local_critical_strike_chance_+%",
-        "max": 32,
-        "min": 28
-      },
-      {
-        "id": "additional_strength_and_intelligence",
-        "max": 28,
-        "min": 25
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "weapon",
-        "weight": 1000
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 60
-  },
-  "JunMasterVeiledLocalIncreasedPhysicalDamageAndBleedChanceCrafted_": {
-    "id": "JunMasterVeiledLocalIncreasedPhysicalDamageAndBleedChanceCrafted_",
-    "name": "Chosen",
-    "generationType": "prefix",
-    "domain": "unveiled",
-    "group": "LocalPhysicalDamagePercent",
-    "tags": [],
-    "stats": [
-      {
-        "id": "local_physical_damage_+%",
-        "max": 139,
-        "min": 120
-      },
-      {
-        "id": "local_chance_to_bleed_on_hit_%",
-        "max": 25,
-        "min": 21
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "wand",
-        "weight": 500
-      },
-      {
-        "tag": "sceptre",
-        "weight": 500
-      },
-      {
-        "tag": "dagger",
-        "weight": 500
-      },
-      {
-        "tag": "weapon",
-        "weight": 1000
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 60
-  },
-  "JunMasterVeiledLocalIncreasedPhysicalDamageAndBlindChanceCrafted_": {
-    "id": "JunMasterVeiledLocalIncreasedPhysicalDamageAndBlindChanceCrafted_",
-    "name": "Chosen",
-    "generationType": "prefix",
-    "domain": "unveiled",
-    "group": "LocalPhysicalDamagePercent",
-    "tags": [],
-    "stats": [
-      {
-        "id": "local_physical_damage_+%",
-        "max": 139,
-        "min": 120
-      },
-      {
-        "id": "local_chance_to_blind_on_hit_%",
-        "max": 25,
-        "min": 21
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "wand",
-        "weight": 500
-      },
-      {
-        "tag": "sceptre",
-        "weight": 500
-      },
-      {
-        "tag": "dagger",
-        "weight": 500
-      },
-      {
-        "tag": "weapon",
-        "weight": 1000
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 60
-  },
-  "JunMasterVeiledLocalIncreasedPhysicalDamageAndImpaleCrafted": {
-    "id": "JunMasterVeiledLocalIncreasedPhysicalDamageAndImpaleCrafted",
-    "name": "Chosen",
-    "generationType": "prefix",
-    "domain": "unveiled",
-    "group": "LocalPhysicalDamagePercent",
-    "tags": [],
-    "stats": [
-      {
-        "id": "local_physical_damage_+%",
-        "max": 139,
-        "min": 120
-      },
-      {
-        "id": "local_attacks_impale_on_hit_%_chance",
-        "max": 25,
-        "min": 21
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "wand",
-        "weight": 500
-      },
-      {
-        "tag": "sceptre",
-        "weight": 500
-      },
-      {
-        "tag": "dagger",
-        "weight": 500
-      },
-      {
-        "tag": "weapon",
-        "weight": 1000
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 60
-  },
-  "JunMasterVeiledLocalIncreasedPhysicalDamageAndPoisonChanceCrafted_": {
-    "id": "JunMasterVeiledLocalIncreasedPhysicalDamageAndPoisonChanceCrafted_",
-    "name": "Chosen",
-    "generationType": "prefix",
-    "domain": "unveiled",
-    "group": "LocalPhysicalDamagePercent",
-    "tags": [],
-    "stats": [
-      {
-        "id": "local_physical_damage_+%",
-        "max": 139,
-        "min": 120
-      },
-      {
-        "id": "local_poison_on_hit_%",
-        "max": 25,
-        "min": 21
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "wand",
-        "weight": 500
-      },
-      {
-        "tag": "sceptre",
-        "weight": 500
-      },
-      {
-        "tag": "dagger",
-        "weight": 500
-      },
-      {
-        "tag": "weapon",
-        "weight": 1000
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 60
-  },
-  "JunMasterVeiledMinionAttackAndCastSpeedOnWeapon1h": {
-    "id": "JunMasterVeiledMinionAttackAndCastSpeedOnWeapon1h",
-    "name": "of the Order",
-    "generationType": "suffix",
-    "domain": "unveiled",
-    "group": "MinionAttackSpeedAndCastSpeed",
-    "tags": [],
-    "stats": [
-      {
-        "id": "minion_attack_speed_+%",
-        "max": 20,
-        "min": 18
-      },
-      {
-        "id": "minion_cast_speed_+%",
-        "max": 20,
-        "min": 18
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "two_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "wand",
-        "weight": 1000
-      },
-      {
-        "tag": "dagger",
-        "weight": 1000
-      },
-      {
-        "tag": "sceptre",
-        "weight": 1000
-      },
-      {
-        "tag": "weapon",
-        "weight": 400
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 60
-  },
-  "JunMasterVeiledMinionAttackAndCastSpeedOnWeapon2h": {
-    "id": "JunMasterVeiledMinionAttackAndCastSpeedOnWeapon2h",
-    "name": "of the Order",
-    "generationType": "suffix",
-    "domain": "unveiled",
-    "group": "MinionAttackSpeedAndCastSpeed",
-    "tags": [],
-    "stats": [
-      {
-        "id": "minion_attack_speed_+%",
-        "max": 38,
-        "min": 34
-      },
-      {
-        "id": "minion_cast_speed_+%",
-        "max": 38,
-        "min": 34
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "one_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "staff",
-        "weight": 1000
-      },
-      {
-        "tag": "weapon",
-        "weight": 400
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 60
-  },
-  "JunMasterVeiledMinionDamageAndMinionMaximumLife1h": {
-    "id": "JunMasterVeiledMinionDamageAndMinionMaximumLife1h",
-    "name": "Chosen",
-    "generationType": "prefix",
-    "domain": "unveiled",
-    "group": "WeaponCasterDamagePrefix",
-    "tags": [],
-    "stats": [
-      {
-        "id": "minion_damage_+%",
-        "max": 38,
-        "min": 34
-      },
-      {
-        "id": "minion_maximum_life_+%",
-        "max": 38,
-        "min": 34
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "two_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "wand",
-        "weight": 1000
-      },
-      {
-        "tag": "dagger",
-        "weight": 1000
-      },
-      {
-        "tag": "sceptre",
-        "weight": 1000
-      },
-      {
-        "tag": "weapon",
-        "weight": 400
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 60
-  },
-  "JunMasterVeiledMinionDamageAndMinionMaximumLife2h__": {
-    "id": "JunMasterVeiledMinionDamageAndMinionMaximumLife2h__",
-    "name": "Chosen",
-    "generationType": "prefix",
-    "domain": "unveiled",
-    "group": "WeaponCasterDamagePrefix",
-    "tags": [],
-    "stats": [
-      {
-        "id": "minion_damage_+%",
-        "max": 59,
-        "min": 50
-      },
-      {
-        "id": "minion_maximum_life_+%",
-        "max": 59,
-        "min": 50
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "one_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "staff",
-        "weight": 1000
-      },
-      {
-        "tag": "weapon",
-        "weight": 400
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 60
-  },
-  "JunMasterVeiledPhysicalDamageOverTimeMultiplier": {
-    "id": "JunMasterVeiledPhysicalDamageOverTimeMultiplier",
-    "name": "of the Order",
-    "generationType": "suffix",
-    "domain": "unveiled",
-    "group": "DamageOverTimeMultiplier",
-    "tags": [],
-    "stats": [
-      {
-        "id": "physical_dot_multiplier_+",
-        "max": 28,
-        "min": 24
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "bow",
-        "weight": 400
-      },
-      {
-        "tag": "two_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "wand",
-        "weight": 1000
-      },
-      {
-        "tag": "weapon",
-        "weight": 400
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 60
-  },
-  "JunMasterVeiledPhysicalDamageOverTimeMultiplierTwoHand_": {
-    "id": "JunMasterVeiledPhysicalDamageOverTimeMultiplierTwoHand_",
-    "name": "of the Order",
-    "generationType": "suffix",
-    "domain": "unveiled",
-    "group": "DamageOverTimeMultiplier",
-    "tags": [],
-    "stats": [
-      {
-        "id": "physical_dot_multiplier_+",
-        "max": 48,
-        "min": 44
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "one_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "bow",
-        "weight": 0
-      },
-      {
-        "tag": "staff",
-        "weight": 1000
-      },
-      {
-        "tag": "weapon",
-        "weight": 400
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 60
-  },
-  "JunMasterVeiledSpellDamageAndManaRegenerationRate1h": {
-    "id": "JunMasterVeiledSpellDamageAndManaRegenerationRate1h",
-    "name": "Chosen",
-    "generationType": "prefix",
-    "domain": "unveiled",
-    "group": "WeaponCasterDamagePrefix",
-    "tags": [],
-    "stats": [
-      {
-        "id": "spell_damage_+%",
-        "max": 79,
-        "min": 70
-      },
-      {
-        "id": "mana_regeneration_rate_+%",
-        "max": 20,
-        "min": 18
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "two_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "wand",
-        "weight": 1000
-      },
-      {
-        "tag": "dagger",
-        "weight": 1000
-      },
-      {
-        "tag": "sceptre",
-        "weight": 1000
-      },
-      {
-        "tag": "weapon",
-        "weight": 100
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 60
-  },
-  "JunMasterVeiledSpellDamageAndManaRegenerationRate2h": {
-    "id": "JunMasterVeiledSpellDamageAndManaRegenerationRate2h",
-    "name": "Chosen",
-    "generationType": "prefix",
-    "domain": "unveiled",
-    "group": "WeaponCasterDamagePrefix",
-    "tags": [],
-    "stats": [
-      {
-        "id": "spell_damage_+%",
-        "max": 138,
-        "min": 123
-      },
-      {
-        "id": "mana_regeneration_rate_+%",
-        "max": 40,
-        "min": 36
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "bow",
-        "weight": 0
-      },
-      {
-        "tag": "staff",
-        "weight": 1000
-      },
-      {
-        "tag": "two_hand_weapon",
-        "weight": 100
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 60
-  },
-  "JunMasterVeiledSpellDamageAndNonChaosDamageToAddAsChaosDamage1h": {
-    "id": "JunMasterVeiledSpellDamageAndNonChaosDamageToAddAsChaosDamage1h",
-    "name": "Chosen",
-    "generationType": "prefix",
-    "domain": "unveiled",
-    "group": "WeaponCasterDamagePrefix",
-    "tags": [],
-    "stats": [
-      {
-        "id": "spell_damage_+%",
-        "max": 69,
-        "min": 60
-      },
-      {
-        "id": "non_chaos_damage_to_add_as_chaos_damage_%",
-        "max": 5,
-        "min": 5
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "two_hand_weapon",
-        "weight": 0
-      },
-      {
-        "tag": "wand",
-        "weight": 1000
-      },
-      {
-        "tag": "dagger",
-        "weight": 1000
-      },
-      {
-        "tag": "sceptre",
-        "weight": 1000
-      },
-      {
-        "tag": "weapon",
-        "weight": 100
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 60
-  },
-  "JunMasterVeiledSpellDamageAndNonChaosDamageToAddAsChaosDamage2h": {
-    "id": "JunMasterVeiledSpellDamageAndNonChaosDamageToAddAsChaosDamage2h",
-    "name": "Chosen",
-    "generationType": "prefix",
-    "domain": "unveiled",
-    "group": "WeaponCasterDamagePrefix",
-    "tags": [],
-    "stats": [
-      {
-        "id": "spell_damage_+%",
-        "max": 120,
-        "min": 105
-      },
-      {
-        "id": "non_chaos_damage_to_add_as_chaos_damage_%",
-        "max": 10,
-        "min": 9
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [
-      {
-        "tag": "bow",
-        "weight": 0
-      },
-      {
-        "tag": "staff",
-        "weight": 1000
-      },
-      {
-        "tag": "two_hand_weapon",
-        "weight": 100
-      },
-      {
-        "tag": "default",
-        "weight": 0
-      }
-    ],
-    "requiredLevel": 60
-  },
   "LifeGainedFromEnemyDeath1": {
     "id": "LifeGainedFromEnemyDeath1",
     "name": "of Success",
     "generationType": "suffix",
     "domain": "item",
     "group": "LifeGainedFromEnemyDeath",
+    "type": "LifeGainedFromEnemyDeath",
     "tags": [],
     "stats": [
       {
@@ -19206,6 +12314,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "LifeGainedFromEnemyDeath",
+    "type": "LifeGainedFromEnemyDeath",
     "tags": [],
     "stats": [
       {
@@ -19250,6 +12359,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "LifeGainedFromEnemyDeath",
+    "type": "LifeGainedFromEnemyDeath",
     "tags": [],
     "stats": [
       {
@@ -19294,6 +12404,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "LifeGainedFromEnemyDeath",
+    "type": "LifeGainedFromEnemyDeath",
     "tags": [],
     "stats": [
       {
@@ -19338,6 +12449,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "LifeGainedFromEnemyDeath",
+    "type": "LifeGainedFromEnemyDeath",
     "tags": [],
     "stats": [
       {
@@ -19382,6 +12494,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "LifeGainedFromEnemyDeath",
+    "type": "LifeGainedFromEnemyDeath",
     "tags": [],
     "stats": [
       {
@@ -19426,6 +12539,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "LifeGainPerTargetLocal",
+    "type": "LifeGainPerTargetLocal",
     "tags": [],
     "stats": [
       {
@@ -19454,6 +12568,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "LifeGainPerTargetLocal",
+    "type": "LifeGainPerTargetLocal",
     "tags": [],
     "stats": [
       {
@@ -19482,6 +12597,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "LifeGainPerTargetLocal",
+    "type": "LifeGainPerTargetLocal",
     "tags": [],
     "stats": [
       {
@@ -19510,6 +12626,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "LifeGainPerTargetLocal",
+    "type": "LifeGainPerTargetLocal",
     "tags": [],
     "stats": [
       {
@@ -19538,6 +12655,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "LifeGainPerTargetLocal",
+    "type": "LifeGainPerTargetLocal",
     "tags": [],
     "stats": [
       {
@@ -19566,6 +12684,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "LifeGainPerTargetLocal",
+    "type": "LifeGainPerTargetLocal",
     "tags": [],
     "stats": [
       {
@@ -19594,6 +12713,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "LifeGainPerTargetLocal",
+    "type": "LifeGainPerTargetLocal",
     "tags": [],
     "stats": [
       {
@@ -19622,6 +12742,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "LifeGainPerTargetLocal",
+    "type": "LifeGainPerTargetLocal",
     "tags": [],
     "stats": [
       {
@@ -19650,6 +12771,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "LifeLeechLocalPermyriad",
+    "type": "LifeLeechLocalPermyriad",
     "tags": [],
     "stats": [
       {
@@ -19678,6 +12800,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "LifeLeechLocalPermyriad",
+    "type": "LifeLeechLocalPermyriad",
     "tags": [],
     "stats": [
       {
@@ -19710,6 +12833,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "LifeLeechLocalPermyriad",
+    "type": "LifeLeechLocalPermyriad",
     "tags": [],
     "stats": [
       {
@@ -19742,6 +12866,7 @@ export const MODS = {
     "generationType": "prefix_basilisk",
     "domain": "item",
     "group": "LocalChaosDamagePenetrationHybrid",
+    "type": "LocalChaosDamagePenetrationHybrid",
     "tags": [],
     "stats": [
       {
@@ -19796,6 +12921,7 @@ export const MODS = {
     "generationType": "prefix_basilisk",
     "domain": "item",
     "group": "LocalChaosDamagePenetrationHybrid",
+    "type": "LocalChaosDamagePenetrationHybrid",
     "tags": [],
     "stats": [
       {
@@ -19850,6 +12976,7 @@ export const MODS = {
     "generationType": "prefix_basilisk",
     "domain": "item",
     "group": "LocalChaosDamagePenetrationHybrid",
+    "type": "LocalChaosDamagePenetrationHybrid",
     "tags": [],
     "stats": [
       {
@@ -19904,6 +13031,7 @@ export const MODS = {
     "generationType": "prefix_basilisk",
     "domain": "item",
     "group": "LocalChaosDamagePenetrationHybrid",
+    "type": "LocalChaosDamagePenetrationHybrid",
     "tags": [],
     "stats": [
       {
@@ -19958,6 +13086,7 @@ export const MODS = {
     "generationType": "prefix_basilisk",
     "domain": "item",
     "group": "LocalChaosDamagePenetrationHybrid",
+    "type": "LocalChaosDamagePenetrationHybrid",
     "tags": [],
     "stats": [
       {
@@ -20012,6 +13141,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "LocalChaosDamageTwoHand",
+    "type": "LocalChaosDamageTwoHand",
     "tags": [],
     "stats": [
       {
@@ -20065,6 +13195,7 @@ export const MODS = {
     "generationType": "prefix_eyrie",
     "domain": "item",
     "group": "LocalColdDamagePenetrationHybrid",
+    "type": "LocalColdDamagePenetrationHybrid",
     "tags": [],
     "stats": [
       {
@@ -20119,6 +13250,7 @@ export const MODS = {
     "generationType": "prefix_eyrie",
     "domain": "item",
     "group": "LocalColdDamagePenetrationHybrid",
+    "type": "LocalColdDamagePenetrationHybrid",
     "tags": [],
     "stats": [
       {
@@ -20173,6 +13305,7 @@ export const MODS = {
     "generationType": "prefix_eyrie",
     "domain": "item",
     "group": "LocalColdDamagePenetrationHybrid",
+    "type": "LocalColdDamagePenetrationHybrid",
     "tags": [],
     "stats": [
       {
@@ -20227,6 +13360,7 @@ export const MODS = {
     "generationType": "prefix_eyrie",
     "domain": "item",
     "group": "LocalColdDamagePenetrationHybrid",
+    "type": "LocalColdDamagePenetrationHybrid",
     "tags": [],
     "stats": [
       {
@@ -20281,6 +13415,7 @@ export const MODS = {
     "generationType": "prefix_eyrie",
     "domain": "item",
     "group": "LocalColdDamagePenetrationHybrid",
+    "type": "LocalColdDamagePenetrationHybrid",
     "tags": [],
     "stats": [
       {
@@ -20335,6 +13470,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "LocalColdDamageTwoHand",
+    "type": "LocalColdDamageTwoHand",
     "tags": [],
     "stats": [
       {
@@ -20388,6 +13524,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "LocalColdDamageTwoHand",
+    "type": "LocalColdDamageTwoHand",
     "tags": [],
     "stats": [
       {
@@ -20441,6 +13578,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "LocalColdDamageTwoHand",
+    "type": "LocalColdDamageTwoHand",
     "tags": [],
     "stats": [
       {
@@ -20494,6 +13632,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "LocalColdDamageTwoHand",
+    "type": "LocalColdDamageTwoHand",
     "tags": [],
     "stats": [
       {
@@ -20547,6 +13686,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "LocalColdDamageTwoHand",
+    "type": "LocalColdDamageTwoHand",
     "tags": [],
     "stats": [
       {
@@ -20600,6 +13740,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "LocalColdDamageTwoHand",
+    "type": "LocalColdDamageTwoHand",
     "tags": [],
     "stats": [
       {
@@ -20653,6 +13794,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "LocalColdDamageTwoHand",
+    "type": "LocalColdDamageTwoHand",
     "tags": [],
     "stats": [
       {
@@ -20706,6 +13848,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "LocalColdDamageTwoHand",
+    "type": "LocalColdDamageTwoHand",
     "tags": [],
     "stats": [
       {
@@ -20759,6 +13902,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "LocalColdDamageTwoHand",
+    "type": "LocalColdDamageTwoHand",
     "tags": [],
     "stats": [
       {
@@ -20812,6 +13956,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "LocalColdDamageTwoHand",
+    "type": "LocalColdDamageTwoHand",
     "tags": [],
     "stats": [
       {
@@ -20865,6 +14010,7 @@ export const MODS = {
     "generationType": "prefix_adjudicator",
     "domain": "item",
     "group": "LocalFireDamagePenetrationHybrid",
+    "type": "LocalFireDamagePenetrationHybrid",
     "tags": [],
     "stats": [
       {
@@ -20919,6 +14065,7 @@ export const MODS = {
     "generationType": "prefix_adjudicator",
     "domain": "item",
     "group": "LocalFireDamagePenetrationHybrid",
+    "type": "LocalFireDamagePenetrationHybrid",
     "tags": [],
     "stats": [
       {
@@ -20973,6 +14120,7 @@ export const MODS = {
     "generationType": "prefix_adjudicator",
     "domain": "item",
     "group": "LocalFireDamagePenetrationHybrid",
+    "type": "LocalFireDamagePenetrationHybrid",
     "tags": [],
     "stats": [
       {
@@ -21027,6 +14175,7 @@ export const MODS = {
     "generationType": "prefix_adjudicator",
     "domain": "item",
     "group": "LocalFireDamagePenetrationHybrid",
+    "type": "LocalFireDamagePenetrationHybrid",
     "tags": [],
     "stats": [
       {
@@ -21081,6 +14230,7 @@ export const MODS = {
     "generationType": "prefix_adjudicator",
     "domain": "item",
     "group": "LocalFireDamagePenetrationHybrid",
+    "type": "LocalFireDamagePenetrationHybrid",
     "tags": [],
     "stats": [
       {
@@ -21135,6 +14285,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "LocalFireDamageTwoHand",
+    "type": "LocalFireDamageTwoHand",
     "tags": [],
     "stats": [
       {
@@ -21188,6 +14339,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "LocalFireDamageTwoHand",
+    "type": "LocalFireDamageTwoHand",
     "tags": [],
     "stats": [
       {
@@ -21241,6 +14393,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "LocalFireDamageTwoHand",
+    "type": "LocalFireDamageTwoHand",
     "tags": [],
     "stats": [
       {
@@ -21294,6 +14447,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "LocalFireDamageTwoHand",
+    "type": "LocalFireDamageTwoHand",
     "tags": [],
     "stats": [
       {
@@ -21347,6 +14501,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "LocalFireDamageTwoHand",
+    "type": "LocalFireDamageTwoHand",
     "tags": [],
     "stats": [
       {
@@ -21400,6 +14555,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "LocalFireDamageTwoHand",
+    "type": "LocalFireDamageTwoHand",
     "tags": [],
     "stats": [
       {
@@ -21453,6 +14609,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "LocalFireDamageTwoHand",
+    "type": "LocalFireDamageTwoHand",
     "tags": [],
     "stats": [
       {
@@ -21506,6 +14663,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "LocalFireDamageTwoHand",
+    "type": "LocalFireDamageTwoHand",
     "tags": [],
     "stats": [
       {
@@ -21559,6 +14717,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "LocalFireDamageTwoHand",
+    "type": "LocalFireDamageTwoHand",
     "tags": [],
     "stats": [
       {
@@ -21612,6 +14771,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "LocalFireDamageTwoHand",
+    "type": "LocalFireDamageTwoHand",
     "tags": [],
     "stats": [
       {
@@ -21665,6 +14825,7 @@ export const MODS = {
     "generationType": "prefix_crusader",
     "domain": "item",
     "group": "LocalLightningDamagePenetrationHybrid",
+    "type": "LocalLightningDamagePenetrationHybrid",
     "tags": [],
     "stats": [
       {
@@ -21719,6 +14880,7 @@ export const MODS = {
     "generationType": "prefix_crusader",
     "domain": "item",
     "group": "LocalLightningDamagePenetrationHybrid",
+    "type": "LocalLightningDamagePenetrationHybrid",
     "tags": [],
     "stats": [
       {
@@ -21773,6 +14935,7 @@ export const MODS = {
     "generationType": "prefix_crusader",
     "domain": "item",
     "group": "LocalLightningDamagePenetrationHybrid",
+    "type": "LocalLightningDamagePenetrationHybrid",
     "tags": [],
     "stats": [
       {
@@ -21827,6 +14990,7 @@ export const MODS = {
     "generationType": "prefix_crusader",
     "domain": "item",
     "group": "LocalLightningDamagePenetrationHybrid",
+    "type": "LocalLightningDamagePenetrationHybrid",
     "tags": [],
     "stats": [
       {
@@ -21881,6 +15045,7 @@ export const MODS = {
     "generationType": "prefix_crusader",
     "domain": "item",
     "group": "LocalLightningDamagePenetrationHybrid",
+    "type": "LocalLightningDamagePenetrationHybrid",
     "tags": [],
     "stats": [
       {
@@ -21935,6 +15100,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "LocalLightningDamageTwoHand",
+    "type": "LocalLightningDamageTwoHand",
     "tags": [],
     "stats": [
       {
@@ -21988,6 +15154,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "LocalLightningDamageTwoHand",
+    "type": "LocalLightningDamageTwoHand",
     "tags": [],
     "stats": [
       {
@@ -22041,6 +15208,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "LocalLightningDamageTwoHand",
+    "type": "LocalLightningDamageTwoHand",
     "tags": [],
     "stats": [
       {
@@ -22094,6 +15262,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "LocalLightningDamageTwoHand",
+    "type": "LocalLightningDamageTwoHand",
     "tags": [],
     "stats": [
       {
@@ -22147,6 +15316,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "LocalLightningDamageTwoHand",
+    "type": "LocalLightningDamageTwoHand",
     "tags": [],
     "stats": [
       {
@@ -22200,6 +15370,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "LocalLightningDamageTwoHand",
+    "type": "LocalLightningDamageTwoHand",
     "tags": [],
     "stats": [
       {
@@ -22253,6 +15424,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "LocalLightningDamageTwoHand",
+    "type": "LocalLightningDamageTwoHand",
     "tags": [],
     "stats": [
       {
@@ -22306,6 +15478,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "LocalLightningDamageTwoHand",
+    "type": "LocalLightningDamageTwoHand",
     "tags": [],
     "stats": [
       {
@@ -22359,6 +15532,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "LocalLightningDamageTwoHand",
+    "type": "LocalLightningDamageTwoHand",
     "tags": [],
     "stats": [
       {
@@ -22412,6 +15586,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "LocalLightningDamageTwoHand",
+    "type": "LocalLightningDamageTwoHand",
     "tags": [],
     "stats": [
       {
@@ -22465,6 +15640,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "LocalPhysicalDamageTwoHanded",
+    "type": "LocalPhysicalDamageTwoHanded",
     "tags": [],
     "stats": [
       {
@@ -22498,6 +15674,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "LocalPhysicalDamageTwoHanded",
+    "type": "LocalPhysicalDamageTwoHanded",
     "tags": [],
     "stats": [
       {
@@ -22531,6 +15708,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "LocalPhysicalDamageTwoHanded",
+    "type": "LocalPhysicalDamageTwoHanded",
     "tags": [],
     "stats": [
       {
@@ -22564,6 +15742,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "LocalPhysicalDamageTwoHanded",
+    "type": "LocalPhysicalDamageTwoHanded",
     "tags": [],
     "stats": [
       {
@@ -22597,6 +15776,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "LocalPhysicalDamageTwoHanded",
+    "type": "LocalPhysicalDamageTwoHanded",
     "tags": [],
     "stats": [
       {
@@ -22630,6 +15810,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "LocalPhysicalDamageTwoHanded",
+    "type": "LocalPhysicalDamageTwoHanded",
     "tags": [],
     "stats": [
       {
@@ -22663,6 +15844,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "LocalPhysicalDamageTwoHanded",
+    "type": "LocalPhysicalDamageTwoHanded",
     "tags": [],
     "stats": [
       {
@@ -22696,6 +15878,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "LocalPhysicalDamageTwoHanded",
+    "type": "LocalPhysicalDamageTwoHanded",
     "tags": [],
     "stats": [
       {
@@ -22729,6 +15912,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "LocalPhysicalDamageTwoHanded",
+    "type": "LocalPhysicalDamageTwoHanded",
     "tags": [],
     "stats": [
       {
@@ -22762,6 +15946,7 @@ export const MODS = {
     "generationType": "prefix_elder",
     "domain": "item",
     "group": "LocalBleedDamageOverTimeMultiplier",
+    "type": "LocalBleedDamageOverTimeMultiplier",
     "tags": [],
     "stats": [
       {
@@ -22842,6 +16027,7 @@ export const MODS = {
     "generationType": "prefix_elder",
     "domain": "item",
     "group": "LocalBleedDamageOverTimeMultiplier",
+    "type": "LocalBleedDamageOverTimeMultiplier",
     "tags": [],
     "stats": [
       {
@@ -22922,6 +16108,7 @@ export const MODS = {
     "generationType": "prefix_elder",
     "domain": "item",
     "group": "LocalBleedDamageOverTimeMultiplier",
+    "type": "LocalBleedDamageOverTimeMultiplier",
     "tags": [],
     "stats": [
       {
@@ -23002,6 +16189,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "CriticalStrikeMultiplier",
+    "type": "CriticalStrikeMultiplier",
     "tags": [],
     "stats": [
       {
@@ -23030,6 +16218,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "CriticalStrikeMultiplier",
+    "type": "CriticalStrikeMultiplier",
     "tags": [],
     "stats": [
       {
@@ -23058,6 +16247,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "CriticalStrikeMultiplier",
+    "type": "CriticalStrikeMultiplier",
     "tags": [],
     "stats": [
       {
@@ -23086,6 +16276,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "CriticalStrikeMultiplier",
+    "type": "CriticalStrikeMultiplier",
     "tags": [],
     "stats": [
       {
@@ -23114,6 +16305,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "CriticalStrikeMultiplier",
+    "type": "CriticalStrikeMultiplier",
     "tags": [],
     "stats": [
       {
@@ -23142,6 +16334,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "CriticalStrikeMultiplier",
+    "type": "CriticalStrikeMultiplier",
     "tags": [],
     "stats": [
       {
@@ -23170,6 +16363,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "LocalCriticalStrikeChance",
+    "type": "LocalCriticalStrikeChance",
     "tags": [],
     "stats": [
       {
@@ -23198,6 +16392,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "LocalCriticalStrikeChance",
+    "type": "LocalCriticalStrikeChance",
     "tags": [],
     "stats": [
       {
@@ -23226,6 +16421,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "LocalCriticalStrikeChance",
+    "type": "LocalCriticalStrikeChance",
     "tags": [],
     "stats": [
       {
@@ -23254,6 +16450,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "LocalCriticalStrikeChance",
+    "type": "LocalCriticalStrikeChance",
     "tags": [],
     "stats": [
       {
@@ -23282,6 +16479,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "LocalCriticalStrikeChance",
+    "type": "LocalCriticalStrikeChance",
     "tags": [],
     "stats": [
       {
@@ -23310,6 +16508,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "LocalCriticalStrikeChance",
+    "type": "LocalCriticalStrikeChance",
     "tags": [],
     "stats": [
       {
@@ -23338,6 +16537,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "LocalAccuracyRating",
+    "type": "LocalAccuracyRating",
     "tags": [],
     "stats": [
       {
@@ -23366,6 +16566,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "LocalAccuracyRating",
+    "type": "LocalAccuracyRating",
     "tags": [],
     "stats": [
       {
@@ -23394,6 +16595,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "LocalAccuracyRating",
+    "type": "LocalAccuracyRating",
     "tags": [],
     "stats": [
       {
@@ -23422,6 +16624,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "LocalAccuracyRating",
+    "type": "LocalAccuracyRating",
     "tags": [],
     "stats": [
       {
@@ -23450,6 +16653,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "LocalAccuracyRating",
+    "type": "LocalAccuracyRating",
     "tags": [],
     "stats": [
       {
@@ -23478,6 +16682,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "LocalIncreasedAttackSpeed",
+    "type": "LocalIncreasedAttackSpeed",
     "tags": [],
     "stats": [
       {
@@ -23506,6 +16711,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "LocalIncreasedAttackSpeed",
+    "type": "LocalIncreasedAttackSpeed",
     "tags": [],
     "stats": [
       {
@@ -23534,6 +16740,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "LocalIncreasedAttackSpeed",
+    "type": "LocalIncreasedAttackSpeed",
     "tags": [],
     "stats": [
       {
@@ -23562,6 +16769,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "LocalIncreasedAttackSpeed",
+    "type": "LocalIncreasedAttackSpeed",
     "tags": [],
     "stats": [
       {
@@ -23590,6 +16798,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "LocalIncreasedAttackSpeed",
+    "type": "LocalIncreasedAttackSpeed",
     "tags": [],
     "stats": [
       {
@@ -23622,6 +16831,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "LocalIncreasedAttackSpeed",
+    "type": "LocalIncreasedAttackSpeed",
     "tags": [],
     "stats": [
       {
@@ -23654,6 +16864,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "LocalIncreasedAttackSpeed",
+    "type": "LocalIncreasedAttackSpeed",
     "tags": [],
     "stats": [
       {
@@ -23686,6 +16897,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "LocalIncreasedAttackSpeed",
+    "type": "LocalIncreasedAttackSpeed",
     "tags": [],
     "stats": [
       {
@@ -23718,6 +16930,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "LocalIncreasedAttackSpeed",
+    "type": "LocalIncreasedAttackSpeed",
     "tags": [],
     "stats": [
       {
@@ -23750,6 +16963,7 @@ export const MODS = {
     "generationType": "suffix_shaper",
     "domain": "item",
     "group": "AttackSpeedDoubleDamage",
+    "type": "AttackSpeedDoubleDamage",
     "tags": [],
     "stats": [
       {
@@ -23799,6 +17013,7 @@ export const MODS = {
     "generationType": "suffix_shaper",
     "domain": "item",
     "group": "AttackSpeedDoubleDamage",
+    "type": "AttackSpeedDoubleDamage",
     "tags": [],
     "stats": [
       {
@@ -23848,6 +17063,7 @@ export const MODS = {
     "generationType": "suffix_elder",
     "domain": "item",
     "group": "AttackSpeedKilledRecently",
+    "type": "AttackSpeedKilledRecently",
     "tags": [],
     "stats": [
       {
@@ -23897,6 +17113,7 @@ export const MODS = {
     "generationType": "suffix_elder",
     "domain": "item",
     "group": "AttackSpeedKilledRecently",
+    "type": "AttackSpeedKilledRecently",
     "tags": [],
     "stats": [
       {
@@ -23946,6 +17163,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "LocalPhysicalDamagePercent",
+    "type": "LocalPhysicalDamagePercent",
     "tags": [],
     "stats": [
       {
@@ -23974,6 +17192,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "LocalPhysicalDamagePercent",
+    "type": "LocalPhysicalDamagePercent",
     "tags": [],
     "stats": [
       {
@@ -24002,6 +17221,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "LocalPhysicalDamagePercent",
+    "type": "LocalPhysicalDamagePercent",
     "tags": [],
     "stats": [
       {
@@ -24030,6 +17250,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "LocalPhysicalDamagePercent",
+    "type": "LocalPhysicalDamagePercent",
     "tags": [],
     "stats": [
       {
@@ -24058,6 +17279,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "LocalPhysicalDamagePercent",
+    "type": "LocalPhysicalDamagePercent",
     "tags": [],
     "stats": [
       {
@@ -24086,6 +17308,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "LocalPhysicalDamagePercent",
+    "type": "LocalPhysicalDamagePercent",
     "tags": [],
     "stats": [
       {
@@ -24114,6 +17337,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "LocalPhysicalDamagePercent",
+    "type": "LocalPhysicalDamagePercent",
     "tags": [],
     "stats": [
       {
@@ -24142,6 +17366,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "LocalPhysicalDamagePercent",
+    "type": "LocalPhysicalDamagePercent",
     "tags": [],
     "stats": [
       {
@@ -24170,6 +17395,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "LocalIncreasedPhysicalDamagePercentAndAccuracyRating",
+    "type": "LocalIncreasedPhysicalDamagePercentAndAccuracyRating",
     "tags": [],
     "stats": [
       {
@@ -24203,6 +17429,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "LocalIncreasedPhysicalDamagePercentAndAccuracyRating",
+    "type": "LocalIncreasedPhysicalDamagePercentAndAccuracyRating",
     "tags": [],
     "stats": [
       {
@@ -24236,6 +17463,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "LocalIncreasedPhysicalDamagePercentAndAccuracyRating",
+    "type": "LocalIncreasedPhysicalDamagePercentAndAccuracyRating",
     "tags": [],
     "stats": [
       {
@@ -24269,6 +17497,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "LocalIncreasedPhysicalDamagePercentAndAccuracyRating",
+    "type": "LocalIncreasedPhysicalDamagePercentAndAccuracyRating",
     "tags": [],
     "stats": [
       {
@@ -24302,6 +17531,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "LocalIncreasedPhysicalDamagePercentAndAccuracyRating",
+    "type": "LocalIncreasedPhysicalDamagePercentAndAccuracyRating",
     "tags": [],
     "stats": [
       {
@@ -24335,6 +17565,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "LocalIncreasedPhysicalDamagePercentAndAccuracyRating",
+    "type": "LocalIncreasedPhysicalDamagePercentAndAccuracyRating",
     "tags": [],
     "stats": [
       {
@@ -24368,6 +17599,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "LocalIncreasedPhysicalDamagePercentAndAccuracyRating",
+    "type": "LocalIncreasedPhysicalDamagePercentAndAccuracyRating",
     "tags": [],
     "stats": [
       {
@@ -24401,6 +17633,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "LocalIncreasedPhysicalDamagePercentAndAccuracyRating",
+    "type": "LocalIncreasedPhysicalDamagePercentAndAccuracyRating",
     "tags": [],
     "stats": [
       {
@@ -24434,6 +17667,7 @@ export const MODS = {
     "generationType": "prefix_adjudicator",
     "domain": "item",
     "group": "LocalIncreasedPhysicalDamagePercentAndArea",
+    "type": "LocalIncreasedPhysicalDamagePercentAndArea",
     "tags": [],
     "stats": [
       {
@@ -24483,6 +17717,7 @@ export const MODS = {
     "generationType": "prefix_adjudicator",
     "domain": "item",
     "group": "LocalIncreasedPhysicalDamagePercentAndArea",
+    "type": "LocalIncreasedPhysicalDamagePercentAndArea",
     "tags": [],
     "stats": [
       {
@@ -24532,6 +17767,7 @@ export const MODS = {
     "generationType": "prefix_adjudicator",
     "domain": "item",
     "group": "LocalIncreasedPhysicalDamagePercentAndArea",
+    "type": "LocalIncreasedPhysicalDamagePercentAndArea",
     "tags": [],
     "stats": [
       {
@@ -24581,6 +17817,7 @@ export const MODS = {
     "generationType": "prefix_adjudicator",
     "domain": "item",
     "group": "LocalIncreasedPhysicalDamagePercentAndArea",
+    "type": "LocalIncreasedPhysicalDamagePercentAndArea",
     "tags": [],
     "stats": [
       {
@@ -24630,6 +17867,7 @@ export const MODS = {
     "generationType": "prefix_adjudicator",
     "domain": "item",
     "group": "LocalIncreasedPhysicalDamagePercentAndArea",
+    "type": "LocalIncreasedPhysicalDamagePercentAndArea",
     "tags": [],
     "stats": [
       {
@@ -24679,6 +17917,7 @@ export const MODS = {
     "generationType": "prefix_crusader",
     "domain": "item",
     "group": "LocalIncreasedPhysicalDamagePercentAndStun",
+    "type": "LocalIncreasedPhysicalDamagePercentAndStun",
     "tags": [],
     "stats": [
       {
@@ -24728,6 +17967,7 @@ export const MODS = {
     "generationType": "prefix_crusader",
     "domain": "item",
     "group": "LocalIncreasedPhysicalDamagePercentAndStun",
+    "type": "LocalIncreasedPhysicalDamagePercentAndStun",
     "tags": [],
     "stats": [
       {
@@ -24777,6 +18017,7 @@ export const MODS = {
     "generationType": "prefix_crusader",
     "domain": "item",
     "group": "LocalIncreasedPhysicalDamagePercentAndStun",
+    "type": "LocalIncreasedPhysicalDamagePercentAndStun",
     "tags": [],
     "stats": [
       {
@@ -24826,6 +18067,7 @@ export const MODS = {
     "generationType": "prefix_crusader",
     "domain": "item",
     "group": "LocalIncreasedPhysicalDamagePercentAndStun",
+    "type": "LocalIncreasedPhysicalDamagePercentAndStun",
     "tags": [],
     "stats": [
       {
@@ -24875,6 +18117,7 @@ export const MODS = {
     "generationType": "prefix_crusader",
     "domain": "item",
     "group": "LocalIncreasedPhysicalDamagePercentAndStun",
+    "type": "LocalIncreasedPhysicalDamagePercentAndStun",
     "tags": [],
     "stats": [
       {
@@ -24924,6 +18167,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "LocalIncreaseSocketedChaosGemLevel",
+    "type": "LocalIncreaseSocketedChaosGemLevel",
     "tags": [],
     "stats": [
       {
@@ -24956,6 +18200,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "LocalIncreaseSocketedChaosGemLevel",
+    "type": "LocalIncreaseSocketedChaosGemLevel",
     "tags": [],
     "stats": [
       {
@@ -24988,6 +18233,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "LocalIncreaseSocketedColdGemLevel",
+    "type": "LocalIncreaseSocketedColdGemLevel",
     "tags": [],
     "stats": [
       {
@@ -25020,6 +18266,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "LocalIncreaseSocketedColdGemLevel",
+    "type": "LocalIncreaseSocketedColdGemLevel",
     "tags": [],
     "stats": [
       {
@@ -25052,6 +18299,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "LocalIncreaseSocketedFireGemLevel",
+    "type": "LocalIncreaseSocketedFireGemLevel",
     "tags": [],
     "stats": [
       {
@@ -25084,6 +18332,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "LocalIncreaseSocketedFireGemLevel",
+    "type": "LocalIncreaseSocketedFireGemLevel",
     "tags": [],
     "stats": [
       {
@@ -25116,6 +18365,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "LocalIncreaseSocketedGemLevel",
+    "type": "LocalIncreaseSocketedGemLevel",
     "tags": [],
     "stats": [
       {
@@ -25168,6 +18418,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "LocalIncreaseSocketedLightningGemLevel",
+    "type": "LocalIncreaseSocketedLightningGemLevel",
     "tags": [],
     "stats": [
       {
@@ -25200,6 +18451,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "LocalIncreaseSocketedLightningGemLevel",
+    "type": "LocalIncreaseSocketedLightningGemLevel",
     "tags": [],
     "stats": [
       {
@@ -25232,6 +18484,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "LocalIncreaseSocketedMeleeGemLevel",
+    "type": "LocalIncreaseSocketedMeleeGemLevel",
     "tags": [],
     "stats": [
       {
@@ -25276,6 +18529,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "LocalIncreaseSocketedMeleeGemLevel",
+    "type": "LocalIncreaseSocketedMeleeGemLevel",
     "tags": [],
     "stats": [
       {
@@ -25320,6 +18574,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "LocalLightRadiusAndAccuracyPercent",
+    "type": "LocalLightRadiusAndAccuracyPercent",
     "tags": [],
     "stats": [
       {
@@ -25353,6 +18608,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "LocalLightRadiusAndAccuracyPercent",
+    "type": "LocalLightRadiusAndAccuracyPercent",
     "tags": [],
     "stats": [
       {
@@ -25386,6 +18642,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "LocalLightRadiusAndAccuracyPercent",
+    "type": "LocalLightRadiusAndAccuracyPercent",
     "tags": [],
     "stats": [
       {
@@ -25419,6 +18676,7 @@ export const MODS = {
     "generationType": "suffix_adjudicator",
     "domain": "item",
     "group": "LocalWeaponRangeUber",
+    "type": "LocalWeaponRangeUber",
     "tags": [],
     "stats": [
       {
@@ -25463,6 +18721,7 @@ export const MODS = {
     "generationType": "suffix_adjudicator",
     "domain": "item",
     "group": "LocalWeaponRangeUber",
+    "type": "LocalWeaponRangeUber",
     "tags": [],
     "stats": [
       {
@@ -25507,6 +18766,7 @@ export const MODS = {
     "generationType": "prefix_elder",
     "domain": "item",
     "group": "LocalPoisonDamageOverTimeMultiplier",
+    "type": "LocalPoisonDamageOverTimeMultiplier",
     "tags": [],
     "stats": [
       {
@@ -25587,6 +18847,7 @@ export const MODS = {
     "generationType": "prefix_elder",
     "domain": "item",
     "group": "LocalPoisonDamageOverTimeMultiplier",
+    "type": "LocalPoisonDamageOverTimeMultiplier",
     "tags": [],
     "stats": [
       {
@@ -25667,6 +18928,7 @@ export const MODS = {
     "generationType": "prefix_elder",
     "domain": "item",
     "group": "LocalPoisonDamageOverTimeMultiplier",
+    "type": "LocalPoisonDamageOverTimeMultiplier",
     "tags": [],
     "stats": [
       {
@@ -25747,6 +19009,7 @@ export const MODS = {
     "generationType": "prefix_basilisk",
     "domain": "item",
     "group": "LocalChaosPenetration",
+    "type": "LocalChaosPenetration",
     "tags": [],
     "stats": [
       {
@@ -25827,6 +19090,7 @@ export const MODS = {
     "generationType": "prefix_basilisk",
     "domain": "item",
     "group": "LocalChaosPenetration",
+    "type": "LocalChaosPenetration",
     "tags": [],
     "stats": [
       {
@@ -25907,6 +19171,7 @@ export const MODS = {
     "generationType": "prefix_basilisk",
     "domain": "item",
     "group": "LocalChaosPenetration",
+    "type": "LocalChaosPenetration",
     "tags": [],
     "stats": [
       {
@@ -25987,6 +19252,7 @@ export const MODS = {
     "generationType": "prefix_eyrie",
     "domain": "item",
     "group": "LocalColdPenetration",
+    "type": "LocalColdPenetration",
     "tags": [],
     "stats": [
       {
@@ -26067,6 +19333,7 @@ export const MODS = {
     "generationType": "prefix_eyrie",
     "domain": "item",
     "group": "LocalColdPenetration",
+    "type": "LocalColdPenetration",
     "tags": [],
     "stats": [
       {
@@ -26147,6 +19414,7 @@ export const MODS = {
     "generationType": "prefix_eyrie",
     "domain": "item",
     "group": "LocalColdPenetration",
+    "type": "LocalColdPenetration",
     "tags": [],
     "stats": [
       {
@@ -26227,6 +19495,7 @@ export const MODS = {
     "generationType": "prefix_basilisk",
     "domain": "item",
     "group": "LocalElementalPenetration",
+    "type": "LocalElementalPenetration",
     "tags": [],
     "stats": [
       {
@@ -26307,6 +19576,7 @@ export const MODS = {
     "generationType": "prefix_basilisk",
     "domain": "item",
     "group": "LocalElementalPenetration",
+    "type": "LocalElementalPenetration",
     "tags": [],
     "stats": [
       {
@@ -26387,6 +19657,7 @@ export const MODS = {
     "generationType": "prefix_basilisk",
     "domain": "item",
     "group": "LocalElementalPenetration",
+    "type": "LocalElementalPenetration",
     "tags": [],
     "stats": [
       {
@@ -26467,6 +19738,7 @@ export const MODS = {
     "generationType": "prefix_adjudicator",
     "domain": "item",
     "group": "LocalFirePenetration",
+    "type": "LocalFirePenetration",
     "tags": [],
     "stats": [
       {
@@ -26547,6 +19819,7 @@ export const MODS = {
     "generationType": "prefix_adjudicator",
     "domain": "item",
     "group": "LocalFirePenetration",
+    "type": "LocalFirePenetration",
     "tags": [],
     "stats": [
       {
@@ -26627,6 +19900,7 @@ export const MODS = {
     "generationType": "prefix_adjudicator",
     "domain": "item",
     "group": "LocalFirePenetration",
+    "type": "LocalFirePenetration",
     "tags": [],
     "stats": [
       {
@@ -26707,6 +19981,7 @@ export const MODS = {
     "generationType": "prefix_crusader",
     "domain": "item",
     "group": "LocalLightningPenetration",
+    "type": "LocalLightningPenetration",
     "tags": [],
     "stats": [
       {
@@ -26787,6 +20062,7 @@ export const MODS = {
     "generationType": "prefix_crusader",
     "domain": "item",
     "group": "LocalLightningPenetration",
+    "type": "LocalLightningPenetration",
     "tags": [],
     "stats": [
       {
@@ -26867,6 +20143,7 @@ export const MODS = {
     "generationType": "prefix_crusader",
     "domain": "item",
     "group": "LocalLightningPenetration",
+    "type": "LocalLightningPenetration",
     "tags": [],
     "stats": [
       {
@@ -26947,6 +20224,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "ManaGainedFromEnemyDeath",
+    "type": "ManaGainedFromEnemyDeath",
     "tags": [],
     "stats": [
       {
@@ -26995,6 +20273,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "ManaGainedFromEnemyDeath",
+    "type": "ManaGainedFromEnemyDeath",
     "tags": [],
     "stats": [
       {
@@ -27043,6 +20322,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "ManaGainedFromEnemyDeath",
+    "type": "ManaGainedFromEnemyDeath",
     "tags": [],
     "stats": [
       {
@@ -27091,6 +20371,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "ManaGainedFromEnemyDeath",
+    "type": "ManaGainedFromEnemyDeath",
     "tags": [],
     "stats": [
       {
@@ -27139,6 +20420,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "ManaGainedFromEnemyDeath",
+    "type": "ManaGainedFromEnemyDeath",
     "tags": [],
     "stats": [
       {
@@ -27187,6 +20469,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "ManaGainedFromEnemyDeath",
+    "type": "ManaGainedFromEnemyDeath",
     "tags": [],
     "stats": [
       {
@@ -27235,6 +20518,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "ManaLeechLocalPermyriad",
+    "type": "ManaLeechLocalPermyriad",
     "tags": [],
     "stats": [
       {
@@ -27267,6 +20551,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "ManaRegeneration",
+    "type": "ManaRegeneration",
     "tags": [],
     "stats": [
       {
@@ -27295,6 +20580,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "ManaRegeneration",
+    "type": "ManaRegeneration",
     "tags": [],
     "stats": [
       {
@@ -27323,6 +20609,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "ManaRegeneration",
+    "type": "ManaRegeneration",
     "tags": [],
     "stats": [
       {
@@ -27351,6 +20638,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "ManaRegeneration",
+    "type": "ManaRegeneration",
     "tags": [],
     "stats": [
       {
@@ -27379,6 +20667,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "ManaRegeneration",
+    "type": "ManaRegeneration",
     "tags": [],
     "stats": [
       {
@@ -27407,6 +20696,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "ManaRegeneration",
+    "type": "ManaRegeneration",
     "tags": [],
     "stats": [
       {
@@ -27435,6 +20725,7 @@ export const MODS = {
     "generationType": "suffix_shaper",
     "domain": "item",
     "group": "MaximumEnduranceCharges",
+    "type": "MaximumEnduranceCharges",
     "tags": [],
     "stats": [
       {
@@ -27479,6 +20770,7 @@ export const MODS = {
     "generationType": "suffix_shaper",
     "domain": "item",
     "group": "IncreasedMaximumPowerCharges",
+    "type": "IncreasedMaximumPowerCharges",
     "tags": [],
     "stats": [
       {
@@ -27511,6 +20803,7 @@ export const MODS = {
     "generationType": "suffix_elder",
     "domain": "item",
     "group": "LocalWeaponRangeUber",
+    "type": "LocalWeaponRangeUber",
     "tags": [],
     "stats": [
       {
@@ -27555,6 +20848,7 @@ export const MODS = {
     "generationType": "suffix_elder",
     "domain": "item",
     "group": "LocalWeaponRangeUber",
+    "type": "LocalWeaponRangeUber",
     "tags": [],
     "stats": [
       {
@@ -27599,6 +20893,7 @@ export const MODS = {
     "generationType": "suffix_shaper",
     "domain": "item",
     "group": "MovementVelocity",
+    "type": "MovementVelocity",
     "tags": [],
     "stats": [
       {
@@ -27647,6 +20942,7 @@ export const MODS = {
     "generationType": "suffix_shaper",
     "domain": "item",
     "group": "MovementVelocity",
+    "type": "MovementVelocity",
     "tags": [],
     "stats": [
       {
@@ -27695,6 +20991,7 @@ export const MODS = {
     "generationType": "suffix_eyrie",
     "domain": "item",
     "group": "MovementVelocity",
+    "type": "MovementVelocity",
     "tags": [],
     "stats": [
       {
@@ -27743,6 +21040,7 @@ export const MODS = {
     "generationType": "suffix_eyrie",
     "domain": "item",
     "group": "MovementVelocity",
+    "type": "MovementVelocity",
     "tags": [],
     "stats": [
       {
@@ -27791,6 +21089,7 @@ export const MODS = {
     "generationType": "prefix_adjudicator",
     "domain": "item",
     "group": "PhysicalAddedAsFire",
+    "type": "PhysicalAddedAsFire",
     "tags": [],
     "stats": [
       {
@@ -27835,6 +21134,7 @@ export const MODS = {
     "generationType": "prefix_adjudicator",
     "domain": "item",
     "group": "PhysicalAddedAsFire",
+    "type": "PhysicalAddedAsFire",
     "tags": [],
     "stats": [
       {
@@ -27879,6 +21179,7 @@ export const MODS = {
     "generationType": "prefix_adjudicator",
     "domain": "item",
     "group": "PhysicalAddedAsFire",
+    "type": "PhysicalAddedAsFire",
     "tags": [],
     "stats": [
       {
@@ -27923,6 +21224,7 @@ export const MODS = {
     "generationType": "prefix_crusader",
     "domain": "item",
     "group": "PhysicalAddedAsLightning",
+    "type": "PhysicalAddedAsLightning",
     "tags": [],
     "stats": [
       {
@@ -27955,6 +21257,7 @@ export const MODS = {
     "generationType": "prefix_crusader",
     "domain": "item",
     "group": "PhysicalAddedAsLightning",
+    "type": "PhysicalAddedAsLightning",
     "tags": [],
     "stats": [
       {
@@ -27987,6 +21290,7 @@ export const MODS = {
     "generationType": "prefix_crusader",
     "domain": "item",
     "group": "PhysicalAddedAsLightning",
+    "type": "PhysicalAddedAsLightning",
     "tags": [],
     "stats": [
       {
@@ -28019,6 +21323,7 @@ export const MODS = {
     "generationType": "prefix_shaper",
     "domain": "item",
     "group": "PhysicalAddedAsFire",
+    "type": "PhysicalAddedAsFire",
     "tags": [],
     "stats": [
       {
@@ -28071,6 +21376,7 @@ export const MODS = {
     "generationType": "prefix_shaper",
     "domain": "item",
     "group": "PhysicalAddedAsFire",
+    "type": "PhysicalAddedAsFire",
     "tags": [],
     "stats": [
       {
@@ -28123,6 +21429,7 @@ export const MODS = {
     "generationType": "prefix_shaper",
     "domain": "item",
     "group": "PhysicalAddedAsFire",
+    "type": "PhysicalAddedAsFire",
     "tags": [],
     "stats": [
       {
@@ -28175,6 +21482,7 @@ export const MODS = {
     "generationType": "prefix_shaper",
     "domain": "item",
     "group": "PhysicalAddedAsLightning",
+    "type": "PhysicalAddedAsLightning",
     "tags": [],
     "stats": [
       {
@@ -28227,6 +21535,7 @@ export const MODS = {
     "generationType": "prefix_shaper",
     "domain": "item",
     "group": "PhysicalAddedAsLightning",
+    "type": "PhysicalAddedAsLightning",
     "tags": [],
     "stats": [
       {
@@ -28279,6 +21588,7 @@ export const MODS = {
     "generationType": "prefix_shaper",
     "domain": "item",
     "group": "PhysicalAddedAsLightning",
+    "type": "PhysicalAddedAsLightning",
     "tags": [],
     "stats": [
       {
@@ -28331,6 +21641,7 @@ export const MODS = {
     "generationType": "suffix_elder",
     "domain": "item",
     "group": "PhysicalDamageConvertedToChaos",
+    "type": "PhysicalDamageConvertedToChaos",
     "tags": [],
     "stats": [
       {
@@ -28411,6 +21722,7 @@ export const MODS = {
     "generationType": "suffix_elder",
     "domain": "item",
     "group": "PhysicalDamageConvertedToChaos",
+    "type": "PhysicalDamageConvertedToChaos",
     "tags": [],
     "stats": [
       {
@@ -28491,6 +21803,7 @@ export const MODS = {
     "generationType": "suffix_elder",
     "domain": "item",
     "group": "PhysicalDamageConvertedToChaos",
+    "type": "PhysicalDamageConvertedToChaos",
     "tags": [],
     "stats": [
       {
@@ -28571,6 +21884,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "PhysicalDamageOverTimeMultiplier",
+    "type": "PhysicalDamageOverTimeMultiplier",
     "tags": [],
     "stats": [
       {
@@ -28599,6 +21913,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "PhysicalDamageOverTimeMultiplier",
+    "type": "PhysicalDamageOverTimeMultiplier",
     "tags": [],
     "stats": [
       {
@@ -28627,6 +21942,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "PhysicalDamageOverTimeMultiplier",
+    "type": "PhysicalDamageOverTimeMultiplier",
     "tags": [],
     "stats": [
       {
@@ -28655,6 +21971,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "PhysicalDamageOverTimeMultiplier",
+    "type": "PhysicalDamageOverTimeMultiplier",
     "tags": [],
     "stats": [
       {
@@ -28683,6 +22000,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "PhysicalDamageOverTimeMultiplier",
+    "type": "PhysicalDamageOverTimeMultiplier",
     "tags": [],
     "stats": [
       {
@@ -28711,6 +22029,7 @@ export const MODS = {
     "generationType": "suffix_elder",
     "domain": "item",
     "group": "PowerChargeOnBlockUber",
+    "type": "PowerChargeOnBlockUber",
     "tags": [],
     "stats": [
       {
@@ -28748,6 +22067,7 @@ export const MODS = {
     "generationType": "prefix_eyrie",
     "domain": "item",
     "group": "PowerChargeOnKillChance",
+    "type": "PowerChargeOnKillChance",
     "tags": [],
     "stats": [
       {
@@ -28804,6 +22124,7 @@ export const MODS = {
     "generationType": "prefix_eyrie",
     "domain": "item",
     "group": "PowerChargeOnKillChance",
+    "type": "PowerChargeOnKillChance",
     "tags": [],
     "stats": [
       {
@@ -28860,6 +22181,7 @@ export const MODS = {
     "generationType": "prefix_eyrie",
     "domain": "item",
     "group": "PowerChargeOnKillChanceMaven",
+    "type": "PowerChargeOnKillChanceMaven",
     "tags": [],
     "stats": [
       {
@@ -28921,6 +22243,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "LocalAttributeRequirements",
+    "type": "LocalAttributeRequirements",
     "tags": [],
     "stats": [
       {
@@ -28969,6 +22292,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "LocalAttributeRequirements",
+    "type": "LocalAttributeRequirements",
     "tags": [],
     "stats": [
       {
@@ -29017,6 +22341,7 @@ export const MODS = {
     "generationType": "suffix_eyrie",
     "domain": "item",
     "group": "SpellBlockChanceIfHitRecently",
+    "type": "SpellBlockChanceIfHitRecently",
     "tags": [],
     "stats": [
       {
@@ -29049,6 +22374,7 @@ export const MODS = {
     "generationType": "suffix_eyrie",
     "domain": "item",
     "group": "SpellBlockChanceIfHitRecently",
+    "type": "SpellBlockChanceIfHitRecently",
     "tags": [],
     "stats": [
       {
@@ -29081,6 +22407,7 @@ export const MODS = {
     "generationType": "suffix_elder",
     "domain": "item",
     "group": "SpellBlockAndBlockUber",
+    "type": "SpellBlockAndBlockUber",
     "tags": [],
     "stats": [
       {
@@ -29118,6 +22445,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "AdditionalBlock",
+    "type": "AdditionalBlock",
     "tags": [],
     "stats": [
       {
@@ -29150,6 +22478,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "AdditionalBlock",
+    "type": "AdditionalBlock",
     "tags": [],
     "stats": [
       {
@@ -29182,6 +22511,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "AdditionalBlock",
+    "type": "AdditionalBlock",
     "tags": [],
     "stats": [
       {
@@ -29214,6 +22544,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "AdditionalBlock",
+    "type": "AdditionalBlock",
     "tags": [],
     "stats": [
       {
@@ -29246,6 +22577,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "AdditionalBlock",
+    "type": "AdditionalBlock",
     "tags": [],
     "stats": [
       {
@@ -29278,6 +22610,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "AdditionalBlock",
+    "type": "AdditionalBlock",
     "tags": [],
     "stats": [
       {
@@ -29310,6 +22643,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "AdditionalSpellBlock",
+    "type": "AdditionalSpellBlock",
     "tags": [],
     "stats": [
       {
@@ -29342,6 +22676,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "AdditionalSpellBlock",
+    "type": "AdditionalSpellBlock",
     "tags": [],
     "stats": [
       {
@@ -29374,6 +22709,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "AdditionalSpellBlock",
+    "type": "AdditionalSpellBlock",
     "tags": [],
     "stats": [
       {
@@ -29406,6 +22742,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "AdditionalSpellBlock",
+    "type": "AdditionalSpellBlock",
     "tags": [],
     "stats": [
       {
@@ -29438,6 +22775,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "AdditionalSpellBlock",
+    "type": "AdditionalSpellBlock",
     "tags": [],
     "stats": [
       {
@@ -29470,6 +22808,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "AdditionalSpellBlock",
+    "type": "AdditionalSpellBlock",
     "tags": [],
     "stats": [
       {
@@ -29496,31 +22835,13 @@ export const MODS = {
     ],
     "requiredLevel": 77
   },
-  "StrDexMasterItemGenerationCannotRollCasterAffixes": {
-    "id": "StrDexMasterItemGenerationCannotRollCasterAffixes",
-    "name": "of Weaponcraft",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "ItemGenerationCannotRollCasterAffixes",
-    "tags": [],
-    "stats": [
-      {
-        "id": "item_generation_cannot_roll_caster_affixes",
-        "max": 1,
-        "min": 1
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 1
-  },
   "Strength1": {
     "id": "Strength1",
     "name": "of the Brute",
     "generationType": "suffix",
     "domain": "item",
     "group": "Strength",
+    "type": "Strength",
     "tags": [],
     "stats": [
       {
@@ -29593,6 +22914,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "Strength",
+    "type": "Strength",
     "tags": [],
     "stats": [
       {
@@ -29665,6 +22987,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "Strength",
+    "type": "Strength",
     "tags": [],
     "stats": [
       {
@@ -29737,6 +23060,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "Strength",
+    "type": "Strength",
     "tags": [],
     "stats": [
       {
@@ -29809,6 +23133,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "Strength",
+    "type": "Strength",
     "tags": [],
     "stats": [
       {
@@ -29881,6 +23206,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "Strength",
+    "type": "Strength",
     "tags": [],
     "stats": [
       {
@@ -29953,6 +23279,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "Strength",
+    "type": "Strength",
     "tags": [],
     "stats": [
       {
@@ -30025,6 +23352,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "Strength",
+    "type": "Strength",
     "tags": [],
     "stats": [
       {
@@ -30097,6 +23425,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "Strength",
+    "type": "Strength",
     "tags": [],
     "stats": [
       {
@@ -30163,50 +23492,13 @@ export const MODS = {
     ],
     "requiredLevel": 82
   },
-  "StrIntMasterItemGenerationCanHaveMultipleCraftedMods": {
-    "id": "StrIntMasterItemGenerationCanHaveMultipleCraftedMods",
-    "name": "of Crafting",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "ItemGenerationCanHaveMultipleCraftedMods",
-    "tags": [],
-    "stats": [
-      {
-        "id": "item_generation_can_have_multiple_crafted_mods",
-        "max": 1,
-        "min": 1
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 1
-  },
-  "StrMasterItemGenerationCannotChangePrefixes": {
-    "id": "StrMasterItemGenerationCannotChangePrefixes",
-    "name": "of Prefixes",
-    "generationType": "suffix",
-    "domain": "crafted",
-    "group": "ItemGenerationCannotChangePrefixes",
-    "tags": [],
-    "stats": [
-      {
-        "id": "item_generation_cannot_change_prefixes",
-        "max": 1,
-        "min": 1
-      }
-    ],
-    "levels": [],
-    "weights": [],
-    "spawnWeights": [],
-    "requiredLevel": 1
-  },
   "StunDuration1": {
     "id": "StunDuration1",
     "name": "of Impact",
     "generationType": "suffix",
     "domain": "item",
     "group": "StunDurationIncreasePercent",
+    "type": "StunDurationIncreasePercent",
     "tags": [],
     "stats": [
       {
@@ -30259,6 +23551,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "StunDurationIncreasePercent",
+    "type": "StunDurationIncreasePercent",
     "tags": [],
     "stats": [
       {
@@ -30311,6 +23604,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "StunDurationIncreasePercent",
+    "type": "StunDurationIncreasePercent",
     "tags": [],
     "stats": [
       {
@@ -30363,6 +23657,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "StunDurationIncreasePercent",
+    "type": "StunDurationIncreasePercent",
     "tags": [],
     "stats": [
       {
@@ -30415,6 +23710,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "StunDurationIncreasePercent",
+    "type": "StunDurationIncreasePercent",
     "tags": [],
     "stats": [
       {
@@ -30467,6 +23763,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "StunThresholdReduction",
+    "type": "StunThresholdReduction",
     "tags": [],
     "stats": [
       {
@@ -30511,6 +23808,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "StunThresholdReduction",
+    "type": "StunThresholdReduction",
     "tags": [],
     "stats": [
       {
@@ -30555,6 +23853,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "StunThresholdReduction",
+    "type": "StunThresholdReduction",
     "tags": [],
     "stats": [
       {
@@ -30599,6 +23898,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "StunThresholdReduction",
+    "type": "StunThresholdReduction",
     "tags": [],
     "stats": [
       {
@@ -30643,6 +23943,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "StunThresholdReduction",
+    "type": "StunThresholdReduction",
     "tags": [],
     "stats": [
       {
@@ -30687,6 +23988,7 @@ export const MODS = {
     "generationType": "prefix_shaper",
     "domain": "item",
     "group": "SupportedByCastOnMeleeKillWeapon",
+    "type": "SupportedByCastOnMeleeKillWeapon",
     "tags": [],
     "stats": [
       {
@@ -30735,6 +24037,7 @@ export const MODS = {
     "generationType": "prefix_shaper",
     "domain": "item",
     "group": "SupportedByCastOnMeleeKillWeapon",
+    "type": "SupportedByCastOnMeleeKillWeapon",
     "tags": [],
     "stats": [
       {
@@ -30783,6 +24086,7 @@ export const MODS = {
     "generationType": "prefix_shaper",
     "domain": "item",
     "group": "SupportedByCastWhileChannellingWeapon",
+    "type": "SupportedByCastWhileChannellingWeapon",
     "tags": [],
     "stats": [
       {
@@ -30823,6 +24127,7 @@ export const MODS = {
     "generationType": "prefix_shaper",
     "domain": "item",
     "group": "SupportedByCastWhileChannellingWeapon",
+    "type": "SupportedByCastWhileChannellingWeapon",
     "tags": [],
     "stats": [
       {
@@ -30863,6 +24168,7 @@ export const MODS = {
     "generationType": "prefix_elder",
     "domain": "item",
     "group": "SupportedByEnduranceChargeOnStunWeapon",
+    "type": "SupportedByEnduranceChargeOnStunWeapon",
     "tags": [],
     "stats": [
       {
@@ -30911,6 +24217,7 @@ export const MODS = {
     "generationType": "prefix_elder",
     "domain": "item",
     "group": "SupportedByFortifyWeapon",
+    "type": "SupportedByFortifyWeapon",
     "tags": [],
     "stats": [
       {
@@ -30959,6 +24266,7 @@ export const MODS = {
     "generationType": "prefix_elder",
     "domain": "item",
     "group": "SupportedByInspirationWeapon",
+    "type": "SupportedByInspirationWeapon",
     "tags": [],
     "stats": [
       {
@@ -30995,6 +24303,7 @@ export const MODS = {
     "generationType": "prefix_elder",
     "domain": "item",
     "group": "SupportedByPowerChargeOnCritWeapon",
+    "type": "SupportedByPowerChargeOnCritWeapon",
     "tags": [],
     "stats": [
       {
@@ -31031,6 +24340,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "ChanceToFreeze",
+    "type": "ChanceToFreeze",
     "tags": [],
     "stats": [
       {
@@ -31059,6 +24369,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "ChanceToFreeze",
+    "type": "ChanceToFreeze",
     "tags": [],
     "stats": [
       {
@@ -31087,6 +24398,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "ChanceToFreeze",
+    "type": "ChanceToFreeze",
     "tags": [],
     "stats": [
       {
@@ -31115,6 +24427,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "ChanceToIgnite",
+    "type": "ChanceToIgnite",
     "tags": [],
     "stats": [
       {
@@ -31143,6 +24456,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "ChanceToIgnite",
+    "type": "ChanceToIgnite",
     "tags": [],
     "stats": [
       {
@@ -31171,6 +24485,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "ChanceToIgnite",
+    "type": "ChanceToIgnite",
     "tags": [],
     "stats": [
       {
@@ -31199,6 +24514,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "ChanceToShock",
+    "type": "ChanceToShock",
     "tags": [],
     "stats": [
       {
@@ -31227,6 +24543,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "ChanceToShock",
+    "type": "ChanceToShock",
     "tags": [],
     "stats": [
       {
@@ -31255,6 +24572,7 @@ export const MODS = {
     "generationType": "suffix",
     "domain": "item",
     "group": "ChanceToShock",
+    "type": "ChanceToShock",
     "tags": [],
     "stats": [
       {
@@ -31283,6 +24601,7 @@ export const MODS = {
     "generationType": "suffix_elder",
     "domain": "item",
     "group": "UnholyMightOnKillPercentChance",
+    "type": "UnholyMightOnKillPercentChance",
     "tags": [],
     "stats": [
       {
@@ -31319,6 +24638,7 @@ export const MODS = {
     "generationType": "suffix_elder",
     "domain": "item",
     "group": "UnholyMightOnKillPercentChance",
+    "type": "UnholyMightOnKillPercentChance",
     "tags": [],
     "stats": [
       {
@@ -31355,6 +24675,7 @@ export const MODS = {
     "generationType": "suffix_elder",
     "domain": "item",
     "group": "UnholyMightOnKillPercentChance",
+    "type": "UnholyMightOnKillPercentChance",
     "tags": [],
     "stats": [
       {
@@ -31391,6 +24712,7 @@ export const MODS = {
     "generationType": "suffix_adjudicator",
     "domain": "item",
     "group": "UnholyMightOnKillPercentChance",
+    "type": "UnholyMightOnKillPercentChance",
     "tags": [],
     "stats": [
       {
@@ -31431,6 +24753,7 @@ export const MODS = {
     "generationType": "suffix_adjudicator",
     "domain": "item",
     "group": "UnholyMightOnKillPercentChance",
+    "type": "UnholyMightOnKillPercentChance",
     "tags": [],
     "stats": [
       {
@@ -31471,6 +24794,7 @@ export const MODS = {
     "generationType": "suffix_adjudicator",
     "domain": "item",
     "group": "UnholyMightOnKillPercentChance",
+    "type": "UnholyMightOnKillPercentChance",
     "tags": [],
     "stats": [
       {
@@ -31511,6 +24835,7 @@ export const MODS = {
     "generationType": "corrupted",
     "domain": "item",
     "group": "GainEnduranceChargeOnStunChance",
+    "type": "GainEnduranceChargeOnStunChance",
     "tags": [],
     "stats": [
       {
@@ -31547,6 +24872,7 @@ export const MODS = {
     "generationType": "corrupted",
     "domain": "item",
     "group": "PowerChargeOnCriticalStrikeChance",
+    "type": "PowerChargeOnCriticalStrikeChance",
     "tags": [],
     "stats": [
       {
@@ -31591,6 +24917,7 @@ export const MODS = {
     "generationType": "corrupted",
     "domain": "item",
     "group": "SocketedGemQuality",
+    "type": "SocketedGemQuality",
     "tags": [],
     "stats": [
       {
@@ -31623,6 +24950,7 @@ export const MODS = {
     "generationType": "corrupted",
     "domain": "item",
     "group": "CriticalStrikeMultiplier",
+    "type": "CriticalStrikeMultiplier",
     "tags": [],
     "stats": [
       {
@@ -31651,6 +24979,7 @@ export const MODS = {
     "generationType": "corrupted",
     "domain": "item",
     "group": "AreaOfEffect",
+    "type": "AreaOfEffect",
     "tags": [],
     "stats": [
       {
@@ -31683,6 +25012,7 @@ export const MODS = {
     "generationType": "corrupted",
     "domain": "item",
     "group": "IncreasedCastSpeed",
+    "type": "IncreasedCastSpeed",
     "tags": [],
     "stats": [
       {
@@ -31715,6 +25045,7 @@ export const MODS = {
     "generationType": "corrupted",
     "domain": "item",
     "group": "SpellDamage",
+    "type": "SpellDamage",
     "tags": [],
     "stats": [
       {
@@ -31747,6 +25078,7 @@ export const MODS = {
     "generationType": "corrupted",
     "domain": "item",
     "group": "LocalIncreaseSocketedChaosGemLevelCorrupted",
+    "type": "LocalIncreaseSocketedChaosGemLevelCorrupted",
     "tags": [],
     "stats": [
       {
@@ -31783,6 +25115,7 @@ export const MODS = {
     "generationType": "corrupted",
     "domain": "item",
     "group": "LocalIncreaseSocketedColdGemLevelCorrupted",
+    "type": "LocalIncreaseSocketedColdGemLevelCorrupted",
     "tags": [],
     "stats": [
       {
@@ -31819,6 +25152,7 @@ export const MODS = {
     "generationType": "corrupted",
     "domain": "item",
     "group": "LocalIncreaseSocketedFireGemLevelCorrupted",
+    "type": "LocalIncreaseSocketedFireGemLevelCorrupted",
     "tags": [],
     "stats": [
       {
@@ -31855,6 +25189,7 @@ export const MODS = {
     "generationType": "corrupted",
     "domain": "item",
     "group": "LocalIncreaseSocketedLightningGemLevelCorrupted",
+    "type": "LocalIncreaseSocketedLightningGemLevelCorrupted",
     "tags": [],
     "stats": [
       {
@@ -31891,6 +25226,7 @@ export const MODS = {
     "generationType": "corrupted",
     "domain": "item",
     "group": "LocalIncreaseSocketedPhysicalGemLevelCorrupted",
+    "type": "LocalIncreaseSocketedPhysicalGemLevelCorrupted",
     "tags": [],
     "stats": [
       {
@@ -31927,6 +25263,7 @@ export const MODS = {
     "generationType": "corrupted",
     "domain": "item",
     "group": "LocalColdDamage",
+    "type": "LocalColdDamage",
     "tags": [],
     "stats": [
       {
@@ -31964,6 +25301,7 @@ export const MODS = {
     "generationType": "corrupted",
     "domain": "item",
     "group": "LocalColdDamage",
+    "type": "LocalColdDamage",
     "tags": [],
     "stats": [
       {
@@ -32001,6 +25339,7 @@ export const MODS = {
     "generationType": "corrupted",
     "domain": "item",
     "group": "LocalColdDamage",
+    "type": "LocalColdDamage",
     "tags": [],
     "stats": [
       {
@@ -32038,6 +25377,7 @@ export const MODS = {
     "generationType": "corrupted",
     "domain": "item",
     "group": "LocalFireDamage",
+    "type": "LocalFireDamage",
     "tags": [],
     "stats": [
       {
@@ -32075,6 +25415,7 @@ export const MODS = {
     "generationType": "corrupted",
     "domain": "item",
     "group": "LocalFireDamage",
+    "type": "LocalFireDamage",
     "tags": [],
     "stats": [
       {
@@ -32112,6 +25453,7 @@ export const MODS = {
     "generationType": "corrupted",
     "domain": "item",
     "group": "LocalFireDamage",
+    "type": "LocalFireDamage",
     "tags": [],
     "stats": [
       {
@@ -32149,6 +25491,7 @@ export const MODS = {
     "generationType": "corrupted",
     "domain": "item",
     "group": "LocalLightningDamage",
+    "type": "LocalLightningDamage",
     "tags": [],
     "stats": [
       {
@@ -32186,6 +25529,7 @@ export const MODS = {
     "generationType": "corrupted",
     "domain": "item",
     "group": "LocalLightningDamage",
+    "type": "LocalLightningDamage",
     "tags": [],
     "stats": [
       {
@@ -32223,6 +25567,7 @@ export const MODS = {
     "generationType": "corrupted",
     "domain": "item",
     "group": "LocalLightningDamage",
+    "type": "LocalLightningDamage",
     "tags": [],
     "stats": [
       {
@@ -32260,6 +25605,7 @@ export const MODS = {
     "generationType": "corrupted",
     "domain": "item",
     "group": "LocalIncreasedAttackSpeed",
+    "type": "LocalIncreasedAttackSpeed",
     "tags": [],
     "stats": [
       {
@@ -32292,6 +25638,7 @@ export const MODS = {
     "generationType": "corrupted",
     "domain": "item",
     "group": "LocalCriticalStrikeChance",
+    "type": "LocalCriticalStrikeChance",
     "tags": [],
     "stats": [
       {
@@ -32324,6 +25671,7 @@ export const MODS = {
     "generationType": "corrupted",
     "domain": "item",
     "group": "EnemiesExplodeOnDeathPhysicalChance",
+    "type": "EnemiesExplodeOnDeathPhysicalChance",
     "tags": [],
     "stats": [
       {
@@ -32356,6 +25704,7 @@ export const MODS = {
     "generationType": "corrupted",
     "domain": "item",
     "group": "SupportedByAreaOfEffect",
+    "type": "SupportedByAreaOfEffect",
     "tags": [],
     "stats": [
       {
@@ -32392,6 +25741,7 @@ export const MODS = {
     "generationType": "corrupted",
     "domain": "item",
     "group": "SupportedByCruelty",
+    "type": "SupportedByCruelty",
     "tags": [],
     "stats": [
       {
@@ -32432,6 +25782,7 @@ export const MODS = {
     "generationType": "corrupted",
     "domain": "item",
     "group": "SupportedByElementalPenetration",
+    "type": "SupportedByElementalPenetration",
     "tags": [],
     "stats": [
       {
@@ -32460,6 +25811,7 @@ export const MODS = {
     "generationType": "corrupted",
     "domain": "item",
     "group": "SupportedByMultipleProjectiles",
+    "type": "SupportedByMultipleProjectiles",
     "tags": [],
     "stats": [
       {
@@ -32496,6 +25848,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "IncreasedWeaponElementalDamagePercent",
+    "type": "IncreasedWeaponElementalDamagePercent",
     "tags": [],
     "stats": [
       {
@@ -32524,6 +25877,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "IncreasedWeaponElementalDamagePercent",
+    "type": "IncreasedWeaponElementalDamagePercent",
     "tags": [],
     "stats": [
       {
@@ -32552,6 +25906,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "IncreasedWeaponElementalDamagePercent",
+    "type": "IncreasedWeaponElementalDamagePercent",
     "tags": [],
     "stats": [
       {
@@ -32580,6 +25935,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "IncreasedWeaponElementalDamagePercent",
+    "type": "IncreasedWeaponElementalDamagePercent",
     "tags": [],
     "stats": [
       {
@@ -32608,6 +25964,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "IncreasedWeaponElementalDamagePercent",
+    "type": "IncreasedWeaponElementalDamagePercent",
     "tags": [],
     "stats": [
       {
@@ -32636,6 +25993,7 @@ export const MODS = {
     "generationType": "prefix",
     "domain": "item",
     "group": "IncreasedWeaponElementalDamagePercent",
+    "type": "IncreasedWeaponElementalDamagePercent",
     "tags": [],
     "stats": [
       {
@@ -32664,6 +26022,7 @@ export const MODS = {
     "generationType": "prefix_shaper",
     "domain": "item",
     "group": "SocketedAttacksDamageFinal",
+    "type": "SocketedAttacksDamageFinal",
     "tags": [],
     "stats": [
       {
@@ -32712,6 +26071,7 @@ export const MODS = {
     "generationType": "crucible_unique_tree",
     "domain": "item",
     "group": "WeaponTreeLocalAddedChaosDamagePerLowestAttribute",
+    "type": "WeaponTreeLocalAddedChaosDamagePerLowestAttribute",
     "tags": [],
     "stats": [
       {
@@ -32745,6 +26105,7 @@ export const MODS = {
     "generationType": "crucible_unique_tree",
     "domain": "item",
     "group": "WeaponTreeAddedFireDamagePerStrength",
+    "type": "WeaponTreeAddedFireDamagePerStrength",
     "tags": [],
     "stats": [
       {
@@ -32798,6 +26159,7 @@ export const MODS = {
     "generationType": "crucible_unique_tree",
     "domain": "item",
     "group": "WeaponTreeAddedLightningDamagePerIntelligence",
+    "type": "WeaponTreeAddedLightningDamagePerIntelligence",
     "tags": [],
     "stats": [
       {
@@ -32851,6 +26213,7 @@ export const MODS = {
     "generationType": "crucible_unique_tree",
     "domain": "item",
     "group": "WeaponTreeAlwaysHitsAndLocalAttackSpeed",
+    "type": "WeaponTreeAlwaysHitsAndLocalAttackSpeed",
     "tags": [],
     "stats": [
       {
@@ -32884,6 +26247,7 @@ export const MODS = {
     "generationType": "crucible_unique_tree",
     "domain": "item",
     "group": "WeaponTreeAlwaysHitsAndLocalCriticalStrikeChance",
+    "type": "WeaponTreeAlwaysHitsAndLocalCriticalStrikeChance",
     "tags": [],
     "stats": [
       {
@@ -32917,6 +26281,7 @@ export const MODS = {
     "generationType": "crucible_unique_tree",
     "domain": "item",
     "group": "WeaponTreeMaximumCharges",
+    "type": "WeaponTreeMaximumCharges",
     "tags": [],
     "stats": [
       {
@@ -32955,6 +26320,7 @@ export const MODS = {
     "generationType": "crucible_unique_tree",
     "domain": "item",
     "group": "WeaponTreeMaximumCharges",
+    "type": "WeaponTreeMaximumCharges",
     "tags": [],
     "stats": [
       {
@@ -32993,6 +26359,7 @@ export const MODS = {
     "generationType": "crucible_unique_tree",
     "domain": "item",
     "group": "WeaponTreeMaximumCharges",
+    "type": "WeaponTreeMaximumCharges",
     "tags": [],
     "stats": [
       {
@@ -33031,6 +26398,7 @@ export const MODS = {
     "generationType": "crucible_unique_tree",
     "domain": "item",
     "group": "WeaponTreeSimulatedRampage",
+    "type": "WeaponTreeSimulatedRampage",
     "tags": [],
     "stats": [
       {
@@ -33059,6 +26427,7 @@ export const MODS = {
     "generationType": "crucible_unique_tree",
     "domain": "item",
     "group": "WeaponTreeSupportEmpower",
+    "type": "WeaponTreeSupportEmpower",
     "tags": [],
     "stats": [
       {
@@ -33087,6 +26456,7 @@ export const MODS = {
     "generationType": "crucible_unique_tree",
     "domain": "item",
     "group": "WeaponTreeSupportEmpower",
+    "type": "WeaponTreeSupportEmpower",
     "tags": [],
     "stats": [
       {
@@ -33115,6 +26485,7 @@ export const MODS = {
     "generationType": "crucible_unique_tree",
     "domain": "item",
     "group": "WeaponTreeSupportEnhance",
+    "type": "WeaponTreeSupportEnhance",
     "tags": [],
     "stats": [
       {
@@ -33143,6 +26514,7 @@ export const MODS = {
     "generationType": "crucible_unique_tree",
     "domain": "item",
     "group": "WeaponTreeSupportEnhance",
+    "type": "WeaponTreeSupportEnhance",
     "tags": [],
     "stats": [
       {
@@ -33171,6 +26543,7 @@ export const MODS = {
     "generationType": "crucible_unique_tree",
     "domain": "item",
     "group": "WeaponTreeSupportEnlighten",
+    "type": "WeaponTreeSupportEnlighten",
     "tags": [],
     "stats": [
       {
@@ -33199,6 +26572,7 @@ export const MODS = {
     "generationType": "crucible_unique_tree",
     "domain": "item",
     "group": "WeaponTreeSupportEnlighten",
+    "type": "WeaponTreeSupportEnlighten",
     "tags": [],
     "stats": [
       {
@@ -33227,6 +26601,7 @@ export const MODS = {
     "generationType": "corrupted",
     "domain": "item",
     "group": "LocalPhysicalDamage",
+    "type": "LocalPhysicalDamage",
     "tags": [],
     "stats": [
       {
@@ -33280,6 +26655,7 @@ export const MODS = {
     "generationType": "corrupted",
     "domain": "item",
     "group": "LocalPhysicalDamage",
+    "type": "LocalPhysicalDamage",
     "tags": [],
     "stats": [
       {
@@ -33333,6 +26709,7 @@ export const MODS = {
     "generationType": "corrupted",
     "domain": "item",
     "group": "LocalPhysicalDamage",
+    "type": "LocalPhysicalDamage",
     "tags": [],
     "stats": [
       {
@@ -33386,6 +26763,7 @@ export const MODS = {
     "generationType": "corrupted",
     "domain": "item",
     "group": "LocalPhysicalDamagePercent",
+    "type": "LocalPhysicalDamagePercent",
     "tags": [],
     "stats": [
       {
@@ -33430,6 +26808,7 @@ export const MODS = {
     "generationType": "corrupted",
     "domain": "item",
     "group": "LocalPhysicalDamagePercent",
+    "type": "LocalPhysicalDamagePercent",
     "tags": [],
     "stats": [
       {
@@ -34129,774 +27508,6 @@ export const MODS_BY_BASE = {
       "itemClass": "Warstaves"
     },
     {
-      "id": "DexMasterItemGenerationCannotChangeSuffixes",
-      "generationType": "prefix",
-      "group": "ItemGenerationCannotChangeSuffixes",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterAllAttributes1",
-      "generationType": "suffix",
-      "group": "AllAttributes",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterAllAttributes2",
-      "generationType": "suffix",
-      "group": "AllAttributes",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterChaosDamageTwoHandPrefix1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterChaosDamageTwoHandPrefix2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterChaosDamageTwoHandPrefix3_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterColdDamageTwoHandPrefix1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterColdDamageTwoHandPrefix2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterColdDamageTwoHandPrefix3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterCriticalStrikeChanceSpells2h1",
-      "generationType": "suffix",
-      "group": "SpellCriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterCriticalStrikeChanceSpells2h2_",
-      "generationType": "suffix",
-      "group": "SpellCriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterCriticalStrikeMultiplier1",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterCriticalStrikeMultiplier2",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterCriticalStrikeMultiplier3",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterDegenerationDamage1_",
-      "generationType": "prefix",
-      "group": "DegenerationDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterDegenerationDamage2",
-      "generationType": "prefix",
-      "group": "DegenerationDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterDexterity2",
-      "generationType": "suffix",
-      "group": "Dexterity",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterDexterity3",
-      "generationType": "suffix",
-      "group": "Dexterity",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterFireDamageTwoHandPrefix1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterFireDamageTwoHandPrefix2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterFireDamageTwoHandPrefix3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedCastSpeedTwoHand1",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedCastSpeedTwoHand2",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedCastSpeedTwoHand3_",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedManaRegenerationTwoHandWeapon1",
-      "generationType": "suffix",
-      "group": "ManaRegeneration",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedManaRegenerationTwoHandWeapon2",
-      "generationType": "suffix",
-      "group": "ManaRegeneration",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedManaTwoHandWeapon1___",
-      "generationType": "prefix",
-      "group": "IncreasedMana",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedManaTwoHandWeapon2_",
-      "generationType": "prefix",
-      "group": "IncreasedMana",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedManaTwoHandWeapon3_",
-      "generationType": "prefix",
-      "group": "IncreasedMana",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedManaTwoHandWeapon4",
-      "generationType": "prefix",
-      "group": "IncreasedMana",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIntelligence2__",
-      "generationType": "suffix",
-      "group": "Intelligence",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIntelligence3",
-      "generationType": "suffix",
-      "group": "Intelligence",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLightningDamageTwoHandPrefix1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLightningDamageTwoHandPrefix2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLightningDamageTwoHandPrefix3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalAccuracyRating1",
-      "generationType": "suffix",
-      "group": "IncreasedAccuracy",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalAccuracyRating2",
-      "generationType": "suffix",
-      "group": "IncreasedAccuracy",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalAccuracyRating3",
-      "generationType": "suffix",
-      "group": "IncreasedAccuracy",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalColdDamageTwoHand1",
-      "generationType": "prefix",
-      "group": "ColdDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalColdDamageTwoHand2",
-      "generationType": "prefix",
-      "group": "ColdDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalColdDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "ColdDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalCriticalStrikeChance1_",
-      "generationType": "suffix",
-      "group": "CriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalCriticalStrikeChance2",
-      "generationType": "suffix",
-      "group": "CriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalCriticalStrikeChance3_",
-      "generationType": "suffix",
-      "group": "CriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalFireDamageTwoHand1",
-      "generationType": "prefix",
-      "group": "FireDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalFireDamageTwoHand2",
-      "generationType": "prefix",
-      "group": "FireDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalFireDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "FireDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedAttackSpeed1__",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedAttackSpeed2_",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedAttackSpeed3",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedPhysicalDamage1",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedPhysicalDamage2_",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedPhysicalDamage3",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedPhysicalDamage4___",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalLifeLeechPermyriadNewSuffix1",
-      "generationType": "suffix",
-      "group": "LifeLeech",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalLifeLeechPermyriadNewSuffix2",
-      "generationType": "suffix",
-      "group": "LifeLeech",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalLightningDamageTwoHand1_",
-      "generationType": "prefix",
-      "group": "LightningDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalLightningDamageTwoHand2",
-      "generationType": "prefix",
-      "group": "LightningDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalLightningDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "LightningDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalManaLeechPermyriadNewSuffix1",
-      "generationType": "suffix",
-      "group": "ManaLeech",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalPhysicalDamageTwoHand1",
-      "generationType": "prefix",
-      "group": "PhysicalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalPhysicalDamageTwoHand2",
-      "generationType": "prefix",
-      "group": "PhysicalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalPhysicalDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "PhysicalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMineDamageOnWeapon2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMineDamageOnWeapon2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMineLayingSpeed2h1",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMineLayingSpeed2h2_",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMinionDamageOnWeapon2h1_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMinionDamageOnWeapon2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMinionDamageOnWeapon2h3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedColdDamageTwoHand1",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedColdDamageTwoHand2_",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedColdDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedFireDamageTwoHand1",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedFireDamageTwoHand2",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedFireDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedLightningDamageTwoHand1",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedLightningDamageTwoHand2",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedLightningDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellDamageOnTwoHandWeapon1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellDamageOnTwoHandWeapon2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellDamageOnTwoHandWeapon3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellDamageOnTwoHandWeapon4_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterStaffAttackBlock1",
-      "generationType": "suffix",
-      "group": "AdditionalBlock",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterStaffAttackBlock2",
-      "generationType": "suffix",
-      "group": "AdditionalBlock",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterStaffSpellBlock1",
-      "generationType": "suffix",
-      "group": "SpellBlockPercentage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterStaffSpellBlock2",
-      "generationType": "suffix",
-      "group": "SpellBlockPercentage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterStrength2",
-      "generationType": "suffix",
-      "group": "Strength",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterStrength3",
-      "generationType": "suffix",
-      "group": "Strength",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterTrapDamageOnWeapon2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterTrapDamageOnWeapon2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterTrapThrowingSpeed2h1",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterTrapThrowingSpeed2h2_",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterTriggerSocketedSpellOnSkillUse1",
-      "generationType": "suffix",
-      "group": "SupportedByTrigger",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterWeaponElementalDamage1_",
-      "generationType": "prefix",
-      "group": "IncreasedWeaponElementalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterWeaponElementalDamage2",
-      "generationType": "prefix",
-      "group": "IncreasedWeaponElementalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
       "id": "ElementalDamagePercentAddedAsChaosStaffUber1",
       "generationType": "prefix_shaper",
       "group": "ElementalDamagePercentAddedAsChaos",
@@ -35055,30 +27666,6 @@ export const MODS_BY_BASE = {
       "weight": 300,
       "source": "not_for_sale,experimental_base,staff,attack_staff,two_hand_weapon,twohand,weapon,default",
       "itemClass": "Warstaves"
-    },
-    {
-      "id": "HelenaMasterDexterity1",
-      "generationType": "suffix",
-      "group": "Dexterity",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "HelenaMasterIntelligence1",
-      "generationType": "suffix",
-      "group": "Intelligence",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "HelenaMasterStrength1",
-      "generationType": "suffix",
-      "group": "Strength",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
     },
     {
       "id": "HellscapeDownsideCannotApplyAilments1___",
@@ -36503,1102 +29090,6 @@ export const MODS_BY_BASE = {
       "weight": 500,
       "source": "not_for_sale,experimental_base,staff,attack_staff,two_hand_weapon,twohand,weapon,default",
       "itemClass": "Warstaves"
-    },
-    {
-      "id": "IntMasterItemGenerationCannotRollAttackAffixes",
-      "generationType": "suffix",
-      "group": "ItemGenerationCannotRollAttackAffixes",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2AlwaysHits1",
-      "generationType": "prefix",
-      "group": "AlwaysHits",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2AttackSpeedPercentIfRareOrUniqueEnemyNearby2h1",
-      "generationType": "suffix",
-      "group": "AttackSpeedPercentIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2AttackSpeedPercentIfRareOrUniqueEnemyNearby2h2_",
-      "generationType": "suffix",
-      "group": "AttackSpeedPercentIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2AttackSpeedPercentIfRareOrUniqueEnemyNearby2h3",
-      "generationType": "suffix",
-      "group": "AttackSpeedPercentIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2BleedOnHitGained2h2",
-      "generationType": "prefix",
-      "group": "PhysicalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2BleedOnHitGained2h3_",
-      "generationType": "prefix",
-      "group": "PhysicalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2CastSpeedAndGainArcaneSurgeOnKillChance2h1_",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2CastSpeedAndGainArcaneSurgeOnKillChance2h2_",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2CastSpeedAndGainArcaneSurgeOnKillChance2h3",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChanceToDealDoubleDamageWhileFocused2h1_",
-      "generationType": "suffix",
-      "group": "ChanceToDealDoubleDamageWhileFocused",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChanceToDealDoubleDamageWhileFocused2h2",
-      "generationType": "suffix",
-      "group": "ChanceToDealDoubleDamageWhileFocused",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChanceToDealDoubleDamageWhileFocused2h3",
-      "generationType": "suffix",
-      "group": "ChanceToDealDoubleDamageWhileFocused",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosDamageAndChaosSkillDuration2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosDamageAndChaosSkillDuration2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosDamageAndChaosSkillDuration2h3_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosDamageOverTimeMultiplierTwoHand1",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosDamageOverTimeMultiplierTwoHand2_",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosDamageOverTimeMultiplierTwoHand3",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosPenetrationWithAttacks1",
-      "generationType": "prefix",
-      "group": "ChaosPenetrationWithAttacks",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosPenetrationWithAttacks2",
-      "generationType": "prefix",
-      "group": "ChaosPenetrationWithAttacks",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosPenetrationWithAttacks3_",
-      "generationType": "prefix",
-      "group": "ChaosPenetrationWithAttacks",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdAddedAsChaos2h2",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdAddedAsChaos2h3",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdDamageAndBaseChanceToFreeze2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdDamageAndBaseChanceToFreeze2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdDamageAndBaseChanceToFreeze2h3_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdDamageOverTimeMultiplierTwoHand1",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdDamageOverTimeMultiplierTwoHand2",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdDamageOverTimeMultiplierTwoHand3",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby2h1_",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby2h2",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby2h3",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2DamagePerEnduranceCharge2h1",
-      "generationType": "suffix",
-      "group": "AllDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2DamagePerFrenzyCharge2h1",
-      "generationType": "suffix",
-      "group": "AllDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2DamagePerPowerCharge2h1__",
-      "generationType": "suffix",
-      "group": "AllDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2DoubleDamageChance2h1",
-      "generationType": "suffix",
-      "group": "DoubleDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2DoubleDamageChance2h2",
-      "generationType": "suffix",
-      "group": "DoubleDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ElementalPenetrationWithAttacks1",
-      "generationType": "prefix",
-      "group": "LocalAttackReduceEnemyElementalResistance",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ElementalPenetrationWithAttacks2",
-      "generationType": "prefix",
-      "group": "LocalAttackReduceEnemyElementalResistance",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ElementalPenetrationWithAttacks3",
-      "generationType": "prefix",
-      "group": "LocalAttackReduceEnemyElementalResistance",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireAddedAsChaos2h2",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireAddedAsChaos2h3_",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireDamageAndChanceToIgnite2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireDamageAndChanceToIgnite2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireDamageAndChanceToIgnite2h3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireDamageOverTimeMultiplierTwoHand1_",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireDamageOverTimeMultiplierTwoHand2",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireDamageOverTimeMultiplierTwoHand3",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LightningAddedAsChaos2h2",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LightningAddedAsChaos2h3___",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LightningDamageAndChanceToShock2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LightningDamageAndChanceToShock2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LightningDamageAndChanceToShock2h3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalAccuracyRatingStrengthDexterity1",
-      "generationType": "suffix",
-      "group": "IncreasedAccuracy",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalAccuracyRatingStrengthDexterity2",
-      "generationType": "suffix",
-      "group": "IncreasedAccuracy",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalAttackSpeedAndLocalDisplayTriggerLevel1BloodRageOnKillChance1_",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalAttackSpeedAndLocalDisplayTriggerLevel1BloodRageOnKillChance2",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalAttackSpeedDexterityIntelligence1____",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalAttackSpeedDexterityIntelligence2",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalCriticalStrikeChanceStrengthIntelligence1",
-      "generationType": "suffix",
-      "group": "CriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalCriticalStrikeChanceStrengthIntelligence2___",
-      "generationType": "suffix",
-      "group": "CriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndBleedChanceCrafted1",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndBleedChanceCrafted2",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndBleedChanceCrafted3",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndBlindChanceCrafted1_",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndBlindChanceCrafted2",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndBlindChanceCrafted3",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndImpaleCrafted1",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndImpaleCrafted2",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndImpaleCrafted3",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndPoisonChanceCrafted1",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndPoisonChanceCrafted2_",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndPoisonChanceCrafted3",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreaseSocketedSupportGemLevel1",
-      "generationType": "prefix",
-      "group": "IncreaseSpecificSocketedGemLevel",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreaseSocketedSupportGemLevel2",
-      "generationType": "prefix",
-      "group": "IncreaseSpecificSocketedGemLevel",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2MinionAttackAndCastSpeedOnWeapon2h1_",
-      "generationType": "suffix",
-      "group": "MinionAttackSpeedAndCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2MinionAttackAndCastSpeedOnWeapon2h2",
-      "generationType": "suffix",
-      "group": "MinionAttackSpeedAndCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2MinionAttackAndCastSpeedOnWeapon2h3_",
-      "generationType": "suffix",
-      "group": "MinionAttackSpeedAndCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2MinionDamageAndMinionMaximumLife2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2MinionDamageAndMinionMaximumLife2h2_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2MinionDamageAndMinionMaximumLife2h3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2PhysicalAddedAsChaos2h2",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2PhysicalAddedAsChaos2h3",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2PhysicalDamageOverTimeMultiplierTwoHand1",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2PhysicalDamageOverTimeMultiplierTwoHand2",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2PhysicalDamageOverTimeMultiplierTwoHand3",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SocketedGemQuality2",
-      "generationType": "prefix",
-      "group": "SocketedGemQuality",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SocketedGemQuality3",
-      "generationType": "prefix",
-      "group": "SocketedGemQuality",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SpellDamageAndManaRegenerationRate2h1_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SpellDamageAndManaRegenerationRate2h2_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SpellDamageAndManaRegenerationRate2h3_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SpellDamageAndNonChaosDamageToAddAsChaosDamage2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SpellDamageAndNonChaosDamageToAddAsChaosDamage2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SpellDamageAndNonChaosDamageToAddAsChaosDamage2h3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledAttackSpeedPercentIfRareOrUniqueEnemyNearby2h",
-      "generationType": "suffix",
-      "group": "AttackSpeedPercentIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledCastSpeedAndGainArcaneSurgeOnKillChance2h_",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledChanceToDealDoubleDamageWhileFocused2h_",
-      "generationType": "suffix",
-      "group": "ChanceToDealDoubleDamageWhileFocused",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledChaosDamageAndChaosSkillDuration1h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledChaosDamageAndChaosSkillDuration2h_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledChaosDamageOverTimeMultiplier__",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledChaosDamageOverTimeMultiplierTwoHand",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledChaosPenetrationWithAttacks__",
-      "generationType": "prefix",
-      "group": "ChaosPenetrationWithAttacks",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledColdDamageAndBaseChanceToFreeze1h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledColdDamageAndBaseChanceToFreeze2h__",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledColdDamageOverTimeMultiplier___",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledColdDamageOverTimeMultiplierTwoHand",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledCriticalStrikeMultiplierIfRareOrUniqueEnemyNearby2h",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledDamagePerEnduranceCharge2h",
-      "generationType": "suffix",
-      "group": "AllDamage",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledDamagePerFrenzyCharge2h__",
-      "generationType": "suffix",
-      "group": "AllDamage",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledDamagePerPowerCharge2h",
-      "generationType": "suffix",
-      "group": "AllDamage",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledDoubleDamageChance2h_",
-      "generationType": "suffix",
-      "group": "DoubleDamage",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledElementalPenetrationWithAttacks_",
-      "generationType": "prefix",
-      "group": "LocalAttackReduceEnemyElementalResistance",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledFireDamageAndChanceToIgnite1h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledFireDamageAndChanceToIgnite2h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledFireDamageOverTimeMultiplier",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledFireDamageOverTimeMultiplierTwoHand",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLightningDamageAndChanceToShock1h_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLightningDamageAndChanceToShock2h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalAccuracyRatingStrengthDexterity_",
-      "generationType": "suffix",
-      "group": "IncreasedAccuracy",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalAttackSpeedAndLocalDisplayTriggerLevel1BloodRageOnKillChance_",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalAttackSpeedDexterityIntelligence",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalCriticalStrikeChanceStrengthIntelligence__",
-      "generationType": "suffix",
-      "group": "CriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalIncreasedPhysicalDamageAndBleedChanceCrafted_",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalIncreasedPhysicalDamageAndBlindChanceCrafted_",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalIncreasedPhysicalDamageAndImpaleCrafted",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalIncreasedPhysicalDamageAndPoisonChanceCrafted_",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledMinionAttackAndCastSpeedOnWeapon1h",
-      "generationType": "suffix",
-      "group": "MinionAttackSpeedAndCastSpeed",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledMinionAttackAndCastSpeedOnWeapon2h",
-      "generationType": "suffix",
-      "group": "MinionAttackSpeedAndCastSpeed",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledMinionDamageAndMinionMaximumLife1h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledMinionDamageAndMinionMaximumLife2h__",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledPhysicalDamageOverTimeMultiplier",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledPhysicalDamageOverTimeMultiplierTwoHand_",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledSpellDamageAndManaRegenerationRate1h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledSpellDamageAndManaRegenerationRate2h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledSpellDamageAndNonChaosDamageToAddAsChaosDamage1h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledSpellDamageAndNonChaosDamageToAddAsChaosDamage2h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
     },
     {
       "id": "LifeGainedFromEnemyDeath1",
@@ -39457,14 +30948,6 @@ export const MODS_BY_BASE = {
       "itemClass": "Warstaves"
     },
     {
-      "id": "StrDexMasterItemGenerationCannotRollCasterAffixes",
-      "generationType": "suffix",
-      "group": "ItemGenerationCannotRollCasterAffixes",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
       "id": "Strength1",
       "generationType": "suffix",
       "group": "Strength",
@@ -39535,22 +31018,6 @@ export const MODS_BY_BASE = {
       "weight": 500,
       "source": "not_for_sale,experimental_base,staff,attack_staff,two_hand_weapon,twohand,weapon,default",
       "itemClass": "Warstaves"
-    },
-    {
-      "id": "StrIntMasterItemGenerationCanHaveMultipleCraftedMods",
-      "generationType": "suffix",
-      "group": "ItemGenerationCanHaveMultipleCraftedMods",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "StrMasterItemGenerationCannotChangePrefixes",
-      "generationType": "suffix",
-      "group": "ItemGenerationCannotChangePrefixes",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
     },
     {
       "id": "StunDuration1",
@@ -40875,774 +32342,6 @@ export const MODS_BY_BASE = {
       "itemClass": "Warstaves"
     },
     {
-      "id": "DexMasterItemGenerationCannotChangeSuffixes",
-      "generationType": "prefix",
-      "group": "ItemGenerationCannotChangeSuffixes",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterAllAttributes1",
-      "generationType": "suffix",
-      "group": "AllAttributes",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterAllAttributes2",
-      "generationType": "suffix",
-      "group": "AllAttributes",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterChaosDamageTwoHandPrefix1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterChaosDamageTwoHandPrefix2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterChaosDamageTwoHandPrefix3_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterColdDamageTwoHandPrefix1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterColdDamageTwoHandPrefix2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterColdDamageTwoHandPrefix3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterCriticalStrikeChanceSpells2h1",
-      "generationType": "suffix",
-      "group": "SpellCriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterCriticalStrikeChanceSpells2h2_",
-      "generationType": "suffix",
-      "group": "SpellCriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterCriticalStrikeMultiplier1",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterCriticalStrikeMultiplier2",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterCriticalStrikeMultiplier3",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterDegenerationDamage1_",
-      "generationType": "prefix",
-      "group": "DegenerationDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterDegenerationDamage2",
-      "generationType": "prefix",
-      "group": "DegenerationDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterDexterity2",
-      "generationType": "suffix",
-      "group": "Dexterity",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterDexterity3",
-      "generationType": "suffix",
-      "group": "Dexterity",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterFireDamageTwoHandPrefix1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterFireDamageTwoHandPrefix2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterFireDamageTwoHandPrefix3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedCastSpeedTwoHand1",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedCastSpeedTwoHand2",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedCastSpeedTwoHand3_",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedManaRegenerationTwoHandWeapon1",
-      "generationType": "suffix",
-      "group": "ManaRegeneration",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedManaRegenerationTwoHandWeapon2",
-      "generationType": "suffix",
-      "group": "ManaRegeneration",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedManaTwoHandWeapon1___",
-      "generationType": "prefix",
-      "group": "IncreasedMana",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedManaTwoHandWeapon2_",
-      "generationType": "prefix",
-      "group": "IncreasedMana",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedManaTwoHandWeapon3_",
-      "generationType": "prefix",
-      "group": "IncreasedMana",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedManaTwoHandWeapon4",
-      "generationType": "prefix",
-      "group": "IncreasedMana",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIntelligence2__",
-      "generationType": "suffix",
-      "group": "Intelligence",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIntelligence3",
-      "generationType": "suffix",
-      "group": "Intelligence",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLightningDamageTwoHandPrefix1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLightningDamageTwoHandPrefix2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLightningDamageTwoHandPrefix3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalAccuracyRating1",
-      "generationType": "suffix",
-      "group": "IncreasedAccuracy",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalAccuracyRating2",
-      "generationType": "suffix",
-      "group": "IncreasedAccuracy",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalAccuracyRating3",
-      "generationType": "suffix",
-      "group": "IncreasedAccuracy",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalColdDamageTwoHand1",
-      "generationType": "prefix",
-      "group": "ColdDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalColdDamageTwoHand2",
-      "generationType": "prefix",
-      "group": "ColdDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalColdDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "ColdDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalCriticalStrikeChance1_",
-      "generationType": "suffix",
-      "group": "CriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalCriticalStrikeChance2",
-      "generationType": "suffix",
-      "group": "CriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalCriticalStrikeChance3_",
-      "generationType": "suffix",
-      "group": "CriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalFireDamageTwoHand1",
-      "generationType": "prefix",
-      "group": "FireDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalFireDamageTwoHand2",
-      "generationType": "prefix",
-      "group": "FireDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalFireDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "FireDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedAttackSpeed1__",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedAttackSpeed2_",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedAttackSpeed3",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedPhysicalDamage1",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedPhysicalDamage2_",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedPhysicalDamage3",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedPhysicalDamage4___",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalLifeLeechPermyriadNewSuffix1",
-      "generationType": "suffix",
-      "group": "LifeLeech",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalLifeLeechPermyriadNewSuffix2",
-      "generationType": "suffix",
-      "group": "LifeLeech",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalLightningDamageTwoHand1_",
-      "generationType": "prefix",
-      "group": "LightningDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalLightningDamageTwoHand2",
-      "generationType": "prefix",
-      "group": "LightningDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalLightningDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "LightningDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalManaLeechPermyriadNewSuffix1",
-      "generationType": "suffix",
-      "group": "ManaLeech",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalPhysicalDamageTwoHand1",
-      "generationType": "prefix",
-      "group": "PhysicalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalPhysicalDamageTwoHand2",
-      "generationType": "prefix",
-      "group": "PhysicalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalPhysicalDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "PhysicalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMineDamageOnWeapon2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMineDamageOnWeapon2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMineLayingSpeed2h1",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMineLayingSpeed2h2_",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMinionDamageOnWeapon2h1_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMinionDamageOnWeapon2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMinionDamageOnWeapon2h3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedColdDamageTwoHand1",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedColdDamageTwoHand2_",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedColdDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedFireDamageTwoHand1",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedFireDamageTwoHand2",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedFireDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedLightningDamageTwoHand1",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedLightningDamageTwoHand2",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedLightningDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellDamageOnTwoHandWeapon1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellDamageOnTwoHandWeapon2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellDamageOnTwoHandWeapon3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellDamageOnTwoHandWeapon4_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterStaffAttackBlock1",
-      "generationType": "suffix",
-      "group": "AdditionalBlock",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterStaffAttackBlock2",
-      "generationType": "suffix",
-      "group": "AdditionalBlock",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterStaffSpellBlock1",
-      "generationType": "suffix",
-      "group": "SpellBlockPercentage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterStaffSpellBlock2",
-      "generationType": "suffix",
-      "group": "SpellBlockPercentage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterStrength2",
-      "generationType": "suffix",
-      "group": "Strength",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterStrength3",
-      "generationType": "suffix",
-      "group": "Strength",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterTrapDamageOnWeapon2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterTrapDamageOnWeapon2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterTrapThrowingSpeed2h1",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterTrapThrowingSpeed2h2_",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterTriggerSocketedSpellOnSkillUse1",
-      "generationType": "suffix",
-      "group": "SupportedByTrigger",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterWeaponElementalDamage1_",
-      "generationType": "prefix",
-      "group": "IncreasedWeaponElementalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterWeaponElementalDamage2",
-      "generationType": "prefix",
-      "group": "IncreasedWeaponElementalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
       "id": "ElementalDamagePercentAddedAsChaosStaffUber1",
       "generationType": "prefix_shaper",
       "group": "ElementalDamagePercentAddedAsChaos",
@@ -41801,30 +32500,6 @@ export const MODS_BY_BASE = {
       "weight": 300,
       "source": "warstaff,staff,attack_staff,two_hand_weapon,twohand,weapon,default",
       "itemClass": "Warstaves"
-    },
-    {
-      "id": "HelenaMasterDexterity1",
-      "generationType": "suffix",
-      "group": "Dexterity",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "HelenaMasterIntelligence1",
-      "generationType": "suffix",
-      "group": "Intelligence",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "HelenaMasterStrength1",
-      "generationType": "suffix",
-      "group": "Strength",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
     },
     {
       "id": "HellscapeDownsideCannotApplyAilments1___",
@@ -43177,1102 +33852,6 @@ export const MODS_BY_BASE = {
       "weight": 500,
       "source": "warstaff,staff,attack_staff,two_hand_weapon,twohand,weapon,default",
       "itemClass": "Warstaves"
-    },
-    {
-      "id": "IntMasterItemGenerationCannotRollAttackAffixes",
-      "generationType": "suffix",
-      "group": "ItemGenerationCannotRollAttackAffixes",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2AlwaysHits1",
-      "generationType": "prefix",
-      "group": "AlwaysHits",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2AttackSpeedPercentIfRareOrUniqueEnemyNearby2h1",
-      "generationType": "suffix",
-      "group": "AttackSpeedPercentIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2AttackSpeedPercentIfRareOrUniqueEnemyNearby2h2_",
-      "generationType": "suffix",
-      "group": "AttackSpeedPercentIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2AttackSpeedPercentIfRareOrUniqueEnemyNearby2h3",
-      "generationType": "suffix",
-      "group": "AttackSpeedPercentIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2BleedOnHitGained2h2",
-      "generationType": "prefix",
-      "group": "PhysicalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2BleedOnHitGained2h3_",
-      "generationType": "prefix",
-      "group": "PhysicalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2CastSpeedAndGainArcaneSurgeOnKillChance2h1_",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2CastSpeedAndGainArcaneSurgeOnKillChance2h2_",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2CastSpeedAndGainArcaneSurgeOnKillChance2h3",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChanceToDealDoubleDamageWhileFocused2h1_",
-      "generationType": "suffix",
-      "group": "ChanceToDealDoubleDamageWhileFocused",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChanceToDealDoubleDamageWhileFocused2h2",
-      "generationType": "suffix",
-      "group": "ChanceToDealDoubleDamageWhileFocused",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChanceToDealDoubleDamageWhileFocused2h3",
-      "generationType": "suffix",
-      "group": "ChanceToDealDoubleDamageWhileFocused",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosDamageAndChaosSkillDuration2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosDamageAndChaosSkillDuration2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosDamageAndChaosSkillDuration2h3_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosDamageOverTimeMultiplierTwoHand1",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosDamageOverTimeMultiplierTwoHand2_",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosDamageOverTimeMultiplierTwoHand3",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosPenetrationWithAttacks1",
-      "generationType": "prefix",
-      "group": "ChaosPenetrationWithAttacks",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosPenetrationWithAttacks2",
-      "generationType": "prefix",
-      "group": "ChaosPenetrationWithAttacks",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosPenetrationWithAttacks3_",
-      "generationType": "prefix",
-      "group": "ChaosPenetrationWithAttacks",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdAddedAsChaos2h2",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdAddedAsChaos2h3",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdDamageAndBaseChanceToFreeze2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdDamageAndBaseChanceToFreeze2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdDamageAndBaseChanceToFreeze2h3_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdDamageOverTimeMultiplierTwoHand1",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdDamageOverTimeMultiplierTwoHand2",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdDamageOverTimeMultiplierTwoHand3",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby2h1_",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby2h2",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby2h3",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2DamagePerEnduranceCharge2h1",
-      "generationType": "suffix",
-      "group": "AllDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2DamagePerFrenzyCharge2h1",
-      "generationType": "suffix",
-      "group": "AllDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2DamagePerPowerCharge2h1__",
-      "generationType": "suffix",
-      "group": "AllDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2DoubleDamageChance2h1",
-      "generationType": "suffix",
-      "group": "DoubleDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2DoubleDamageChance2h2",
-      "generationType": "suffix",
-      "group": "DoubleDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ElementalPenetrationWithAttacks1",
-      "generationType": "prefix",
-      "group": "LocalAttackReduceEnemyElementalResistance",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ElementalPenetrationWithAttacks2",
-      "generationType": "prefix",
-      "group": "LocalAttackReduceEnemyElementalResistance",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ElementalPenetrationWithAttacks3",
-      "generationType": "prefix",
-      "group": "LocalAttackReduceEnemyElementalResistance",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireAddedAsChaos2h2",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireAddedAsChaos2h3_",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireDamageAndChanceToIgnite2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireDamageAndChanceToIgnite2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireDamageAndChanceToIgnite2h3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireDamageOverTimeMultiplierTwoHand1_",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireDamageOverTimeMultiplierTwoHand2",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireDamageOverTimeMultiplierTwoHand3",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LightningAddedAsChaos2h2",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LightningAddedAsChaos2h3___",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LightningDamageAndChanceToShock2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LightningDamageAndChanceToShock2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LightningDamageAndChanceToShock2h3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalAccuracyRatingStrengthDexterity1",
-      "generationType": "suffix",
-      "group": "IncreasedAccuracy",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalAccuracyRatingStrengthDexterity2",
-      "generationType": "suffix",
-      "group": "IncreasedAccuracy",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalAttackSpeedAndLocalDisplayTriggerLevel1BloodRageOnKillChance1_",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalAttackSpeedAndLocalDisplayTriggerLevel1BloodRageOnKillChance2",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalAttackSpeedDexterityIntelligence1____",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalAttackSpeedDexterityIntelligence2",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalCriticalStrikeChanceStrengthIntelligence1",
-      "generationType": "suffix",
-      "group": "CriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalCriticalStrikeChanceStrengthIntelligence2___",
-      "generationType": "suffix",
-      "group": "CriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndBleedChanceCrafted1",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndBleedChanceCrafted2",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndBleedChanceCrafted3",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndBlindChanceCrafted1_",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndBlindChanceCrafted2",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndBlindChanceCrafted3",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndImpaleCrafted1",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndImpaleCrafted2",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndImpaleCrafted3",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndPoisonChanceCrafted1",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndPoisonChanceCrafted2_",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndPoisonChanceCrafted3",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreaseSocketedSupportGemLevel1",
-      "generationType": "prefix",
-      "group": "IncreaseSpecificSocketedGemLevel",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreaseSocketedSupportGemLevel2",
-      "generationType": "prefix",
-      "group": "IncreaseSpecificSocketedGemLevel",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2MinionAttackAndCastSpeedOnWeapon2h1_",
-      "generationType": "suffix",
-      "group": "MinionAttackSpeedAndCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2MinionAttackAndCastSpeedOnWeapon2h2",
-      "generationType": "suffix",
-      "group": "MinionAttackSpeedAndCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2MinionAttackAndCastSpeedOnWeapon2h3_",
-      "generationType": "suffix",
-      "group": "MinionAttackSpeedAndCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2MinionDamageAndMinionMaximumLife2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2MinionDamageAndMinionMaximumLife2h2_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2MinionDamageAndMinionMaximumLife2h3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2PhysicalAddedAsChaos2h2",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2PhysicalAddedAsChaos2h3",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2PhysicalDamageOverTimeMultiplierTwoHand1",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2PhysicalDamageOverTimeMultiplierTwoHand2",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2PhysicalDamageOverTimeMultiplierTwoHand3",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SocketedGemQuality2",
-      "generationType": "prefix",
-      "group": "SocketedGemQuality",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SocketedGemQuality3",
-      "generationType": "prefix",
-      "group": "SocketedGemQuality",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SpellDamageAndManaRegenerationRate2h1_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SpellDamageAndManaRegenerationRate2h2_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SpellDamageAndManaRegenerationRate2h3_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SpellDamageAndNonChaosDamageToAddAsChaosDamage2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SpellDamageAndNonChaosDamageToAddAsChaosDamage2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SpellDamageAndNonChaosDamageToAddAsChaosDamage2h3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledAttackSpeedPercentIfRareOrUniqueEnemyNearby2h",
-      "generationType": "suffix",
-      "group": "AttackSpeedPercentIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledCastSpeedAndGainArcaneSurgeOnKillChance2h_",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledChanceToDealDoubleDamageWhileFocused2h_",
-      "generationType": "suffix",
-      "group": "ChanceToDealDoubleDamageWhileFocused",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledChaosDamageAndChaosSkillDuration1h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledChaosDamageAndChaosSkillDuration2h_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledChaosDamageOverTimeMultiplier__",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledChaosDamageOverTimeMultiplierTwoHand",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledChaosPenetrationWithAttacks__",
-      "generationType": "prefix",
-      "group": "ChaosPenetrationWithAttacks",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledColdDamageAndBaseChanceToFreeze1h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledColdDamageAndBaseChanceToFreeze2h__",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledColdDamageOverTimeMultiplier___",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledColdDamageOverTimeMultiplierTwoHand",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledCriticalStrikeMultiplierIfRareOrUniqueEnemyNearby2h",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledDamagePerEnduranceCharge2h",
-      "generationType": "suffix",
-      "group": "AllDamage",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledDamagePerFrenzyCharge2h__",
-      "generationType": "suffix",
-      "group": "AllDamage",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledDamagePerPowerCharge2h",
-      "generationType": "suffix",
-      "group": "AllDamage",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledDoubleDamageChance2h_",
-      "generationType": "suffix",
-      "group": "DoubleDamage",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledElementalPenetrationWithAttacks_",
-      "generationType": "prefix",
-      "group": "LocalAttackReduceEnemyElementalResistance",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledFireDamageAndChanceToIgnite1h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledFireDamageAndChanceToIgnite2h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledFireDamageOverTimeMultiplier",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledFireDamageOverTimeMultiplierTwoHand",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLightningDamageAndChanceToShock1h_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLightningDamageAndChanceToShock2h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalAccuracyRatingStrengthDexterity_",
-      "generationType": "suffix",
-      "group": "IncreasedAccuracy",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalAttackSpeedAndLocalDisplayTriggerLevel1BloodRageOnKillChance_",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalAttackSpeedDexterityIntelligence",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalCriticalStrikeChanceStrengthIntelligence__",
-      "generationType": "suffix",
-      "group": "CriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalIncreasedPhysicalDamageAndBleedChanceCrafted_",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalIncreasedPhysicalDamageAndBlindChanceCrafted_",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalIncreasedPhysicalDamageAndImpaleCrafted",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalIncreasedPhysicalDamageAndPoisonChanceCrafted_",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledMinionAttackAndCastSpeedOnWeapon1h",
-      "generationType": "suffix",
-      "group": "MinionAttackSpeedAndCastSpeed",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledMinionAttackAndCastSpeedOnWeapon2h",
-      "generationType": "suffix",
-      "group": "MinionAttackSpeedAndCastSpeed",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledMinionDamageAndMinionMaximumLife1h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledMinionDamageAndMinionMaximumLife2h__",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledPhysicalDamageOverTimeMultiplier",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledPhysicalDamageOverTimeMultiplierTwoHand_",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledSpellDamageAndManaRegenerationRate1h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledSpellDamageAndManaRegenerationRate2h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledSpellDamageAndNonChaosDamageToAddAsChaosDamage1h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledSpellDamageAndNonChaosDamageToAddAsChaosDamage2h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
     },
     {
       "id": "LifeGainedFromEnemyDeath1",
@@ -46131,14 +35710,6 @@ export const MODS_BY_BASE = {
       "itemClass": "Warstaves"
     },
     {
-      "id": "StrDexMasterItemGenerationCannotRollCasterAffixes",
-      "generationType": "suffix",
-      "group": "ItemGenerationCannotRollCasterAffixes",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
       "id": "Strength1",
       "generationType": "suffix",
       "group": "Strength",
@@ -46209,22 +35780,6 @@ export const MODS_BY_BASE = {
       "weight": 500,
       "source": "warstaff,staff,attack_staff,two_hand_weapon,twohand,weapon,default",
       "itemClass": "Warstaves"
-    },
-    {
-      "id": "StrIntMasterItemGenerationCanHaveMultipleCraftedMods",
-      "generationType": "suffix",
-      "group": "ItemGenerationCanHaveMultipleCraftedMods",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "StrMasterItemGenerationCannotChangePrefixes",
-      "generationType": "suffix",
-      "group": "ItemGenerationCannotChangePrefixes",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
     },
     {
       "id": "StunDuration1",
@@ -47517,774 +37072,6 @@ export const MODS_BY_BASE = {
       "itemClass": "Warstaves"
     },
     {
-      "id": "DexMasterItemGenerationCannotChangeSuffixes",
-      "generationType": "prefix",
-      "group": "ItemGenerationCannotChangeSuffixes",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterAllAttributes1",
-      "generationType": "suffix",
-      "group": "AllAttributes",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterAllAttributes2",
-      "generationType": "suffix",
-      "group": "AllAttributes",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterChaosDamageTwoHandPrefix1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterChaosDamageTwoHandPrefix2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterChaosDamageTwoHandPrefix3_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterColdDamageTwoHandPrefix1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterColdDamageTwoHandPrefix2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterColdDamageTwoHandPrefix3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterCriticalStrikeChanceSpells2h1",
-      "generationType": "suffix",
-      "group": "SpellCriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterCriticalStrikeChanceSpells2h2_",
-      "generationType": "suffix",
-      "group": "SpellCriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterCriticalStrikeMultiplier1",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterCriticalStrikeMultiplier2",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterCriticalStrikeMultiplier3",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterDegenerationDamage1_",
-      "generationType": "prefix",
-      "group": "DegenerationDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterDegenerationDamage2",
-      "generationType": "prefix",
-      "group": "DegenerationDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterDexterity2",
-      "generationType": "suffix",
-      "group": "Dexterity",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterDexterity3",
-      "generationType": "suffix",
-      "group": "Dexterity",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterFireDamageTwoHandPrefix1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterFireDamageTwoHandPrefix2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterFireDamageTwoHandPrefix3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedCastSpeedTwoHand1",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedCastSpeedTwoHand2",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedCastSpeedTwoHand3_",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedManaRegenerationTwoHandWeapon1",
-      "generationType": "suffix",
-      "group": "ManaRegeneration",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedManaRegenerationTwoHandWeapon2",
-      "generationType": "suffix",
-      "group": "ManaRegeneration",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedManaTwoHandWeapon1___",
-      "generationType": "prefix",
-      "group": "IncreasedMana",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedManaTwoHandWeapon2_",
-      "generationType": "prefix",
-      "group": "IncreasedMana",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedManaTwoHandWeapon3_",
-      "generationType": "prefix",
-      "group": "IncreasedMana",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedManaTwoHandWeapon4",
-      "generationType": "prefix",
-      "group": "IncreasedMana",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIntelligence2__",
-      "generationType": "suffix",
-      "group": "Intelligence",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIntelligence3",
-      "generationType": "suffix",
-      "group": "Intelligence",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLightningDamageTwoHandPrefix1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLightningDamageTwoHandPrefix2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLightningDamageTwoHandPrefix3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalAccuracyRating1",
-      "generationType": "suffix",
-      "group": "IncreasedAccuracy",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalAccuracyRating2",
-      "generationType": "suffix",
-      "group": "IncreasedAccuracy",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalAccuracyRating3",
-      "generationType": "suffix",
-      "group": "IncreasedAccuracy",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalColdDamageTwoHand1",
-      "generationType": "prefix",
-      "group": "ColdDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalColdDamageTwoHand2",
-      "generationType": "prefix",
-      "group": "ColdDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalColdDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "ColdDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalCriticalStrikeChance1_",
-      "generationType": "suffix",
-      "group": "CriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalCriticalStrikeChance2",
-      "generationType": "suffix",
-      "group": "CriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalCriticalStrikeChance3_",
-      "generationType": "suffix",
-      "group": "CriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalFireDamageTwoHand1",
-      "generationType": "prefix",
-      "group": "FireDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalFireDamageTwoHand2",
-      "generationType": "prefix",
-      "group": "FireDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalFireDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "FireDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedAttackSpeed1__",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedAttackSpeed2_",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedAttackSpeed3",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedPhysicalDamage1",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedPhysicalDamage2_",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedPhysicalDamage3",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedPhysicalDamage4___",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalLifeLeechPermyriadNewSuffix1",
-      "generationType": "suffix",
-      "group": "LifeLeech",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalLifeLeechPermyriadNewSuffix2",
-      "generationType": "suffix",
-      "group": "LifeLeech",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalLightningDamageTwoHand1_",
-      "generationType": "prefix",
-      "group": "LightningDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalLightningDamageTwoHand2",
-      "generationType": "prefix",
-      "group": "LightningDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalLightningDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "LightningDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalManaLeechPermyriadNewSuffix1",
-      "generationType": "suffix",
-      "group": "ManaLeech",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalPhysicalDamageTwoHand1",
-      "generationType": "prefix",
-      "group": "PhysicalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalPhysicalDamageTwoHand2",
-      "generationType": "prefix",
-      "group": "PhysicalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalPhysicalDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "PhysicalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMineDamageOnWeapon2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMineDamageOnWeapon2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMineLayingSpeed2h1",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMineLayingSpeed2h2_",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMinionDamageOnWeapon2h1_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMinionDamageOnWeapon2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMinionDamageOnWeapon2h3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedColdDamageTwoHand1",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedColdDamageTwoHand2_",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedColdDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedFireDamageTwoHand1",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedFireDamageTwoHand2",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedFireDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedLightningDamageTwoHand1",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedLightningDamageTwoHand2",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedLightningDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellDamageOnTwoHandWeapon1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellDamageOnTwoHandWeapon2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellDamageOnTwoHandWeapon3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellDamageOnTwoHandWeapon4_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterStaffAttackBlock1",
-      "generationType": "suffix",
-      "group": "AdditionalBlock",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterStaffAttackBlock2",
-      "generationType": "suffix",
-      "group": "AdditionalBlock",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterStaffSpellBlock1",
-      "generationType": "suffix",
-      "group": "SpellBlockPercentage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterStaffSpellBlock2",
-      "generationType": "suffix",
-      "group": "SpellBlockPercentage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterStrength2",
-      "generationType": "suffix",
-      "group": "Strength",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterStrength3",
-      "generationType": "suffix",
-      "group": "Strength",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterTrapDamageOnWeapon2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterTrapDamageOnWeapon2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterTrapThrowingSpeed2h1",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterTrapThrowingSpeed2h2_",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterTriggerSocketedSpellOnSkillUse1",
-      "generationType": "suffix",
-      "group": "SupportedByTrigger",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterWeaponElementalDamage1_",
-      "generationType": "prefix",
-      "group": "IncreasedWeaponElementalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterWeaponElementalDamage2",
-      "generationType": "prefix",
-      "group": "IncreasedWeaponElementalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
       "id": "ElementalDamagePercentAddedAsChaosStaffUber1",
       "generationType": "prefix_shaper",
       "group": "ElementalDamagePercentAddedAsChaos",
@@ -48443,30 +37230,6 @@ export const MODS_BY_BASE = {
       "weight": 300,
       "source": "not_for_sale,experimental_base,staff,attack_staff,two_hand_weapon,twohand,weapon,default",
       "itemClass": "Warstaves"
-    },
-    {
-      "id": "HelenaMasterDexterity1",
-      "generationType": "suffix",
-      "group": "Dexterity",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "HelenaMasterIntelligence1",
-      "generationType": "suffix",
-      "group": "Intelligence",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "HelenaMasterStrength1",
-      "generationType": "suffix",
-      "group": "Strength",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
     },
     {
       "id": "HellscapeDownsideCannotApplyAilments1___",
@@ -49893,1102 +38656,6 @@ export const MODS_BY_BASE = {
       "itemClass": "Warstaves"
     },
     {
-      "id": "IntMasterItemGenerationCannotRollAttackAffixes",
-      "generationType": "suffix",
-      "group": "ItemGenerationCannotRollAttackAffixes",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2AlwaysHits1",
-      "generationType": "prefix",
-      "group": "AlwaysHits",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2AttackSpeedPercentIfRareOrUniqueEnemyNearby2h1",
-      "generationType": "suffix",
-      "group": "AttackSpeedPercentIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2AttackSpeedPercentIfRareOrUniqueEnemyNearby2h2_",
-      "generationType": "suffix",
-      "group": "AttackSpeedPercentIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2AttackSpeedPercentIfRareOrUniqueEnemyNearby2h3",
-      "generationType": "suffix",
-      "group": "AttackSpeedPercentIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2BleedOnHitGained2h2",
-      "generationType": "prefix",
-      "group": "PhysicalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2BleedOnHitGained2h3_",
-      "generationType": "prefix",
-      "group": "PhysicalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2CastSpeedAndGainArcaneSurgeOnKillChance2h1_",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2CastSpeedAndGainArcaneSurgeOnKillChance2h2_",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2CastSpeedAndGainArcaneSurgeOnKillChance2h3",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChanceToDealDoubleDamageWhileFocused2h1_",
-      "generationType": "suffix",
-      "group": "ChanceToDealDoubleDamageWhileFocused",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChanceToDealDoubleDamageWhileFocused2h2",
-      "generationType": "suffix",
-      "group": "ChanceToDealDoubleDamageWhileFocused",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChanceToDealDoubleDamageWhileFocused2h3",
-      "generationType": "suffix",
-      "group": "ChanceToDealDoubleDamageWhileFocused",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosDamageAndChaosSkillDuration2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosDamageAndChaosSkillDuration2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosDamageAndChaosSkillDuration2h3_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosDamageOverTimeMultiplierTwoHand1",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosDamageOverTimeMultiplierTwoHand2_",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosDamageOverTimeMultiplierTwoHand3",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosPenetrationWithAttacks1",
-      "generationType": "prefix",
-      "group": "ChaosPenetrationWithAttacks",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosPenetrationWithAttacks2",
-      "generationType": "prefix",
-      "group": "ChaosPenetrationWithAttacks",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosPenetrationWithAttacks3_",
-      "generationType": "prefix",
-      "group": "ChaosPenetrationWithAttacks",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdAddedAsChaos2h2",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdAddedAsChaos2h3",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdDamageAndBaseChanceToFreeze2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdDamageAndBaseChanceToFreeze2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdDamageAndBaseChanceToFreeze2h3_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdDamageOverTimeMultiplierTwoHand1",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdDamageOverTimeMultiplierTwoHand2",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdDamageOverTimeMultiplierTwoHand3",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby2h1_",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby2h2",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby2h3",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2DamagePerEnduranceCharge2h1",
-      "generationType": "suffix",
-      "group": "AllDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2DamagePerFrenzyCharge2h1",
-      "generationType": "suffix",
-      "group": "AllDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2DamagePerPowerCharge2h1__",
-      "generationType": "suffix",
-      "group": "AllDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2DoubleDamageChance2h1",
-      "generationType": "suffix",
-      "group": "DoubleDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2DoubleDamageChance2h2",
-      "generationType": "suffix",
-      "group": "DoubleDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ElementalPenetrationWithAttacks1",
-      "generationType": "prefix",
-      "group": "LocalAttackReduceEnemyElementalResistance",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ElementalPenetrationWithAttacks2",
-      "generationType": "prefix",
-      "group": "LocalAttackReduceEnemyElementalResistance",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ElementalPenetrationWithAttacks3",
-      "generationType": "prefix",
-      "group": "LocalAttackReduceEnemyElementalResistance",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireAddedAsChaos2h2",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireAddedAsChaos2h3_",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireDamageAndChanceToIgnite2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireDamageAndChanceToIgnite2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireDamageAndChanceToIgnite2h3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireDamageOverTimeMultiplierTwoHand1_",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireDamageOverTimeMultiplierTwoHand2",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireDamageOverTimeMultiplierTwoHand3",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LightningAddedAsChaos2h2",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LightningAddedAsChaos2h3___",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LightningDamageAndChanceToShock2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LightningDamageAndChanceToShock2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LightningDamageAndChanceToShock2h3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalAccuracyRatingStrengthDexterity1",
-      "generationType": "suffix",
-      "group": "IncreasedAccuracy",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalAccuracyRatingStrengthDexterity2",
-      "generationType": "suffix",
-      "group": "IncreasedAccuracy",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalAttackSpeedAndLocalDisplayTriggerLevel1BloodRageOnKillChance1_",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalAttackSpeedAndLocalDisplayTriggerLevel1BloodRageOnKillChance2",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalAttackSpeedDexterityIntelligence1____",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalAttackSpeedDexterityIntelligence2",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalCriticalStrikeChanceStrengthIntelligence1",
-      "generationType": "suffix",
-      "group": "CriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalCriticalStrikeChanceStrengthIntelligence2___",
-      "generationType": "suffix",
-      "group": "CriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndBleedChanceCrafted1",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndBleedChanceCrafted2",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndBleedChanceCrafted3",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndBlindChanceCrafted1_",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndBlindChanceCrafted2",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndBlindChanceCrafted3",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndImpaleCrafted1",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndImpaleCrafted2",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndImpaleCrafted3",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndPoisonChanceCrafted1",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndPoisonChanceCrafted2_",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndPoisonChanceCrafted3",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreaseSocketedSupportGemLevel1",
-      "generationType": "prefix",
-      "group": "IncreaseSpecificSocketedGemLevel",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreaseSocketedSupportGemLevel2",
-      "generationType": "prefix",
-      "group": "IncreaseSpecificSocketedGemLevel",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2MinionAttackAndCastSpeedOnWeapon2h1_",
-      "generationType": "suffix",
-      "group": "MinionAttackSpeedAndCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2MinionAttackAndCastSpeedOnWeapon2h2",
-      "generationType": "suffix",
-      "group": "MinionAttackSpeedAndCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2MinionAttackAndCastSpeedOnWeapon2h3_",
-      "generationType": "suffix",
-      "group": "MinionAttackSpeedAndCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2MinionDamageAndMinionMaximumLife2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2MinionDamageAndMinionMaximumLife2h2_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2MinionDamageAndMinionMaximumLife2h3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2PhysicalAddedAsChaos2h2",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2PhysicalAddedAsChaos2h3",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2PhysicalDamageOverTimeMultiplierTwoHand1",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2PhysicalDamageOverTimeMultiplierTwoHand2",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2PhysicalDamageOverTimeMultiplierTwoHand3",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SocketedGemQuality2",
-      "generationType": "prefix",
-      "group": "SocketedGemQuality",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SocketedGemQuality3",
-      "generationType": "prefix",
-      "group": "SocketedGemQuality",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SpellDamageAndManaRegenerationRate2h1_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SpellDamageAndManaRegenerationRate2h2_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SpellDamageAndManaRegenerationRate2h3_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SpellDamageAndNonChaosDamageToAddAsChaosDamage2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SpellDamageAndNonChaosDamageToAddAsChaosDamage2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SpellDamageAndNonChaosDamageToAddAsChaosDamage2h3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledAttackSpeedPercentIfRareOrUniqueEnemyNearby2h",
-      "generationType": "suffix",
-      "group": "AttackSpeedPercentIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledCastSpeedAndGainArcaneSurgeOnKillChance2h_",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledChanceToDealDoubleDamageWhileFocused2h_",
-      "generationType": "suffix",
-      "group": "ChanceToDealDoubleDamageWhileFocused",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledChaosDamageAndChaosSkillDuration1h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledChaosDamageAndChaosSkillDuration2h_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledChaosDamageOverTimeMultiplier__",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledChaosDamageOverTimeMultiplierTwoHand",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledChaosPenetrationWithAttacks__",
-      "generationType": "prefix",
-      "group": "ChaosPenetrationWithAttacks",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledColdDamageAndBaseChanceToFreeze1h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledColdDamageAndBaseChanceToFreeze2h__",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledColdDamageOverTimeMultiplier___",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledColdDamageOverTimeMultiplierTwoHand",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledCriticalStrikeMultiplierIfRareOrUniqueEnemyNearby2h",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledDamagePerEnduranceCharge2h",
-      "generationType": "suffix",
-      "group": "AllDamage",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledDamagePerFrenzyCharge2h__",
-      "generationType": "suffix",
-      "group": "AllDamage",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledDamagePerPowerCharge2h",
-      "generationType": "suffix",
-      "group": "AllDamage",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledDoubleDamageChance2h_",
-      "generationType": "suffix",
-      "group": "DoubleDamage",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledElementalPenetrationWithAttacks_",
-      "generationType": "prefix",
-      "group": "LocalAttackReduceEnemyElementalResistance",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledFireDamageAndChanceToIgnite1h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledFireDamageAndChanceToIgnite2h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledFireDamageOverTimeMultiplier",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledFireDamageOverTimeMultiplierTwoHand",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLightningDamageAndChanceToShock1h_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLightningDamageAndChanceToShock2h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalAccuracyRatingStrengthDexterity_",
-      "generationType": "suffix",
-      "group": "IncreasedAccuracy",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalAttackSpeedAndLocalDisplayTriggerLevel1BloodRageOnKillChance_",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalAttackSpeedDexterityIntelligence",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalCriticalStrikeChanceStrengthIntelligence__",
-      "generationType": "suffix",
-      "group": "CriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalIncreasedPhysicalDamageAndBleedChanceCrafted_",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalIncreasedPhysicalDamageAndBlindChanceCrafted_",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalIncreasedPhysicalDamageAndImpaleCrafted",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalIncreasedPhysicalDamageAndPoisonChanceCrafted_",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledMinionAttackAndCastSpeedOnWeapon1h",
-      "generationType": "suffix",
-      "group": "MinionAttackSpeedAndCastSpeed",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledMinionAttackAndCastSpeedOnWeapon2h",
-      "generationType": "suffix",
-      "group": "MinionAttackSpeedAndCastSpeed",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledMinionDamageAndMinionMaximumLife1h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledMinionDamageAndMinionMaximumLife2h__",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledPhysicalDamageOverTimeMultiplier",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledPhysicalDamageOverTimeMultiplierTwoHand_",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledSpellDamageAndManaRegenerationRate1h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledSpellDamageAndManaRegenerationRate2h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledSpellDamageAndNonChaosDamageToAddAsChaosDamage1h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledSpellDamageAndNonChaosDamageToAddAsChaosDamage2h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
       "id": "LifeGainedFromEnemyDeath1",
       "generationType": "suffix",
       "group": "LifeGainedFromEnemyDeath",
@@ -52845,14 +40512,6 @@ export const MODS_BY_BASE = {
       "itemClass": "Warstaves"
     },
     {
-      "id": "StrDexMasterItemGenerationCannotRollCasterAffixes",
-      "generationType": "suffix",
-      "group": "ItemGenerationCannotRollCasterAffixes",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
       "id": "Strength1",
       "generationType": "suffix",
       "group": "Strength",
@@ -52923,22 +40582,6 @@ export const MODS_BY_BASE = {
       "weight": 500,
       "source": "not_for_sale,experimental_base,staff,attack_staff,two_hand_weapon,twohand,weapon,default",
       "itemClass": "Warstaves"
-    },
-    {
-      "id": "StrIntMasterItemGenerationCanHaveMultipleCraftedMods",
-      "generationType": "suffix",
-      "group": "ItemGenerationCanHaveMultipleCraftedMods",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "StrMasterItemGenerationCannotChangePrefixes",
-      "generationType": "suffix",
-      "group": "ItemGenerationCannotChangePrefixes",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
     },
     {
       "id": "StunDuration1",
@@ -54263,774 +41906,6 @@ export const MODS_BY_BASE = {
       "itemClass": "Warstaves"
     },
     {
-      "id": "DexMasterItemGenerationCannotChangeSuffixes",
-      "generationType": "prefix",
-      "group": "ItemGenerationCannotChangeSuffixes",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterAllAttributes1",
-      "generationType": "suffix",
-      "group": "AllAttributes",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterAllAttributes2",
-      "generationType": "suffix",
-      "group": "AllAttributes",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterChaosDamageTwoHandPrefix1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterChaosDamageTwoHandPrefix2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterChaosDamageTwoHandPrefix3_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterColdDamageTwoHandPrefix1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterColdDamageTwoHandPrefix2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterColdDamageTwoHandPrefix3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterCriticalStrikeChanceSpells2h1",
-      "generationType": "suffix",
-      "group": "SpellCriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterCriticalStrikeChanceSpells2h2_",
-      "generationType": "suffix",
-      "group": "SpellCriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterCriticalStrikeMultiplier1",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterCriticalStrikeMultiplier2",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterCriticalStrikeMultiplier3",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterDegenerationDamage1_",
-      "generationType": "prefix",
-      "group": "DegenerationDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterDegenerationDamage2",
-      "generationType": "prefix",
-      "group": "DegenerationDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterDexterity2",
-      "generationType": "suffix",
-      "group": "Dexterity",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterDexterity3",
-      "generationType": "suffix",
-      "group": "Dexterity",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterFireDamageTwoHandPrefix1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterFireDamageTwoHandPrefix2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterFireDamageTwoHandPrefix3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedCastSpeedTwoHand1",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedCastSpeedTwoHand2",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedCastSpeedTwoHand3_",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedManaRegenerationTwoHandWeapon1",
-      "generationType": "suffix",
-      "group": "ManaRegeneration",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedManaRegenerationTwoHandWeapon2",
-      "generationType": "suffix",
-      "group": "ManaRegeneration",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedManaTwoHandWeapon1___",
-      "generationType": "prefix",
-      "group": "IncreasedMana",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedManaTwoHandWeapon2_",
-      "generationType": "prefix",
-      "group": "IncreasedMana",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedManaTwoHandWeapon3_",
-      "generationType": "prefix",
-      "group": "IncreasedMana",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedManaTwoHandWeapon4",
-      "generationType": "prefix",
-      "group": "IncreasedMana",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIntelligence2__",
-      "generationType": "suffix",
-      "group": "Intelligence",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIntelligence3",
-      "generationType": "suffix",
-      "group": "Intelligence",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLightningDamageTwoHandPrefix1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLightningDamageTwoHandPrefix2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLightningDamageTwoHandPrefix3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalAccuracyRating1",
-      "generationType": "suffix",
-      "group": "IncreasedAccuracy",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalAccuracyRating2",
-      "generationType": "suffix",
-      "group": "IncreasedAccuracy",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalAccuracyRating3",
-      "generationType": "suffix",
-      "group": "IncreasedAccuracy",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalColdDamageTwoHand1",
-      "generationType": "prefix",
-      "group": "ColdDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalColdDamageTwoHand2",
-      "generationType": "prefix",
-      "group": "ColdDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalColdDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "ColdDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalCriticalStrikeChance1_",
-      "generationType": "suffix",
-      "group": "CriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalCriticalStrikeChance2",
-      "generationType": "suffix",
-      "group": "CriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalCriticalStrikeChance3_",
-      "generationType": "suffix",
-      "group": "CriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalFireDamageTwoHand1",
-      "generationType": "prefix",
-      "group": "FireDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalFireDamageTwoHand2",
-      "generationType": "prefix",
-      "group": "FireDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalFireDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "FireDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedAttackSpeed1__",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedAttackSpeed2_",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedAttackSpeed3",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedPhysicalDamage1",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedPhysicalDamage2_",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedPhysicalDamage3",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedPhysicalDamage4___",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalLifeLeechPermyriadNewSuffix1",
-      "generationType": "suffix",
-      "group": "LifeLeech",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalLifeLeechPermyriadNewSuffix2",
-      "generationType": "suffix",
-      "group": "LifeLeech",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalLightningDamageTwoHand1_",
-      "generationType": "prefix",
-      "group": "LightningDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalLightningDamageTwoHand2",
-      "generationType": "prefix",
-      "group": "LightningDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalLightningDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "LightningDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalManaLeechPermyriadNewSuffix1",
-      "generationType": "suffix",
-      "group": "ManaLeech",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalPhysicalDamageTwoHand1",
-      "generationType": "prefix",
-      "group": "PhysicalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalPhysicalDamageTwoHand2",
-      "generationType": "prefix",
-      "group": "PhysicalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalPhysicalDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "PhysicalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMineDamageOnWeapon2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMineDamageOnWeapon2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMineLayingSpeed2h1",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMineLayingSpeed2h2_",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMinionDamageOnWeapon2h1_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMinionDamageOnWeapon2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMinionDamageOnWeapon2h3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedColdDamageTwoHand1",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedColdDamageTwoHand2_",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedColdDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedFireDamageTwoHand1",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedFireDamageTwoHand2",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedFireDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedLightningDamageTwoHand1",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedLightningDamageTwoHand2",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedLightningDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellDamageOnTwoHandWeapon1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellDamageOnTwoHandWeapon2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellDamageOnTwoHandWeapon3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellDamageOnTwoHandWeapon4_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterStaffAttackBlock1",
-      "generationType": "suffix",
-      "group": "AdditionalBlock",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterStaffAttackBlock2",
-      "generationType": "suffix",
-      "group": "AdditionalBlock",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterStaffSpellBlock1",
-      "generationType": "suffix",
-      "group": "SpellBlockPercentage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterStaffSpellBlock2",
-      "generationType": "suffix",
-      "group": "SpellBlockPercentage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterStrength2",
-      "generationType": "suffix",
-      "group": "Strength",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterStrength3",
-      "generationType": "suffix",
-      "group": "Strength",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterTrapDamageOnWeapon2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterTrapDamageOnWeapon2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterTrapThrowingSpeed2h1",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterTrapThrowingSpeed2h2_",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterTriggerSocketedSpellOnSkillUse1",
-      "generationType": "suffix",
-      "group": "SupportedByTrigger",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterWeaponElementalDamage1_",
-      "generationType": "prefix",
-      "group": "IncreasedWeaponElementalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterWeaponElementalDamage2",
-      "generationType": "prefix",
-      "group": "IncreasedWeaponElementalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
       "id": "ElementalDamagePercentAddedAsChaosStaffUber1",
       "generationType": "prefix_shaper",
       "group": "ElementalDamagePercentAddedAsChaos",
@@ -55189,30 +42064,6 @@ export const MODS_BY_BASE = {
       "weight": 300,
       "source": "warstaff,top_tier_base_item_type,staff,attack_staff,two_hand_weapon,twohand,weapon,default",
       "itemClass": "Warstaves"
-    },
-    {
-      "id": "HelenaMasterDexterity1",
-      "generationType": "suffix",
-      "group": "Dexterity",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "HelenaMasterIntelligence1",
-      "generationType": "suffix",
-      "group": "Intelligence",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "HelenaMasterStrength1",
-      "generationType": "suffix",
-      "group": "Strength",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
     },
     {
       "id": "HellscapeDownsideCannotApplyAilments1___",
@@ -56565,1102 +43416,6 @@ export const MODS_BY_BASE = {
       "weight": 500,
       "source": "warstaff,top_tier_base_item_type,staff,attack_staff,two_hand_weapon,twohand,weapon,default",
       "itemClass": "Warstaves"
-    },
-    {
-      "id": "IntMasterItemGenerationCannotRollAttackAffixes",
-      "generationType": "suffix",
-      "group": "ItemGenerationCannotRollAttackAffixes",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2AlwaysHits1",
-      "generationType": "prefix",
-      "group": "AlwaysHits",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2AttackSpeedPercentIfRareOrUniqueEnemyNearby2h1",
-      "generationType": "suffix",
-      "group": "AttackSpeedPercentIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2AttackSpeedPercentIfRareOrUniqueEnemyNearby2h2_",
-      "generationType": "suffix",
-      "group": "AttackSpeedPercentIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2AttackSpeedPercentIfRareOrUniqueEnemyNearby2h3",
-      "generationType": "suffix",
-      "group": "AttackSpeedPercentIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2BleedOnHitGained2h2",
-      "generationType": "prefix",
-      "group": "PhysicalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2BleedOnHitGained2h3_",
-      "generationType": "prefix",
-      "group": "PhysicalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2CastSpeedAndGainArcaneSurgeOnKillChance2h1_",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2CastSpeedAndGainArcaneSurgeOnKillChance2h2_",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2CastSpeedAndGainArcaneSurgeOnKillChance2h3",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChanceToDealDoubleDamageWhileFocused2h1_",
-      "generationType": "suffix",
-      "group": "ChanceToDealDoubleDamageWhileFocused",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChanceToDealDoubleDamageWhileFocused2h2",
-      "generationType": "suffix",
-      "group": "ChanceToDealDoubleDamageWhileFocused",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChanceToDealDoubleDamageWhileFocused2h3",
-      "generationType": "suffix",
-      "group": "ChanceToDealDoubleDamageWhileFocused",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosDamageAndChaosSkillDuration2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosDamageAndChaosSkillDuration2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosDamageAndChaosSkillDuration2h3_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosDamageOverTimeMultiplierTwoHand1",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosDamageOverTimeMultiplierTwoHand2_",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosDamageOverTimeMultiplierTwoHand3",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosPenetrationWithAttacks1",
-      "generationType": "prefix",
-      "group": "ChaosPenetrationWithAttacks",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosPenetrationWithAttacks2",
-      "generationType": "prefix",
-      "group": "ChaosPenetrationWithAttacks",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosPenetrationWithAttacks3_",
-      "generationType": "prefix",
-      "group": "ChaosPenetrationWithAttacks",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdAddedAsChaos2h2",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdAddedAsChaos2h3",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdDamageAndBaseChanceToFreeze2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdDamageAndBaseChanceToFreeze2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdDamageAndBaseChanceToFreeze2h3_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdDamageOverTimeMultiplierTwoHand1",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdDamageOverTimeMultiplierTwoHand2",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdDamageOverTimeMultiplierTwoHand3",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby2h1_",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby2h2",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby2h3",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2DamagePerEnduranceCharge2h1",
-      "generationType": "suffix",
-      "group": "AllDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2DamagePerFrenzyCharge2h1",
-      "generationType": "suffix",
-      "group": "AllDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2DamagePerPowerCharge2h1__",
-      "generationType": "suffix",
-      "group": "AllDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2DoubleDamageChance2h1",
-      "generationType": "suffix",
-      "group": "DoubleDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2DoubleDamageChance2h2",
-      "generationType": "suffix",
-      "group": "DoubleDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ElementalPenetrationWithAttacks1",
-      "generationType": "prefix",
-      "group": "LocalAttackReduceEnemyElementalResistance",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ElementalPenetrationWithAttacks2",
-      "generationType": "prefix",
-      "group": "LocalAttackReduceEnemyElementalResistance",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ElementalPenetrationWithAttacks3",
-      "generationType": "prefix",
-      "group": "LocalAttackReduceEnemyElementalResistance",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireAddedAsChaos2h2",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireAddedAsChaos2h3_",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireDamageAndChanceToIgnite2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireDamageAndChanceToIgnite2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireDamageAndChanceToIgnite2h3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireDamageOverTimeMultiplierTwoHand1_",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireDamageOverTimeMultiplierTwoHand2",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireDamageOverTimeMultiplierTwoHand3",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LightningAddedAsChaos2h2",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LightningAddedAsChaos2h3___",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LightningDamageAndChanceToShock2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LightningDamageAndChanceToShock2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LightningDamageAndChanceToShock2h3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalAccuracyRatingStrengthDexterity1",
-      "generationType": "suffix",
-      "group": "IncreasedAccuracy",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalAccuracyRatingStrengthDexterity2",
-      "generationType": "suffix",
-      "group": "IncreasedAccuracy",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalAttackSpeedAndLocalDisplayTriggerLevel1BloodRageOnKillChance1_",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalAttackSpeedAndLocalDisplayTriggerLevel1BloodRageOnKillChance2",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalAttackSpeedDexterityIntelligence1____",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalAttackSpeedDexterityIntelligence2",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalCriticalStrikeChanceStrengthIntelligence1",
-      "generationType": "suffix",
-      "group": "CriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalCriticalStrikeChanceStrengthIntelligence2___",
-      "generationType": "suffix",
-      "group": "CriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndBleedChanceCrafted1",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndBleedChanceCrafted2",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndBleedChanceCrafted3",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndBlindChanceCrafted1_",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndBlindChanceCrafted2",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndBlindChanceCrafted3",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndImpaleCrafted1",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndImpaleCrafted2",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndImpaleCrafted3",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndPoisonChanceCrafted1",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndPoisonChanceCrafted2_",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndPoisonChanceCrafted3",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreaseSocketedSupportGemLevel1",
-      "generationType": "prefix",
-      "group": "IncreaseSpecificSocketedGemLevel",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreaseSocketedSupportGemLevel2",
-      "generationType": "prefix",
-      "group": "IncreaseSpecificSocketedGemLevel",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2MinionAttackAndCastSpeedOnWeapon2h1_",
-      "generationType": "suffix",
-      "group": "MinionAttackSpeedAndCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2MinionAttackAndCastSpeedOnWeapon2h2",
-      "generationType": "suffix",
-      "group": "MinionAttackSpeedAndCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2MinionAttackAndCastSpeedOnWeapon2h3_",
-      "generationType": "suffix",
-      "group": "MinionAttackSpeedAndCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2MinionDamageAndMinionMaximumLife2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2MinionDamageAndMinionMaximumLife2h2_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2MinionDamageAndMinionMaximumLife2h3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2PhysicalAddedAsChaos2h2",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2PhysicalAddedAsChaos2h3",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2PhysicalDamageOverTimeMultiplierTwoHand1",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2PhysicalDamageOverTimeMultiplierTwoHand2",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2PhysicalDamageOverTimeMultiplierTwoHand3",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SocketedGemQuality2",
-      "generationType": "prefix",
-      "group": "SocketedGemQuality",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SocketedGemQuality3",
-      "generationType": "prefix",
-      "group": "SocketedGemQuality",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SpellDamageAndManaRegenerationRate2h1_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SpellDamageAndManaRegenerationRate2h2_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SpellDamageAndManaRegenerationRate2h3_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SpellDamageAndNonChaosDamageToAddAsChaosDamage2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SpellDamageAndNonChaosDamageToAddAsChaosDamage2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SpellDamageAndNonChaosDamageToAddAsChaosDamage2h3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledAttackSpeedPercentIfRareOrUniqueEnemyNearby2h",
-      "generationType": "suffix",
-      "group": "AttackSpeedPercentIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledCastSpeedAndGainArcaneSurgeOnKillChance2h_",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledChanceToDealDoubleDamageWhileFocused2h_",
-      "generationType": "suffix",
-      "group": "ChanceToDealDoubleDamageWhileFocused",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledChaosDamageAndChaosSkillDuration1h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledChaosDamageAndChaosSkillDuration2h_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledChaosDamageOverTimeMultiplier__",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledChaosDamageOverTimeMultiplierTwoHand",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledChaosPenetrationWithAttacks__",
-      "generationType": "prefix",
-      "group": "ChaosPenetrationWithAttacks",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledColdDamageAndBaseChanceToFreeze1h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledColdDamageAndBaseChanceToFreeze2h__",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledColdDamageOverTimeMultiplier___",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledColdDamageOverTimeMultiplierTwoHand",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledCriticalStrikeMultiplierIfRareOrUniqueEnemyNearby2h",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledDamagePerEnduranceCharge2h",
-      "generationType": "suffix",
-      "group": "AllDamage",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledDamagePerFrenzyCharge2h__",
-      "generationType": "suffix",
-      "group": "AllDamage",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledDamagePerPowerCharge2h",
-      "generationType": "suffix",
-      "group": "AllDamage",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledDoubleDamageChance2h_",
-      "generationType": "suffix",
-      "group": "DoubleDamage",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledElementalPenetrationWithAttacks_",
-      "generationType": "prefix",
-      "group": "LocalAttackReduceEnemyElementalResistance",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledFireDamageAndChanceToIgnite1h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledFireDamageAndChanceToIgnite2h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledFireDamageOverTimeMultiplier",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledFireDamageOverTimeMultiplierTwoHand",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLightningDamageAndChanceToShock1h_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLightningDamageAndChanceToShock2h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalAccuracyRatingStrengthDexterity_",
-      "generationType": "suffix",
-      "group": "IncreasedAccuracy",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalAttackSpeedAndLocalDisplayTriggerLevel1BloodRageOnKillChance_",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalAttackSpeedDexterityIntelligence",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalCriticalStrikeChanceStrengthIntelligence__",
-      "generationType": "suffix",
-      "group": "CriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalIncreasedPhysicalDamageAndBleedChanceCrafted_",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalIncreasedPhysicalDamageAndBlindChanceCrafted_",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalIncreasedPhysicalDamageAndImpaleCrafted",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalIncreasedPhysicalDamageAndPoisonChanceCrafted_",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledMinionAttackAndCastSpeedOnWeapon1h",
-      "generationType": "suffix",
-      "group": "MinionAttackSpeedAndCastSpeed",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledMinionAttackAndCastSpeedOnWeapon2h",
-      "generationType": "suffix",
-      "group": "MinionAttackSpeedAndCastSpeed",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledMinionDamageAndMinionMaximumLife1h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledMinionDamageAndMinionMaximumLife2h__",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledPhysicalDamageOverTimeMultiplier",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledPhysicalDamageOverTimeMultiplierTwoHand_",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledSpellDamageAndManaRegenerationRate1h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledSpellDamageAndManaRegenerationRate2h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledSpellDamageAndNonChaosDamageToAddAsChaosDamage1h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledSpellDamageAndNonChaosDamageToAddAsChaosDamage2h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
     },
     {
       "id": "LifeGainedFromEnemyDeath1",
@@ -59519,14 +45274,6 @@ export const MODS_BY_BASE = {
       "itemClass": "Warstaves"
     },
     {
-      "id": "StrDexMasterItemGenerationCannotRollCasterAffixes",
-      "generationType": "suffix",
-      "group": "ItemGenerationCannotRollCasterAffixes",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
       "id": "Strength1",
       "generationType": "suffix",
       "group": "Strength",
@@ -59597,22 +45344,6 @@ export const MODS_BY_BASE = {
       "weight": 500,
       "source": "warstaff,top_tier_base_item_type,staff,attack_staff,two_hand_weapon,twohand,weapon,default",
       "itemClass": "Warstaves"
-    },
-    {
-      "id": "StrIntMasterItemGenerationCanHaveMultipleCraftedMods",
-      "generationType": "suffix",
-      "group": "ItemGenerationCanHaveMultipleCraftedMods",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "StrMasterItemGenerationCannotChangePrefixes",
-      "generationType": "suffix",
-      "group": "ItemGenerationCannotChangePrefixes",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
     },
     {
       "id": "StunDuration1",
@@ -60905,774 +46636,6 @@ export const MODS_BY_BASE = {
       "itemClass": "Warstaves"
     },
     {
-      "id": "DexMasterItemGenerationCannotChangeSuffixes",
-      "generationType": "prefix",
-      "group": "ItemGenerationCannotChangeSuffixes",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterAllAttributes1",
-      "generationType": "suffix",
-      "group": "AllAttributes",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterAllAttributes2",
-      "generationType": "suffix",
-      "group": "AllAttributes",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterChaosDamageTwoHandPrefix1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterChaosDamageTwoHandPrefix2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterChaosDamageTwoHandPrefix3_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterColdDamageTwoHandPrefix1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterColdDamageTwoHandPrefix2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterColdDamageTwoHandPrefix3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterCriticalStrikeChanceSpells2h1",
-      "generationType": "suffix",
-      "group": "SpellCriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterCriticalStrikeChanceSpells2h2_",
-      "generationType": "suffix",
-      "group": "SpellCriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterCriticalStrikeMultiplier1",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterCriticalStrikeMultiplier2",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterCriticalStrikeMultiplier3",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterDegenerationDamage1_",
-      "generationType": "prefix",
-      "group": "DegenerationDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterDegenerationDamage2",
-      "generationType": "prefix",
-      "group": "DegenerationDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterDexterity2",
-      "generationType": "suffix",
-      "group": "Dexterity",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterDexterity3",
-      "generationType": "suffix",
-      "group": "Dexterity",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterFireDamageTwoHandPrefix1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterFireDamageTwoHandPrefix2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterFireDamageTwoHandPrefix3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedCastSpeedTwoHand1",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedCastSpeedTwoHand2",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedCastSpeedTwoHand3_",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedManaRegenerationTwoHandWeapon1",
-      "generationType": "suffix",
-      "group": "ManaRegeneration",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedManaRegenerationTwoHandWeapon2",
-      "generationType": "suffix",
-      "group": "ManaRegeneration",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedManaTwoHandWeapon1___",
-      "generationType": "prefix",
-      "group": "IncreasedMana",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedManaTwoHandWeapon2_",
-      "generationType": "prefix",
-      "group": "IncreasedMana",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedManaTwoHandWeapon3_",
-      "generationType": "prefix",
-      "group": "IncreasedMana",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedManaTwoHandWeapon4",
-      "generationType": "prefix",
-      "group": "IncreasedMana",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIntelligence2__",
-      "generationType": "suffix",
-      "group": "Intelligence",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIntelligence3",
-      "generationType": "suffix",
-      "group": "Intelligence",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLightningDamageTwoHandPrefix1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLightningDamageTwoHandPrefix2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLightningDamageTwoHandPrefix3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalAccuracyRating1",
-      "generationType": "suffix",
-      "group": "IncreasedAccuracy",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalAccuracyRating2",
-      "generationType": "suffix",
-      "group": "IncreasedAccuracy",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalAccuracyRating3",
-      "generationType": "suffix",
-      "group": "IncreasedAccuracy",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalColdDamageTwoHand1",
-      "generationType": "prefix",
-      "group": "ColdDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalColdDamageTwoHand2",
-      "generationType": "prefix",
-      "group": "ColdDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalColdDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "ColdDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalCriticalStrikeChance1_",
-      "generationType": "suffix",
-      "group": "CriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalCriticalStrikeChance2",
-      "generationType": "suffix",
-      "group": "CriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalCriticalStrikeChance3_",
-      "generationType": "suffix",
-      "group": "CriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalFireDamageTwoHand1",
-      "generationType": "prefix",
-      "group": "FireDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalFireDamageTwoHand2",
-      "generationType": "prefix",
-      "group": "FireDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalFireDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "FireDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedAttackSpeed1__",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedAttackSpeed2_",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedAttackSpeed3",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedPhysicalDamage1",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedPhysicalDamage2_",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedPhysicalDamage3",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedPhysicalDamage4___",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalLifeLeechPermyriadNewSuffix1",
-      "generationType": "suffix",
-      "group": "LifeLeech",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalLifeLeechPermyriadNewSuffix2",
-      "generationType": "suffix",
-      "group": "LifeLeech",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalLightningDamageTwoHand1_",
-      "generationType": "prefix",
-      "group": "LightningDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalLightningDamageTwoHand2",
-      "generationType": "prefix",
-      "group": "LightningDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalLightningDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "LightningDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalManaLeechPermyriadNewSuffix1",
-      "generationType": "suffix",
-      "group": "ManaLeech",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalPhysicalDamageTwoHand1",
-      "generationType": "prefix",
-      "group": "PhysicalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalPhysicalDamageTwoHand2",
-      "generationType": "prefix",
-      "group": "PhysicalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalPhysicalDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "PhysicalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMineDamageOnWeapon2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMineDamageOnWeapon2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMineLayingSpeed2h1",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMineLayingSpeed2h2_",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMinionDamageOnWeapon2h1_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMinionDamageOnWeapon2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMinionDamageOnWeapon2h3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedColdDamageTwoHand1",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedColdDamageTwoHand2_",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedColdDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedFireDamageTwoHand1",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedFireDamageTwoHand2",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedFireDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedLightningDamageTwoHand1",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedLightningDamageTwoHand2",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedLightningDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellDamageOnTwoHandWeapon1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellDamageOnTwoHandWeapon2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellDamageOnTwoHandWeapon3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellDamageOnTwoHandWeapon4_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterStaffAttackBlock1",
-      "generationType": "suffix",
-      "group": "AdditionalBlock",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterStaffAttackBlock2",
-      "generationType": "suffix",
-      "group": "AdditionalBlock",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterStaffSpellBlock1",
-      "generationType": "suffix",
-      "group": "SpellBlockPercentage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterStaffSpellBlock2",
-      "generationType": "suffix",
-      "group": "SpellBlockPercentage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterStrength2",
-      "generationType": "suffix",
-      "group": "Strength",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterStrength3",
-      "generationType": "suffix",
-      "group": "Strength",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterTrapDamageOnWeapon2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterTrapDamageOnWeapon2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterTrapThrowingSpeed2h1",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterTrapThrowingSpeed2h2_",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterTriggerSocketedSpellOnSkillUse1",
-      "generationType": "suffix",
-      "group": "SupportedByTrigger",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterWeaponElementalDamage1_",
-      "generationType": "prefix",
-      "group": "IncreasedWeaponElementalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterWeaponElementalDamage2",
-      "generationType": "prefix",
-      "group": "IncreasedWeaponElementalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
       "id": "ElementalDamagePercentAddedAsChaosStaffUber1",
       "generationType": "prefix_shaper",
       "group": "ElementalDamagePercentAddedAsChaos",
@@ -61831,30 +46794,6 @@ export const MODS_BY_BASE = {
       "weight": 300,
       "source": "warstaff,staff,attack_staff,two_hand_weapon,twohand,weapon,default",
       "itemClass": "Warstaves"
-    },
-    {
-      "id": "HelenaMasterDexterity1",
-      "generationType": "suffix",
-      "group": "Dexterity",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "HelenaMasterIntelligence1",
-      "generationType": "suffix",
-      "group": "Intelligence",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "HelenaMasterStrength1",
-      "generationType": "suffix",
-      "group": "Strength",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
     },
     {
       "id": "HellscapeDownsideCannotApplyAilments1___",
@@ -63207,1102 +48146,6 @@ export const MODS_BY_BASE = {
       "weight": 500,
       "source": "warstaff,staff,attack_staff,two_hand_weapon,twohand,weapon,default",
       "itemClass": "Warstaves"
-    },
-    {
-      "id": "IntMasterItemGenerationCannotRollAttackAffixes",
-      "generationType": "suffix",
-      "group": "ItemGenerationCannotRollAttackAffixes",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2AlwaysHits1",
-      "generationType": "prefix",
-      "group": "AlwaysHits",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2AttackSpeedPercentIfRareOrUniqueEnemyNearby2h1",
-      "generationType": "suffix",
-      "group": "AttackSpeedPercentIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2AttackSpeedPercentIfRareOrUniqueEnemyNearby2h2_",
-      "generationType": "suffix",
-      "group": "AttackSpeedPercentIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2AttackSpeedPercentIfRareOrUniqueEnemyNearby2h3",
-      "generationType": "suffix",
-      "group": "AttackSpeedPercentIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2BleedOnHitGained2h2",
-      "generationType": "prefix",
-      "group": "PhysicalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2BleedOnHitGained2h3_",
-      "generationType": "prefix",
-      "group": "PhysicalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2CastSpeedAndGainArcaneSurgeOnKillChance2h1_",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2CastSpeedAndGainArcaneSurgeOnKillChance2h2_",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2CastSpeedAndGainArcaneSurgeOnKillChance2h3",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChanceToDealDoubleDamageWhileFocused2h1_",
-      "generationType": "suffix",
-      "group": "ChanceToDealDoubleDamageWhileFocused",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChanceToDealDoubleDamageWhileFocused2h2",
-      "generationType": "suffix",
-      "group": "ChanceToDealDoubleDamageWhileFocused",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChanceToDealDoubleDamageWhileFocused2h3",
-      "generationType": "suffix",
-      "group": "ChanceToDealDoubleDamageWhileFocused",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosDamageAndChaosSkillDuration2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosDamageAndChaosSkillDuration2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosDamageAndChaosSkillDuration2h3_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosDamageOverTimeMultiplierTwoHand1",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosDamageOverTimeMultiplierTwoHand2_",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosDamageOverTimeMultiplierTwoHand3",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosPenetrationWithAttacks1",
-      "generationType": "prefix",
-      "group": "ChaosPenetrationWithAttacks",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosPenetrationWithAttacks2",
-      "generationType": "prefix",
-      "group": "ChaosPenetrationWithAttacks",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosPenetrationWithAttacks3_",
-      "generationType": "prefix",
-      "group": "ChaosPenetrationWithAttacks",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdAddedAsChaos2h2",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdAddedAsChaos2h3",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdDamageAndBaseChanceToFreeze2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdDamageAndBaseChanceToFreeze2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdDamageAndBaseChanceToFreeze2h3_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdDamageOverTimeMultiplierTwoHand1",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdDamageOverTimeMultiplierTwoHand2",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdDamageOverTimeMultiplierTwoHand3",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby2h1_",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby2h2",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby2h3",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2DamagePerEnduranceCharge2h1",
-      "generationType": "suffix",
-      "group": "AllDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2DamagePerFrenzyCharge2h1",
-      "generationType": "suffix",
-      "group": "AllDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2DamagePerPowerCharge2h1__",
-      "generationType": "suffix",
-      "group": "AllDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2DoubleDamageChance2h1",
-      "generationType": "suffix",
-      "group": "DoubleDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2DoubleDamageChance2h2",
-      "generationType": "suffix",
-      "group": "DoubleDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ElementalPenetrationWithAttacks1",
-      "generationType": "prefix",
-      "group": "LocalAttackReduceEnemyElementalResistance",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ElementalPenetrationWithAttacks2",
-      "generationType": "prefix",
-      "group": "LocalAttackReduceEnemyElementalResistance",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ElementalPenetrationWithAttacks3",
-      "generationType": "prefix",
-      "group": "LocalAttackReduceEnemyElementalResistance",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireAddedAsChaos2h2",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireAddedAsChaos2h3_",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireDamageAndChanceToIgnite2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireDamageAndChanceToIgnite2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireDamageAndChanceToIgnite2h3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireDamageOverTimeMultiplierTwoHand1_",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireDamageOverTimeMultiplierTwoHand2",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireDamageOverTimeMultiplierTwoHand3",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LightningAddedAsChaos2h2",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LightningAddedAsChaos2h3___",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LightningDamageAndChanceToShock2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LightningDamageAndChanceToShock2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LightningDamageAndChanceToShock2h3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalAccuracyRatingStrengthDexterity1",
-      "generationType": "suffix",
-      "group": "IncreasedAccuracy",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalAccuracyRatingStrengthDexterity2",
-      "generationType": "suffix",
-      "group": "IncreasedAccuracy",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalAttackSpeedAndLocalDisplayTriggerLevel1BloodRageOnKillChance1_",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalAttackSpeedAndLocalDisplayTriggerLevel1BloodRageOnKillChance2",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalAttackSpeedDexterityIntelligence1____",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalAttackSpeedDexterityIntelligence2",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalCriticalStrikeChanceStrengthIntelligence1",
-      "generationType": "suffix",
-      "group": "CriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalCriticalStrikeChanceStrengthIntelligence2___",
-      "generationType": "suffix",
-      "group": "CriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndBleedChanceCrafted1",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndBleedChanceCrafted2",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndBleedChanceCrafted3",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndBlindChanceCrafted1_",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndBlindChanceCrafted2",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndBlindChanceCrafted3",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndImpaleCrafted1",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndImpaleCrafted2",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndImpaleCrafted3",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndPoisonChanceCrafted1",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndPoisonChanceCrafted2_",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndPoisonChanceCrafted3",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreaseSocketedSupportGemLevel1",
-      "generationType": "prefix",
-      "group": "IncreaseSpecificSocketedGemLevel",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreaseSocketedSupportGemLevel2",
-      "generationType": "prefix",
-      "group": "IncreaseSpecificSocketedGemLevel",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2MinionAttackAndCastSpeedOnWeapon2h1_",
-      "generationType": "suffix",
-      "group": "MinionAttackSpeedAndCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2MinionAttackAndCastSpeedOnWeapon2h2",
-      "generationType": "suffix",
-      "group": "MinionAttackSpeedAndCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2MinionAttackAndCastSpeedOnWeapon2h3_",
-      "generationType": "suffix",
-      "group": "MinionAttackSpeedAndCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2MinionDamageAndMinionMaximumLife2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2MinionDamageAndMinionMaximumLife2h2_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2MinionDamageAndMinionMaximumLife2h3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2PhysicalAddedAsChaos2h2",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2PhysicalAddedAsChaos2h3",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2PhysicalDamageOverTimeMultiplierTwoHand1",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2PhysicalDamageOverTimeMultiplierTwoHand2",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2PhysicalDamageOverTimeMultiplierTwoHand3",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SocketedGemQuality2",
-      "generationType": "prefix",
-      "group": "SocketedGemQuality",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SocketedGemQuality3",
-      "generationType": "prefix",
-      "group": "SocketedGemQuality",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SpellDamageAndManaRegenerationRate2h1_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SpellDamageAndManaRegenerationRate2h2_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SpellDamageAndManaRegenerationRate2h3_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SpellDamageAndNonChaosDamageToAddAsChaosDamage2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SpellDamageAndNonChaosDamageToAddAsChaosDamage2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SpellDamageAndNonChaosDamageToAddAsChaosDamage2h3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledAttackSpeedPercentIfRareOrUniqueEnemyNearby2h",
-      "generationType": "suffix",
-      "group": "AttackSpeedPercentIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledCastSpeedAndGainArcaneSurgeOnKillChance2h_",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledChanceToDealDoubleDamageWhileFocused2h_",
-      "generationType": "suffix",
-      "group": "ChanceToDealDoubleDamageWhileFocused",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledChaosDamageAndChaosSkillDuration1h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledChaosDamageAndChaosSkillDuration2h_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledChaosDamageOverTimeMultiplier__",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledChaosDamageOverTimeMultiplierTwoHand",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledChaosPenetrationWithAttacks__",
-      "generationType": "prefix",
-      "group": "ChaosPenetrationWithAttacks",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledColdDamageAndBaseChanceToFreeze1h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledColdDamageAndBaseChanceToFreeze2h__",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledColdDamageOverTimeMultiplier___",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledColdDamageOverTimeMultiplierTwoHand",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledCriticalStrikeMultiplierIfRareOrUniqueEnemyNearby2h",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledDamagePerEnduranceCharge2h",
-      "generationType": "suffix",
-      "group": "AllDamage",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledDamagePerFrenzyCharge2h__",
-      "generationType": "suffix",
-      "group": "AllDamage",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledDamagePerPowerCharge2h",
-      "generationType": "suffix",
-      "group": "AllDamage",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledDoubleDamageChance2h_",
-      "generationType": "suffix",
-      "group": "DoubleDamage",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledElementalPenetrationWithAttacks_",
-      "generationType": "prefix",
-      "group": "LocalAttackReduceEnemyElementalResistance",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledFireDamageAndChanceToIgnite1h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledFireDamageAndChanceToIgnite2h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledFireDamageOverTimeMultiplier",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledFireDamageOverTimeMultiplierTwoHand",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLightningDamageAndChanceToShock1h_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLightningDamageAndChanceToShock2h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalAccuracyRatingStrengthDexterity_",
-      "generationType": "suffix",
-      "group": "IncreasedAccuracy",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalAttackSpeedAndLocalDisplayTriggerLevel1BloodRageOnKillChance_",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalAttackSpeedDexterityIntelligence",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalCriticalStrikeChanceStrengthIntelligence__",
-      "generationType": "suffix",
-      "group": "CriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalIncreasedPhysicalDamageAndBleedChanceCrafted_",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalIncreasedPhysicalDamageAndBlindChanceCrafted_",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalIncreasedPhysicalDamageAndImpaleCrafted",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalIncreasedPhysicalDamageAndPoisonChanceCrafted_",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledMinionAttackAndCastSpeedOnWeapon1h",
-      "generationType": "suffix",
-      "group": "MinionAttackSpeedAndCastSpeed",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledMinionAttackAndCastSpeedOnWeapon2h",
-      "generationType": "suffix",
-      "group": "MinionAttackSpeedAndCastSpeed",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledMinionDamageAndMinionMaximumLife1h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledMinionDamageAndMinionMaximumLife2h__",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledPhysicalDamageOverTimeMultiplier",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledPhysicalDamageOverTimeMultiplierTwoHand_",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledSpellDamageAndManaRegenerationRate1h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledSpellDamageAndManaRegenerationRate2h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledSpellDamageAndNonChaosDamageToAddAsChaosDamage1h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledSpellDamageAndNonChaosDamageToAddAsChaosDamage2h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
     },
     {
       "id": "LifeGainedFromEnemyDeath1",
@@ -66161,14 +50004,6 @@ export const MODS_BY_BASE = {
       "itemClass": "Warstaves"
     },
     {
-      "id": "StrDexMasterItemGenerationCannotRollCasterAffixes",
-      "generationType": "suffix",
-      "group": "ItemGenerationCannotRollCasterAffixes",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
       "id": "Strength1",
       "generationType": "suffix",
       "group": "Strength",
@@ -66239,22 +50074,6 @@ export const MODS_BY_BASE = {
       "weight": 500,
       "source": "warstaff,staff,attack_staff,two_hand_weapon,twohand,weapon,default",
       "itemClass": "Warstaves"
-    },
-    {
-      "id": "StrIntMasterItemGenerationCanHaveMultipleCraftedMods",
-      "generationType": "suffix",
-      "group": "ItemGenerationCanHaveMultipleCraftedMods",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "StrMasterItemGenerationCannotChangePrefixes",
-      "generationType": "suffix",
-      "group": "ItemGenerationCannotChangePrefixes",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
     },
     {
       "id": "StunDuration1",
@@ -67547,774 +51366,6 @@ export const MODS_BY_BASE = {
       "itemClass": "Warstaves"
     },
     {
-      "id": "DexMasterItemGenerationCannotChangeSuffixes",
-      "generationType": "prefix",
-      "group": "ItemGenerationCannotChangeSuffixes",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterAllAttributes1",
-      "generationType": "suffix",
-      "group": "AllAttributes",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterAllAttributes2",
-      "generationType": "suffix",
-      "group": "AllAttributes",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterChaosDamageTwoHandPrefix1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterChaosDamageTwoHandPrefix2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterChaosDamageTwoHandPrefix3_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterColdDamageTwoHandPrefix1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterColdDamageTwoHandPrefix2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterColdDamageTwoHandPrefix3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterCriticalStrikeChanceSpells2h1",
-      "generationType": "suffix",
-      "group": "SpellCriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterCriticalStrikeChanceSpells2h2_",
-      "generationType": "suffix",
-      "group": "SpellCriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterCriticalStrikeMultiplier1",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterCriticalStrikeMultiplier2",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterCriticalStrikeMultiplier3",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterDegenerationDamage1_",
-      "generationType": "prefix",
-      "group": "DegenerationDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterDegenerationDamage2",
-      "generationType": "prefix",
-      "group": "DegenerationDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterDexterity2",
-      "generationType": "suffix",
-      "group": "Dexterity",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterDexterity3",
-      "generationType": "suffix",
-      "group": "Dexterity",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterFireDamageTwoHandPrefix1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterFireDamageTwoHandPrefix2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterFireDamageTwoHandPrefix3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedCastSpeedTwoHand1",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedCastSpeedTwoHand2",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedCastSpeedTwoHand3_",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedManaRegenerationTwoHandWeapon1",
-      "generationType": "suffix",
-      "group": "ManaRegeneration",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedManaRegenerationTwoHandWeapon2",
-      "generationType": "suffix",
-      "group": "ManaRegeneration",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedManaTwoHandWeapon1___",
-      "generationType": "prefix",
-      "group": "IncreasedMana",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedManaTwoHandWeapon2_",
-      "generationType": "prefix",
-      "group": "IncreasedMana",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedManaTwoHandWeapon3_",
-      "generationType": "prefix",
-      "group": "IncreasedMana",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedManaTwoHandWeapon4",
-      "generationType": "prefix",
-      "group": "IncreasedMana",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIntelligence2__",
-      "generationType": "suffix",
-      "group": "Intelligence",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIntelligence3",
-      "generationType": "suffix",
-      "group": "Intelligence",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLightningDamageTwoHandPrefix1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLightningDamageTwoHandPrefix2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLightningDamageTwoHandPrefix3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalAccuracyRating1",
-      "generationType": "suffix",
-      "group": "IncreasedAccuracy",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalAccuracyRating2",
-      "generationType": "suffix",
-      "group": "IncreasedAccuracy",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalAccuracyRating3",
-      "generationType": "suffix",
-      "group": "IncreasedAccuracy",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalColdDamageTwoHand1",
-      "generationType": "prefix",
-      "group": "ColdDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalColdDamageTwoHand2",
-      "generationType": "prefix",
-      "group": "ColdDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalColdDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "ColdDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalCriticalStrikeChance1_",
-      "generationType": "suffix",
-      "group": "CriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalCriticalStrikeChance2",
-      "generationType": "suffix",
-      "group": "CriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalCriticalStrikeChance3_",
-      "generationType": "suffix",
-      "group": "CriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalFireDamageTwoHand1",
-      "generationType": "prefix",
-      "group": "FireDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalFireDamageTwoHand2",
-      "generationType": "prefix",
-      "group": "FireDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalFireDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "FireDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedAttackSpeed1__",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedAttackSpeed2_",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedAttackSpeed3",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedPhysicalDamage1",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedPhysicalDamage2_",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedPhysicalDamage3",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedPhysicalDamage4___",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalLifeLeechPermyriadNewSuffix1",
-      "generationType": "suffix",
-      "group": "LifeLeech",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalLifeLeechPermyriadNewSuffix2",
-      "generationType": "suffix",
-      "group": "LifeLeech",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalLightningDamageTwoHand1_",
-      "generationType": "prefix",
-      "group": "LightningDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalLightningDamageTwoHand2",
-      "generationType": "prefix",
-      "group": "LightningDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalLightningDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "LightningDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalManaLeechPermyriadNewSuffix1",
-      "generationType": "suffix",
-      "group": "ManaLeech",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalPhysicalDamageTwoHand1",
-      "generationType": "prefix",
-      "group": "PhysicalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalPhysicalDamageTwoHand2",
-      "generationType": "prefix",
-      "group": "PhysicalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalPhysicalDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "PhysicalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMineDamageOnWeapon2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMineDamageOnWeapon2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMineLayingSpeed2h1",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMineLayingSpeed2h2_",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMinionDamageOnWeapon2h1_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMinionDamageOnWeapon2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMinionDamageOnWeapon2h3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedColdDamageTwoHand1",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedColdDamageTwoHand2_",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedColdDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedFireDamageTwoHand1",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedFireDamageTwoHand2",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedFireDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedLightningDamageTwoHand1",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedLightningDamageTwoHand2",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedLightningDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellDamageOnTwoHandWeapon1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellDamageOnTwoHandWeapon2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellDamageOnTwoHandWeapon3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellDamageOnTwoHandWeapon4_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterStaffAttackBlock1",
-      "generationType": "suffix",
-      "group": "AdditionalBlock",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterStaffAttackBlock2",
-      "generationType": "suffix",
-      "group": "AdditionalBlock",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterStaffSpellBlock1",
-      "generationType": "suffix",
-      "group": "SpellBlockPercentage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterStaffSpellBlock2",
-      "generationType": "suffix",
-      "group": "SpellBlockPercentage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterStrength2",
-      "generationType": "suffix",
-      "group": "Strength",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterStrength3",
-      "generationType": "suffix",
-      "group": "Strength",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterTrapDamageOnWeapon2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterTrapDamageOnWeapon2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterTrapThrowingSpeed2h1",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterTrapThrowingSpeed2h2_",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterTriggerSocketedSpellOnSkillUse1",
-      "generationType": "suffix",
-      "group": "SupportedByTrigger",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterWeaponElementalDamage1_",
-      "generationType": "prefix",
-      "group": "IncreasedWeaponElementalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterWeaponElementalDamage2",
-      "generationType": "prefix",
-      "group": "IncreasedWeaponElementalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
       "id": "ElementalDamagePercentAddedAsChaosStaffUber1",
       "generationType": "prefix_shaper",
       "group": "ElementalDamagePercentAddedAsChaos",
@@ -68473,30 +51524,6 @@ export const MODS_BY_BASE = {
       "weight": 300,
       "source": "warstaff,staff,attack_staff,two_hand_weapon,twohand,weapon,default",
       "itemClass": "Warstaves"
-    },
-    {
-      "id": "HelenaMasterDexterity1",
-      "generationType": "suffix",
-      "group": "Dexterity",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "HelenaMasterIntelligence1",
-      "generationType": "suffix",
-      "group": "Intelligence",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "HelenaMasterStrength1",
-      "generationType": "suffix",
-      "group": "Strength",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
     },
     {
       "id": "HellscapeDownsideCannotApplyAilments1___",
@@ -69849,1102 +52876,6 @@ export const MODS_BY_BASE = {
       "weight": 500,
       "source": "warstaff,staff,attack_staff,two_hand_weapon,twohand,weapon,default",
       "itemClass": "Warstaves"
-    },
-    {
-      "id": "IntMasterItemGenerationCannotRollAttackAffixes",
-      "generationType": "suffix",
-      "group": "ItemGenerationCannotRollAttackAffixes",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2AlwaysHits1",
-      "generationType": "prefix",
-      "group": "AlwaysHits",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2AttackSpeedPercentIfRareOrUniqueEnemyNearby2h1",
-      "generationType": "suffix",
-      "group": "AttackSpeedPercentIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2AttackSpeedPercentIfRareOrUniqueEnemyNearby2h2_",
-      "generationType": "suffix",
-      "group": "AttackSpeedPercentIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2AttackSpeedPercentIfRareOrUniqueEnemyNearby2h3",
-      "generationType": "suffix",
-      "group": "AttackSpeedPercentIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2BleedOnHitGained2h2",
-      "generationType": "prefix",
-      "group": "PhysicalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2BleedOnHitGained2h3_",
-      "generationType": "prefix",
-      "group": "PhysicalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2CastSpeedAndGainArcaneSurgeOnKillChance2h1_",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2CastSpeedAndGainArcaneSurgeOnKillChance2h2_",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2CastSpeedAndGainArcaneSurgeOnKillChance2h3",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChanceToDealDoubleDamageWhileFocused2h1_",
-      "generationType": "suffix",
-      "group": "ChanceToDealDoubleDamageWhileFocused",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChanceToDealDoubleDamageWhileFocused2h2",
-      "generationType": "suffix",
-      "group": "ChanceToDealDoubleDamageWhileFocused",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChanceToDealDoubleDamageWhileFocused2h3",
-      "generationType": "suffix",
-      "group": "ChanceToDealDoubleDamageWhileFocused",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosDamageAndChaosSkillDuration2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosDamageAndChaosSkillDuration2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosDamageAndChaosSkillDuration2h3_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosDamageOverTimeMultiplierTwoHand1",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosDamageOverTimeMultiplierTwoHand2_",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosDamageOverTimeMultiplierTwoHand3",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosPenetrationWithAttacks1",
-      "generationType": "prefix",
-      "group": "ChaosPenetrationWithAttacks",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosPenetrationWithAttacks2",
-      "generationType": "prefix",
-      "group": "ChaosPenetrationWithAttacks",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosPenetrationWithAttacks3_",
-      "generationType": "prefix",
-      "group": "ChaosPenetrationWithAttacks",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdAddedAsChaos2h2",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdAddedAsChaos2h3",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdDamageAndBaseChanceToFreeze2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdDamageAndBaseChanceToFreeze2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdDamageAndBaseChanceToFreeze2h3_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdDamageOverTimeMultiplierTwoHand1",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdDamageOverTimeMultiplierTwoHand2",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdDamageOverTimeMultiplierTwoHand3",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby2h1_",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby2h2",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby2h3",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2DamagePerEnduranceCharge2h1",
-      "generationType": "suffix",
-      "group": "AllDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2DamagePerFrenzyCharge2h1",
-      "generationType": "suffix",
-      "group": "AllDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2DamagePerPowerCharge2h1__",
-      "generationType": "suffix",
-      "group": "AllDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2DoubleDamageChance2h1",
-      "generationType": "suffix",
-      "group": "DoubleDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2DoubleDamageChance2h2",
-      "generationType": "suffix",
-      "group": "DoubleDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ElementalPenetrationWithAttacks1",
-      "generationType": "prefix",
-      "group": "LocalAttackReduceEnemyElementalResistance",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ElementalPenetrationWithAttacks2",
-      "generationType": "prefix",
-      "group": "LocalAttackReduceEnemyElementalResistance",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ElementalPenetrationWithAttacks3",
-      "generationType": "prefix",
-      "group": "LocalAttackReduceEnemyElementalResistance",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireAddedAsChaos2h2",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireAddedAsChaos2h3_",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireDamageAndChanceToIgnite2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireDamageAndChanceToIgnite2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireDamageAndChanceToIgnite2h3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireDamageOverTimeMultiplierTwoHand1_",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireDamageOverTimeMultiplierTwoHand2",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireDamageOverTimeMultiplierTwoHand3",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LightningAddedAsChaos2h2",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LightningAddedAsChaos2h3___",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LightningDamageAndChanceToShock2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LightningDamageAndChanceToShock2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LightningDamageAndChanceToShock2h3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalAccuracyRatingStrengthDexterity1",
-      "generationType": "suffix",
-      "group": "IncreasedAccuracy",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalAccuracyRatingStrengthDexterity2",
-      "generationType": "suffix",
-      "group": "IncreasedAccuracy",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalAttackSpeedAndLocalDisplayTriggerLevel1BloodRageOnKillChance1_",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalAttackSpeedAndLocalDisplayTriggerLevel1BloodRageOnKillChance2",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalAttackSpeedDexterityIntelligence1____",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalAttackSpeedDexterityIntelligence2",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalCriticalStrikeChanceStrengthIntelligence1",
-      "generationType": "suffix",
-      "group": "CriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalCriticalStrikeChanceStrengthIntelligence2___",
-      "generationType": "suffix",
-      "group": "CriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndBleedChanceCrafted1",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndBleedChanceCrafted2",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndBleedChanceCrafted3",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndBlindChanceCrafted1_",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndBlindChanceCrafted2",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndBlindChanceCrafted3",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndImpaleCrafted1",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndImpaleCrafted2",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndImpaleCrafted3",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndPoisonChanceCrafted1",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndPoisonChanceCrafted2_",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndPoisonChanceCrafted3",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreaseSocketedSupportGemLevel1",
-      "generationType": "prefix",
-      "group": "IncreaseSpecificSocketedGemLevel",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreaseSocketedSupportGemLevel2",
-      "generationType": "prefix",
-      "group": "IncreaseSpecificSocketedGemLevel",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2MinionAttackAndCastSpeedOnWeapon2h1_",
-      "generationType": "suffix",
-      "group": "MinionAttackSpeedAndCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2MinionAttackAndCastSpeedOnWeapon2h2",
-      "generationType": "suffix",
-      "group": "MinionAttackSpeedAndCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2MinionAttackAndCastSpeedOnWeapon2h3_",
-      "generationType": "suffix",
-      "group": "MinionAttackSpeedAndCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2MinionDamageAndMinionMaximumLife2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2MinionDamageAndMinionMaximumLife2h2_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2MinionDamageAndMinionMaximumLife2h3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2PhysicalAddedAsChaos2h2",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2PhysicalAddedAsChaos2h3",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2PhysicalDamageOverTimeMultiplierTwoHand1",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2PhysicalDamageOverTimeMultiplierTwoHand2",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2PhysicalDamageOverTimeMultiplierTwoHand3",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SocketedGemQuality2",
-      "generationType": "prefix",
-      "group": "SocketedGemQuality",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SocketedGemQuality3",
-      "generationType": "prefix",
-      "group": "SocketedGemQuality",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SpellDamageAndManaRegenerationRate2h1_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SpellDamageAndManaRegenerationRate2h2_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SpellDamageAndManaRegenerationRate2h3_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SpellDamageAndNonChaosDamageToAddAsChaosDamage2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SpellDamageAndNonChaosDamageToAddAsChaosDamage2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SpellDamageAndNonChaosDamageToAddAsChaosDamage2h3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledAttackSpeedPercentIfRareOrUniqueEnemyNearby2h",
-      "generationType": "suffix",
-      "group": "AttackSpeedPercentIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledCastSpeedAndGainArcaneSurgeOnKillChance2h_",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledChanceToDealDoubleDamageWhileFocused2h_",
-      "generationType": "suffix",
-      "group": "ChanceToDealDoubleDamageWhileFocused",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledChaosDamageAndChaosSkillDuration1h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledChaosDamageAndChaosSkillDuration2h_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledChaosDamageOverTimeMultiplier__",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledChaosDamageOverTimeMultiplierTwoHand",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledChaosPenetrationWithAttacks__",
-      "generationType": "prefix",
-      "group": "ChaosPenetrationWithAttacks",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledColdDamageAndBaseChanceToFreeze1h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledColdDamageAndBaseChanceToFreeze2h__",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledColdDamageOverTimeMultiplier___",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledColdDamageOverTimeMultiplierTwoHand",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledCriticalStrikeMultiplierIfRareOrUniqueEnemyNearby2h",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledDamagePerEnduranceCharge2h",
-      "generationType": "suffix",
-      "group": "AllDamage",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledDamagePerFrenzyCharge2h__",
-      "generationType": "suffix",
-      "group": "AllDamage",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledDamagePerPowerCharge2h",
-      "generationType": "suffix",
-      "group": "AllDamage",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledDoubleDamageChance2h_",
-      "generationType": "suffix",
-      "group": "DoubleDamage",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledElementalPenetrationWithAttacks_",
-      "generationType": "prefix",
-      "group": "LocalAttackReduceEnemyElementalResistance",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledFireDamageAndChanceToIgnite1h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledFireDamageAndChanceToIgnite2h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledFireDamageOverTimeMultiplier",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledFireDamageOverTimeMultiplierTwoHand",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLightningDamageAndChanceToShock1h_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLightningDamageAndChanceToShock2h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalAccuracyRatingStrengthDexterity_",
-      "generationType": "suffix",
-      "group": "IncreasedAccuracy",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalAttackSpeedAndLocalDisplayTriggerLevel1BloodRageOnKillChance_",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalAttackSpeedDexterityIntelligence",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalCriticalStrikeChanceStrengthIntelligence__",
-      "generationType": "suffix",
-      "group": "CriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalIncreasedPhysicalDamageAndBleedChanceCrafted_",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalIncreasedPhysicalDamageAndBlindChanceCrafted_",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalIncreasedPhysicalDamageAndImpaleCrafted",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalIncreasedPhysicalDamageAndPoisonChanceCrafted_",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledMinionAttackAndCastSpeedOnWeapon1h",
-      "generationType": "suffix",
-      "group": "MinionAttackSpeedAndCastSpeed",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledMinionAttackAndCastSpeedOnWeapon2h",
-      "generationType": "suffix",
-      "group": "MinionAttackSpeedAndCastSpeed",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledMinionDamageAndMinionMaximumLife1h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledMinionDamageAndMinionMaximumLife2h__",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledPhysicalDamageOverTimeMultiplier",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledPhysicalDamageOverTimeMultiplierTwoHand_",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledSpellDamageAndManaRegenerationRate1h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledSpellDamageAndManaRegenerationRate2h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledSpellDamageAndNonChaosDamageToAddAsChaosDamage1h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledSpellDamageAndNonChaosDamageToAddAsChaosDamage2h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
     },
     {
       "id": "LifeGainedFromEnemyDeath1",
@@ -72803,14 +54734,6 @@ export const MODS_BY_BASE = {
       "itemClass": "Warstaves"
     },
     {
-      "id": "StrDexMasterItemGenerationCannotRollCasterAffixes",
-      "generationType": "suffix",
-      "group": "ItemGenerationCannotRollCasterAffixes",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
       "id": "Strength1",
       "generationType": "suffix",
       "group": "Strength",
@@ -72881,22 +54804,6 @@ export const MODS_BY_BASE = {
       "weight": 500,
       "source": "warstaff,staff,attack_staff,two_hand_weapon,twohand,weapon,default",
       "itemClass": "Warstaves"
-    },
-    {
-      "id": "StrIntMasterItemGenerationCanHaveMultipleCraftedMods",
-      "generationType": "suffix",
-      "group": "ItemGenerationCanHaveMultipleCraftedMods",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "StrMasterItemGenerationCannotChangePrefixes",
-      "generationType": "suffix",
-      "group": "ItemGenerationCannotChangePrefixes",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
     },
     {
       "id": "StunDuration1",
@@ -74189,774 +56096,6 @@ export const MODS_BY_BASE = {
       "itemClass": "Warstaves"
     },
     {
-      "id": "DexMasterItemGenerationCannotChangeSuffixes",
-      "generationType": "prefix",
-      "group": "ItemGenerationCannotChangeSuffixes",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterAllAttributes1",
-      "generationType": "suffix",
-      "group": "AllAttributes",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterAllAttributes2",
-      "generationType": "suffix",
-      "group": "AllAttributes",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterChaosDamageTwoHandPrefix1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterChaosDamageTwoHandPrefix2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterChaosDamageTwoHandPrefix3_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterColdDamageTwoHandPrefix1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterColdDamageTwoHandPrefix2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterColdDamageTwoHandPrefix3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterCriticalStrikeChanceSpells2h1",
-      "generationType": "suffix",
-      "group": "SpellCriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterCriticalStrikeChanceSpells2h2_",
-      "generationType": "suffix",
-      "group": "SpellCriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterCriticalStrikeMultiplier1",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterCriticalStrikeMultiplier2",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterCriticalStrikeMultiplier3",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterDegenerationDamage1_",
-      "generationType": "prefix",
-      "group": "DegenerationDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterDegenerationDamage2",
-      "generationType": "prefix",
-      "group": "DegenerationDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterDexterity2",
-      "generationType": "suffix",
-      "group": "Dexterity",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterDexterity3",
-      "generationType": "suffix",
-      "group": "Dexterity",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterFireDamageTwoHandPrefix1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterFireDamageTwoHandPrefix2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterFireDamageTwoHandPrefix3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedCastSpeedTwoHand1",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedCastSpeedTwoHand2",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedCastSpeedTwoHand3_",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedManaRegenerationTwoHandWeapon1",
-      "generationType": "suffix",
-      "group": "ManaRegeneration",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedManaRegenerationTwoHandWeapon2",
-      "generationType": "suffix",
-      "group": "ManaRegeneration",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedManaTwoHandWeapon1___",
-      "generationType": "prefix",
-      "group": "IncreasedMana",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedManaTwoHandWeapon2_",
-      "generationType": "prefix",
-      "group": "IncreasedMana",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedManaTwoHandWeapon3_",
-      "generationType": "prefix",
-      "group": "IncreasedMana",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedManaTwoHandWeapon4",
-      "generationType": "prefix",
-      "group": "IncreasedMana",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIntelligence2__",
-      "generationType": "suffix",
-      "group": "Intelligence",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIntelligence3",
-      "generationType": "suffix",
-      "group": "Intelligence",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLightningDamageTwoHandPrefix1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLightningDamageTwoHandPrefix2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLightningDamageTwoHandPrefix3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalAccuracyRating1",
-      "generationType": "suffix",
-      "group": "IncreasedAccuracy",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalAccuracyRating2",
-      "generationType": "suffix",
-      "group": "IncreasedAccuracy",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalAccuracyRating3",
-      "generationType": "suffix",
-      "group": "IncreasedAccuracy",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalColdDamageTwoHand1",
-      "generationType": "prefix",
-      "group": "ColdDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalColdDamageTwoHand2",
-      "generationType": "prefix",
-      "group": "ColdDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalColdDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "ColdDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalCriticalStrikeChance1_",
-      "generationType": "suffix",
-      "group": "CriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalCriticalStrikeChance2",
-      "generationType": "suffix",
-      "group": "CriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalCriticalStrikeChance3_",
-      "generationType": "suffix",
-      "group": "CriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalFireDamageTwoHand1",
-      "generationType": "prefix",
-      "group": "FireDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalFireDamageTwoHand2",
-      "generationType": "prefix",
-      "group": "FireDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalFireDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "FireDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedAttackSpeed1__",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedAttackSpeed2_",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedAttackSpeed3",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedPhysicalDamage1",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedPhysicalDamage2_",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedPhysicalDamage3",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedPhysicalDamage4___",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalLifeLeechPermyriadNewSuffix1",
-      "generationType": "suffix",
-      "group": "LifeLeech",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalLifeLeechPermyriadNewSuffix2",
-      "generationType": "suffix",
-      "group": "LifeLeech",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalLightningDamageTwoHand1_",
-      "generationType": "prefix",
-      "group": "LightningDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalLightningDamageTwoHand2",
-      "generationType": "prefix",
-      "group": "LightningDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalLightningDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "LightningDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalManaLeechPermyriadNewSuffix1",
-      "generationType": "suffix",
-      "group": "ManaLeech",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalPhysicalDamageTwoHand1",
-      "generationType": "prefix",
-      "group": "PhysicalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalPhysicalDamageTwoHand2",
-      "generationType": "prefix",
-      "group": "PhysicalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalPhysicalDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "PhysicalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMineDamageOnWeapon2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMineDamageOnWeapon2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMineLayingSpeed2h1",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMineLayingSpeed2h2_",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMinionDamageOnWeapon2h1_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMinionDamageOnWeapon2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMinionDamageOnWeapon2h3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedColdDamageTwoHand1",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedColdDamageTwoHand2_",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedColdDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedFireDamageTwoHand1",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedFireDamageTwoHand2",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedFireDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedLightningDamageTwoHand1",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedLightningDamageTwoHand2",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedLightningDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellDamageOnTwoHandWeapon1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellDamageOnTwoHandWeapon2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellDamageOnTwoHandWeapon3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellDamageOnTwoHandWeapon4_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterStaffAttackBlock1",
-      "generationType": "suffix",
-      "group": "AdditionalBlock",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterStaffAttackBlock2",
-      "generationType": "suffix",
-      "group": "AdditionalBlock",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterStaffSpellBlock1",
-      "generationType": "suffix",
-      "group": "SpellBlockPercentage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterStaffSpellBlock2",
-      "generationType": "suffix",
-      "group": "SpellBlockPercentage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterStrength2",
-      "generationType": "suffix",
-      "group": "Strength",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterStrength3",
-      "generationType": "suffix",
-      "group": "Strength",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterTrapDamageOnWeapon2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterTrapDamageOnWeapon2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterTrapThrowingSpeed2h1",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterTrapThrowingSpeed2h2_",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterTriggerSocketedSpellOnSkillUse1",
-      "generationType": "suffix",
-      "group": "SupportedByTrigger",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterWeaponElementalDamage1_",
-      "generationType": "prefix",
-      "group": "IncreasedWeaponElementalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterWeaponElementalDamage2",
-      "generationType": "prefix",
-      "group": "IncreasedWeaponElementalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
       "id": "ElementalDamagePercentAddedAsChaosStaffUber1",
       "generationType": "prefix_shaper",
       "group": "ElementalDamagePercentAddedAsChaos",
@@ -75115,30 +56254,6 @@ export const MODS_BY_BASE = {
       "weight": 300,
       "source": "warstaff,top_tier_base_item_type,staff,attack_staff,two_hand_weapon,twohand,weapon,default",
       "itemClass": "Warstaves"
-    },
-    {
-      "id": "HelenaMasterDexterity1",
-      "generationType": "suffix",
-      "group": "Dexterity",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "HelenaMasterIntelligence1",
-      "generationType": "suffix",
-      "group": "Intelligence",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "HelenaMasterStrength1",
-      "generationType": "suffix",
-      "group": "Strength",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
     },
     {
       "id": "HellscapeDownsideCannotApplyAilments1___",
@@ -76491,1102 +57606,6 @@ export const MODS_BY_BASE = {
       "weight": 500,
       "source": "warstaff,top_tier_base_item_type,staff,attack_staff,two_hand_weapon,twohand,weapon,default",
       "itemClass": "Warstaves"
-    },
-    {
-      "id": "IntMasterItemGenerationCannotRollAttackAffixes",
-      "generationType": "suffix",
-      "group": "ItemGenerationCannotRollAttackAffixes",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2AlwaysHits1",
-      "generationType": "prefix",
-      "group": "AlwaysHits",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2AttackSpeedPercentIfRareOrUniqueEnemyNearby2h1",
-      "generationType": "suffix",
-      "group": "AttackSpeedPercentIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2AttackSpeedPercentIfRareOrUniqueEnemyNearby2h2_",
-      "generationType": "suffix",
-      "group": "AttackSpeedPercentIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2AttackSpeedPercentIfRareOrUniqueEnemyNearby2h3",
-      "generationType": "suffix",
-      "group": "AttackSpeedPercentIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2BleedOnHitGained2h2",
-      "generationType": "prefix",
-      "group": "PhysicalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2BleedOnHitGained2h3_",
-      "generationType": "prefix",
-      "group": "PhysicalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2CastSpeedAndGainArcaneSurgeOnKillChance2h1_",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2CastSpeedAndGainArcaneSurgeOnKillChance2h2_",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2CastSpeedAndGainArcaneSurgeOnKillChance2h3",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChanceToDealDoubleDamageWhileFocused2h1_",
-      "generationType": "suffix",
-      "group": "ChanceToDealDoubleDamageWhileFocused",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChanceToDealDoubleDamageWhileFocused2h2",
-      "generationType": "suffix",
-      "group": "ChanceToDealDoubleDamageWhileFocused",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChanceToDealDoubleDamageWhileFocused2h3",
-      "generationType": "suffix",
-      "group": "ChanceToDealDoubleDamageWhileFocused",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosDamageAndChaosSkillDuration2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosDamageAndChaosSkillDuration2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosDamageAndChaosSkillDuration2h3_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosDamageOverTimeMultiplierTwoHand1",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosDamageOverTimeMultiplierTwoHand2_",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosDamageOverTimeMultiplierTwoHand3",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosPenetrationWithAttacks1",
-      "generationType": "prefix",
-      "group": "ChaosPenetrationWithAttacks",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosPenetrationWithAttacks2",
-      "generationType": "prefix",
-      "group": "ChaosPenetrationWithAttacks",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosPenetrationWithAttacks3_",
-      "generationType": "prefix",
-      "group": "ChaosPenetrationWithAttacks",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdAddedAsChaos2h2",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdAddedAsChaos2h3",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdDamageAndBaseChanceToFreeze2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdDamageAndBaseChanceToFreeze2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdDamageAndBaseChanceToFreeze2h3_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdDamageOverTimeMultiplierTwoHand1",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdDamageOverTimeMultiplierTwoHand2",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdDamageOverTimeMultiplierTwoHand3",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby2h1_",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby2h2",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby2h3",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2DamagePerEnduranceCharge2h1",
-      "generationType": "suffix",
-      "group": "AllDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2DamagePerFrenzyCharge2h1",
-      "generationType": "suffix",
-      "group": "AllDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2DamagePerPowerCharge2h1__",
-      "generationType": "suffix",
-      "group": "AllDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2DoubleDamageChance2h1",
-      "generationType": "suffix",
-      "group": "DoubleDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2DoubleDamageChance2h2",
-      "generationType": "suffix",
-      "group": "DoubleDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ElementalPenetrationWithAttacks1",
-      "generationType": "prefix",
-      "group": "LocalAttackReduceEnemyElementalResistance",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ElementalPenetrationWithAttacks2",
-      "generationType": "prefix",
-      "group": "LocalAttackReduceEnemyElementalResistance",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ElementalPenetrationWithAttacks3",
-      "generationType": "prefix",
-      "group": "LocalAttackReduceEnemyElementalResistance",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireAddedAsChaos2h2",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireAddedAsChaos2h3_",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireDamageAndChanceToIgnite2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireDamageAndChanceToIgnite2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireDamageAndChanceToIgnite2h3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireDamageOverTimeMultiplierTwoHand1_",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireDamageOverTimeMultiplierTwoHand2",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireDamageOverTimeMultiplierTwoHand3",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LightningAddedAsChaos2h2",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LightningAddedAsChaos2h3___",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LightningDamageAndChanceToShock2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LightningDamageAndChanceToShock2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LightningDamageAndChanceToShock2h3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalAccuracyRatingStrengthDexterity1",
-      "generationType": "suffix",
-      "group": "IncreasedAccuracy",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalAccuracyRatingStrengthDexterity2",
-      "generationType": "suffix",
-      "group": "IncreasedAccuracy",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalAttackSpeedAndLocalDisplayTriggerLevel1BloodRageOnKillChance1_",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalAttackSpeedAndLocalDisplayTriggerLevel1BloodRageOnKillChance2",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalAttackSpeedDexterityIntelligence1____",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalAttackSpeedDexterityIntelligence2",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalCriticalStrikeChanceStrengthIntelligence1",
-      "generationType": "suffix",
-      "group": "CriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalCriticalStrikeChanceStrengthIntelligence2___",
-      "generationType": "suffix",
-      "group": "CriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndBleedChanceCrafted1",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndBleedChanceCrafted2",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndBleedChanceCrafted3",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndBlindChanceCrafted1_",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndBlindChanceCrafted2",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndBlindChanceCrafted3",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndImpaleCrafted1",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndImpaleCrafted2",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndImpaleCrafted3",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndPoisonChanceCrafted1",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndPoisonChanceCrafted2_",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndPoisonChanceCrafted3",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreaseSocketedSupportGemLevel1",
-      "generationType": "prefix",
-      "group": "IncreaseSpecificSocketedGemLevel",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreaseSocketedSupportGemLevel2",
-      "generationType": "prefix",
-      "group": "IncreaseSpecificSocketedGemLevel",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2MinionAttackAndCastSpeedOnWeapon2h1_",
-      "generationType": "suffix",
-      "group": "MinionAttackSpeedAndCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2MinionAttackAndCastSpeedOnWeapon2h2",
-      "generationType": "suffix",
-      "group": "MinionAttackSpeedAndCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2MinionAttackAndCastSpeedOnWeapon2h3_",
-      "generationType": "suffix",
-      "group": "MinionAttackSpeedAndCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2MinionDamageAndMinionMaximumLife2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2MinionDamageAndMinionMaximumLife2h2_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2MinionDamageAndMinionMaximumLife2h3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2PhysicalAddedAsChaos2h2",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2PhysicalAddedAsChaos2h3",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2PhysicalDamageOverTimeMultiplierTwoHand1",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2PhysicalDamageOverTimeMultiplierTwoHand2",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2PhysicalDamageOverTimeMultiplierTwoHand3",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SocketedGemQuality2",
-      "generationType": "prefix",
-      "group": "SocketedGemQuality",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SocketedGemQuality3",
-      "generationType": "prefix",
-      "group": "SocketedGemQuality",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SpellDamageAndManaRegenerationRate2h1_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SpellDamageAndManaRegenerationRate2h2_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SpellDamageAndManaRegenerationRate2h3_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SpellDamageAndNonChaosDamageToAddAsChaosDamage2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SpellDamageAndNonChaosDamageToAddAsChaosDamage2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SpellDamageAndNonChaosDamageToAddAsChaosDamage2h3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledAttackSpeedPercentIfRareOrUniqueEnemyNearby2h",
-      "generationType": "suffix",
-      "group": "AttackSpeedPercentIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledCastSpeedAndGainArcaneSurgeOnKillChance2h_",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledChanceToDealDoubleDamageWhileFocused2h_",
-      "generationType": "suffix",
-      "group": "ChanceToDealDoubleDamageWhileFocused",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledChaosDamageAndChaosSkillDuration1h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledChaosDamageAndChaosSkillDuration2h_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledChaosDamageOverTimeMultiplier__",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledChaosDamageOverTimeMultiplierTwoHand",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledChaosPenetrationWithAttacks__",
-      "generationType": "prefix",
-      "group": "ChaosPenetrationWithAttacks",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledColdDamageAndBaseChanceToFreeze1h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledColdDamageAndBaseChanceToFreeze2h__",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledColdDamageOverTimeMultiplier___",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledColdDamageOverTimeMultiplierTwoHand",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledCriticalStrikeMultiplierIfRareOrUniqueEnemyNearby2h",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledDamagePerEnduranceCharge2h",
-      "generationType": "suffix",
-      "group": "AllDamage",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledDamagePerFrenzyCharge2h__",
-      "generationType": "suffix",
-      "group": "AllDamage",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledDamagePerPowerCharge2h",
-      "generationType": "suffix",
-      "group": "AllDamage",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledDoubleDamageChance2h_",
-      "generationType": "suffix",
-      "group": "DoubleDamage",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledElementalPenetrationWithAttacks_",
-      "generationType": "prefix",
-      "group": "LocalAttackReduceEnemyElementalResistance",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledFireDamageAndChanceToIgnite1h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledFireDamageAndChanceToIgnite2h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledFireDamageOverTimeMultiplier",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledFireDamageOverTimeMultiplierTwoHand",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLightningDamageAndChanceToShock1h_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLightningDamageAndChanceToShock2h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalAccuracyRatingStrengthDexterity_",
-      "generationType": "suffix",
-      "group": "IncreasedAccuracy",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalAttackSpeedAndLocalDisplayTriggerLevel1BloodRageOnKillChance_",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalAttackSpeedDexterityIntelligence",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalCriticalStrikeChanceStrengthIntelligence__",
-      "generationType": "suffix",
-      "group": "CriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalIncreasedPhysicalDamageAndBleedChanceCrafted_",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalIncreasedPhysicalDamageAndBlindChanceCrafted_",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalIncreasedPhysicalDamageAndImpaleCrafted",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalIncreasedPhysicalDamageAndPoisonChanceCrafted_",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledMinionAttackAndCastSpeedOnWeapon1h",
-      "generationType": "suffix",
-      "group": "MinionAttackSpeedAndCastSpeed",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledMinionAttackAndCastSpeedOnWeapon2h",
-      "generationType": "suffix",
-      "group": "MinionAttackSpeedAndCastSpeed",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledMinionDamageAndMinionMaximumLife1h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledMinionDamageAndMinionMaximumLife2h__",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledPhysicalDamageOverTimeMultiplier",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledPhysicalDamageOverTimeMultiplierTwoHand_",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledSpellDamageAndManaRegenerationRate1h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledSpellDamageAndManaRegenerationRate2h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledSpellDamageAndNonChaosDamageToAddAsChaosDamage1h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledSpellDamageAndNonChaosDamageToAddAsChaosDamage2h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
     },
     {
       "id": "LifeGainedFromEnemyDeath1",
@@ -79445,14 +59464,6 @@ export const MODS_BY_BASE = {
       "itemClass": "Warstaves"
     },
     {
-      "id": "StrDexMasterItemGenerationCannotRollCasterAffixes",
-      "generationType": "suffix",
-      "group": "ItemGenerationCannotRollCasterAffixes",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
       "id": "Strength1",
       "generationType": "suffix",
       "group": "Strength",
@@ -79523,22 +59534,6 @@ export const MODS_BY_BASE = {
       "weight": 500,
       "source": "warstaff,top_tier_base_item_type,staff,attack_staff,two_hand_weapon,twohand,weapon,default",
       "itemClass": "Warstaves"
-    },
-    {
-      "id": "StrIntMasterItemGenerationCanHaveMultipleCraftedMods",
-      "generationType": "suffix",
-      "group": "ItemGenerationCanHaveMultipleCraftedMods",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "StrMasterItemGenerationCannotChangePrefixes",
-      "generationType": "suffix",
-      "group": "ItemGenerationCannotChangePrefixes",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
     },
     {
       "id": "StunDuration1",
@@ -80831,774 +60826,6 @@ export const MODS_BY_BASE = {
       "itemClass": "Warstaves"
     },
     {
-      "id": "DexMasterItemGenerationCannotChangeSuffixes",
-      "generationType": "prefix",
-      "group": "ItemGenerationCannotChangeSuffixes",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterAllAttributes1",
-      "generationType": "suffix",
-      "group": "AllAttributes",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterAllAttributes2",
-      "generationType": "suffix",
-      "group": "AllAttributes",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterChaosDamageTwoHandPrefix1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterChaosDamageTwoHandPrefix2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterChaosDamageTwoHandPrefix3_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterColdDamageTwoHandPrefix1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterColdDamageTwoHandPrefix2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterColdDamageTwoHandPrefix3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterCriticalStrikeChanceSpells2h1",
-      "generationType": "suffix",
-      "group": "SpellCriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterCriticalStrikeChanceSpells2h2_",
-      "generationType": "suffix",
-      "group": "SpellCriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterCriticalStrikeMultiplier1",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterCriticalStrikeMultiplier2",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterCriticalStrikeMultiplier3",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterDegenerationDamage1_",
-      "generationType": "prefix",
-      "group": "DegenerationDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterDegenerationDamage2",
-      "generationType": "prefix",
-      "group": "DegenerationDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterDexterity2",
-      "generationType": "suffix",
-      "group": "Dexterity",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterDexterity3",
-      "generationType": "suffix",
-      "group": "Dexterity",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterFireDamageTwoHandPrefix1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterFireDamageTwoHandPrefix2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterFireDamageTwoHandPrefix3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedCastSpeedTwoHand1",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedCastSpeedTwoHand2",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedCastSpeedTwoHand3_",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedManaRegenerationTwoHandWeapon1",
-      "generationType": "suffix",
-      "group": "ManaRegeneration",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedManaRegenerationTwoHandWeapon2",
-      "generationType": "suffix",
-      "group": "ManaRegeneration",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedManaTwoHandWeapon1___",
-      "generationType": "prefix",
-      "group": "IncreasedMana",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedManaTwoHandWeapon2_",
-      "generationType": "prefix",
-      "group": "IncreasedMana",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedManaTwoHandWeapon3_",
-      "generationType": "prefix",
-      "group": "IncreasedMana",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedManaTwoHandWeapon4",
-      "generationType": "prefix",
-      "group": "IncreasedMana",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIntelligence2__",
-      "generationType": "suffix",
-      "group": "Intelligence",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIntelligence3",
-      "generationType": "suffix",
-      "group": "Intelligence",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLightningDamageTwoHandPrefix1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLightningDamageTwoHandPrefix2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLightningDamageTwoHandPrefix3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalAccuracyRating1",
-      "generationType": "suffix",
-      "group": "IncreasedAccuracy",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalAccuracyRating2",
-      "generationType": "suffix",
-      "group": "IncreasedAccuracy",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalAccuracyRating3",
-      "generationType": "suffix",
-      "group": "IncreasedAccuracy",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalColdDamageTwoHand1",
-      "generationType": "prefix",
-      "group": "ColdDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalColdDamageTwoHand2",
-      "generationType": "prefix",
-      "group": "ColdDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalColdDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "ColdDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalCriticalStrikeChance1_",
-      "generationType": "suffix",
-      "group": "CriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalCriticalStrikeChance2",
-      "generationType": "suffix",
-      "group": "CriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalCriticalStrikeChance3_",
-      "generationType": "suffix",
-      "group": "CriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalFireDamageTwoHand1",
-      "generationType": "prefix",
-      "group": "FireDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalFireDamageTwoHand2",
-      "generationType": "prefix",
-      "group": "FireDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalFireDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "FireDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedAttackSpeed1__",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedAttackSpeed2_",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedAttackSpeed3",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedPhysicalDamage1",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedPhysicalDamage2_",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedPhysicalDamage3",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedPhysicalDamage4___",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalLifeLeechPermyriadNewSuffix1",
-      "generationType": "suffix",
-      "group": "LifeLeech",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalLifeLeechPermyriadNewSuffix2",
-      "generationType": "suffix",
-      "group": "LifeLeech",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalLightningDamageTwoHand1_",
-      "generationType": "prefix",
-      "group": "LightningDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalLightningDamageTwoHand2",
-      "generationType": "prefix",
-      "group": "LightningDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalLightningDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "LightningDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalManaLeechPermyriadNewSuffix1",
-      "generationType": "suffix",
-      "group": "ManaLeech",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalPhysicalDamageTwoHand1",
-      "generationType": "prefix",
-      "group": "PhysicalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalPhysicalDamageTwoHand2",
-      "generationType": "prefix",
-      "group": "PhysicalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalPhysicalDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "PhysicalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMineDamageOnWeapon2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMineDamageOnWeapon2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMineLayingSpeed2h1",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMineLayingSpeed2h2_",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMinionDamageOnWeapon2h1_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMinionDamageOnWeapon2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMinionDamageOnWeapon2h3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedColdDamageTwoHand1",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedColdDamageTwoHand2_",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedColdDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedFireDamageTwoHand1",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedFireDamageTwoHand2",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedFireDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedLightningDamageTwoHand1",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedLightningDamageTwoHand2",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedLightningDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellDamageOnTwoHandWeapon1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellDamageOnTwoHandWeapon2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellDamageOnTwoHandWeapon3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellDamageOnTwoHandWeapon4_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterStaffAttackBlock1",
-      "generationType": "suffix",
-      "group": "AdditionalBlock",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterStaffAttackBlock2",
-      "generationType": "suffix",
-      "group": "AdditionalBlock",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterStaffSpellBlock1",
-      "generationType": "suffix",
-      "group": "SpellBlockPercentage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterStaffSpellBlock2",
-      "generationType": "suffix",
-      "group": "SpellBlockPercentage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterStrength2",
-      "generationType": "suffix",
-      "group": "Strength",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterStrength3",
-      "generationType": "suffix",
-      "group": "Strength",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterTrapDamageOnWeapon2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterTrapDamageOnWeapon2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterTrapThrowingSpeed2h1",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterTrapThrowingSpeed2h2_",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterTriggerSocketedSpellOnSkillUse1",
-      "generationType": "suffix",
-      "group": "SupportedByTrigger",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterWeaponElementalDamage1_",
-      "generationType": "prefix",
-      "group": "IncreasedWeaponElementalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterWeaponElementalDamage2",
-      "generationType": "prefix",
-      "group": "IncreasedWeaponElementalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
       "id": "ElementalDamagePercentAddedAsChaosStaffUber1",
       "generationType": "prefix_shaper",
       "group": "ElementalDamagePercentAddedAsChaos",
@@ -81757,30 +60984,6 @@ export const MODS_BY_BASE = {
       "weight": 300,
       "source": "warstaff,top_tier_base_item_type,staff,attack_staff,two_hand_weapon,twohand,weapon,default",
       "itemClass": "Warstaves"
-    },
-    {
-      "id": "HelenaMasterDexterity1",
-      "generationType": "suffix",
-      "group": "Dexterity",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "HelenaMasterIntelligence1",
-      "generationType": "suffix",
-      "group": "Intelligence",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "HelenaMasterStrength1",
-      "generationType": "suffix",
-      "group": "Strength",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
     },
     {
       "id": "HellscapeDownsideCannotApplyAilments1___",
@@ -83133,1102 +62336,6 @@ export const MODS_BY_BASE = {
       "weight": 500,
       "source": "warstaff,top_tier_base_item_type,staff,attack_staff,two_hand_weapon,twohand,weapon,default",
       "itemClass": "Warstaves"
-    },
-    {
-      "id": "IntMasterItemGenerationCannotRollAttackAffixes",
-      "generationType": "suffix",
-      "group": "ItemGenerationCannotRollAttackAffixes",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2AlwaysHits1",
-      "generationType": "prefix",
-      "group": "AlwaysHits",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2AttackSpeedPercentIfRareOrUniqueEnemyNearby2h1",
-      "generationType": "suffix",
-      "group": "AttackSpeedPercentIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2AttackSpeedPercentIfRareOrUniqueEnemyNearby2h2_",
-      "generationType": "suffix",
-      "group": "AttackSpeedPercentIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2AttackSpeedPercentIfRareOrUniqueEnemyNearby2h3",
-      "generationType": "suffix",
-      "group": "AttackSpeedPercentIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2BleedOnHitGained2h2",
-      "generationType": "prefix",
-      "group": "PhysicalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2BleedOnHitGained2h3_",
-      "generationType": "prefix",
-      "group": "PhysicalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2CastSpeedAndGainArcaneSurgeOnKillChance2h1_",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2CastSpeedAndGainArcaneSurgeOnKillChance2h2_",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2CastSpeedAndGainArcaneSurgeOnKillChance2h3",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChanceToDealDoubleDamageWhileFocused2h1_",
-      "generationType": "suffix",
-      "group": "ChanceToDealDoubleDamageWhileFocused",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChanceToDealDoubleDamageWhileFocused2h2",
-      "generationType": "suffix",
-      "group": "ChanceToDealDoubleDamageWhileFocused",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChanceToDealDoubleDamageWhileFocused2h3",
-      "generationType": "suffix",
-      "group": "ChanceToDealDoubleDamageWhileFocused",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosDamageAndChaosSkillDuration2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosDamageAndChaosSkillDuration2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosDamageAndChaosSkillDuration2h3_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosDamageOverTimeMultiplierTwoHand1",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosDamageOverTimeMultiplierTwoHand2_",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosDamageOverTimeMultiplierTwoHand3",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosPenetrationWithAttacks1",
-      "generationType": "prefix",
-      "group": "ChaosPenetrationWithAttacks",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosPenetrationWithAttacks2",
-      "generationType": "prefix",
-      "group": "ChaosPenetrationWithAttacks",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosPenetrationWithAttacks3_",
-      "generationType": "prefix",
-      "group": "ChaosPenetrationWithAttacks",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdAddedAsChaos2h2",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdAddedAsChaos2h3",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdDamageAndBaseChanceToFreeze2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdDamageAndBaseChanceToFreeze2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdDamageAndBaseChanceToFreeze2h3_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdDamageOverTimeMultiplierTwoHand1",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdDamageOverTimeMultiplierTwoHand2",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdDamageOverTimeMultiplierTwoHand3",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby2h1_",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby2h2",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby2h3",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2DamagePerEnduranceCharge2h1",
-      "generationType": "suffix",
-      "group": "AllDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2DamagePerFrenzyCharge2h1",
-      "generationType": "suffix",
-      "group": "AllDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2DamagePerPowerCharge2h1__",
-      "generationType": "suffix",
-      "group": "AllDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2DoubleDamageChance2h1",
-      "generationType": "suffix",
-      "group": "DoubleDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2DoubleDamageChance2h2",
-      "generationType": "suffix",
-      "group": "DoubleDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ElementalPenetrationWithAttacks1",
-      "generationType": "prefix",
-      "group": "LocalAttackReduceEnemyElementalResistance",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ElementalPenetrationWithAttacks2",
-      "generationType": "prefix",
-      "group": "LocalAttackReduceEnemyElementalResistance",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ElementalPenetrationWithAttacks3",
-      "generationType": "prefix",
-      "group": "LocalAttackReduceEnemyElementalResistance",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireAddedAsChaos2h2",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireAddedAsChaos2h3_",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireDamageAndChanceToIgnite2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireDamageAndChanceToIgnite2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireDamageAndChanceToIgnite2h3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireDamageOverTimeMultiplierTwoHand1_",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireDamageOverTimeMultiplierTwoHand2",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireDamageOverTimeMultiplierTwoHand3",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LightningAddedAsChaos2h2",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LightningAddedAsChaos2h3___",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LightningDamageAndChanceToShock2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LightningDamageAndChanceToShock2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LightningDamageAndChanceToShock2h3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalAccuracyRatingStrengthDexterity1",
-      "generationType": "suffix",
-      "group": "IncreasedAccuracy",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalAccuracyRatingStrengthDexterity2",
-      "generationType": "suffix",
-      "group": "IncreasedAccuracy",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalAttackSpeedAndLocalDisplayTriggerLevel1BloodRageOnKillChance1_",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalAttackSpeedAndLocalDisplayTriggerLevel1BloodRageOnKillChance2",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalAttackSpeedDexterityIntelligence1____",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalAttackSpeedDexterityIntelligence2",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalCriticalStrikeChanceStrengthIntelligence1",
-      "generationType": "suffix",
-      "group": "CriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalCriticalStrikeChanceStrengthIntelligence2___",
-      "generationType": "suffix",
-      "group": "CriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndBleedChanceCrafted1",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndBleedChanceCrafted2",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndBleedChanceCrafted3",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndBlindChanceCrafted1_",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndBlindChanceCrafted2",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndBlindChanceCrafted3",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndImpaleCrafted1",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndImpaleCrafted2",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndImpaleCrafted3",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndPoisonChanceCrafted1",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndPoisonChanceCrafted2_",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndPoisonChanceCrafted3",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreaseSocketedSupportGemLevel1",
-      "generationType": "prefix",
-      "group": "IncreaseSpecificSocketedGemLevel",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreaseSocketedSupportGemLevel2",
-      "generationType": "prefix",
-      "group": "IncreaseSpecificSocketedGemLevel",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2MinionAttackAndCastSpeedOnWeapon2h1_",
-      "generationType": "suffix",
-      "group": "MinionAttackSpeedAndCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2MinionAttackAndCastSpeedOnWeapon2h2",
-      "generationType": "suffix",
-      "group": "MinionAttackSpeedAndCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2MinionAttackAndCastSpeedOnWeapon2h3_",
-      "generationType": "suffix",
-      "group": "MinionAttackSpeedAndCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2MinionDamageAndMinionMaximumLife2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2MinionDamageAndMinionMaximumLife2h2_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2MinionDamageAndMinionMaximumLife2h3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2PhysicalAddedAsChaos2h2",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2PhysicalAddedAsChaos2h3",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2PhysicalDamageOverTimeMultiplierTwoHand1",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2PhysicalDamageOverTimeMultiplierTwoHand2",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2PhysicalDamageOverTimeMultiplierTwoHand3",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SocketedGemQuality2",
-      "generationType": "prefix",
-      "group": "SocketedGemQuality",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SocketedGemQuality3",
-      "generationType": "prefix",
-      "group": "SocketedGemQuality",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SpellDamageAndManaRegenerationRate2h1_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SpellDamageAndManaRegenerationRate2h2_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SpellDamageAndManaRegenerationRate2h3_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SpellDamageAndNonChaosDamageToAddAsChaosDamage2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SpellDamageAndNonChaosDamageToAddAsChaosDamage2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SpellDamageAndNonChaosDamageToAddAsChaosDamage2h3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledAttackSpeedPercentIfRareOrUniqueEnemyNearby2h",
-      "generationType": "suffix",
-      "group": "AttackSpeedPercentIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledCastSpeedAndGainArcaneSurgeOnKillChance2h_",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledChanceToDealDoubleDamageWhileFocused2h_",
-      "generationType": "suffix",
-      "group": "ChanceToDealDoubleDamageWhileFocused",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledChaosDamageAndChaosSkillDuration1h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledChaosDamageAndChaosSkillDuration2h_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledChaosDamageOverTimeMultiplier__",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledChaosDamageOverTimeMultiplierTwoHand",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledChaosPenetrationWithAttacks__",
-      "generationType": "prefix",
-      "group": "ChaosPenetrationWithAttacks",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledColdDamageAndBaseChanceToFreeze1h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledColdDamageAndBaseChanceToFreeze2h__",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledColdDamageOverTimeMultiplier___",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledColdDamageOverTimeMultiplierTwoHand",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledCriticalStrikeMultiplierIfRareOrUniqueEnemyNearby2h",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledDamagePerEnduranceCharge2h",
-      "generationType": "suffix",
-      "group": "AllDamage",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledDamagePerFrenzyCharge2h__",
-      "generationType": "suffix",
-      "group": "AllDamage",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledDamagePerPowerCharge2h",
-      "generationType": "suffix",
-      "group": "AllDamage",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledDoubleDamageChance2h_",
-      "generationType": "suffix",
-      "group": "DoubleDamage",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledElementalPenetrationWithAttacks_",
-      "generationType": "prefix",
-      "group": "LocalAttackReduceEnemyElementalResistance",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledFireDamageAndChanceToIgnite1h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledFireDamageAndChanceToIgnite2h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledFireDamageOverTimeMultiplier",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledFireDamageOverTimeMultiplierTwoHand",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLightningDamageAndChanceToShock1h_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLightningDamageAndChanceToShock2h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalAccuracyRatingStrengthDexterity_",
-      "generationType": "suffix",
-      "group": "IncreasedAccuracy",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalAttackSpeedAndLocalDisplayTriggerLevel1BloodRageOnKillChance_",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalAttackSpeedDexterityIntelligence",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalCriticalStrikeChanceStrengthIntelligence__",
-      "generationType": "suffix",
-      "group": "CriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalIncreasedPhysicalDamageAndBleedChanceCrafted_",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalIncreasedPhysicalDamageAndBlindChanceCrafted_",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalIncreasedPhysicalDamageAndImpaleCrafted",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalIncreasedPhysicalDamageAndPoisonChanceCrafted_",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledMinionAttackAndCastSpeedOnWeapon1h",
-      "generationType": "suffix",
-      "group": "MinionAttackSpeedAndCastSpeed",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledMinionAttackAndCastSpeedOnWeapon2h",
-      "generationType": "suffix",
-      "group": "MinionAttackSpeedAndCastSpeed",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledMinionDamageAndMinionMaximumLife1h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledMinionDamageAndMinionMaximumLife2h__",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledPhysicalDamageOverTimeMultiplier",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledPhysicalDamageOverTimeMultiplierTwoHand_",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledSpellDamageAndManaRegenerationRate1h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledSpellDamageAndManaRegenerationRate2h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledSpellDamageAndNonChaosDamageToAddAsChaosDamage1h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledSpellDamageAndNonChaosDamageToAddAsChaosDamage2h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
     },
     {
       "id": "LifeGainedFromEnemyDeath1",
@@ -86087,14 +64194,6 @@ export const MODS_BY_BASE = {
       "itemClass": "Warstaves"
     },
     {
-      "id": "StrDexMasterItemGenerationCannotRollCasterAffixes",
-      "generationType": "suffix",
-      "group": "ItemGenerationCannotRollCasterAffixes",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
       "id": "Strength1",
       "generationType": "suffix",
       "group": "Strength",
@@ -86165,22 +64264,6 @@ export const MODS_BY_BASE = {
       "weight": 500,
       "source": "warstaff,top_tier_base_item_type,staff,attack_staff,two_hand_weapon,twohand,weapon,default",
       "itemClass": "Warstaves"
-    },
-    {
-      "id": "StrIntMasterItemGenerationCanHaveMultipleCraftedMods",
-      "generationType": "suffix",
-      "group": "ItemGenerationCanHaveMultipleCraftedMods",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "StrMasterItemGenerationCannotChangePrefixes",
-      "generationType": "suffix",
-      "group": "ItemGenerationCannotChangePrefixes",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
     },
     {
       "id": "StunDuration1",
@@ -87473,774 +65556,6 @@ export const MODS_BY_BASE = {
       "itemClass": "Warstaves"
     },
     {
-      "id": "DexMasterItemGenerationCannotChangeSuffixes",
-      "generationType": "prefix",
-      "group": "ItemGenerationCannotChangeSuffixes",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterAllAttributes1",
-      "generationType": "suffix",
-      "group": "AllAttributes",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterAllAttributes2",
-      "generationType": "suffix",
-      "group": "AllAttributes",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterChaosDamageTwoHandPrefix1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterChaosDamageTwoHandPrefix2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterChaosDamageTwoHandPrefix3_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterColdDamageTwoHandPrefix1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterColdDamageTwoHandPrefix2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterColdDamageTwoHandPrefix3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterCriticalStrikeChanceSpells2h1",
-      "generationType": "suffix",
-      "group": "SpellCriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterCriticalStrikeChanceSpells2h2_",
-      "generationType": "suffix",
-      "group": "SpellCriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterCriticalStrikeMultiplier1",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterCriticalStrikeMultiplier2",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterCriticalStrikeMultiplier3",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterDegenerationDamage1_",
-      "generationType": "prefix",
-      "group": "DegenerationDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterDegenerationDamage2",
-      "generationType": "prefix",
-      "group": "DegenerationDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterDexterity2",
-      "generationType": "suffix",
-      "group": "Dexterity",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterDexterity3",
-      "generationType": "suffix",
-      "group": "Dexterity",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterFireDamageTwoHandPrefix1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterFireDamageTwoHandPrefix2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterFireDamageTwoHandPrefix3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedCastSpeedTwoHand1",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedCastSpeedTwoHand2",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedCastSpeedTwoHand3_",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedManaRegenerationTwoHandWeapon1",
-      "generationType": "suffix",
-      "group": "ManaRegeneration",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedManaRegenerationTwoHandWeapon2",
-      "generationType": "suffix",
-      "group": "ManaRegeneration",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedManaTwoHandWeapon1___",
-      "generationType": "prefix",
-      "group": "IncreasedMana",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedManaTwoHandWeapon2_",
-      "generationType": "prefix",
-      "group": "IncreasedMana",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedManaTwoHandWeapon3_",
-      "generationType": "prefix",
-      "group": "IncreasedMana",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedManaTwoHandWeapon4",
-      "generationType": "prefix",
-      "group": "IncreasedMana",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIntelligence2__",
-      "generationType": "suffix",
-      "group": "Intelligence",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIntelligence3",
-      "generationType": "suffix",
-      "group": "Intelligence",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLightningDamageTwoHandPrefix1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLightningDamageTwoHandPrefix2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLightningDamageTwoHandPrefix3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalAccuracyRating1",
-      "generationType": "suffix",
-      "group": "IncreasedAccuracy",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalAccuracyRating2",
-      "generationType": "suffix",
-      "group": "IncreasedAccuracy",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalAccuracyRating3",
-      "generationType": "suffix",
-      "group": "IncreasedAccuracy",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalColdDamageTwoHand1",
-      "generationType": "prefix",
-      "group": "ColdDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalColdDamageTwoHand2",
-      "generationType": "prefix",
-      "group": "ColdDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalColdDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "ColdDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalCriticalStrikeChance1_",
-      "generationType": "suffix",
-      "group": "CriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalCriticalStrikeChance2",
-      "generationType": "suffix",
-      "group": "CriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalCriticalStrikeChance3_",
-      "generationType": "suffix",
-      "group": "CriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalFireDamageTwoHand1",
-      "generationType": "prefix",
-      "group": "FireDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalFireDamageTwoHand2",
-      "generationType": "prefix",
-      "group": "FireDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalFireDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "FireDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedAttackSpeed1__",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedAttackSpeed2_",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedAttackSpeed3",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedPhysicalDamage1",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedPhysicalDamage2_",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedPhysicalDamage3",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedPhysicalDamage4___",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalLifeLeechPermyriadNewSuffix1",
-      "generationType": "suffix",
-      "group": "LifeLeech",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalLifeLeechPermyriadNewSuffix2",
-      "generationType": "suffix",
-      "group": "LifeLeech",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalLightningDamageTwoHand1_",
-      "generationType": "prefix",
-      "group": "LightningDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalLightningDamageTwoHand2",
-      "generationType": "prefix",
-      "group": "LightningDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalLightningDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "LightningDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalManaLeechPermyriadNewSuffix1",
-      "generationType": "suffix",
-      "group": "ManaLeech",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalPhysicalDamageTwoHand1",
-      "generationType": "prefix",
-      "group": "PhysicalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalPhysicalDamageTwoHand2",
-      "generationType": "prefix",
-      "group": "PhysicalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalPhysicalDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "PhysicalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMineDamageOnWeapon2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMineDamageOnWeapon2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMineLayingSpeed2h1",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMineLayingSpeed2h2_",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMinionDamageOnWeapon2h1_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMinionDamageOnWeapon2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMinionDamageOnWeapon2h3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedColdDamageTwoHand1",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedColdDamageTwoHand2_",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedColdDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedFireDamageTwoHand1",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedFireDamageTwoHand2",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedFireDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedLightningDamageTwoHand1",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedLightningDamageTwoHand2",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedLightningDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellDamageOnTwoHandWeapon1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellDamageOnTwoHandWeapon2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellDamageOnTwoHandWeapon3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellDamageOnTwoHandWeapon4_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterStaffAttackBlock1",
-      "generationType": "suffix",
-      "group": "AdditionalBlock",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterStaffAttackBlock2",
-      "generationType": "suffix",
-      "group": "AdditionalBlock",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterStaffSpellBlock1",
-      "generationType": "suffix",
-      "group": "SpellBlockPercentage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterStaffSpellBlock2",
-      "generationType": "suffix",
-      "group": "SpellBlockPercentage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterStrength2",
-      "generationType": "suffix",
-      "group": "Strength",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterStrength3",
-      "generationType": "suffix",
-      "group": "Strength",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterTrapDamageOnWeapon2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterTrapDamageOnWeapon2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterTrapThrowingSpeed2h1",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterTrapThrowingSpeed2h2_",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterTriggerSocketedSpellOnSkillUse1",
-      "generationType": "suffix",
-      "group": "SupportedByTrigger",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterWeaponElementalDamage1_",
-      "generationType": "prefix",
-      "group": "IncreasedWeaponElementalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterWeaponElementalDamage2",
-      "generationType": "prefix",
-      "group": "IncreasedWeaponElementalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
       "id": "ElementalDamagePercentAddedAsChaosStaffUber1",
       "generationType": "prefix_shaper",
       "group": "ElementalDamagePercentAddedAsChaos",
@@ -88399,30 +65714,6 @@ export const MODS_BY_BASE = {
       "weight": 300,
       "source": "warstaff,staff,attack_staff,two_hand_weapon,twohand,weapon,default",
       "itemClass": "Warstaves"
-    },
-    {
-      "id": "HelenaMasterDexterity1",
-      "generationType": "suffix",
-      "group": "Dexterity",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "HelenaMasterIntelligence1",
-      "generationType": "suffix",
-      "group": "Intelligence",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "HelenaMasterStrength1",
-      "generationType": "suffix",
-      "group": "Strength",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
     },
     {
       "id": "HellscapeDownsideCannotApplyAilments1___",
@@ -89775,1102 +67066,6 @@ export const MODS_BY_BASE = {
       "weight": 500,
       "source": "warstaff,staff,attack_staff,two_hand_weapon,twohand,weapon,default",
       "itemClass": "Warstaves"
-    },
-    {
-      "id": "IntMasterItemGenerationCannotRollAttackAffixes",
-      "generationType": "suffix",
-      "group": "ItemGenerationCannotRollAttackAffixes",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2AlwaysHits1",
-      "generationType": "prefix",
-      "group": "AlwaysHits",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2AttackSpeedPercentIfRareOrUniqueEnemyNearby2h1",
-      "generationType": "suffix",
-      "group": "AttackSpeedPercentIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2AttackSpeedPercentIfRareOrUniqueEnemyNearby2h2_",
-      "generationType": "suffix",
-      "group": "AttackSpeedPercentIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2AttackSpeedPercentIfRareOrUniqueEnemyNearby2h3",
-      "generationType": "suffix",
-      "group": "AttackSpeedPercentIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2BleedOnHitGained2h2",
-      "generationType": "prefix",
-      "group": "PhysicalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2BleedOnHitGained2h3_",
-      "generationType": "prefix",
-      "group": "PhysicalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2CastSpeedAndGainArcaneSurgeOnKillChance2h1_",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2CastSpeedAndGainArcaneSurgeOnKillChance2h2_",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2CastSpeedAndGainArcaneSurgeOnKillChance2h3",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChanceToDealDoubleDamageWhileFocused2h1_",
-      "generationType": "suffix",
-      "group": "ChanceToDealDoubleDamageWhileFocused",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChanceToDealDoubleDamageWhileFocused2h2",
-      "generationType": "suffix",
-      "group": "ChanceToDealDoubleDamageWhileFocused",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChanceToDealDoubleDamageWhileFocused2h3",
-      "generationType": "suffix",
-      "group": "ChanceToDealDoubleDamageWhileFocused",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosDamageAndChaosSkillDuration2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosDamageAndChaosSkillDuration2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosDamageAndChaosSkillDuration2h3_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosDamageOverTimeMultiplierTwoHand1",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosDamageOverTimeMultiplierTwoHand2_",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosDamageOverTimeMultiplierTwoHand3",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosPenetrationWithAttacks1",
-      "generationType": "prefix",
-      "group": "ChaosPenetrationWithAttacks",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosPenetrationWithAttacks2",
-      "generationType": "prefix",
-      "group": "ChaosPenetrationWithAttacks",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosPenetrationWithAttacks3_",
-      "generationType": "prefix",
-      "group": "ChaosPenetrationWithAttacks",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdAddedAsChaos2h2",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdAddedAsChaos2h3",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdDamageAndBaseChanceToFreeze2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdDamageAndBaseChanceToFreeze2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdDamageAndBaseChanceToFreeze2h3_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdDamageOverTimeMultiplierTwoHand1",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdDamageOverTimeMultiplierTwoHand2",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdDamageOverTimeMultiplierTwoHand3",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby2h1_",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby2h2",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby2h3",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2DamagePerEnduranceCharge2h1",
-      "generationType": "suffix",
-      "group": "AllDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2DamagePerFrenzyCharge2h1",
-      "generationType": "suffix",
-      "group": "AllDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2DamagePerPowerCharge2h1__",
-      "generationType": "suffix",
-      "group": "AllDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2DoubleDamageChance2h1",
-      "generationType": "suffix",
-      "group": "DoubleDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2DoubleDamageChance2h2",
-      "generationType": "suffix",
-      "group": "DoubleDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ElementalPenetrationWithAttacks1",
-      "generationType": "prefix",
-      "group": "LocalAttackReduceEnemyElementalResistance",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ElementalPenetrationWithAttacks2",
-      "generationType": "prefix",
-      "group": "LocalAttackReduceEnemyElementalResistance",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ElementalPenetrationWithAttacks3",
-      "generationType": "prefix",
-      "group": "LocalAttackReduceEnemyElementalResistance",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireAddedAsChaos2h2",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireAddedAsChaos2h3_",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireDamageAndChanceToIgnite2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireDamageAndChanceToIgnite2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireDamageAndChanceToIgnite2h3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireDamageOverTimeMultiplierTwoHand1_",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireDamageOverTimeMultiplierTwoHand2",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireDamageOverTimeMultiplierTwoHand3",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LightningAddedAsChaos2h2",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LightningAddedAsChaos2h3___",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LightningDamageAndChanceToShock2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LightningDamageAndChanceToShock2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LightningDamageAndChanceToShock2h3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalAccuracyRatingStrengthDexterity1",
-      "generationType": "suffix",
-      "group": "IncreasedAccuracy",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalAccuracyRatingStrengthDexterity2",
-      "generationType": "suffix",
-      "group": "IncreasedAccuracy",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalAttackSpeedAndLocalDisplayTriggerLevel1BloodRageOnKillChance1_",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalAttackSpeedAndLocalDisplayTriggerLevel1BloodRageOnKillChance2",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalAttackSpeedDexterityIntelligence1____",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalAttackSpeedDexterityIntelligence2",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalCriticalStrikeChanceStrengthIntelligence1",
-      "generationType": "suffix",
-      "group": "CriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalCriticalStrikeChanceStrengthIntelligence2___",
-      "generationType": "suffix",
-      "group": "CriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndBleedChanceCrafted1",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndBleedChanceCrafted2",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndBleedChanceCrafted3",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndBlindChanceCrafted1_",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndBlindChanceCrafted2",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndBlindChanceCrafted3",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndImpaleCrafted1",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndImpaleCrafted2",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndImpaleCrafted3",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndPoisonChanceCrafted1",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndPoisonChanceCrafted2_",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndPoisonChanceCrafted3",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreaseSocketedSupportGemLevel1",
-      "generationType": "prefix",
-      "group": "IncreaseSpecificSocketedGemLevel",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreaseSocketedSupportGemLevel2",
-      "generationType": "prefix",
-      "group": "IncreaseSpecificSocketedGemLevel",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2MinionAttackAndCastSpeedOnWeapon2h1_",
-      "generationType": "suffix",
-      "group": "MinionAttackSpeedAndCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2MinionAttackAndCastSpeedOnWeapon2h2",
-      "generationType": "suffix",
-      "group": "MinionAttackSpeedAndCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2MinionAttackAndCastSpeedOnWeapon2h3_",
-      "generationType": "suffix",
-      "group": "MinionAttackSpeedAndCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2MinionDamageAndMinionMaximumLife2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2MinionDamageAndMinionMaximumLife2h2_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2MinionDamageAndMinionMaximumLife2h3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2PhysicalAddedAsChaos2h2",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2PhysicalAddedAsChaos2h3",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2PhysicalDamageOverTimeMultiplierTwoHand1",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2PhysicalDamageOverTimeMultiplierTwoHand2",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2PhysicalDamageOverTimeMultiplierTwoHand3",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SocketedGemQuality2",
-      "generationType": "prefix",
-      "group": "SocketedGemQuality",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SocketedGemQuality3",
-      "generationType": "prefix",
-      "group": "SocketedGemQuality",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SpellDamageAndManaRegenerationRate2h1_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SpellDamageAndManaRegenerationRate2h2_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SpellDamageAndManaRegenerationRate2h3_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SpellDamageAndNonChaosDamageToAddAsChaosDamage2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SpellDamageAndNonChaosDamageToAddAsChaosDamage2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SpellDamageAndNonChaosDamageToAddAsChaosDamage2h3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledAttackSpeedPercentIfRareOrUniqueEnemyNearby2h",
-      "generationType": "suffix",
-      "group": "AttackSpeedPercentIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledCastSpeedAndGainArcaneSurgeOnKillChance2h_",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledChanceToDealDoubleDamageWhileFocused2h_",
-      "generationType": "suffix",
-      "group": "ChanceToDealDoubleDamageWhileFocused",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledChaosDamageAndChaosSkillDuration1h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledChaosDamageAndChaosSkillDuration2h_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledChaosDamageOverTimeMultiplier__",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledChaosDamageOverTimeMultiplierTwoHand",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledChaosPenetrationWithAttacks__",
-      "generationType": "prefix",
-      "group": "ChaosPenetrationWithAttacks",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledColdDamageAndBaseChanceToFreeze1h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledColdDamageAndBaseChanceToFreeze2h__",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledColdDamageOverTimeMultiplier___",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledColdDamageOverTimeMultiplierTwoHand",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledCriticalStrikeMultiplierIfRareOrUniqueEnemyNearby2h",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledDamagePerEnduranceCharge2h",
-      "generationType": "suffix",
-      "group": "AllDamage",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledDamagePerFrenzyCharge2h__",
-      "generationType": "suffix",
-      "group": "AllDamage",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledDamagePerPowerCharge2h",
-      "generationType": "suffix",
-      "group": "AllDamage",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledDoubleDamageChance2h_",
-      "generationType": "suffix",
-      "group": "DoubleDamage",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledElementalPenetrationWithAttacks_",
-      "generationType": "prefix",
-      "group": "LocalAttackReduceEnemyElementalResistance",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledFireDamageAndChanceToIgnite1h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledFireDamageAndChanceToIgnite2h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledFireDamageOverTimeMultiplier",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledFireDamageOverTimeMultiplierTwoHand",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLightningDamageAndChanceToShock1h_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLightningDamageAndChanceToShock2h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalAccuracyRatingStrengthDexterity_",
-      "generationType": "suffix",
-      "group": "IncreasedAccuracy",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalAttackSpeedAndLocalDisplayTriggerLevel1BloodRageOnKillChance_",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalAttackSpeedDexterityIntelligence",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalCriticalStrikeChanceStrengthIntelligence__",
-      "generationType": "suffix",
-      "group": "CriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalIncreasedPhysicalDamageAndBleedChanceCrafted_",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalIncreasedPhysicalDamageAndBlindChanceCrafted_",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalIncreasedPhysicalDamageAndImpaleCrafted",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalIncreasedPhysicalDamageAndPoisonChanceCrafted_",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledMinionAttackAndCastSpeedOnWeapon1h",
-      "generationType": "suffix",
-      "group": "MinionAttackSpeedAndCastSpeed",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledMinionAttackAndCastSpeedOnWeapon2h",
-      "generationType": "suffix",
-      "group": "MinionAttackSpeedAndCastSpeed",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledMinionDamageAndMinionMaximumLife1h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledMinionDamageAndMinionMaximumLife2h__",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledPhysicalDamageOverTimeMultiplier",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledPhysicalDamageOverTimeMultiplierTwoHand_",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledSpellDamageAndManaRegenerationRate1h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledSpellDamageAndManaRegenerationRate2h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledSpellDamageAndNonChaosDamageToAddAsChaosDamage1h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledSpellDamageAndNonChaosDamageToAddAsChaosDamage2h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
     },
     {
       "id": "LifeGainedFromEnemyDeath1",
@@ -92729,14 +68924,6 @@ export const MODS_BY_BASE = {
       "itemClass": "Warstaves"
     },
     {
-      "id": "StrDexMasterItemGenerationCannotRollCasterAffixes",
-      "generationType": "suffix",
-      "group": "ItemGenerationCannotRollCasterAffixes",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
       "id": "Strength1",
       "generationType": "suffix",
       "group": "Strength",
@@ -92807,22 +68994,6 @@ export const MODS_BY_BASE = {
       "weight": 500,
       "source": "warstaff,staff,attack_staff,two_hand_weapon,twohand,weapon,default",
       "itemClass": "Warstaves"
-    },
-    {
-      "id": "StrIntMasterItemGenerationCanHaveMultipleCraftedMods",
-      "generationType": "suffix",
-      "group": "ItemGenerationCanHaveMultipleCraftedMods",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "StrMasterItemGenerationCannotChangePrefixes",
-      "generationType": "suffix",
-      "group": "ItemGenerationCannotChangePrefixes",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
     },
     {
       "id": "StunDuration1",
@@ -94115,774 +70286,6 @@ export const MODS_BY_BASE = {
       "itemClass": "Warstaves"
     },
     {
-      "id": "DexMasterItemGenerationCannotChangeSuffixes",
-      "generationType": "prefix",
-      "group": "ItemGenerationCannotChangeSuffixes",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterAllAttributes1",
-      "generationType": "suffix",
-      "group": "AllAttributes",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterAllAttributes2",
-      "generationType": "suffix",
-      "group": "AllAttributes",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterChaosDamageTwoHandPrefix1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterChaosDamageTwoHandPrefix2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterChaosDamageTwoHandPrefix3_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterColdDamageTwoHandPrefix1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterColdDamageTwoHandPrefix2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterColdDamageTwoHandPrefix3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterCriticalStrikeChanceSpells2h1",
-      "generationType": "suffix",
-      "group": "SpellCriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterCriticalStrikeChanceSpells2h2_",
-      "generationType": "suffix",
-      "group": "SpellCriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterCriticalStrikeMultiplier1",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterCriticalStrikeMultiplier2",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterCriticalStrikeMultiplier3",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterDegenerationDamage1_",
-      "generationType": "prefix",
-      "group": "DegenerationDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterDegenerationDamage2",
-      "generationType": "prefix",
-      "group": "DegenerationDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterDexterity2",
-      "generationType": "suffix",
-      "group": "Dexterity",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterDexterity3",
-      "generationType": "suffix",
-      "group": "Dexterity",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterFireDamageTwoHandPrefix1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterFireDamageTwoHandPrefix2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterFireDamageTwoHandPrefix3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedCastSpeedTwoHand1",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedCastSpeedTwoHand2",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedCastSpeedTwoHand3_",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedManaRegenerationTwoHandWeapon1",
-      "generationType": "suffix",
-      "group": "ManaRegeneration",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedManaRegenerationTwoHandWeapon2",
-      "generationType": "suffix",
-      "group": "ManaRegeneration",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedManaTwoHandWeapon1___",
-      "generationType": "prefix",
-      "group": "IncreasedMana",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedManaTwoHandWeapon2_",
-      "generationType": "prefix",
-      "group": "IncreasedMana",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedManaTwoHandWeapon3_",
-      "generationType": "prefix",
-      "group": "IncreasedMana",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedManaTwoHandWeapon4",
-      "generationType": "prefix",
-      "group": "IncreasedMana",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIntelligence2__",
-      "generationType": "suffix",
-      "group": "Intelligence",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIntelligence3",
-      "generationType": "suffix",
-      "group": "Intelligence",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLightningDamageTwoHandPrefix1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLightningDamageTwoHandPrefix2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLightningDamageTwoHandPrefix3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalAccuracyRating1",
-      "generationType": "suffix",
-      "group": "IncreasedAccuracy",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalAccuracyRating2",
-      "generationType": "suffix",
-      "group": "IncreasedAccuracy",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalAccuracyRating3",
-      "generationType": "suffix",
-      "group": "IncreasedAccuracy",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalColdDamageTwoHand1",
-      "generationType": "prefix",
-      "group": "ColdDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalColdDamageTwoHand2",
-      "generationType": "prefix",
-      "group": "ColdDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalColdDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "ColdDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalCriticalStrikeChance1_",
-      "generationType": "suffix",
-      "group": "CriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalCriticalStrikeChance2",
-      "generationType": "suffix",
-      "group": "CriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalCriticalStrikeChance3_",
-      "generationType": "suffix",
-      "group": "CriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalFireDamageTwoHand1",
-      "generationType": "prefix",
-      "group": "FireDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalFireDamageTwoHand2",
-      "generationType": "prefix",
-      "group": "FireDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalFireDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "FireDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedAttackSpeed1__",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedAttackSpeed2_",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedAttackSpeed3",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedPhysicalDamage1",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedPhysicalDamage2_",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedPhysicalDamage3",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedPhysicalDamage4___",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalLifeLeechPermyriadNewSuffix1",
-      "generationType": "suffix",
-      "group": "LifeLeech",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalLifeLeechPermyriadNewSuffix2",
-      "generationType": "suffix",
-      "group": "LifeLeech",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalLightningDamageTwoHand1_",
-      "generationType": "prefix",
-      "group": "LightningDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalLightningDamageTwoHand2",
-      "generationType": "prefix",
-      "group": "LightningDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalLightningDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "LightningDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalManaLeechPermyriadNewSuffix1",
-      "generationType": "suffix",
-      "group": "ManaLeech",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalPhysicalDamageTwoHand1",
-      "generationType": "prefix",
-      "group": "PhysicalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalPhysicalDamageTwoHand2",
-      "generationType": "prefix",
-      "group": "PhysicalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalPhysicalDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "PhysicalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMineDamageOnWeapon2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMineDamageOnWeapon2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMineLayingSpeed2h1",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMineLayingSpeed2h2_",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMinionDamageOnWeapon2h1_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMinionDamageOnWeapon2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMinionDamageOnWeapon2h3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedColdDamageTwoHand1",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedColdDamageTwoHand2_",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedColdDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedFireDamageTwoHand1",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedFireDamageTwoHand2",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedFireDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedLightningDamageTwoHand1",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedLightningDamageTwoHand2",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedLightningDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellDamageOnTwoHandWeapon1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellDamageOnTwoHandWeapon2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellDamageOnTwoHandWeapon3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellDamageOnTwoHandWeapon4_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterStaffAttackBlock1",
-      "generationType": "suffix",
-      "group": "AdditionalBlock",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterStaffAttackBlock2",
-      "generationType": "suffix",
-      "group": "AdditionalBlock",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterStaffSpellBlock1",
-      "generationType": "suffix",
-      "group": "SpellBlockPercentage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterStaffSpellBlock2",
-      "generationType": "suffix",
-      "group": "SpellBlockPercentage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterStrength2",
-      "generationType": "suffix",
-      "group": "Strength",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterStrength3",
-      "generationType": "suffix",
-      "group": "Strength",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterTrapDamageOnWeapon2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterTrapDamageOnWeapon2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterTrapThrowingSpeed2h1",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterTrapThrowingSpeed2h2_",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterTriggerSocketedSpellOnSkillUse1",
-      "generationType": "suffix",
-      "group": "SupportedByTrigger",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterWeaponElementalDamage1_",
-      "generationType": "prefix",
-      "group": "IncreasedWeaponElementalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterWeaponElementalDamage2",
-      "generationType": "prefix",
-      "group": "IncreasedWeaponElementalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
       "id": "ElementalDamagePercentAddedAsChaosStaffUber1",
       "generationType": "prefix_shaper",
       "group": "ElementalDamagePercentAddedAsChaos",
@@ -95041,30 +70444,6 @@ export const MODS_BY_BASE = {
       "weight": 300,
       "source": "not_for_sale,experimental_base,staff,attack_staff,two_hand_weapon,twohand,weapon,default",
       "itemClass": "Warstaves"
-    },
-    {
-      "id": "HelenaMasterDexterity1",
-      "generationType": "suffix",
-      "group": "Dexterity",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "HelenaMasterIntelligence1",
-      "generationType": "suffix",
-      "group": "Intelligence",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "HelenaMasterStrength1",
-      "generationType": "suffix",
-      "group": "Strength",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
     },
     {
       "id": "HellscapeDownsideCannotApplyAilments1___",
@@ -96491,1102 +71870,6 @@ export const MODS_BY_BASE = {
       "itemClass": "Warstaves"
     },
     {
-      "id": "IntMasterItemGenerationCannotRollAttackAffixes",
-      "generationType": "suffix",
-      "group": "ItemGenerationCannotRollAttackAffixes",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2AlwaysHits1",
-      "generationType": "prefix",
-      "group": "AlwaysHits",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2AttackSpeedPercentIfRareOrUniqueEnemyNearby2h1",
-      "generationType": "suffix",
-      "group": "AttackSpeedPercentIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2AttackSpeedPercentIfRareOrUniqueEnemyNearby2h2_",
-      "generationType": "suffix",
-      "group": "AttackSpeedPercentIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2AttackSpeedPercentIfRareOrUniqueEnemyNearby2h3",
-      "generationType": "suffix",
-      "group": "AttackSpeedPercentIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2BleedOnHitGained2h2",
-      "generationType": "prefix",
-      "group": "PhysicalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2BleedOnHitGained2h3_",
-      "generationType": "prefix",
-      "group": "PhysicalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2CastSpeedAndGainArcaneSurgeOnKillChance2h1_",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2CastSpeedAndGainArcaneSurgeOnKillChance2h2_",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2CastSpeedAndGainArcaneSurgeOnKillChance2h3",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChanceToDealDoubleDamageWhileFocused2h1_",
-      "generationType": "suffix",
-      "group": "ChanceToDealDoubleDamageWhileFocused",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChanceToDealDoubleDamageWhileFocused2h2",
-      "generationType": "suffix",
-      "group": "ChanceToDealDoubleDamageWhileFocused",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChanceToDealDoubleDamageWhileFocused2h3",
-      "generationType": "suffix",
-      "group": "ChanceToDealDoubleDamageWhileFocused",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosDamageAndChaosSkillDuration2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosDamageAndChaosSkillDuration2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosDamageAndChaosSkillDuration2h3_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosDamageOverTimeMultiplierTwoHand1",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosDamageOverTimeMultiplierTwoHand2_",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosDamageOverTimeMultiplierTwoHand3",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosPenetrationWithAttacks1",
-      "generationType": "prefix",
-      "group": "ChaosPenetrationWithAttacks",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosPenetrationWithAttacks2",
-      "generationType": "prefix",
-      "group": "ChaosPenetrationWithAttacks",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosPenetrationWithAttacks3_",
-      "generationType": "prefix",
-      "group": "ChaosPenetrationWithAttacks",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdAddedAsChaos2h2",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdAddedAsChaos2h3",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdDamageAndBaseChanceToFreeze2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdDamageAndBaseChanceToFreeze2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdDamageAndBaseChanceToFreeze2h3_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdDamageOverTimeMultiplierTwoHand1",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdDamageOverTimeMultiplierTwoHand2",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdDamageOverTimeMultiplierTwoHand3",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby2h1_",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby2h2",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby2h3",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2DamagePerEnduranceCharge2h1",
-      "generationType": "suffix",
-      "group": "AllDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2DamagePerFrenzyCharge2h1",
-      "generationType": "suffix",
-      "group": "AllDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2DamagePerPowerCharge2h1__",
-      "generationType": "suffix",
-      "group": "AllDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2DoubleDamageChance2h1",
-      "generationType": "suffix",
-      "group": "DoubleDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2DoubleDamageChance2h2",
-      "generationType": "suffix",
-      "group": "DoubleDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ElementalPenetrationWithAttacks1",
-      "generationType": "prefix",
-      "group": "LocalAttackReduceEnemyElementalResistance",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ElementalPenetrationWithAttacks2",
-      "generationType": "prefix",
-      "group": "LocalAttackReduceEnemyElementalResistance",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ElementalPenetrationWithAttacks3",
-      "generationType": "prefix",
-      "group": "LocalAttackReduceEnemyElementalResistance",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireAddedAsChaos2h2",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireAddedAsChaos2h3_",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireDamageAndChanceToIgnite2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireDamageAndChanceToIgnite2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireDamageAndChanceToIgnite2h3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireDamageOverTimeMultiplierTwoHand1_",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireDamageOverTimeMultiplierTwoHand2",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireDamageOverTimeMultiplierTwoHand3",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LightningAddedAsChaos2h2",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LightningAddedAsChaos2h3___",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LightningDamageAndChanceToShock2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LightningDamageAndChanceToShock2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LightningDamageAndChanceToShock2h3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalAccuracyRatingStrengthDexterity1",
-      "generationType": "suffix",
-      "group": "IncreasedAccuracy",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalAccuracyRatingStrengthDexterity2",
-      "generationType": "suffix",
-      "group": "IncreasedAccuracy",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalAttackSpeedAndLocalDisplayTriggerLevel1BloodRageOnKillChance1_",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalAttackSpeedAndLocalDisplayTriggerLevel1BloodRageOnKillChance2",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalAttackSpeedDexterityIntelligence1____",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalAttackSpeedDexterityIntelligence2",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalCriticalStrikeChanceStrengthIntelligence1",
-      "generationType": "suffix",
-      "group": "CriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalCriticalStrikeChanceStrengthIntelligence2___",
-      "generationType": "suffix",
-      "group": "CriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndBleedChanceCrafted1",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndBleedChanceCrafted2",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndBleedChanceCrafted3",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndBlindChanceCrafted1_",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndBlindChanceCrafted2",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndBlindChanceCrafted3",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndImpaleCrafted1",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndImpaleCrafted2",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndImpaleCrafted3",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndPoisonChanceCrafted1",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndPoisonChanceCrafted2_",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndPoisonChanceCrafted3",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreaseSocketedSupportGemLevel1",
-      "generationType": "prefix",
-      "group": "IncreaseSpecificSocketedGemLevel",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreaseSocketedSupportGemLevel2",
-      "generationType": "prefix",
-      "group": "IncreaseSpecificSocketedGemLevel",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2MinionAttackAndCastSpeedOnWeapon2h1_",
-      "generationType": "suffix",
-      "group": "MinionAttackSpeedAndCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2MinionAttackAndCastSpeedOnWeapon2h2",
-      "generationType": "suffix",
-      "group": "MinionAttackSpeedAndCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2MinionAttackAndCastSpeedOnWeapon2h3_",
-      "generationType": "suffix",
-      "group": "MinionAttackSpeedAndCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2MinionDamageAndMinionMaximumLife2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2MinionDamageAndMinionMaximumLife2h2_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2MinionDamageAndMinionMaximumLife2h3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2PhysicalAddedAsChaos2h2",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2PhysicalAddedAsChaos2h3",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2PhysicalDamageOverTimeMultiplierTwoHand1",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2PhysicalDamageOverTimeMultiplierTwoHand2",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2PhysicalDamageOverTimeMultiplierTwoHand3",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SocketedGemQuality2",
-      "generationType": "prefix",
-      "group": "SocketedGemQuality",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SocketedGemQuality3",
-      "generationType": "prefix",
-      "group": "SocketedGemQuality",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SpellDamageAndManaRegenerationRate2h1_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SpellDamageAndManaRegenerationRate2h2_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SpellDamageAndManaRegenerationRate2h3_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SpellDamageAndNonChaosDamageToAddAsChaosDamage2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SpellDamageAndNonChaosDamageToAddAsChaosDamage2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SpellDamageAndNonChaosDamageToAddAsChaosDamage2h3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledAttackSpeedPercentIfRareOrUniqueEnemyNearby2h",
-      "generationType": "suffix",
-      "group": "AttackSpeedPercentIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledCastSpeedAndGainArcaneSurgeOnKillChance2h_",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledChanceToDealDoubleDamageWhileFocused2h_",
-      "generationType": "suffix",
-      "group": "ChanceToDealDoubleDamageWhileFocused",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledChaosDamageAndChaosSkillDuration1h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledChaosDamageAndChaosSkillDuration2h_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledChaosDamageOverTimeMultiplier__",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledChaosDamageOverTimeMultiplierTwoHand",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledChaosPenetrationWithAttacks__",
-      "generationType": "prefix",
-      "group": "ChaosPenetrationWithAttacks",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledColdDamageAndBaseChanceToFreeze1h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledColdDamageAndBaseChanceToFreeze2h__",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledColdDamageOverTimeMultiplier___",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledColdDamageOverTimeMultiplierTwoHand",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledCriticalStrikeMultiplierIfRareOrUniqueEnemyNearby2h",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledDamagePerEnduranceCharge2h",
-      "generationType": "suffix",
-      "group": "AllDamage",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledDamagePerFrenzyCharge2h__",
-      "generationType": "suffix",
-      "group": "AllDamage",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledDamagePerPowerCharge2h",
-      "generationType": "suffix",
-      "group": "AllDamage",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledDoubleDamageChance2h_",
-      "generationType": "suffix",
-      "group": "DoubleDamage",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledElementalPenetrationWithAttacks_",
-      "generationType": "prefix",
-      "group": "LocalAttackReduceEnemyElementalResistance",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledFireDamageAndChanceToIgnite1h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledFireDamageAndChanceToIgnite2h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledFireDamageOverTimeMultiplier",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledFireDamageOverTimeMultiplierTwoHand",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLightningDamageAndChanceToShock1h_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLightningDamageAndChanceToShock2h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalAccuracyRatingStrengthDexterity_",
-      "generationType": "suffix",
-      "group": "IncreasedAccuracy",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalAttackSpeedAndLocalDisplayTriggerLevel1BloodRageOnKillChance_",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalAttackSpeedDexterityIntelligence",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalCriticalStrikeChanceStrengthIntelligence__",
-      "generationType": "suffix",
-      "group": "CriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalIncreasedPhysicalDamageAndBleedChanceCrafted_",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalIncreasedPhysicalDamageAndBlindChanceCrafted_",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalIncreasedPhysicalDamageAndImpaleCrafted",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalIncreasedPhysicalDamageAndPoisonChanceCrafted_",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledMinionAttackAndCastSpeedOnWeapon1h",
-      "generationType": "suffix",
-      "group": "MinionAttackSpeedAndCastSpeed",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledMinionAttackAndCastSpeedOnWeapon2h",
-      "generationType": "suffix",
-      "group": "MinionAttackSpeedAndCastSpeed",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledMinionDamageAndMinionMaximumLife1h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledMinionDamageAndMinionMaximumLife2h__",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledPhysicalDamageOverTimeMultiplier",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledPhysicalDamageOverTimeMultiplierTwoHand_",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledSpellDamageAndManaRegenerationRate1h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledSpellDamageAndManaRegenerationRate2h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledSpellDamageAndNonChaosDamageToAddAsChaosDamage1h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledSpellDamageAndNonChaosDamageToAddAsChaosDamage2h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
       "id": "LifeGainedFromEnemyDeath1",
       "generationType": "suffix",
       "group": "LifeGainedFromEnemyDeath",
@@ -99443,14 +73726,6 @@ export const MODS_BY_BASE = {
       "itemClass": "Warstaves"
     },
     {
-      "id": "StrDexMasterItemGenerationCannotRollCasterAffixes",
-      "generationType": "suffix",
-      "group": "ItemGenerationCannotRollCasterAffixes",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
       "id": "Strength1",
       "generationType": "suffix",
       "group": "Strength",
@@ -99521,22 +73796,6 @@ export const MODS_BY_BASE = {
       "weight": 500,
       "source": "not_for_sale,experimental_base,staff,attack_staff,two_hand_weapon,twohand,weapon,default",
       "itemClass": "Warstaves"
-    },
-    {
-      "id": "StrIntMasterItemGenerationCanHaveMultipleCraftedMods",
-      "generationType": "suffix",
-      "group": "ItemGenerationCanHaveMultipleCraftedMods",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "StrMasterItemGenerationCannotChangePrefixes",
-      "generationType": "suffix",
-      "group": "ItemGenerationCannotChangePrefixes",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
     },
     {
       "id": "StunDuration1",
@@ -100861,774 +75120,6 @@ export const MODS_BY_BASE = {
       "itemClass": "Warstaves"
     },
     {
-      "id": "DexMasterItemGenerationCannotChangeSuffixes",
-      "generationType": "prefix",
-      "group": "ItemGenerationCannotChangeSuffixes",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterAllAttributes1",
-      "generationType": "suffix",
-      "group": "AllAttributes",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterAllAttributes2",
-      "generationType": "suffix",
-      "group": "AllAttributes",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterChaosDamageTwoHandPrefix1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterChaosDamageTwoHandPrefix2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterChaosDamageTwoHandPrefix3_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterColdDamageTwoHandPrefix1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterColdDamageTwoHandPrefix2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterColdDamageTwoHandPrefix3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterCriticalStrikeChanceSpells2h1",
-      "generationType": "suffix",
-      "group": "SpellCriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterCriticalStrikeChanceSpells2h2_",
-      "generationType": "suffix",
-      "group": "SpellCriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterCriticalStrikeMultiplier1",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterCriticalStrikeMultiplier2",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterCriticalStrikeMultiplier3",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterDegenerationDamage1_",
-      "generationType": "prefix",
-      "group": "DegenerationDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterDegenerationDamage2",
-      "generationType": "prefix",
-      "group": "DegenerationDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterDexterity2",
-      "generationType": "suffix",
-      "group": "Dexterity",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterDexterity3",
-      "generationType": "suffix",
-      "group": "Dexterity",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterFireDamageTwoHandPrefix1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterFireDamageTwoHandPrefix2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterFireDamageTwoHandPrefix3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedCastSpeedTwoHand1",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedCastSpeedTwoHand2",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedCastSpeedTwoHand3_",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedManaRegenerationTwoHandWeapon1",
-      "generationType": "suffix",
-      "group": "ManaRegeneration",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedManaRegenerationTwoHandWeapon2",
-      "generationType": "suffix",
-      "group": "ManaRegeneration",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedManaTwoHandWeapon1___",
-      "generationType": "prefix",
-      "group": "IncreasedMana",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedManaTwoHandWeapon2_",
-      "generationType": "prefix",
-      "group": "IncreasedMana",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedManaTwoHandWeapon3_",
-      "generationType": "prefix",
-      "group": "IncreasedMana",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedManaTwoHandWeapon4",
-      "generationType": "prefix",
-      "group": "IncreasedMana",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIntelligence2__",
-      "generationType": "suffix",
-      "group": "Intelligence",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIntelligence3",
-      "generationType": "suffix",
-      "group": "Intelligence",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLightningDamageTwoHandPrefix1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLightningDamageTwoHandPrefix2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLightningDamageTwoHandPrefix3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalAccuracyRating1",
-      "generationType": "suffix",
-      "group": "IncreasedAccuracy",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalAccuracyRating2",
-      "generationType": "suffix",
-      "group": "IncreasedAccuracy",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalAccuracyRating3",
-      "generationType": "suffix",
-      "group": "IncreasedAccuracy",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalColdDamageTwoHand1",
-      "generationType": "prefix",
-      "group": "ColdDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalColdDamageTwoHand2",
-      "generationType": "prefix",
-      "group": "ColdDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalColdDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "ColdDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalCriticalStrikeChance1_",
-      "generationType": "suffix",
-      "group": "CriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalCriticalStrikeChance2",
-      "generationType": "suffix",
-      "group": "CriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalCriticalStrikeChance3_",
-      "generationType": "suffix",
-      "group": "CriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalFireDamageTwoHand1",
-      "generationType": "prefix",
-      "group": "FireDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalFireDamageTwoHand2",
-      "generationType": "prefix",
-      "group": "FireDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalFireDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "FireDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedAttackSpeed1__",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedAttackSpeed2_",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedAttackSpeed3",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedPhysicalDamage1",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedPhysicalDamage2_",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedPhysicalDamage3",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedPhysicalDamage4___",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalLifeLeechPermyriadNewSuffix1",
-      "generationType": "suffix",
-      "group": "LifeLeech",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalLifeLeechPermyriadNewSuffix2",
-      "generationType": "suffix",
-      "group": "LifeLeech",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalLightningDamageTwoHand1_",
-      "generationType": "prefix",
-      "group": "LightningDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalLightningDamageTwoHand2",
-      "generationType": "prefix",
-      "group": "LightningDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalLightningDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "LightningDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalManaLeechPermyriadNewSuffix1",
-      "generationType": "suffix",
-      "group": "ManaLeech",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalPhysicalDamageTwoHand1",
-      "generationType": "prefix",
-      "group": "PhysicalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalPhysicalDamageTwoHand2",
-      "generationType": "prefix",
-      "group": "PhysicalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalPhysicalDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "PhysicalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMineDamageOnWeapon2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMineDamageOnWeapon2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMineLayingSpeed2h1",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMineLayingSpeed2h2_",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMinionDamageOnWeapon2h1_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMinionDamageOnWeapon2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMinionDamageOnWeapon2h3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedColdDamageTwoHand1",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedColdDamageTwoHand2_",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedColdDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedFireDamageTwoHand1",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedFireDamageTwoHand2",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedFireDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedLightningDamageTwoHand1",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedLightningDamageTwoHand2",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedLightningDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellDamageOnTwoHandWeapon1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellDamageOnTwoHandWeapon2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellDamageOnTwoHandWeapon3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellDamageOnTwoHandWeapon4_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterStaffAttackBlock1",
-      "generationType": "suffix",
-      "group": "AdditionalBlock",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterStaffAttackBlock2",
-      "generationType": "suffix",
-      "group": "AdditionalBlock",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterStaffSpellBlock1",
-      "generationType": "suffix",
-      "group": "SpellBlockPercentage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterStaffSpellBlock2",
-      "generationType": "suffix",
-      "group": "SpellBlockPercentage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterStrength2",
-      "generationType": "suffix",
-      "group": "Strength",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterStrength3",
-      "generationType": "suffix",
-      "group": "Strength",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterTrapDamageOnWeapon2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterTrapDamageOnWeapon2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterTrapThrowingSpeed2h1",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterTrapThrowingSpeed2h2_",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterTriggerSocketedSpellOnSkillUse1",
-      "generationType": "suffix",
-      "group": "SupportedByTrigger",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterWeaponElementalDamage1_",
-      "generationType": "prefix",
-      "group": "IncreasedWeaponElementalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterWeaponElementalDamage2",
-      "generationType": "prefix",
-      "group": "IncreasedWeaponElementalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
       "id": "ElementalDamagePercentAddedAsChaosStaffUber1",
       "generationType": "prefix_shaper",
       "group": "ElementalDamagePercentAddedAsChaos",
@@ -101787,30 +75278,6 @@ export const MODS_BY_BASE = {
       "weight": 300,
       "source": "warstaff,staff,attack_staff,two_hand_weapon,twohand,weapon,default",
       "itemClass": "Warstaves"
-    },
-    {
-      "id": "HelenaMasterDexterity1",
-      "generationType": "suffix",
-      "group": "Dexterity",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "HelenaMasterIntelligence1",
-      "generationType": "suffix",
-      "group": "Intelligence",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "HelenaMasterStrength1",
-      "generationType": "suffix",
-      "group": "Strength",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
     },
     {
       "id": "HellscapeDownsideCannotApplyAilments1___",
@@ -103163,1102 +76630,6 @@ export const MODS_BY_BASE = {
       "weight": 500,
       "source": "warstaff,staff,attack_staff,two_hand_weapon,twohand,weapon,default",
       "itemClass": "Warstaves"
-    },
-    {
-      "id": "IntMasterItemGenerationCannotRollAttackAffixes",
-      "generationType": "suffix",
-      "group": "ItemGenerationCannotRollAttackAffixes",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2AlwaysHits1",
-      "generationType": "prefix",
-      "group": "AlwaysHits",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2AttackSpeedPercentIfRareOrUniqueEnemyNearby2h1",
-      "generationType": "suffix",
-      "group": "AttackSpeedPercentIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2AttackSpeedPercentIfRareOrUniqueEnemyNearby2h2_",
-      "generationType": "suffix",
-      "group": "AttackSpeedPercentIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2AttackSpeedPercentIfRareOrUniqueEnemyNearby2h3",
-      "generationType": "suffix",
-      "group": "AttackSpeedPercentIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2BleedOnHitGained2h2",
-      "generationType": "prefix",
-      "group": "PhysicalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2BleedOnHitGained2h3_",
-      "generationType": "prefix",
-      "group": "PhysicalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2CastSpeedAndGainArcaneSurgeOnKillChance2h1_",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2CastSpeedAndGainArcaneSurgeOnKillChance2h2_",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2CastSpeedAndGainArcaneSurgeOnKillChance2h3",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChanceToDealDoubleDamageWhileFocused2h1_",
-      "generationType": "suffix",
-      "group": "ChanceToDealDoubleDamageWhileFocused",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChanceToDealDoubleDamageWhileFocused2h2",
-      "generationType": "suffix",
-      "group": "ChanceToDealDoubleDamageWhileFocused",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChanceToDealDoubleDamageWhileFocused2h3",
-      "generationType": "suffix",
-      "group": "ChanceToDealDoubleDamageWhileFocused",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosDamageAndChaosSkillDuration2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosDamageAndChaosSkillDuration2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosDamageAndChaosSkillDuration2h3_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosDamageOverTimeMultiplierTwoHand1",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosDamageOverTimeMultiplierTwoHand2_",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosDamageOverTimeMultiplierTwoHand3",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosPenetrationWithAttacks1",
-      "generationType": "prefix",
-      "group": "ChaosPenetrationWithAttacks",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosPenetrationWithAttacks2",
-      "generationType": "prefix",
-      "group": "ChaosPenetrationWithAttacks",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosPenetrationWithAttacks3_",
-      "generationType": "prefix",
-      "group": "ChaosPenetrationWithAttacks",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdAddedAsChaos2h2",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdAddedAsChaos2h3",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdDamageAndBaseChanceToFreeze2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdDamageAndBaseChanceToFreeze2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdDamageAndBaseChanceToFreeze2h3_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdDamageOverTimeMultiplierTwoHand1",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdDamageOverTimeMultiplierTwoHand2",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdDamageOverTimeMultiplierTwoHand3",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby2h1_",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby2h2",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby2h3",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2DamagePerEnduranceCharge2h1",
-      "generationType": "suffix",
-      "group": "AllDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2DamagePerFrenzyCharge2h1",
-      "generationType": "suffix",
-      "group": "AllDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2DamagePerPowerCharge2h1__",
-      "generationType": "suffix",
-      "group": "AllDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2DoubleDamageChance2h1",
-      "generationType": "suffix",
-      "group": "DoubleDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2DoubleDamageChance2h2",
-      "generationType": "suffix",
-      "group": "DoubleDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ElementalPenetrationWithAttacks1",
-      "generationType": "prefix",
-      "group": "LocalAttackReduceEnemyElementalResistance",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ElementalPenetrationWithAttacks2",
-      "generationType": "prefix",
-      "group": "LocalAttackReduceEnemyElementalResistance",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ElementalPenetrationWithAttacks3",
-      "generationType": "prefix",
-      "group": "LocalAttackReduceEnemyElementalResistance",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireAddedAsChaos2h2",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireAddedAsChaos2h3_",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireDamageAndChanceToIgnite2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireDamageAndChanceToIgnite2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireDamageAndChanceToIgnite2h3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireDamageOverTimeMultiplierTwoHand1_",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireDamageOverTimeMultiplierTwoHand2",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireDamageOverTimeMultiplierTwoHand3",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LightningAddedAsChaos2h2",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LightningAddedAsChaos2h3___",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LightningDamageAndChanceToShock2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LightningDamageAndChanceToShock2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LightningDamageAndChanceToShock2h3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalAccuracyRatingStrengthDexterity1",
-      "generationType": "suffix",
-      "group": "IncreasedAccuracy",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalAccuracyRatingStrengthDexterity2",
-      "generationType": "suffix",
-      "group": "IncreasedAccuracy",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalAttackSpeedAndLocalDisplayTriggerLevel1BloodRageOnKillChance1_",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalAttackSpeedAndLocalDisplayTriggerLevel1BloodRageOnKillChance2",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalAttackSpeedDexterityIntelligence1____",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalAttackSpeedDexterityIntelligence2",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalCriticalStrikeChanceStrengthIntelligence1",
-      "generationType": "suffix",
-      "group": "CriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalCriticalStrikeChanceStrengthIntelligence2___",
-      "generationType": "suffix",
-      "group": "CriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndBleedChanceCrafted1",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndBleedChanceCrafted2",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndBleedChanceCrafted3",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndBlindChanceCrafted1_",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndBlindChanceCrafted2",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndBlindChanceCrafted3",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndImpaleCrafted1",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndImpaleCrafted2",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndImpaleCrafted3",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndPoisonChanceCrafted1",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndPoisonChanceCrafted2_",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndPoisonChanceCrafted3",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreaseSocketedSupportGemLevel1",
-      "generationType": "prefix",
-      "group": "IncreaseSpecificSocketedGemLevel",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreaseSocketedSupportGemLevel2",
-      "generationType": "prefix",
-      "group": "IncreaseSpecificSocketedGemLevel",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2MinionAttackAndCastSpeedOnWeapon2h1_",
-      "generationType": "suffix",
-      "group": "MinionAttackSpeedAndCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2MinionAttackAndCastSpeedOnWeapon2h2",
-      "generationType": "suffix",
-      "group": "MinionAttackSpeedAndCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2MinionAttackAndCastSpeedOnWeapon2h3_",
-      "generationType": "suffix",
-      "group": "MinionAttackSpeedAndCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2MinionDamageAndMinionMaximumLife2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2MinionDamageAndMinionMaximumLife2h2_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2MinionDamageAndMinionMaximumLife2h3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2PhysicalAddedAsChaos2h2",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2PhysicalAddedAsChaos2h3",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2PhysicalDamageOverTimeMultiplierTwoHand1",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2PhysicalDamageOverTimeMultiplierTwoHand2",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2PhysicalDamageOverTimeMultiplierTwoHand3",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SocketedGemQuality2",
-      "generationType": "prefix",
-      "group": "SocketedGemQuality",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SocketedGemQuality3",
-      "generationType": "prefix",
-      "group": "SocketedGemQuality",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SpellDamageAndManaRegenerationRate2h1_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SpellDamageAndManaRegenerationRate2h2_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SpellDamageAndManaRegenerationRate2h3_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SpellDamageAndNonChaosDamageToAddAsChaosDamage2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SpellDamageAndNonChaosDamageToAddAsChaosDamage2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SpellDamageAndNonChaosDamageToAddAsChaosDamage2h3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledAttackSpeedPercentIfRareOrUniqueEnemyNearby2h",
-      "generationType": "suffix",
-      "group": "AttackSpeedPercentIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledCastSpeedAndGainArcaneSurgeOnKillChance2h_",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledChanceToDealDoubleDamageWhileFocused2h_",
-      "generationType": "suffix",
-      "group": "ChanceToDealDoubleDamageWhileFocused",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledChaosDamageAndChaosSkillDuration1h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledChaosDamageAndChaosSkillDuration2h_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledChaosDamageOverTimeMultiplier__",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledChaosDamageOverTimeMultiplierTwoHand",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledChaosPenetrationWithAttacks__",
-      "generationType": "prefix",
-      "group": "ChaosPenetrationWithAttacks",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledColdDamageAndBaseChanceToFreeze1h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledColdDamageAndBaseChanceToFreeze2h__",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledColdDamageOverTimeMultiplier___",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledColdDamageOverTimeMultiplierTwoHand",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledCriticalStrikeMultiplierIfRareOrUniqueEnemyNearby2h",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledDamagePerEnduranceCharge2h",
-      "generationType": "suffix",
-      "group": "AllDamage",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledDamagePerFrenzyCharge2h__",
-      "generationType": "suffix",
-      "group": "AllDamage",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledDamagePerPowerCharge2h",
-      "generationType": "suffix",
-      "group": "AllDamage",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledDoubleDamageChance2h_",
-      "generationType": "suffix",
-      "group": "DoubleDamage",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledElementalPenetrationWithAttacks_",
-      "generationType": "prefix",
-      "group": "LocalAttackReduceEnemyElementalResistance",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledFireDamageAndChanceToIgnite1h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledFireDamageAndChanceToIgnite2h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledFireDamageOverTimeMultiplier",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledFireDamageOverTimeMultiplierTwoHand",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLightningDamageAndChanceToShock1h_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLightningDamageAndChanceToShock2h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalAccuracyRatingStrengthDexterity_",
-      "generationType": "suffix",
-      "group": "IncreasedAccuracy",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalAttackSpeedAndLocalDisplayTriggerLevel1BloodRageOnKillChance_",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalAttackSpeedDexterityIntelligence",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalCriticalStrikeChanceStrengthIntelligence__",
-      "generationType": "suffix",
-      "group": "CriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalIncreasedPhysicalDamageAndBleedChanceCrafted_",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalIncreasedPhysicalDamageAndBlindChanceCrafted_",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalIncreasedPhysicalDamageAndImpaleCrafted",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalIncreasedPhysicalDamageAndPoisonChanceCrafted_",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledMinionAttackAndCastSpeedOnWeapon1h",
-      "generationType": "suffix",
-      "group": "MinionAttackSpeedAndCastSpeed",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledMinionAttackAndCastSpeedOnWeapon2h",
-      "generationType": "suffix",
-      "group": "MinionAttackSpeedAndCastSpeed",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledMinionDamageAndMinionMaximumLife1h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledMinionDamageAndMinionMaximumLife2h__",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledPhysicalDamageOverTimeMultiplier",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledPhysicalDamageOverTimeMultiplierTwoHand_",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledSpellDamageAndManaRegenerationRate1h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledSpellDamageAndManaRegenerationRate2h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledSpellDamageAndNonChaosDamageToAddAsChaosDamage1h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledSpellDamageAndNonChaosDamageToAddAsChaosDamage2h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
     },
     {
       "id": "LifeGainedFromEnemyDeath1",
@@ -106117,14 +78488,6 @@ export const MODS_BY_BASE = {
       "itemClass": "Warstaves"
     },
     {
-      "id": "StrDexMasterItemGenerationCannotRollCasterAffixes",
-      "generationType": "suffix",
-      "group": "ItemGenerationCannotRollCasterAffixes",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
       "id": "Strength1",
       "generationType": "suffix",
       "group": "Strength",
@@ -106195,22 +78558,6 @@ export const MODS_BY_BASE = {
       "weight": 500,
       "source": "warstaff,staff,attack_staff,two_hand_weapon,twohand,weapon,default",
       "itemClass": "Warstaves"
-    },
-    {
-      "id": "StrIntMasterItemGenerationCanHaveMultipleCraftedMods",
-      "generationType": "suffix",
-      "group": "ItemGenerationCanHaveMultipleCraftedMods",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "StrMasterItemGenerationCannotChangePrefixes",
-      "generationType": "suffix",
-      "group": "ItemGenerationCannotChangePrefixes",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
     },
     {
       "id": "StunDuration1",
@@ -107503,774 +79850,6 @@ export const MODS_BY_BASE = {
       "itemClass": "Warstaves"
     },
     {
-      "id": "DexMasterItemGenerationCannotChangeSuffixes",
-      "generationType": "prefix",
-      "group": "ItemGenerationCannotChangeSuffixes",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterAllAttributes1",
-      "generationType": "suffix",
-      "group": "AllAttributes",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterAllAttributes2",
-      "generationType": "suffix",
-      "group": "AllAttributes",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterChaosDamageTwoHandPrefix1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterChaosDamageTwoHandPrefix2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterChaosDamageTwoHandPrefix3_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterColdDamageTwoHandPrefix1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterColdDamageTwoHandPrefix2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterColdDamageTwoHandPrefix3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterCriticalStrikeChanceSpells2h1",
-      "generationType": "suffix",
-      "group": "SpellCriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterCriticalStrikeChanceSpells2h2_",
-      "generationType": "suffix",
-      "group": "SpellCriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterCriticalStrikeMultiplier1",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterCriticalStrikeMultiplier2",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterCriticalStrikeMultiplier3",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterDegenerationDamage1_",
-      "generationType": "prefix",
-      "group": "DegenerationDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterDegenerationDamage2",
-      "generationType": "prefix",
-      "group": "DegenerationDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterDexterity2",
-      "generationType": "suffix",
-      "group": "Dexterity",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterDexterity3",
-      "generationType": "suffix",
-      "group": "Dexterity",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterFireDamageTwoHandPrefix1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterFireDamageTwoHandPrefix2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterFireDamageTwoHandPrefix3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedCastSpeedTwoHand1",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedCastSpeedTwoHand2",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedCastSpeedTwoHand3_",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedManaRegenerationTwoHandWeapon1",
-      "generationType": "suffix",
-      "group": "ManaRegeneration",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedManaRegenerationTwoHandWeapon2",
-      "generationType": "suffix",
-      "group": "ManaRegeneration",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedManaTwoHandWeapon1___",
-      "generationType": "prefix",
-      "group": "IncreasedMana",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedManaTwoHandWeapon2_",
-      "generationType": "prefix",
-      "group": "IncreasedMana",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedManaTwoHandWeapon3_",
-      "generationType": "prefix",
-      "group": "IncreasedMana",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIncreasedManaTwoHandWeapon4",
-      "generationType": "prefix",
-      "group": "IncreasedMana",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIntelligence2__",
-      "generationType": "suffix",
-      "group": "Intelligence",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterIntelligence3",
-      "generationType": "suffix",
-      "group": "Intelligence",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLightningDamageTwoHandPrefix1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLightningDamageTwoHandPrefix2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLightningDamageTwoHandPrefix3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalAccuracyRating1",
-      "generationType": "suffix",
-      "group": "IncreasedAccuracy",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalAccuracyRating2",
-      "generationType": "suffix",
-      "group": "IncreasedAccuracy",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalAccuracyRating3",
-      "generationType": "suffix",
-      "group": "IncreasedAccuracy",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalColdDamageTwoHand1",
-      "generationType": "prefix",
-      "group": "ColdDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalColdDamageTwoHand2",
-      "generationType": "prefix",
-      "group": "ColdDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalColdDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "ColdDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalCriticalStrikeChance1_",
-      "generationType": "suffix",
-      "group": "CriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalCriticalStrikeChance2",
-      "generationType": "suffix",
-      "group": "CriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalCriticalStrikeChance3_",
-      "generationType": "suffix",
-      "group": "CriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalFireDamageTwoHand1",
-      "generationType": "prefix",
-      "group": "FireDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalFireDamageTwoHand2",
-      "generationType": "prefix",
-      "group": "FireDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalFireDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "FireDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedAttackSpeed1__",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedAttackSpeed2_",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedAttackSpeed3",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedPhysicalDamage1",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedPhysicalDamage2_",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedPhysicalDamage3",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalIncreasedPhysicalDamage4___",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalLifeLeechPermyriadNewSuffix1",
-      "generationType": "suffix",
-      "group": "LifeLeech",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalLifeLeechPermyriadNewSuffix2",
-      "generationType": "suffix",
-      "group": "LifeLeech",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalLightningDamageTwoHand1_",
-      "generationType": "prefix",
-      "group": "LightningDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalLightningDamageTwoHand2",
-      "generationType": "prefix",
-      "group": "LightningDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalLightningDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "LightningDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalManaLeechPermyriadNewSuffix1",
-      "generationType": "suffix",
-      "group": "ManaLeech",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalPhysicalDamageTwoHand1",
-      "generationType": "prefix",
-      "group": "PhysicalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalPhysicalDamageTwoHand2",
-      "generationType": "prefix",
-      "group": "PhysicalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterLocalPhysicalDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "PhysicalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMineDamageOnWeapon2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMineDamageOnWeapon2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMineLayingSpeed2h1",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMineLayingSpeed2h2_",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMinionDamageOnWeapon2h1_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMinionDamageOnWeapon2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterMinionDamageOnWeapon2h3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedColdDamageTwoHand1",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedColdDamageTwoHand2_",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedColdDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedFireDamageTwoHand1",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedFireDamageTwoHand2",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedFireDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedLightningDamageTwoHand1",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedLightningDamageTwoHand2",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellAddedLightningDamageTwoHand3",
-      "generationType": "prefix",
-      "group": "SpellAddedElementalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellDamageOnTwoHandWeapon1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellDamageOnTwoHandWeapon2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellDamageOnTwoHandWeapon3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterSpellDamageOnTwoHandWeapon4_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterStaffAttackBlock1",
-      "generationType": "suffix",
-      "group": "AdditionalBlock",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterStaffAttackBlock2",
-      "generationType": "suffix",
-      "group": "AdditionalBlock",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterStaffSpellBlock1",
-      "generationType": "suffix",
-      "group": "SpellBlockPercentage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterStaffSpellBlock2",
-      "generationType": "suffix",
-      "group": "SpellBlockPercentage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterStrength2",
-      "generationType": "suffix",
-      "group": "Strength",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterStrength3",
-      "generationType": "suffix",
-      "group": "Strength",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterTrapDamageOnWeapon2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterTrapDamageOnWeapon2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterTrapThrowingSpeed2h1",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterTrapThrowingSpeed2h2_",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterTriggerSocketedSpellOnSkillUse1",
-      "generationType": "suffix",
-      "group": "SupportedByTrigger",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterWeaponElementalDamage1_",
-      "generationType": "prefix",
-      "group": "IncreasedWeaponElementalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "EinharMasterWeaponElementalDamage2",
-      "generationType": "prefix",
-      "group": "IncreasedWeaponElementalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
       "id": "ElementalDamagePercentAddedAsChaosStaffUber1",
       "generationType": "prefix_shaper",
       "group": "ElementalDamagePercentAddedAsChaos",
@@ -108429,30 +80008,6 @@ export const MODS_BY_BASE = {
       "weight": 300,
       "source": "warstaff,staff,attack_staff,two_hand_weapon,twohand,weapon,default",
       "itemClass": "Warstaves"
-    },
-    {
-      "id": "HelenaMasterDexterity1",
-      "generationType": "suffix",
-      "group": "Dexterity",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "HelenaMasterIntelligence1",
-      "generationType": "suffix",
-      "group": "Intelligence",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "HelenaMasterStrength1",
-      "generationType": "suffix",
-      "group": "Strength",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
     },
     {
       "id": "HellscapeDownsideCannotApplyAilments1___",
@@ -109805,1102 +81360,6 @@ export const MODS_BY_BASE = {
       "weight": 500,
       "source": "warstaff,staff,attack_staff,two_hand_weapon,twohand,weapon,default",
       "itemClass": "Warstaves"
-    },
-    {
-      "id": "IntMasterItemGenerationCannotRollAttackAffixes",
-      "generationType": "suffix",
-      "group": "ItemGenerationCannotRollAttackAffixes",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2AlwaysHits1",
-      "generationType": "prefix",
-      "group": "AlwaysHits",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2AttackSpeedPercentIfRareOrUniqueEnemyNearby2h1",
-      "generationType": "suffix",
-      "group": "AttackSpeedPercentIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2AttackSpeedPercentIfRareOrUniqueEnemyNearby2h2_",
-      "generationType": "suffix",
-      "group": "AttackSpeedPercentIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2AttackSpeedPercentIfRareOrUniqueEnemyNearby2h3",
-      "generationType": "suffix",
-      "group": "AttackSpeedPercentIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2BleedOnHitGained2h2",
-      "generationType": "prefix",
-      "group": "PhysicalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2BleedOnHitGained2h3_",
-      "generationType": "prefix",
-      "group": "PhysicalDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2CastSpeedAndGainArcaneSurgeOnKillChance2h1_",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2CastSpeedAndGainArcaneSurgeOnKillChance2h2_",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2CastSpeedAndGainArcaneSurgeOnKillChance2h3",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChanceToDealDoubleDamageWhileFocused2h1_",
-      "generationType": "suffix",
-      "group": "ChanceToDealDoubleDamageWhileFocused",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChanceToDealDoubleDamageWhileFocused2h2",
-      "generationType": "suffix",
-      "group": "ChanceToDealDoubleDamageWhileFocused",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChanceToDealDoubleDamageWhileFocused2h3",
-      "generationType": "suffix",
-      "group": "ChanceToDealDoubleDamageWhileFocused",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosDamageAndChaosSkillDuration2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosDamageAndChaosSkillDuration2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosDamageAndChaosSkillDuration2h3_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosDamageOverTimeMultiplierTwoHand1",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosDamageOverTimeMultiplierTwoHand2_",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosDamageOverTimeMultiplierTwoHand3",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosPenetrationWithAttacks1",
-      "generationType": "prefix",
-      "group": "ChaosPenetrationWithAttacks",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosPenetrationWithAttacks2",
-      "generationType": "prefix",
-      "group": "ChaosPenetrationWithAttacks",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ChaosPenetrationWithAttacks3_",
-      "generationType": "prefix",
-      "group": "ChaosPenetrationWithAttacks",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdAddedAsChaos2h2",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdAddedAsChaos2h3",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdDamageAndBaseChanceToFreeze2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdDamageAndBaseChanceToFreeze2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdDamageAndBaseChanceToFreeze2h3_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdDamageOverTimeMultiplierTwoHand1",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdDamageOverTimeMultiplierTwoHand2",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ColdDamageOverTimeMultiplierTwoHand3",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby2h1_",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby2h2",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby2h3",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2DamagePerEnduranceCharge2h1",
-      "generationType": "suffix",
-      "group": "AllDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2DamagePerFrenzyCharge2h1",
-      "generationType": "suffix",
-      "group": "AllDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2DamagePerPowerCharge2h1__",
-      "generationType": "suffix",
-      "group": "AllDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2DoubleDamageChance2h1",
-      "generationType": "suffix",
-      "group": "DoubleDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2DoubleDamageChance2h2",
-      "generationType": "suffix",
-      "group": "DoubleDamage",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ElementalPenetrationWithAttacks1",
-      "generationType": "prefix",
-      "group": "LocalAttackReduceEnemyElementalResistance",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ElementalPenetrationWithAttacks2",
-      "generationType": "prefix",
-      "group": "LocalAttackReduceEnemyElementalResistance",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2ElementalPenetrationWithAttacks3",
-      "generationType": "prefix",
-      "group": "LocalAttackReduceEnemyElementalResistance",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireAddedAsChaos2h2",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireAddedAsChaos2h3_",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireDamageAndChanceToIgnite2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireDamageAndChanceToIgnite2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireDamageAndChanceToIgnite2h3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireDamageOverTimeMultiplierTwoHand1_",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireDamageOverTimeMultiplierTwoHand2",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2FireDamageOverTimeMultiplierTwoHand3",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LightningAddedAsChaos2h2",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LightningAddedAsChaos2h3___",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LightningDamageAndChanceToShock2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LightningDamageAndChanceToShock2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LightningDamageAndChanceToShock2h3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalAccuracyRatingStrengthDexterity1",
-      "generationType": "suffix",
-      "group": "IncreasedAccuracy",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalAccuracyRatingStrengthDexterity2",
-      "generationType": "suffix",
-      "group": "IncreasedAccuracy",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalAttackSpeedAndLocalDisplayTriggerLevel1BloodRageOnKillChance1_",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalAttackSpeedAndLocalDisplayTriggerLevel1BloodRageOnKillChance2",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalAttackSpeedDexterityIntelligence1____",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalAttackSpeedDexterityIntelligence2",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalCriticalStrikeChanceStrengthIntelligence1",
-      "generationType": "suffix",
-      "group": "CriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalCriticalStrikeChanceStrengthIntelligence2___",
-      "generationType": "suffix",
-      "group": "CriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndBleedChanceCrafted1",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndBleedChanceCrafted2",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndBleedChanceCrafted3",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndBlindChanceCrafted1_",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndBlindChanceCrafted2",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndBlindChanceCrafted3",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndImpaleCrafted1",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndImpaleCrafted2",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndImpaleCrafted3",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndPoisonChanceCrafted1",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndPoisonChanceCrafted2_",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreasedPhysicalDamageAndPoisonChanceCrafted3",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreaseSocketedSupportGemLevel1",
-      "generationType": "prefix",
-      "group": "IncreaseSpecificSocketedGemLevel",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2LocalIncreaseSocketedSupportGemLevel2",
-      "generationType": "prefix",
-      "group": "IncreaseSpecificSocketedGemLevel",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2MinionAttackAndCastSpeedOnWeapon2h1_",
-      "generationType": "suffix",
-      "group": "MinionAttackSpeedAndCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2MinionAttackAndCastSpeedOnWeapon2h2",
-      "generationType": "suffix",
-      "group": "MinionAttackSpeedAndCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2MinionAttackAndCastSpeedOnWeapon2h3_",
-      "generationType": "suffix",
-      "group": "MinionAttackSpeedAndCastSpeed",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2MinionDamageAndMinionMaximumLife2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2MinionDamageAndMinionMaximumLife2h2_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2MinionDamageAndMinionMaximumLife2h3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2PhysicalAddedAsChaos2h2",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2PhysicalAddedAsChaos2h3",
-      "generationType": "prefix",
-      "group": "NonChaosAddedAsChaos",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2PhysicalDamageOverTimeMultiplierTwoHand1",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2PhysicalDamageOverTimeMultiplierTwoHand2",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2PhysicalDamageOverTimeMultiplierTwoHand3",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SocketedGemQuality2",
-      "generationType": "prefix",
-      "group": "SocketedGemQuality",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SocketedGemQuality3",
-      "generationType": "prefix",
-      "group": "SocketedGemQuality",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SpellDamageAndManaRegenerationRate2h1_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SpellDamageAndManaRegenerationRate2h2_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SpellDamageAndManaRegenerationRate2h3_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SpellDamageAndNonChaosDamageToAddAsChaosDamage2h1",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SpellDamageAndNonChaosDamageToAddAsChaosDamage2h2",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMaster2SpellDamageAndNonChaosDamageToAddAsChaosDamage2h3",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledAttackSpeedPercentIfRareOrUniqueEnemyNearby2h",
-      "generationType": "suffix",
-      "group": "AttackSpeedPercentIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledCastSpeedAndGainArcaneSurgeOnKillChance2h_",
-      "generationType": "suffix",
-      "group": "IncreasedCastSpeed",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledChanceToDealDoubleDamageWhileFocused2h_",
-      "generationType": "suffix",
-      "group": "ChanceToDealDoubleDamageWhileFocused",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledChaosDamageAndChaosSkillDuration1h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledChaosDamageAndChaosSkillDuration2h_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledChaosDamageOverTimeMultiplier__",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledChaosDamageOverTimeMultiplierTwoHand",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledChaosPenetrationWithAttacks__",
-      "generationType": "prefix",
-      "group": "ChaosPenetrationWithAttacks",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledColdDamageAndBaseChanceToFreeze1h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledColdDamageAndBaseChanceToFreeze2h__",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledColdDamageOverTimeMultiplier___",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledColdDamageOverTimeMultiplierTwoHand",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledCriticalStrikeMultiplierIfRareOrUniqueEnemyNearby2h",
-      "generationType": "suffix",
-      "group": "CriticalStrikeMultiplierIfRareOrUniqueEnemyNearby",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledDamagePerEnduranceCharge2h",
-      "generationType": "suffix",
-      "group": "AllDamage",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledDamagePerFrenzyCharge2h__",
-      "generationType": "suffix",
-      "group": "AllDamage",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledDamagePerPowerCharge2h",
-      "generationType": "suffix",
-      "group": "AllDamage",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledDoubleDamageChance2h_",
-      "generationType": "suffix",
-      "group": "DoubleDamage",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledElementalPenetrationWithAttacks_",
-      "generationType": "prefix",
-      "group": "LocalAttackReduceEnemyElementalResistance",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledFireDamageAndChanceToIgnite1h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledFireDamageAndChanceToIgnite2h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledFireDamageOverTimeMultiplier",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledFireDamageOverTimeMultiplierTwoHand",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLightningDamageAndChanceToShock1h_",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLightningDamageAndChanceToShock2h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalAccuracyRatingStrengthDexterity_",
-      "generationType": "suffix",
-      "group": "IncreasedAccuracy",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalAttackSpeedAndLocalDisplayTriggerLevel1BloodRageOnKillChance_",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalAttackSpeedDexterityIntelligence",
-      "generationType": "suffix",
-      "group": "IncreasedAttackSpeed",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalCriticalStrikeChanceStrengthIntelligence__",
-      "generationType": "suffix",
-      "group": "CriticalStrikeChanceIncrease",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalIncreasedPhysicalDamageAndBleedChanceCrafted_",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalIncreasedPhysicalDamageAndBlindChanceCrafted_",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalIncreasedPhysicalDamageAndImpaleCrafted",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledLocalIncreasedPhysicalDamageAndPoisonChanceCrafted_",
-      "generationType": "prefix",
-      "group": "LocalPhysicalDamagePercent",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledMinionAttackAndCastSpeedOnWeapon1h",
-      "generationType": "suffix",
-      "group": "MinionAttackSpeedAndCastSpeed",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledMinionAttackAndCastSpeedOnWeapon2h",
-      "generationType": "suffix",
-      "group": "MinionAttackSpeedAndCastSpeed",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledMinionDamageAndMinionMaximumLife1h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledMinionDamageAndMinionMaximumLife2h__",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledPhysicalDamageOverTimeMultiplier",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledPhysicalDamageOverTimeMultiplierTwoHand_",
-      "generationType": "suffix",
-      "group": "DamageOverTimeMultiplier",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledSpellDamageAndManaRegenerationRate1h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledSpellDamageAndManaRegenerationRate2h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledSpellDamageAndNonChaosDamageToAddAsChaosDamage1h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "JunMasterVeiledSpellDamageAndNonChaosDamageToAddAsChaosDamage2h",
-      "generationType": "prefix",
-      "group": "WeaponCasterDamagePrefix",
-      "weight": 1,
-      "source": "unveiled",
-      "itemClass": "Warstaff"
     },
     {
       "id": "LifeGainedFromEnemyDeath1",
@@ -112759,14 +83218,6 @@ export const MODS_BY_BASE = {
       "itemClass": "Warstaves"
     },
     {
-      "id": "StrDexMasterItemGenerationCannotRollCasterAffixes",
-      "generationType": "suffix",
-      "group": "ItemGenerationCannotRollCasterAffixes",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
       "id": "Strength1",
       "generationType": "suffix",
       "group": "Strength",
@@ -112837,22 +83288,6 @@ export const MODS_BY_BASE = {
       "weight": 500,
       "source": "warstaff,staff,attack_staff,two_hand_weapon,twohand,weapon,default",
       "itemClass": "Warstaves"
-    },
-    {
-      "id": "StrIntMasterItemGenerationCanHaveMultipleCraftedMods",
-      "generationType": "suffix",
-      "group": "ItemGenerationCanHaveMultipleCraftedMods",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
-    },
-    {
-      "id": "StrMasterItemGenerationCannotChangePrefixes",
-      "generationType": "suffix",
-      "group": "ItemGenerationCannotChangePrefixes",
-      "weight": 1,
-      "source": "crafted",
-      "itemClass": "Warstaff"
     },
     {
       "id": "StunDuration1",

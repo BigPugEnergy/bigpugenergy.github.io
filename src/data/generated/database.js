@@ -5,7 +5,7 @@ export const DATABASE = {
   "source": {
     "name": "RePoE",
     "url": "https://repoe-fork.github.io/",
-    "generatedAt": "2026-08-13T17:45:34.996Z"
+    "generatedAt": "2026-08-13T21:50:55.474Z"
   },
   "baseTypes": [
     {
@@ -51152,122 +51152,122 @@ export const DATABASE = {
   "modIndex": {
     "helmet": {
       "file": "./mod-data/helmet.js",
-      "count": 1758,
+      "count": 1513,
       "baseCount": 96
     },
     "body_armour": {
       "file": "./mod-data/body_armour.js",
-      "count": 1847,
+      "count": 1612,
       "baseCount": 124
     },
     "gloves": {
       "file": "./mod-data/gloves.js",
-      "count": 1957,
+      "count": 1709,
       "baseCount": 80
     },
     "boots": {
       "file": "./mod-data/boots.js",
-      "count": 1689,
+      "count": 1444,
       "baseCount": 83
     },
     "shield": {
       "file": "./mod-data/shield.js",
-      "count": 995,
+      "count": 747,
       "baseCount": 98
     },
     "quiver": {
       "file": "./mod-data/quiver.js",
-      "count": 578,
+      "count": 394,
       "baseCount": 29
     },
     "ring": {
       "file": "./mod-data/ring.js",
-      "count": 814,
+      "count": 602,
       "baseCount": 49
     },
     "amulet": {
       "file": "./mod-data/amulet.js",
-      "count": 1468,
+      "count": 1250,
       "baseCount": 99
     },
     "belt": {
       "file": "./mod-data/belt.js",
-      "count": 588,
+      "count": 423,
       "baseCount": 17
     },
     "bow": {
       "file": "./mod-data/bow.js",
-      "count": 721,
+      "count": 465,
       "baseCount": 30
     },
     "claw": {
       "file": "./mod-data/claw.js",
-      "count": 815,
+      "count": 511,
       "baseCount": 28
     },
     "dagger": {
       "file": "./mod-data/dagger.js",
-      "count": 816,
+      "count": 512,
       "baseCount": 14
     },
     "rune_dagger": {
       "file": "./mod-data/rune_dagger.js",
-      "count": 1028,
+      "count": 797,
       "baseCount": 18
     },
     "one_hand_axe": {
       "file": "./mod-data/one_hand_axe.js",
-      "count": 792,
+      "count": 488,
       "baseCount": 28
     },
     "two_hand_axe": {
       "file": "./mod-data/two_hand_axe.js",
-      "count": 803,
+      "count": 491,
       "baseCount": 25
     },
     "one_hand_mace": {
       "file": "./mod-data/one_hand_mace.js",
-      "count": 748,
+      "count": 444,
       "baseCount": 28
     },
     "two_hand_mace": {
       "file": "./mod-data/two_hand_mace.js",
-      "count": 747,
+      "count": 435,
       "baseCount": 25
     },
     "one_hand_sword": {
       "file": "./mod-data/one_hand_sword.js",
-      "count": 798,
+      "count": 494,
       "baseCount": 32
     },
     "two_hand_sword": {
       "file": "./mod-data/two_hand_sword.js",
-      "count": 814,
+      "count": 502,
       "baseCount": 27
     },
     "thrusting_one_hand_sword": {
       "file": "./mod-data/thrusting_one_hand_sword.js",
-      "count": 795,
+      "count": 491,
       "baseCount": 25
     },
     "sceptre": {
       "file": "./mod-data/sceptre.js",
-      "count": 1111,
+      "count": 832,
       "baseCount": 28
     },
     "staff": {
       "file": "./mod-data/staff.js",
-      "count": 1179,
+      "count": 889,
       "baseCount": 16
     },
     "warstaff": {
       "file": "./mod-data/warstaff.js",
-      "count": 848,
+      "count": 609,
       "baseCount": 12
     },
     "wand": {
       "file": "./mod-data/wand.js",
-      "count": 1117,
+      "count": 844,
       "baseCount": 29
     }
   }
