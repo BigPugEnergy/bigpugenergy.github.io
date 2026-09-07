@@ -21233,17 +21233,17 @@ export const MODS = {
     ],
     "requiredLevel": 40
   },
-  "V2MinPowerChargesCorrupted": {
-    "id": "V2MinPowerChargesCorrupted",
+  "V2MinPowerChargesCorruptedNew": {
+    "id": "V2MinPowerChargesCorruptedNew",
     "name": "",
     "generationType": "corrupted",
     "domain": "item",
-    "group": "MinimumFrenzyCharges",
-    "type": "MinimumFrenzyCharges",
+    "group": "MinimumPowerCharges",
+    "type": "MinimumPowerCharges",
     "tags": [],
     "stats": [
       {
-        "id": "base_minimum_frenzy_charges",
+        "id": "base_minimum_power_charges",
         "max": 1,
         "min": 1
       }
@@ -35187,9 +35187,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "dex_int_armour,dex_int_shield,shield,armour,default",
       "itemClass": "Shields"
@@ -39341,9 +39341,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "dex_int_armour,dex_int_shield,shield,armour,default",
       "itemClass": "Shields"
@@ -43391,9 +43391,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "int_armour,focus,shield,armour,default",
       "itemClass": "Shields"
@@ -47473,9 +47473,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "str_int_armour,str_int_shield,shield,armour,default",
       "itemClass": "Shields"
@@ -51555,9 +51555,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "str_int_armour,str_int_shield,top_tier_base_item_type,shield,armour,default",
       "itemClass": "Shields"
@@ -55469,9 +55469,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "str_dex_armour,str_dex_shield,shield,armour,default",
       "itemClass": "Shields"
@@ -59063,9 +59063,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "dex_armour,dex_shield,shield,armour,default",
       "itemClass": "Shields"
@@ -63377,9 +63377,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "int_armour,focus,focus_can_roll_minion_modifiers,shield,armour,default",
       "itemClass": "Shields"
@@ -67459,9 +67459,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "str_int_armour,str_int_shield,shield,armour,default",
       "itemClass": "Shields"
@@ -71509,9 +71509,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "int_armour,focus,shield,armour,default",
       "itemClass": "Shields"
@@ -75031,9 +75031,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "str_armour,str_shield,shield,armour,default",
       "itemClass": "Shields"
@@ -78553,9 +78553,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "str_armour,str_shield,shield,armour,default",
       "itemClass": "Shields"
@@ -82707,9 +82707,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "dex_int_armour,dex_int_shield,shield,armour,default",
       "itemClass": "Shields"
@@ -86621,9 +86621,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "str_dex_armour,str_dex_shield,top_tier_base_item_type,shield,armour,default",
       "itemClass": "Shields"
@@ -90143,9 +90143,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "str_armour,str_shield,shield,armour,default",
       "itemClass": "Shields"
@@ -94225,9 +94225,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "str_int_armour,str_int_shield,shield,armour,default",
       "itemClass": "Shields"
@@ -98307,9 +98307,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "str_int_armour,str_int_shield,top_tier_base_item_type,shield,armour,default",
       "itemClass": "Shields"
@@ -102357,9 +102357,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "int_armour,focus,shield,armour,default",
       "itemClass": "Shields"
@@ -105951,9 +105951,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "dex_armour,dex_shield,not_for_sale,experimental_base,shield,armour,default",
       "itemClass": "Shields"
@@ -109473,9 +109473,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "str_armour,str_shield,top_tier_base_item_type,shield,armour,default",
       "itemClass": "Shields"
@@ -113627,9 +113627,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "dex_int_armour,dex_int_shield,shield,armour,default",
       "itemClass": "Shields"
@@ -117149,9 +117149,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "str_armour,str_shield,shield,armour,default",
       "itemClass": "Shields"
@@ -120671,9 +120671,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "str_armour,str_shield,shield,armour,default",
       "itemClass": "Shields"
@@ -124265,9 +124265,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "dex_armour,dex_shield,shield,armour,default",
       "itemClass": "Shields"
@@ -127787,9 +127787,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "str_armour,str_shield,shield,armour,default",
       "itemClass": "Shields"
@@ -131701,9 +131701,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "str_dex_armour,str_dex_shield,shield,armour,default",
       "itemClass": "Shields"
@@ -135295,9 +135295,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "dex_armour,dex_shield,top_tier_base_item_type,shield,armour,default",
       "itemClass": "Shields"
@@ -139449,9 +139449,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "dex_int_armour,dex_int_shield,shield,armour,default",
       "itemClass": "Shields"
@@ -142971,9 +142971,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "str_armour,str_shield,shield,armour,default",
       "itemClass": "Shields"
@@ -146885,9 +146885,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "str_dex_armour,str_dex_shield,top_tier_base_item_type,shield,armour,default",
       "itemClass": "Shields"
@@ -150479,9 +150479,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "dex_armour,dex_shield,shield,armour,default",
       "itemClass": "Shields"
@@ -154073,9 +154073,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "dex_armour,dex_shield,not_for_sale,experimental_base,shield,armour,default",
       "itemClass": "Shields"
@@ -158155,9 +158155,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "str_int_armour,str_int_shield,shield,armour,default",
       "itemClass": "Shields"
@@ -162205,9 +162205,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "int_armour,focus,not_for_sale,experimental_base,shield,armour,default",
       "itemClass": "Shields"
@@ -165727,9 +165727,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "str_armour,str_shield,not_for_sale,experimental_base,shield,armour,default",
       "itemClass": "Shields"
@@ -169881,9 +169881,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "dex_int_armour,dex_int_shield,top_tier_base_item_type,shield,armour,default",
       "itemClass": "Shields"
@@ -173403,9 +173403,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "str_armour,str_shield,top_tier_base_item_type,shield,armour,default",
       "itemClass": "Shields"
@@ -177317,9 +177317,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "str_dex_armour,str_dex_shield,shield,armour,default",
       "itemClass": "Shields"
@@ -181631,9 +181631,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "int_armour,focus,focus_can_roll_minion_modifiers,top_tier_base_item_type,shield,armour,default",
       "itemClass": "Shields"
@@ -185225,9 +185225,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "dex_armour,dex_shield,shield,armour,default",
       "itemClass": "Shields"
@@ -188747,9 +188747,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "str_armour,str_shield,shield,armour,default",
       "itemClass": "Shields"
@@ -192341,9 +192341,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "dex_armour,dex_shield,shield,armour,default",
       "itemClass": "Shields"
@@ -195935,9 +195935,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "dex_armour,dex_shield,shield,armour,default",
       "itemClass": "Shields"
@@ -198841,9 +198841,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "not_for_sale,demigods,shield,armour,default",
       "itemClass": "Shields"
@@ -202435,9 +202435,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "dex_armour,dex_shield,shield,armour,default",
       "itemClass": "Shields"
@@ -206485,9 +206485,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "int_armour,focus,top_tier_base_item_type,shield,armour,default",
       "itemClass": "Shields"
@@ -210007,9 +210007,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "str_armour,str_shield,not_for_sale,experimental_base,shield,armour,default",
       "itemClass": "Shields"
@@ -213601,9 +213601,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "dex_armour,dex_shield,top_tier_base_item_type,shield,armour,default",
       "itemClass": "Shields"
@@ -217195,9 +217195,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "dex_armour,dex_shield,shield,armour,default",
       "itemClass": "Shields"
@@ -221509,9 +221509,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "int_armour,focus,focus_can_roll_minion_modifiers,shield,armour,default",
       "itemClass": "Shields"
@@ -225559,9 +225559,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "int_armour,focus,shield,armour,default",
       "itemClass": "Shields"
@@ -229609,9 +229609,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "int_armour,focus,shield,armour,default",
       "itemClass": "Shields"
@@ -233203,9 +233203,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "dex_armour,dex_shield,shield,armour,default",
       "itemClass": "Shields"
@@ -237285,9 +237285,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "str_int_armour,str_int_shield,shield,armour,default",
       "itemClass": "Shields"
@@ -241367,9 +241367,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "str_int_armour,str_int_shield,shield,armour,default",
       "itemClass": "Shields"
@@ -245449,9 +245449,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "str_int_armour,str_int_shield,shield,armour,default",
       "itemClass": "Shields"
@@ -248971,9 +248971,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "str_armour,str_shield,not_for_sale,experimental_base,shield,armour,default",
       "itemClass": "Shields"
@@ -252493,9 +252493,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "str_armour,str_shield,shield,armour,default",
       "itemClass": "Shields"
@@ -256407,9 +256407,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "str_dex_armour,str_dex_shield,shield,armour,default",
       "itemClass": "Shields"
@@ -260561,9 +260561,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "dex_int_armour,dex_int_shield,top_tier_base_item_type,shield,armour,default",
       "itemClass": "Shields"
@@ -264643,9 +264643,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "str_int_armour,str_int_shield,top_tier_base_item_type,shield,armour,default",
       "itemClass": "Shields"
@@ -268237,9 +268237,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "dex_armour,dex_shield,shield,armour,default",
       "itemClass": "Shields"
@@ -272391,9 +272391,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "dex_int_armour,dex_int_shield,shield,armour,default",
       "itemClass": "Shields"
@@ -275985,9 +275985,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "dex_armour,dex_shield,shield,armour,default",
       "itemClass": "Shields"
@@ -279507,9 +279507,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "str_armour,str_shield,shield,armour,default",
       "itemClass": "Shields"
@@ -283101,9 +283101,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "dex_armour,dex_shield,shield,armour,default",
       "itemClass": "Shields"
@@ -286623,9 +286623,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "str_armour,str_shield,top_tier_base_item_type,shield,armour,default",
       "itemClass": "Shields"
@@ -290705,9 +290705,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "str_int_armour,str_int_shield,shield,armour,default",
       "itemClass": "Shields"
@@ -294299,9 +294299,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "dex_armour,dex_shield,not_for_sale,experimental_base,shield,armour,default",
       "itemClass": "Shields"
@@ -298453,9 +298453,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "dex_int_armour,dex_int_shield,shield,armour,default",
       "itemClass": "Shields"
@@ -301975,9 +301975,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "str_armour,str_shield,shield,armour,default",
       "itemClass": "Shields"
@@ -306129,9 +306129,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "dex_int_armour,dex_int_shield,shield,armour,default",
       "itemClass": "Shields"
@@ -310211,9 +310211,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "str_int_armour,str_int_shield,shield,armour,default",
       "itemClass": "Shields"
@@ -313733,9 +313733,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "str_armour,str_shield,shield,armour,default",
       "itemClass": "Shields"
@@ -317647,9 +317647,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "str_dex_armour,str_dex_shield,shield,armour,default",
       "itemClass": "Shields"
@@ -321561,9 +321561,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "str_dex_armour,str_dex_shield,shield,armour,default",
       "itemClass": "Shields"
@@ -325083,9 +325083,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "str_armour,str_shield,shield,armour,default",
       "itemClass": "Shields"
@@ -329237,9 +329237,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "dex_int_armour,dex_int_shield,shield,armour,default",
       "itemClass": "Shields"
@@ -333391,9 +333391,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "dex_int_armour,dex_int_shield,shield,armour,default",
       "itemClass": "Shields"
@@ -337305,9 +337305,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "str_dex_armour,str_dex_shield,shield,armour,default",
       "itemClass": "Shields"
@@ -341219,9 +341219,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "str_dex_armour,str_dex_shield,top_tier_base_item_type,shield,armour,default",
       "itemClass": "Shields"
@@ -345133,9 +345133,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "str_dex_armour,str_dex_shield,shield,armour,default",
       "itemClass": "Shields"
@@ -348655,9 +348655,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "str_armour,str_shield,shield,armour,default",
       "itemClass": "Shields"
@@ -352737,9 +352737,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "str_int_armour,str_int_shield,shield,armour,default",
       "itemClass": "Shields"
@@ -356651,9 +356651,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "str_dex_armour,str_dex_shield,shield,armour,default",
       "itemClass": "Shields"
@@ -360701,9 +360701,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "int_armour,focus,not_for_sale,experimental_base,shield,armour,default",
       "itemClass": "Shields"
@@ -364855,9 +364855,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "dex_int_armour,dex_int_shield,top_tier_base_item_type,shield,armour,default",
       "itemClass": "Shields"
@@ -368905,9 +368905,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "int_armour,focus,shield,armour,default",
       "itemClass": "Shields"
@@ -372819,9 +372819,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "str_dex_armour,str_dex_shield,shield,armour,default",
       "itemClass": "Shields"
@@ -376869,9 +376869,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "int_armour,focus,shield,armour,default",
       "itemClass": "Shields"
@@ -380919,9 +380919,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "int_armour,focus,top_tier_base_item_type,shield,armour,default",
       "itemClass": "Shields"
@@ -384969,9 +384969,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "int_armour,focus,not_for_sale,experimental_base,shield,armour,default",
       "itemClass": "Shields"
@@ -389019,9 +389019,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "int_armour,focus,shield,armour,default",
       "itemClass": "Shields"
@@ -392613,9 +392613,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "dex_armour,dex_shield,top_tier_base_item_type,shield,armour,default",
       "itemClass": "Shields"
@@ -396663,9 +396663,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "int_armour,focus,top_tier_base_item_type,shield,armour,default",
       "itemClass": "Shields"
@@ -400713,9 +400713,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "int_armour,focus,shield,armour,default",
       "itemClass": "Shields"
@@ -404307,9 +404307,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "dex_armour,dex_shield,shield,armour,default",
       "itemClass": "Shields"
@@ -408357,9 +408357,9 @@ export const MODS_BY_BASE = {
       "itemClass": "Shields"
     },
     {
-      "id": "V2MinPowerChargesCorrupted",
+      "id": "V2MinPowerChargesCorruptedNew",
       "generationType": "corrupted",
-      "group": "MinimumFrenzyCharges",
+      "group": "MinimumPowerCharges",
       "weight": 1000,
       "source": "int_armour,focus,shield,armour,default",
       "itemClass": "Shields"
