@@ -5,7 +5,7 @@ export const DATABASE = {
   "source": {
     "name": "RePoE",
     "url": "https://repoe-fork.github.io/",
-    "generatedAt": "2026-09-14T06:13:04.044Z"
+    "generatedAt": "2026-09-21T11:55:54.544Z"
   },
   "baseTypes": [
     {
